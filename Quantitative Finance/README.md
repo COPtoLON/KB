@@ -7,7 +7,7 @@ Objective: For a single particle in an open system, research an algorithm to opt
 Objective: Optimally conserve enthalpy for a single particle in an open market. \
 <br>
 **first draft:**\
-Objective: To earn money by running a successful algorithmic investment fund.\
+Objective: To earn money by running a successful algorithmic investment fund.
 
 <br>
 <br>
