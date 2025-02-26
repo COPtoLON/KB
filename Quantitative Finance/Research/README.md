@@ -1,7 +1,16 @@
 
 [Questions](https://github.com/COPtoLON/KB/blob/main/Quantitative%20Finance/Research/README.md#questions)
 
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 # Mathematical model
 The three axiomatic hypothesis
