@@ -20,7 +20,21 @@ Objective: To earn money by running a successful algorithmic investment fund.
 <br>
 <br>
 
-# Structure
+# Algorithm
+
+1. Expand
+2. Establish
+3. Master
+4. Repeat
+
+
+
+## Expand
+
+## 
+
+## Master
+
 
 Planned progress through development of algorithm and business
 
