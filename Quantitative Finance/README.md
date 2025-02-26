@@ -1,6 +1,13 @@
-# Side Quest - TMRW
+# Main
 
-Objective: To earn money by running a successful algorithmic investment fund.
+Second draft: \
+Objective: Optimally conserve enthalpy for a single particle in an open market. \
+<br>
+first draft: \
+Objective: To earn money by running a successful algorithmic investment fund.\
+<br>
+*Note: this needs better formulation*
+
 
 Learned Axioms.
 1. Markets are fractal, but with unknown and shifting dimensionality
