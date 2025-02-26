@@ -1,5 +1,4 @@
-# Main
-
+# Main objective
 
 **Third draft:** \
 Objective: For a single particle in an open system, research an algorithm to optimize and maximally conserve enthalpy/energy \
@@ -9,11 +8,19 @@ Objective: Optimally conserve enthalpy for a single particle in an open market. 
 <br>
 **first draft:**\
 Objective: To earn money by running a successful algorithmic investment fund.\
+
 <br>
-*Note: this needs better formulation*
+<br>
 
+*Note: This needs to be formulated more precisely, with greater detail as well*
 
+<br>
+<br>
+<br>
+<br>
+<br>
 
+# Structure
 
 Planned progress through development of algorithm and business
 
