@@ -1,12 +1,5 @@
 
-# ideas
 
-### Market size?
-Niche -> Multi-strat -> market-making / big mover?
-Due to market impact and diversificiation
-
-### simple models?
-Are the "simple" models every big quant firm talks about, computationally simple or conceptually simple?
 
 
 
@@ -120,4 +113,24 @@ $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \
 **We are expecting 0.5% brokerage fee on all transactions**\
 **I have added my own unoptimized trading strategies**\
 **We're running from the 13th of July 2024**
+
+
+
+
+
+
+
+# Questions
+
+### Market size?
+Niche -> Multi-strat -> market-making / big mover?
+Due to market impact and diversificiation
+
+### simple models?
+Are the "simple" models every big quant firm talks about, computationally simple or conceptually simple?
+
+
+
+
+
 
