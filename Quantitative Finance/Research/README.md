@@ -11,9 +11,11 @@
 <br>
 <br>
 <br>
+<br>
+<br>
 
 # Mathematical model
-The three axiomatic hypothesis
+
 
 ## Optimal positions
 
