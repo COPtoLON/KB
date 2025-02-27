@@ -21,7 +21,7 @@ Objective: To earn money by running a successful algorithmic investment fund.
 <br>
 
 # Algorithm
-![Screenshot](Quantitative Finance/overblik.jpg)
+![Screenshot](https://github.com/COPtoLON/KB/blob/main/Quantitative%20Finance/overblik.jpg)
 
 
 1. Expand
