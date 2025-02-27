@@ -14,7 +14,13 @@
 <br>
 <br>
 
-
+Learned Axioms.
+1. Markets are fractal, but with unknown and shifting dimensionality
+2. Markets have different states, but they are continuous, rather than discreet.
+3. The price movements in a market can be understood as a mean field game. Being affected by many different forces
+   a. Participant sentiment
+   b. Fundamental value
+   c. mean reversive effects
 
 
 # Mathematical model
