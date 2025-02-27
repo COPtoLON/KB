@@ -118,3 +118,11 @@ Planned progress through development of algorithm and business
          - [ ] orders with ... exchanges.
       - [ ] Analysis setup
          - [ ] Unknown so far
+
+
+
+
+https://github.com/COPtoLON/KB/blob/main/Quantitative%20Finance/Research/README.md
+https://github.com/COPtoLON/KB/tree/main/Quantitative%20Finance/%20Strategies
+https://github.com/COPtoLON/WTech/tree/main
+https://github.com/COPtoLON/WTech/tree/main/STRATEGIES
