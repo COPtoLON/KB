@@ -23,13 +23,15 @@ Objective: To earn money by running a successful algorithmic investment fund.
 # Algorithm
 ![Screenshot](https://github.com/COPtoLON/KB/blob/main/Quantitative%20Finance/overblik.jpg)
 
+- Expand into new markets, strategies, or assets.
+- Establish a solid foundation in each new area.
+- Assess ongoing market states (neutral, aggressive, defensive, or counter).
+- Excel in profitability regardless of the market’s state.
+- Repeat the cycle, continuously searching for new expansion opportunities.
 
-1. Expand
-2. Establish
-3. Master
-4. Repeat
 
 *Note: This needs to be double-checked against multiple sources*
+[LinkedIn post](https://www.linkedin.com/posts/coptolon_reflections-on-the-large-scale-structure-activity-7300921866582396929-oTwe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACM9ERoBU_0PrmgLHCCk08Dra-WDB0g6iV4)
 
 ## Expand
 
