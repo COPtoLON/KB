@@ -27,11 +27,11 @@ Objective: To earn money by running a successful algorithmic investment fund.
 3. Master
 4. Repeat
 
-
+*Note: This needs to be double-checked against multiple sources*
 
 ## Expand
 
-## 
+## Establish
 
 ## Master
 
