@@ -8,9 +8,12 @@ Objective: Optimally conserve enthalpy for a single particle in an open market. 
 <br>
 **first draft:**\
 Objective: To earn money by running a successful algorithmic investment fund.
+
 <br>
+
 *Note: This needs to be formulated more precisely, with greater detail as well*
 
+<br>
 
 # Algorithm
 ![Screenshot](https://github.com/COPtoLON/KB/blob/main/Quantitative%20Finance/overblik.jpg)
