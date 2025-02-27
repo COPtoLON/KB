@@ -35,7 +35,7 @@ Objective: To earn money by running a successful algorithmic investment fund.
 
 ## Establish
 
-## Master
+## Excel
 
 
 Planned progress through development of algorithm and business
