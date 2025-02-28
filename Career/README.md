@@ -1,37 +1,76 @@
 
 # Companies
 
-| UK  | DK | US | INT | | 
-| - | - | - | - | - |
-| | | | |
+| Rank | Name | Description | Type | Region | Link |
+| - | - | - | - | - | - |
+| 1 | Renaissance Technologies | The original Algorithmic trading fund | Centralized | USA | https://www.rentec.com/Careers.action?jobs=true |
+| 2 | Citadel Securities | --- | Prop & multi-strat | INT | https://www.citadelsecurities.com/careers/ |
+| 3 | Jane Street | ---| HFT & Prop | INT | https://www.janestreet.com/join-jane-street/open-roles/ |
+| 4 | TwoSigma | --- | --- & HFT & Centralized| USA | https://www.twosigma.com/careers/ |
+| 5 | Hudson River Trading | --- | HFT & Prop | USA | https://www.hudsonrivertrading.com/careers/ |
+| 6 | Jump Trading | --- | HFT | USA | https://www.jumptrading.com/careers/ |
+| 7 | Man Group | --- | Centralized & ETF-dist | USA | https://www.man.com/careers |
+| 8 | D.E. Shaw | --- | Centralized | USA | https://www.deshaw.com/careers|
+| 9 | Flow Traders | --- | HFT & Prop | USA | https://www.flowtraders.com/careers |
+| 10 | Point72 | --- | multi-strat | USA | https://point72.com/working-here/ |
+| 11 | Millenium | --- | multi-strat | USA | https://www.mlp.com/careers/ |
+| 12 | G-Research | --- | Centralized | USA | https://www.gresearch.com/vacancies/ |
+| 13 | Qube Research | --- | Other | USA | https://www.qube-rt.com/careers/ |
+| 14 | Squarepoint | --- | Centralized | USA | https://www.squarepoint-capital.com/careers |
+| 15 | XTX Markets | --- | HFT | USA | https://www.xtxmarkets.com/#careers |
+| 16 | Optiver | --- | Prop | USA | https://optiver.com/working-at-optiver/career-opportunities/ |
+| 17 | State Street | Algorithmic fund | Algorithmic fund | USA | https://careers.statestreet.com/global/en |
+| 18 | SIG | --- | Prop | USA | https://sig.com/careers/ |
+| 19 | Nomura | Algorithmic fund | Algorithmic fund | USA | https://www.nomura.com/europe/careers/ |
+| 20 | Tower Research | --- | HFT & Prop | USA | https://tower-research.com/careers/ |
+| 21 | Quadrature | --- | Other | USA | https://quadrature.ai/careers/join-us/ |
+| 22 | Nordea Asset Management | Algorithmic fund | Algorithmic fund | USA | https://www.nordeaassetmanagement.com/careers/ |
+| 23 | Danske Bank Quant | Algorithmic fund | Algorithmic fund | USA | https://ejqi.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions |
+| 24 | AQR Capital | --- | Centralized, ETF-dist | USA | https://www.aqr.com/About-Us/Careers |
+| 25 | Acadian Asset management | Algorithmic fund | Algorithmic fund | USA | https://www.acadian-asset.com/careers |
+| 26 | PIMCO | Algorithmic fund | Algorithmic fund | USA | https://www.acadian-asset.com/careers |
+| 26 | Marshall Wace | --- | Fundamental | USA | https://www.acadian-asset.com/careers |
+| 26 | Elliott Investment management | Algorithmic fund | Algorithmic fund | USA | https://www.acadian-asset.com/careers |
+| 26 | Bridgewater Associates | ---| Centralized, ETF-dist | USA | https://www.acadian-asset.com/careers |
+| 26 | DRW Trading | --- | HFT | USA | https://www.acadian-asset.com/careers |
+| 26 | IMC Trading | --- | HFT | USA | https://www.acadian-asset.com/careers |
+| 26 | QuantLab | --- | HFT | USA | https://www.acadian-asset.com/careers |
+| 26 | Old Mision Capital | --- | Prop | USA | https://www.acadian-asset.com/careers |
+| 26 | Akuna Capital | --- | Prop | USA | https://www.acadian-asset.com/careers |
+| 26 | Five Rings Capital | --- | Prop | USA | https://www.acadian-asset.com/careers |
+| 26 | worldquant | --- | multi-strat | USA | https://www.acadian-asset.com/careers |
+| 26 | ExodusPoint | --- | multi-strat | USA | https://www.acadian-asset.com/careers |
+| 26 | Balyasny Asset Management | --- | multi-strat | USA | https://www.acadian-asset.com/careers |
+| 26 | Verition Fund Management | --- | multi-strat | USA | https://www.acadian-asset.com/careers |
+| 26 | Centiva Capital | --- | multi-strat | USA | https://www.acadian-asset.com/careers |
+| 26 | Aquatic Capital Management | --- | Centralized | USA | https://www.acadian-asset.com/careers |
+| 26 | Brevan Howard | --- | Other| USA | https://www.acadian-asset.com/careers |
+| 26 | BlackRock | --- | ETF-dist| USA | https://www.acadian-asset.com/careers |
+| 26 | AllianceBernstein | --- | Other| USA | https://www.acadian-asset.com/careers |
+| 26 | JPMorgan Chase | --- | Bank | USA | https://www.acadian-asset.com/careers |
+| 26 | Goldman Sachs | --- | Bank | USA | https://www.acadian-asset.com/careers |
+| 26 | Morgan Stanley | --- | Bank | USA | https://www.acadian-asset.com/careers |
+| 26 | Bank of America | --- | Other| USA | https://www.acadian-asset.com/careers |
+| 26 | Citi Group | --- | Other| USA | https://www.acadian-asset.com/careers |
+| 26 | DeutscheBank | --- | Other| USA | https://www.acadian-asset.com/careers |
+| 26 | Barclays | --- | Other| USA | https://www.acadian-asset.com/careers |
+| 26 | HSBC | --- | Other| USA | https://www.acadian-asset.com/careers |
+| 26 | UBS | --- | Other| USA | https://www.acadian-asset.com/careers |
+| 26 | BNP Paribas | --- | Other| USA | https://www.acadian-asset.com/careers |
+| 26 | Societe Generale | --- | Other| USA | https://www.acadian-asset.com/careers |
+| 26 | Wells Fargo | --- | Other| USA | https://www.acadian-asset.com/careers |
+| 26 | Quantitative Investment Management | --- | Other| USA | https://www.acadian-asset.com/careers |
+| 26 | AlphaSimplex Group | --- | Other| USA | https://www.acadian-asset.com/careers |
+| 26 | PanAgora | --- | Other| USA | https://www.acadian-asset.com/careers |
+| 26 | Capula | --- | Other| USA | https://www.acadian-asset.com/careers |
 
-[Renaissance Technologies](https://www.rentec.com/Careers.action?jobs=true)\
-[Citadel Securities](https://www.citadelsecurities.com/careers/open-opportunities/positions-for-professionals/)\
-[Jane Street London](https://www.janestreet.com/join-jane-street/open-roles/?type=experienced-candidates&location=london)\
-[TwoSigma London](https://careers.twosigma.com/careers/OpenRoles/?5079=%5B16718359%5D&5079_format=3144&listFilterMode=1&jobRecordsPerPage=10&)\
-[Jump Trading London](https://www.jumptrading.com/careers/?locations=London)\
-[Hudson River Trading London](https://www.hudsonrivertrading.com/careers/?_offices=London)\
-[Man AHL london](https://job-boards.eu.greenhouse.io/mangroup?offices%5B%5D=4015744101)\
-[Qube Research](https://www.qube-rt.com/careers/)\
-[Flow Traders](https://www.flowtraders.com/careers/job-search/)\
-[Point72 London](https://careers.point72.com/?location=london)\
-[Squarepoint](https://www.squarepoint-capital.com/open-opportunities?id=5802354)\
-[XTX markets](https://www.xtxmarkets.com/#careers)\
-[G-research London](https://www.gresearch.com/vacancies/?specialism=&location=london)\
-[Millenium London](https://mlp.eightfold.ai/careers?location=London%2C%20England%2C%20United%20Kingdom&pid=755939959782&domain=mlp.com&sort_by=relevance&triggerGoButton=false)\
-[Optiver]()\
 [Maven]()\
 [Mako]()\
 [Old mission]()\
-[State Street]()\
-[Quadrature]()\
 [Marshall Wace]()\
 [Castleton Commodities]()\
-[Nomura](https://www.nomura.com/europe/careers/)
 [Bluefin]()\
 [BAM](https://bambusdev.my.site.com/s/)\
-[SIG](https://careers.sig.com/search-results?qcity=London&qcountry=United%20Kingdom)\
-[Tower Research](https://tower-research.com/open-positions/)\
 [DRW London](https://www.drw.com/work-at-drw/listings?filterType=city&value=London)\
 [Bloomberg](https://bloomberg.avature.net/careers)\
 [Morgan Stanley London](https://morganstanley.eightfold.ai/careers?location=London%2C%20England%2C%20United%20Kingdom&pid=549782945109&domain=morganstanley.com&sort_by=relevance&triggerGoButton=false&triggerGoButton=true&source=mscom)\
