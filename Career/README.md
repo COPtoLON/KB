@@ -1,15 +1,15 @@
 
 # Companies
 
-| Rank | Name | Description | Type | Region | Link |
-| - | - | - | - | - | - |
-| 1 | Renaissance Technologies | The original Algorithmic trading fund | Centralized | USA | https://www.rentec.com/Careers.action?jobs=true |
-| 2 | Citadel Securities | --- | Prop & multi-strat | INT | https://www.citadelsecurities.com/careers/ |
-| 3 | Jane Street | ---| HFT & Prop | INT | https://www.janestreet.com/join-jane-street/open-roles/ |
+| Rank | Company | Role | Compensation | Region | Link |
+| - | - | - | - | - | - | 
+| 1 | Man Group | Risk Quant Dev | 80K? | London, UK |https://www.man.com/careers |
+| 1 | Renaissance Technologies | - | - | USA | https://www.rentec.com/Careers.action?jobs=true |
+| 2 | Citadel Securities | - | - | INT | https://www.citadelsecurities.com/careers/ |
+| 3 | Jane Street | - | HFT & Prop | INT | https://www.janestreet.com/join-jane-street/open-roles/ |
 | 4 | TwoSigma | --- | --- & HFT & Centralized| USA | https://www.twosigma.com/careers/ |
 | 5 | Hudson River Trading | --- | HFT & Prop | USA | https://www.hudsonrivertrading.com/careers/ |
 | 6 | Jump Trading | --- | HFT | USA | https://www.jumptrading.com/careers/ |
-| 7 | Man Group | --- | Centralized & ETF-dist | USA | https://www.man.com/careers |
 | 8 | D.E. Shaw | --- | Centralized | USA | https://www.deshaw.com/careers|
 | 9 | Flow Traders | --- | HFT & Prop | USA | https://www.flowtraders.com/careers |
 | 10 | Point72 | --- | multi-strat | USA | https://point72.com/working-here/ |
@@ -63,34 +63,6 @@
 | 26 | AlphaSimplex Group | --- | Other| USA | https://www.acadian-asset.com/careers |
 | 26 | PanAgora | --- | Other| USA | https://www.acadian-asset.com/careers |
 | 26 | Capula | --- | Other| USA | https://www.acadian-asset.com/careers |
-
-[Maven]()\
-[Mako]()\
-[Old mission]()\
-[Marshall Wace]()\
-[Castleton Commodities]()\
-[Bluefin]()\
-[BAM](https://bambusdev.my.site.com/s/)\
-[DRW London](https://www.drw.com/work-at-drw/listings?filterType=city&value=London)\
-[Bloomberg](https://bloomberg.avature.net/careers)\
-[Morgan Stanley London](https://morganstanley.eightfold.ai/careers?location=London%2C%20England%2C%20United%20Kingdom&pid=549782945109&domain=morganstanley.com&sort_by=relevance&triggerGoButton=false&triggerGoButton=true&source=mscom)\
-[XY Capital](https://job-boards.eu.greenhouse.io/xycapital)\
-[Aspect Capital](https://aspectcapital-94a5ce.careers.hibob.com/jobs) \
-[GSA Capital](https://www.gsacapital.com/join-us#jobs)\
-[Akuna Capital](https://akunacapital.com/careers)\
-[Startups London](https://london.startups-list.com/startups/trading?utm_source=chatgpt.com)\
-\
-[Five rings](https://fiverings.com/careers/)\
-[Aquatic london](https://job-boards.greenhouse.io/aquaticcapitalmanagement?offices%5B%5D=4056395002)\
-[CFM](https://jobs.cfm.com/search/?createNewAlert=false&q=&locationsearch=London&optionsFacetsDD_shifttype=&optionsFacetsDD_city=&optionsFacetsDD_department=)\
-[Capula](https://www.capulaglobal.com/working-at-capula/careers/#job-openings)\
-[Capstone](https://www.capstoneco.com/careers/)\
-\
-[More companies here](https://gist.github.com/chrisaycock/8b7a37b1f97549517cb7789be5b06266)\
-
-
-
-
 
 # Recruitment
 
