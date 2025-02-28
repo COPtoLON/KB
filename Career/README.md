@@ -129,6 +129,6 @@
 # Certifications
 
 
-[CQF]()
+[CQF]()\
 [QDC]()
 
