@@ -6,6 +6,8 @@
 | 1 | Man Group | Risk Quant Dev | 80K? | London, UK |https://www.man.com/careers |
 | 2 | Millenium Management | Quant Dev | 100K?| London, UK | https://www.mlp.com/careers/ |
 | 3 | IMC Trading - Atlas Tech | Quant Dev | 80K? | Amsterdam, NET | https://www.imc.com/eu/search-careers |
+| 4 | Centiva Capital | Quant Dev? | ??? | London, UK | https://www.acadian-asset.com/careers |
+| 5 | Nickel Digital Asset Management | Quant Dev? | 80K? | London, UK | https://www.acadian-asset.com/careers |
 | 1 | Renaissance Technologies | - | - | USA | https://www.rentec.com/Careers.action?jobs=true |
 | 2 | Citadel Securities | - | - | INT | https://www.citadelsecurities.com/careers/ |
 | 3 | Jane Street | - | HFT & Prop | INT | https://www.janestreet.com/join-jane-street/open-roles/ |
@@ -42,7 +44,6 @@
 | 26 | ExodusPoint | --- | multi-strat | USA | https://www.acadian-asset.com/careers |
 | 26 | Balyasny Asset Management | --- | multi-strat | USA | https://www.acadian-asset.com/careers |
 | 26 | Verition Fund Management | --- | multi-strat | USA | https://www.acadian-asset.com/careers |
-| 26 | Centiva Capital | --- | multi-strat | USA | https://www.acadian-asset.com/careers |
 | 26 | Aquatic Capital Management | --- | Centralized | USA | https://www.acadian-asset.com/careers |
 | 26 | Brevan Howard | --- | Other| USA | https://www.acadian-asset.com/careers |
 | 26 | BlackRock | --- | ETF-dist| USA | https://www.acadian-asset.com/careers |
