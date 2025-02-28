@@ -4,6 +4,7 @@
 | Rank | Company | Role | Compensation | Region | Link |
 | - | - | - | - | - | - | 
 | 1 | Man Group | Risk Quant Dev | 80K? | London, UK |https://www.man.com/careers |
+| 2 | Millenium Management | Quant Dev | 100K?| London, UK | https://www.mlp.com/careers/ |
 | 1 | Renaissance Technologies | - | - | USA | https://www.rentec.com/Careers.action?jobs=true |
 | 2 | Citadel Securities | - | - | INT | https://www.citadelsecurities.com/careers/ |
 | 3 | Jane Street | - | HFT & Prop | INT | https://www.janestreet.com/join-jane-street/open-roles/ |
@@ -13,7 +14,6 @@
 | 8 | D.E. Shaw | --- | Centralized | USA | https://www.deshaw.com/careers|
 | 9 | Flow Traders | --- | HFT & Prop | USA | https://www.flowtraders.com/careers |
 | 10 | Point72 | --- | multi-strat | USA | https://point72.com/working-here/ |
-| 11 | Millenium | --- | multi-strat | USA | https://www.mlp.com/careers/ |
 | 12 | G-Research | --- | Centralized | USA | https://www.gresearch.com/vacancies/ |
 | 13 | Qube Research | --- | Other | USA | https://www.qube-rt.com/careers/ |
 | 14 | Squarepoint | --- | Centralized | USA | https://www.squarepoint-capital.com/careers |
