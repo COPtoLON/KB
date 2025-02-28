@@ -17,7 +17,7 @@ Objective: To earn money by running a successful algorithmic investment fund.
 
 # Algorithm
 
-Maximum Conservation of Value.
+Goal: Maximum Conservation of Value. \
 Repeat the following process.
 - Expand into new markets, strategies, or assets.
 - Establish a solid foundation in each new area.
@@ -25,7 +25,7 @@ Repeat the following process.
 - Excel in profitability regardless of the market’s state.
 - Repeat the cycle, continuously searching for new expansion opportunities.
 
-![Screenshot](https://github.com/COPtoLON/KB/blob/main/Quantitative%20Finance/overblik.jpg)
+![Screenshot](https://github.com/COPtoLON/KB/blob/main/Quantitative%20Finance/overblik.jpg | width=300)
 
 
 
