@@ -25,7 +25,8 @@ Repeat the following process.
 - Excel in profitability regardless of the market’s state.
 - Repeat the cycle, continuously searching for new expansion opportunities.
 
-![Screenshot](https://github.com/COPtoLON/KB/blob/main/Quantitative%20Finance/overblik.jpg | width=300)
+<img src="https://github.com/COPtoLON/KB/blob/main/Quantitative%20Finance/overblik.jpg" width="300" alt="Description">
+
 
 
 
