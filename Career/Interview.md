@@ -1,12 +1,9 @@
-## First interview
+## Data structures
 - "How do you make a class immutable?"
 An immutable object, is an OOP object, that doesn't change.\
 In most languages, the basic types are immutables, numbers, strings, booleans, etc.\
 But one can most generally make an object immutable by making it impossible to change the internal variables, once they are set.
 
-- "What is a future?"
-
-# Data structures
 - "What is an array? What is the difference between list and array?"\
 Arrays, are one-after-one memory objects, which can only hold one type of data(int, string, bool...) - fast but singular\
 Lists, are combinations of memory position and data, so it can be anything. - slow but dynamic\
@@ -34,6 +31,7 @@ Timing, logging or authentifications
 You use the read command or the open command, from there you will have to properly interpret the file\
 either with .readlines() or something else
 
+## How would you improve your code?
 - "What can be done better for the home work task?"
 - "Can you explain why you code like this?"
 - "What is efficiency of selected algorithms"
@@ -46,10 +44,14 @@ like an integer, that is no longer needed for a calculation\
 A Python float is stored as a 64-bit IEEE 754 double-precision value, \
 which provides a balance between performance and precision but can introduce small rounding errors for certain decimal values.
 
-
 - "What is the command to search for a certain pattern?"
 - "What is a good refactoring?"
 - "How do you make sure the refractor did a good job?"
+
+
+## Finance
+- "What is a future?"
+- "What is an option?"
 
 ## Second interview
 Exchange level stock market data processing
