@@ -46,7 +46,19 @@ which provides a balance between performance and precision but can introduce sma
 - "What is efficiency of selected algorithms"
 
 - "What is the command to search for a certain pattern?"
+
 - "What is a good refactoring?"
+A good refactoring or in general just a refactoring is a streamlining of the code’s structure while leaving its functionality intact, making the software easier to understand, change, and maintain.\
+Here are the steps:
+1. Preserve behavior
+2. Improve readability&Maintainability
+3. Eliminate code smells - little unsustainable code bits
+4. Ehance extensibility
+5. small, easily reversible steps
+6. align with good code principles, \[single responsiblity, Open/closed, modular, never nested\]
+Generally, make readable, easily changable, testable, eliminate duplicates and faulty areas
+
+
 - "How do you make sure the refractor did a good job?"
 
 
