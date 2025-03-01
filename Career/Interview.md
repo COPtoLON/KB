@@ -1,11 +1,25 @@
 ## First interview
 - "How do you make a class immutable?"
+An immutable object, is an OOP object, that doesn't change.\
+In most languages, the basic types are immutables, numbers, strings, booleans, etc.\
+But one can most generally make an object immutable by making it impossible to change the internal variables, once they are set.
+
 - "What is a future?"
-- "What is an array?"
+
+# Data structures
+- "What is an array? What is the difference between list and array?"
+Arrays, are one-after-one memory objects, which can only hold one type of data(int, string, bool...) - fast but singular
+Lists, are combinations of memory position and data, so it can be anything. - slow but dynamic
+- "What is a hashmap?"
+A hashmap is essentially a python dictionary, a structure like { \[Name, Value\], \[Name, Value\] }
+
 - "How does garbage collection work in Python?"
+1. By reference counting
+2. By trying to eliminate cyclical references 
+
+
 - "What can be done better for the home work task?"
 - "Can you explain why you code like this?"
-- "Difference between array and list"
 - "What is efficiency of selected algorithms"
 - "What does X git command do?"
 - "What does pipe in linux do?"
