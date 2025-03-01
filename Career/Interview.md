@@ -18,20 +18,36 @@ A hashmap is essentially a python dictionary, a structure like { \[Name, Value\]
 1. By reference counting\
 2. By trying to eliminate cyclical references 
 
+- "What does the Yield command do in python?"\
+The yield function in Python creates a generator function that can generate values on the fly and maintain its state between iterations.\
+This is in contrast to the return function, which returns all results at once and stops holding onto its state
+
+- "What is a generator function?"\
+A generator function is a function used to obtain the results from a generator object.\
+A generator object can be used to handle large data sets or data streams.
+
+- "What is a decorator function?"\
+A decorator function is a function that can be wrapped around another, to do such things as:\
+Timing, logging or authentifications
+
+- "How do you read a file in python?"\
+You use the read command or the open command, from there you will have to properly interpret the file\
+either with .readlines() or something else
 
 - "What can be done better for the home work task?"
 - "Can you explain why you code like this?"
 - "What is efficiency of selected algorithms"
-- "What does X git command do?"
-- "What does pipe in linux do?"
-- "What is a hashmap?"
-- "What does the Yield command do in python?"
-- "How do you read a file in python?"
-- "What is the command to search for a certain pattern?"
-- "What is a generator function?"
-- "What is a decorator function?"
+
 - "What is a smart pointer?"
+A smart pointer is a variable, that automatically deletes itself, when it is no longer needed\
+like an integer, that is no longer needed for a calculation\
+
 - "How is float stored in python?"
+A Python float is stored as a 64-bit IEEE 754 double-precision value, \
+which provides a balance between performance and precision but can introduce small rounding errors for certain decimal values.
+
+
+- "What is the command to search for a certain pattern?"
 - "What is a good refactoring?"
 - "How do you make sure the refractor did a good job?"
 
