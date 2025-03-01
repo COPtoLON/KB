@@ -1,3 +1,5 @@
+# Along the way
+
 ## Data structures
 - "How do you make a class immutable?"
 An immutable object, is an OOP object, that doesn't change.\
