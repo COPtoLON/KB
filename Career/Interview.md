@@ -31,11 +31,6 @@ Timing, logging or authentifications
 You use the read command or the open command, from there you will have to properly interpret the file\
 either with .readlines() or something else
 
-## How would you improve your code?
-- "What can be done better for the home work task?"
-- "Can you explain why you code like this?"
-- "What is efficiency of selected algorithms"
-
 - "What is a smart pointer?"
 A smart pointer is a variable, that automatically deletes itself, when it is no longer needed\
 like an integer, that is no longer needed for a calculation\
@@ -43,6 +38,12 @@ like an integer, that is no longer needed for a calculation\
 - "How is float stored in python?"
 A Python float is stored as a 64-bit IEEE 754 double-precision value, \
 which provides a balance between performance and precision but can introduce small rounding errors for certain decimal values.
+
+
+## How would you improve your code?
+- "What can be done better for the home work task?"
+- "Can you explain why you code like this?"
+- "What is efficiency of selected algorithms"
 
 - "What is the command to search for a certain pattern?"
 - "What is a good refactoring?"
