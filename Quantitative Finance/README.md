@@ -52,16 +52,19 @@ On the plus side, each new strategy or asset can diversify revenue streams, redu
 [LinkedIn Post](https://www.linkedin.com/posts/coptolon_quantfinance-investing-algorithmictrading-activity-7302320668090494977-M0BW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACM9ERoBU_0PrmgLHCCk08Dra-WDB0g6iV4)
 
 ## Establish
-Development and Testing
-Once the decision to expand is made—say, from statistical arbitrage into pairs trading—the real work of establishing the new strategy (or venture) begins. This typically includes:
 
-Initial Research & Backtesting – Validate the theoretical or historical viability of the idea.
-Systems Architecture – Adapt (or build) technology stacks to accommodate new data flows, trading algorithms, and risk checks.
-Regulatory & Compliance – Ensure you meet all the necessary legal requirements (especially crucial if you move into new markets or product types).
-Gradual Roll-Out
+### Development and Testing
+Once the decision to expand is made. Say, from statistical arbitrage into pairs trading—the real work of establishing the new strategy (or venture) begins.\
+This typically includes:
+
+* Initial Research & Backtesting – Validate the theoretical or historical viability of the idea.
+* Systems Architecture – Adapt (or build) technology stacks to accommodate new data flows, trading algorithms, and risk checks.
+* Regulatory & Compliance – Ensure you meet all the necessary legal requirements (especially crucial if you move into new markets or product types).
+
+### Gradual Roll-Out
 Firms often start small—perhaps running the new strategy with minimal capital and tight risk parameters—before scaling up. During this period, the team refines the approach by:
 
-Collecting real-world execution data.
+### Collecting real-world execution data.
 Adjusting for live market slippage, latency, or unexpected events.
 Fine-tuning triggers, risk models, and asset selection.
 Encountering Competition (“States” of Play)
