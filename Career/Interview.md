@@ -41,6 +41,9 @@ like an integer, that is no longer needed for a calculation\
 A Python float is stored as a 64-bit IEEE 754 double-precision value, \
 which provides a balance between performance and precision but can introduce small rounding errors for certain decimal values.
 
+- "What is the time complexity of this function?"
+- "Why multiple error messages?"
+
 
 ## How would you improve your code?
 - "What can be done better for the home work task?"
