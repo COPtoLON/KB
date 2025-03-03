@@ -17,7 +17,7 @@ Objective: To earn money by running a successful algorithmic investment fund.
 
 # Algorithm
 
-**Goal: Maximum Conservation of Value** \
+**Goal: Maximum Conservation of Value**
 
 Repeat the following process.
 - Expand into new markets, strategies, or assets.
@@ -26,7 +26,7 @@ Repeat the following process.
 - Excel in profitability regardless of the market’s state.
 - Repeat the cycle, continuously searching for new expansion opportunities.
 
-<img src="https://github.com/COPtoLON/KB/blob/main/Quantitative%20Finance/overblik.jpg" width="500" alt="Algorithm diagram">
+<img src="https://github.com/COPtoLON/KB/blob/main/Quantitative%20Finance/overblik.jpg" width="1000" alt="Algorithm diagram">
 
 *Note: This needs to be double-checked against multiple sources* \
 [LinkedIn post](https://www.linkedin.com/posts/coptolon_reflections-on-the-large-scale-structure-activity-7300921866582396929-oTwe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACM9ERoBU_0PrmgLHCCk08Dra-WDB0g6iV4)
