@@ -86,39 +86,37 @@ This is where the “Defensive, Aggressive, Counter, or Neutral” states come i
 [LinkedIn Post](https://www.linkedin.com/posts/coptolon_quantfinance-investing-algorithmictrading-activity-7302320668090494977-M0BW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACM9ERoBU_0PrmgLHCCk08Dra-WDB0g6iV4)
 
 ## Excel
-Achieving Steady Profitability
+### Achieving Steady Profitability
 Once your new venture (strategy, asset class, or market) is established and your firm has adapted to the competitive landscape, the aim is to excel—i.e., realize consistent, sustainable returns. Excelling might involve:
+* Ongoing Optimization – Continuously tweak the algorithm (or business model) to respond to new data, changing market microstructures, and evolving competitor behavior.
+* Risk Management – Monitor and adjust exposure in real time to maintain risk at acceptable levels (e.g., volatility targets, drawdown limits).
+* Scalability – Ensure that as you put on larger trades or handle more volume, your infrastructure, capital, and risk frameworks can keep pace.
 
-Ongoing Optimization – Continuously tweak the algorithm (or business model) to respond to new data, changing market microstructures, and evolving competitor behavior.
-Risk Management – Monitor and adjust exposure in real time to maintain risk at acceptable levels (e.g., volatility targets, drawdown limits).
-Scalability – Ensure that as you put on larger trades or handle more volume, your infrastructure, capital, and risk frameworks can keep pace.
-Maintaining the Edge
+### Maintaining the Edge
 “Excel” also means holding on to (and refining) your advantage in the face of decay. In quantitative finance, alpha signals degrade quickly once they’re discovered or widely used. A firm that excels typically:
+* Has a robust R&D pipeline to keep finding small improvements or new alpha signals.
+* Employs portfolio management techniques that combine multiple signals or strategies, reducing the reliance on any single “secret sauce.”
+* Maintains a talent pipeline of data scientists, quantitative researchers, and traders who can continuously refine existing ideas and explore new ones.
 
-Has a robust R&D pipeline to keep finding small improvements or new alpha signals.
-Employs portfolio management techniques that combine multiple signals or strategies, reducing the reliance on any single “secret sauce.”
-Maintains a talent pipeline of data scientists, quantitative researchers, and traders who can continuously refine existing ideas and explore new ones.
-Feed-Forward Into the Next Cycle
+### Feed-Forward Into the Next Cycle
 Once you’re comfortably in the “Excel” phase—achieving stable profitability in your new strategy, asset class, or market—you effectively repeat the cycle:
+* Look for the next angle to exploit (i.e., Expand again).
+* Establish the new approach or venture with the knowledge and proceeds from your current successes.
+* Excel anew, eventually building a diversified ecosystem of profitable strategies across multiple markets.
 
-Look for the next angle to exploit (i.e., Expand again).
-Establish the new approach or venture with the knowledge and proceeds from your current successes.
-Excel anew, eventually building a diversified ecosystem of profitable strategies across multiple markets.
-Final Thoughts
+## Final Thoughts
 The Expand → Establish → Excel framework is intended to be cyclical. Each time you master a new area, you use that footing to expand yet again. In the fast-paced world of algorithmic trading, you’re never done growing—either you innovate or you risk being outpaced by competitors (who, at any moment, might be looking to attack, defend, or counter your positions).
 
-Moreover, each step has a feedback loop:
+### Moreover, each step has a feedback loop:
+- Success in one domain funds exploration in another.
+- Failures or market shifts in one area teach valuable lessons that can refine strategies, technology, and risk management for the next venture.
 
-Success in one domain funds exploration in another.
-Failures or market shifts in one area teach valuable lessons that can refine strategies, technology, and risk management for the next venture.
 By continually cycling through Expand, Establish, and Excel—with acute awareness of the market “states” (defensive, aggressive, counter, or neutral)—a quantitative firm can build a resilient and adaptive portfolio of strategies that stand the test of an ever-evolving market landscape.
-
-Planned progress through development of algorithm and business
 
 [LinkedIn Post](https://www.linkedin.com/posts/coptolon_quantfinance-investing-algorithmictrading-activity-7302320668090494977-M0BW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACM9ERoBU_0PrmgLHCCk08Dra-WDB0g6iV4)
 
 
-# Steps
+# Plan
 
 1. Successful Algorithm.
    - [x] Backtest Engine.
