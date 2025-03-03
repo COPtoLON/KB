@@ -49,6 +49,8 @@ Expansion is rarely cheap:
 
 On the plus side, each new strategy or asset can diversify revenue streams, reducing reliance on a single source of profit. The decision to expand (and how aggressively to do so) often hinges on your firm’s risk tolerance, available capital, and the competitive landscape.
 
+[LinkedIn Post](https://www.linkedin.com/posts/coptolon_quantfinance-investing-algorithmictrading-activity-7302320668090494977-M0BW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACM9ERoBU_0PrmgLHCCk08Dra-WDB0g6iV4)
+
 ## Establish
 Development and Testing
 Once the decision to expand is made—say, from statistical arbitrage into pairs trading—the real work of establishing the new strategy (or venture) begins. This typically includes:
@@ -76,6 +78,8 @@ Defend your strategy by tightening risk controls, reducing information leakage, 
 Go Aggressive if you see a direct, time-limited window to outmaneuver competitors—e.g., quickly scaling up before they can react.
 Counter if competitors attempt to undermine your profitability—e.g., using options to hedge out the effect of a rival’s short attack.
 Remain Neutral (or continue your preplanned path) if the environment is stable, or if you believe changing tactics doesn’t improve your edge.
+
+[LinkedIn Post](https://www.linkedin.com/posts/coptolon_quantfinance-investing-algorithmictrading-activity-7302320668090494977-M0BW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACM9ERoBU_0PrmgLHCCk08Dra-WDB0g6iV4)
 
 ## Excel
 Achieving Steady Profitability
@@ -107,6 +111,7 @@ By continually cycling through Expand, Establish, and Excel—with acute awarene
 
 Planned progress through development of algorithm and business
 
+[LinkedIn Post](https://www.linkedin.com/posts/coptolon_quantfinance-investing-algorithmictrading-activity-7302320668090494977-M0BW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACM9ERoBU_0PrmgLHCCk08Dra-WDB0g6iV4)
 
 
 # Steps
