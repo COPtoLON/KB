@@ -76,6 +76,7 @@ During establishment, you begin to see how rivals (and the market) respond:
    * Attack by front-running or copying your trades.
    * Defend by altering their own strategies to reduce your edge.
    * Counter by placing offsetting trades that exploit weaknesses in your newly established approach.
+
 This is where the “Defensive, Aggressive, Counter, or Neutral” states come into play. You might:
 * Defend your strategy by tightening risk controls, reducing information leakage, or adapting signals.
 * Go Aggressive if you see a direct, time-limited window to outmaneuver competitors—e.g., quickly scaling up before they can react.
