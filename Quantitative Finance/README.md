@@ -31,20 +31,22 @@ Repeat the following process.
 [LinkedIn post](https://www.linkedin.com/posts/coptolon_reflections-on-the-large-scale-structure-activity-7300921866582396929-oTwe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACM9ERoBU_0PrmgLHCCk08Dra-WDB0g6iV4)
 
 ## Expand
-Identifying New Opportunities
+### Identifying New Opportunities
 The first step involves scouting new possibilities. For an algorithmic trading firm (or any investment company), this generally boils down to three broad dimensions:
 
-Strategy – e.g., mean-reversion, momentum, pairs trading, event-based trading, etc.
-Asset Class – e.g., equities, fixed income, real estate, crypto.
-Market/Region – e.g., North America, Europe, Asia, emerging markets.
+* Strategy – e.g., mean-reversion, momentum, pairs trading, event-based trading, etc.
+* Asset Class – e.g., equities, fixed income, real estate, crypto.
+* Market/Region – e.g., North America, Europe, Asia, emerging markets.
+
 Instead of jumping into everything at once, successful companies look for areas where they can leverage existing expertise. For example, if the firm is already adept at high-frequency mean-reversion for US equities, a natural expansion might be into pairs trading or statistical arbitrage on European equity markets, rather than pivoting abruptly to an entirely different asset class or time horizon.
 
-Balancing Costs and Diversification
+### Balancing Costs and Diversification
 Expansion is rarely cheap:
 
-R&D Expenses – You need new data feeds, models, compliance procedures, etc.
-Opportunity Cost – Diverting resources (capital and talent) from existing profitable ventures.
-Risk of Failure – New strategies or markets might not pan out, potentially hurting both morale and P&L.
+* R&D Expenses – You need new data feeds, models, compliance procedures, etc.
+* Opportunity Cost – Diverting resources (capital and talent) from existing profitable ventures.
+* Risk of Failure – New strategies or markets might not pan out, potentially hurting both morale and P&L.
+
 On the plus side, each new strategy or asset can diversify revenue streams, reducing reliance on a single source of profit. The decision to expand (and how aggressively to do so) often hinges on your firm’s risk tolerance, available capital, and the competitive landscape.
 
 ## Establish
