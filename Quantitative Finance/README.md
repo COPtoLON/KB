@@ -1,4 +1,4 @@
-# Main objective
+# Company Main objective
 **Third draft:** \
 Objective: For a single particle in an open system, research an algorithm to optimize and maximally conserve enthalpy/energy \
 <br>
@@ -8,7 +8,7 @@ Objective: Optimally conserve enthalpy for a single particle in an open market. 
 **first draft:**\
 Objective: To earn money by running a successful algorithmic investment fund.
 
-# Algorithm
+# Company Business Algorithm
 
 **Goal: Maximum Conservation of Value**
 
@@ -114,7 +114,7 @@ By continually cycling through Expand, Establish, and Excel—with acute awarene
 
 ## ...
 
-# Algorithm
+# Company Trading Algorithm
 
 ## Predictions
 
@@ -122,7 +122,7 @@ By continually cycling through Expand, Establish, and Excel—with acute awarene
 
 ## Strategy
 
-# Company structures
+# Company Structure
 
 ## Strategists
 
@@ -136,10 +136,7 @@ By continually cycling through Expand, Establish, and Excel—with acute awarene
 
 ## Utility
 
-
-
-
-# Plan
+# Company Plan
 
 1. Successful Algorithm.
    - [x] Backtest Engine.
