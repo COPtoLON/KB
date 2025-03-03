@@ -116,6 +116,10 @@ By continually cycling through Expand, Establish, and Excel—with acute awarene
 
 [LinkedIn Post](https://www.linkedin.com/posts/coptolon_quantfinance-investing-algorithmictrading-activity-7302320668090494977-M0BW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACM9ERoBU_0PrmgLHCCk08Dra-WDB0g6iV4)
 
+#
+
+
+
 
 # Plan
 
