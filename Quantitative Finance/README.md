@@ -30,7 +30,7 @@ Repeat the following process.
 *Note: This needs to be double-checked against multiple sources* \
 [LinkedIn post](https://www.linkedin.com/posts/coptolon_reflections-on-the-large-scale-structure-activity-7300921866582396929-oTwe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACM9ERoBU_0PrmgLHCCk08Dra-WDB0g6iV4)
 
-1. Expand
+## 1. Expand
 Identifying New Opportunities
 The first step involves scouting new possibilities. For an algorithmic trading firm (or any investment company), this generally boils down to three broad dimensions:
 
@@ -47,7 +47,7 @@ Opportunity Cost – Diverting resources (capital and talent) from existing prof
 Risk of Failure – New strategies or markets might not pan out, potentially hurting both morale and P&L.
 On the plus side, each new strategy or asset can diversify revenue streams, reducing reliance on a single source of profit. The decision to expand (and how aggressively to do so) often hinges on your firm’s risk tolerance, available capital, and the competitive landscape.
 
-2. Establish
+## 2. Establish
 Development and Testing
 Once the decision to expand is made—say, from statistical arbitrage into pairs trading—the real work of establishing the new strategy (or venture) begins. This typically includes:
 
@@ -74,7 +74,8 @@ Defend your strategy by tightening risk controls, reducing information leakage, 
 Go Aggressive if you see a direct, time-limited window to outmaneuver competitors—e.g., quickly scaling up before they can react.
 Counter if competitors attempt to undermine your profitability—e.g., using options to hedge out the effect of a rival’s short attack.
 Remain Neutral (or continue your preplanned path) if the environment is stable, or if you believe changing tactics doesn’t improve your edge.
-3. Excel
+
+## 3. Excel
 Achieving Steady Profitability
 Once your new venture (strategy, asset class, or market) is established and your firm has adapted to the competitive landscape, the aim is to excel—i.e., realize consistent, sustainable returns. Excelling might involve:
 
