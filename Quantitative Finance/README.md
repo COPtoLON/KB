@@ -127,6 +127,44 @@ Some companies are centralized, they have one central algorithm, that is adapted
 Some companies are multi-strategy, they have different algorithms and scenarios.
 Some companies are high speed, low-latency. Some companies are medium or low latency. 
 
+The structure must be.
+- Management
+- Absolute essentials
+- Essentials - Researchers
+- Like-to-have - ...
+# Why?
+Guild analogue, You want to do the latest Mythic raid. You need to be able to do the raid mechanics, have the right gearscore, be the correct class, have the right professions and enchants...
+
+# 
+- C-suite
+- Management?
+- Strategists
+  - Very unique 
+- Researchers
+  - Specialized
+  - Strategy
+  - Tiers 
+- Analysts
+  - Traders
+  - Analysts
+  - Specialized analysts
+  - Tiers
+- Developers
+  - Specialized/Generalist quant developers
+  - Low-freq quant developers
+  - Various tiers, junior, mid, senior
+- IT
+  - Webservices
+  - Software Engineers
+  - Data Center Engineers
+  - Low Latency Engineers
+  - Database Engineer
+  - IT managers 
+- Utilities
+  - HR
+  - Communications
+  - Internal services
+
 ## Strategists
 Strategists, are uncommon or higher up in the system, they are supposed to be able to supervise the overall structure of the company and the strategies
 
