@@ -1,5 +1,4 @@
 # Main objective
-*Note: This needs to be formulated more precisely, with greater detail as well*
 **Third draft:** \
 Objective: For a single particle in an open system, research an algorithm to optimize and maximally conserve enthalpy/energy \
 <br>
@@ -22,7 +21,6 @@ Repeat the following process.
 
 <img src="https://github.com/COPtoLON/KB/blob/main/Quantitative%20Finance/overblik.jpg" width="1000" alt="Algorithm diagram">
 
-*Note: This needs to be double-checked against multiple sources* \
 [LinkedIn post](https://www.linkedin.com/posts/coptolon_reflections-on-the-large-scale-structure-activity-7300921866582396929-oTwe?utm_source=share&utm_medium=member_desktop&rcm=ACoAACM9ERoBU_0PrmgLHCCk08Dra-WDB0g6iV4)
 
 ## Expand
