@@ -123,18 +123,30 @@ By continually cycling through Expand, Establish, and Excel—with acute awarene
 ## Strategy
 
 # Company Structure
+Some companies are centralized, they have one central algorithm, that is adapted to different scenarios, markets, assets and such.
+Some companies are multi-strategy, they have different algorithms and scenarios.
+Some companies are high speed, low-latency. Some companies are medium or low latency. 
 
 ## Strategists
+Strategists, are uncommon or higher up in the system, they are supposed to be able to supervise the overall structure of the company and the strategies
 
 ## Researchers
+For most companies Researchers and Strategists are the same thing. Researchers may specialize into areas, the company needs or be generalists.
+A researcher, may be a Ph.D. in timeseries analysis or statistical methods, these researchers may in turn be in charge of Risk, Pricing or Derivatives hedging.
 
 ## Analysts
+For the most cases companies use Quantitative analysts or quantitative traders for the footman kind of work in trading. 
+The bottom part of the pyramid, which are closest to the actual trading and handling of algorithms.
 
 ## Developers
+Various parts of the firm needs software developers, some for speed, some for data, some for infrastructure, some for setting up trading algorithms.
 
 ## IT
+Depending on the type of company, the size of the IT department may vary, HFT companies may have a significantly larger IT departments.
+With those companies there is a focus on low latency engineering. Some on data storage, some on infrastructure.
 
 ## Utility
+Like any company, there must be employees to maintain payroll, HR, company infrastructure and various other roles.
 
 # Company Plan
 
