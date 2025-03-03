@@ -54,33 +54,33 @@ On the plus side, each new strategy or asset can diversify revenue streams, redu
 ## Establish
 
 ### Development and Testing
-Once the decision to expand is made. Say, from statistical arbitrage into pairs trading—the real work of establishing the new strategy (or venture) begins.\
-This typically includes:
+Once the decision to expand is made. Say, from statistical arbitrage into pairs trading.\
+The real work of establishing the new strategy (or venture) begins. This typically includes:
 
 * Initial Research & Backtesting – Validate the theoretical or historical viability of the idea.
 * Systems Architecture – Adapt (or build) technology stacks to accommodate new data flows, trading algorithms, and risk checks.
 * Regulatory & Compliance – Ensure you meet all the necessary legal requirements (especially crucial if you move into new markets or product types).
 
 ### Gradual Roll-Out
-Firms often start small—perhaps running the new strategy with minimal capital and tight risk parameters—before scaling up. During this period, the team refines the approach by:
+Firms often start small. Perhaps running the new strategy with minimal capital and tight risk parameters, before scaling up. \
+During this period, the team refines the approach by:
 
-### Collecting real-world execution data.
-Adjusting for live market slippage, latency, or unexpected events.
-Fine-tuning triggers, risk models, and asset selection.
-Encountering Competition (“States” of Play)
+* Collecting real-world execution data.
+* Adjusting for live market slippage, latency, or unexpected events.
+* Fine-tuning triggers, risk models, and asset selection.
+* Encountering Competition (“States” of Play)
+
 During establishment, you begin to see how rivals (and the market) respond:
-
-Blue Ocean – Little direct competition; it’s relatively easy to gain market share or profits.
-Red Ocean – Aggressive competition; others may:
-Attack by front-running or copying your trades.
-Defend by altering their own strategies to reduce your edge.
-Counter by placing offsetting trades that exploit weaknesses in your newly established approach.
+* Blue Ocean – Little direct competition; it’s relatively easy to gain market share or profits.
+* Red Ocean – Aggressive competition; others may:
+   * Attack by front-running or copying your trades.
+   * Defend by altering their own strategies to reduce your edge.
+   * Counter by placing offsetting trades that exploit weaknesses in your newly established approach.
 This is where the “Defensive, Aggressive, Counter, or Neutral” states come into play. You might:
-
-Defend your strategy by tightening risk controls, reducing information leakage, or adapting signals.
-Go Aggressive if you see a direct, time-limited window to outmaneuver competitors—e.g., quickly scaling up before they can react.
-Counter if competitors attempt to undermine your profitability—e.g., using options to hedge out the effect of a rival’s short attack.
-Remain Neutral (or continue your preplanned path) if the environment is stable, or if you believe changing tactics doesn’t improve your edge.
+* Defend your strategy by tightening risk controls, reducing information leakage, or adapting signals.
+* Go Aggressive if you see a direct, time-limited window to outmaneuver competitors—e.g., quickly scaling up before they can react.
+* Counter if competitors attempt to undermine your profitability—e.g., using options to hedge out the effect of a rival’s short attack.
+* Remain Neutral (or continue your preplanned path) if the environment is stable, or if you believe changing tactics doesn’t improve your edge.
 
 [LinkedIn Post](https://www.linkedin.com/posts/coptolon_quantfinance-investing-algorithmictrading-activity-7302320668090494977-M0BW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACM9ERoBU_0PrmgLHCCk08Dra-WDB0g6iV4)
 
