@@ -122,16 +122,16 @@ Despite nuanced differences, all of these perspectives can be placed under an um
 ## Key Components for a Trading Algorithm
 Any well-considered trading algorithm must incorporate several elements:
 
-Predictions and Conditional Logic
+### Predictions and Conditional Logic
 The algorithm should have predictive capabilities (forecasting future market behavior) and conditional logic to adapt to specific scenarios.
 
-Risk Measurements and Statistical Considerations
+### Risk Measurements and Statistical Considerations
 Risk management and modeling of potential losses are essential. A robust design contemplates the probability of being wrong and prescribes adjustments—e.g., scaling down positions.
 
-Strategic Framework
+### Strategic Framework
 Deciding how and when to use derivatives, short selling, or other asset allocations requires a structured policy. The algorithm should recognize when and how to influence or “push” the market.
 
-Incorporation of Human Behavior
+### Incorporation of Human Behavior
 Although quantitative in nature, any algorithm benefits from considering behavioral finance aspects—e.g., herding, panic selling, or FOMO (fear of missing out)—that can dominate at certain times.
 
 ## Mean-Field Game Theory
@@ -168,20 +168,10 @@ Here:
 H is the Hamiltonian encoding the running cost and dynamics, while 
 G is a terminal cost functional.
 
-
-
 ## Concluding Thoughts
 Mean-field games blend ideas from game theory, stochastic processes, and control theory. Their strength lies in managing large-agent systems where each agent’s individual impact is small, but collectively significant. In trading contexts—like those faced by hedge funds (Jane Street, Two Sigma, Citadel, etc.)—the MFG framework can help reason about the interplay between a single agent’s optimal strategy and the aggregate market behavior.
 
 By clarifying the ideas of market dynamics, game-theoretic interactions, and advanced modeling (through PDEs or branching processes), one can more rigorously capture how agents attempt to maximize their outcomes under uncertainty, competition, and continuous adaptation.
-
-
-
-
-
-## Mean field game
-
-## ...
 
 # Company Trading Algorithm
 Any good and thought-through trading algorithm must have some considerations on the following:
@@ -191,11 +181,6 @@ Any good and thought-through trading algorithm must have some considerations on 
 
 A genuine trading algorithm, must also know human behaviour. To be able to consider when to be active or passive. When to switch strategies.
 
-## Predictions
-
-## Risk
-
-## Strategy
 
 # Company Structure
 Some companies are centralized, they have one central algorithm, that is adapted to different scenarios, markets, assets and such.
@@ -210,7 +195,7 @@ The structure must be.
 # Why?
 Guild analogue, You want to do the latest Mythic raid. You need to be able to do the raid mechanics, have the right gearscore, be the correct class, have the right professions and enchants...
 
-# 
+# ETC
 - C-suite
 - Management?
 - Strategists
