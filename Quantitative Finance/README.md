@@ -137,15 +137,13 @@ Although quantitative in nature, any algorithm benefits from considering behavio
 ## Mean-Field Game Theory
 Mean-field game (MFG) theory studies how strategic decision-making unfolds among many “small” agents in a large population. Each agent’s individual influence on the system is negligible, yet collectively these agents drive its overall dynamics. The term “mean field” is borrowed from physics, where the behavior of large systems can often be approximated by examining one representative particle in an “average” field created by the others.
 
-Traditional Game Theory vs. MFG:
+### Traditional Game Theory vs. MFG:
 In standard (often two-player) game theory, we might rely on backward induction. This becomes difficult when dealing with a large number of players over continuous time. MFGs tackle this by letting the number of players go to infinity, introducing a representative agent whose behavior and optimal strategies become indicative of the whole population.
 
-Key PDEs:
-Typically, MFGs in continuous time are associated with a coupled Hamilton–Jacobi–Bellman (HJB) equation (describing each agent’s optimal control) and a Fokker–Planck (or Kolmogorov) equation (tracking the aggregate distribution). Under suitable assumptions, an 
-𝑁
-N-player Nash equilibrium converges to the MFG solution as 
+### Key PDEs:
+Typically, MFGs in continuous time are associated with a coupled Hamilton–Jacobi–Bellman (HJB) equation (describing each agent’s optimal control) and a Fokker–Planck (or Kolmogorov) equation (tracking the aggregate distribution). Under suitable assumptions, an $N$-player Nash equilibrium converges to the MFG solution as $ N \to \infty$
 
-Branching Versions & Extensions:
+### Branching Versions & Extensions:
 When agents can enter or leave the game (e.g., a new agent “spawned” under certain conditions), classical MFGs extend to branching mean-field games. This can be relevant for modeling demographic changes in an economy or repeated entry/exit in trading contexts.
 
 
@@ -172,6 +170,26 @@ G is a terminal cost functional.
 Mean-field games blend ideas from game theory, stochastic processes, and control theory. Their strength lies in managing large-agent systems where each agent’s individual impact is small, but collectively significant. In trading contexts—like those faced by hedge funds (Jane Street, Two Sigma, Citadel, etc.)—the MFG framework can help reason about the interplay between a single agent’s optimal strategy and the aggregate market behavior.
 
 By clarifying the ideas of market dynamics, game-theoretic interactions, and advanced modeling (through PDEs or branching processes), one can more rigorously capture how agents attempt to maximize their outcomes under uncertainty, competition, and continuous adaptation.
+
+Financial Markets
+
+Optimal Execution & Price Impact: Traders seek to execute large orders without excessive market impact, balancing price drift and volatility (a typical MFG approach).
+Systemic Risk: Large numbers of correlated strategies can amplify market drawdowns.
+Crowd Dynamics
+
+Pedestrian Movement: Pedestrians are viewed as rational agents aiming to minimize discomfort in crowds, leading to macroscopic flow equations.
+Epidemiology
+
+SIR-type Models: Individuals may adapt behaviors in response to an epidemic, and an MFG can describe optimal behavior (distancing, etc.) across a large population.
+Branching Scenarios
+
+Population Growth or Exit/Entry Models: Agents “branch” (e.g., a firm splits into subsidiaries) or leave (exit the market). This modifies the equations to handle time-varying population counts.
+
+
+
+
+
+
 
 # Company Trading Algorithm
 Any good and thought-through trading algorithm must have some considerations on the following:
