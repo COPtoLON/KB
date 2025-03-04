@@ -1,4 +1,4 @@
-# Company Main objective
+# Main objective
 **Third draft:** \
 Objective: For a single particle in an open system, research an algorithm to optimize and maximally conserve enthalpy/energy \
 <br>
@@ -8,7 +8,7 @@ Objective: Optimally conserve enthalpy for a single particle in an open market. 
 **first draft:**\
 Objective: To earn money by running a successful algorithmic investment fund.
 
-# Company Business Algorithm
+# Overarching algorithm
 
 **Goal: Maximum Conservation of Value**
 
