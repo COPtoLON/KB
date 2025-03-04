@@ -155,7 +155,7 @@ $$-\partial_t u(t,x) - \nu \Delta u(t,x) + H(x,m(t), \nabla u(t,x)) = 0,$$
 subject to a terminal/goal condition $u(T,x)=G(x,m(T))$
 
 ### Forward Fokker–Planck (or Kolmogorov) Equation:
-$$\partial_t m(t,x) - \nu \Delta m(t,x) - div(\nable_p H(x,m(t), \nabla u(t,x)) m(t,x)) = 0,$$
+$$\partial_t m(t,x) - \nu \Delta m(t,x) - div(\nabla_p H(x,m(t), \nabla u(t,x)) m(t,x)) = 0,$$
 with some initial condition $m(0)=m_0.$\
 
 Here:
