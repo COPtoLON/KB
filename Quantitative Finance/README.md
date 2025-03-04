@@ -109,12 +109,32 @@ By continually cycling through Expand, Establish, and Excel—with acute awarene
 [LinkedIn Post](https://www.linkedin.com/posts/coptolon_quantfinance-investing-algorithmictrading-activity-7302320668090494977-M0BW?utm_source=share&utm_medium=member_desktop&rcm=ACoAACM9ERoBU_0PrmgLHCCk08Dra-WDB0g6iV4)
 
 # Market dynamics
+Given a system, with a measure and more than 2 partaking objects. The goal is to be the partaker with maximum measure.
+Note: I imagine the trading algorithm, problem to be a subset of this.
+
+Maximum profit. In a stream of trading agents.
+
+I Believe this is parts of the consideration Jane Street must have made in their pursuit for a focus on mean fields and mean field games.
+
+This or a somewhat similar consideration must have been done at larger hedgefunds.
+
+Two sigma looks to absorb edges of the field
+Jane street looks to finding the optimal strategy?
+Citadel owns the playing field and takes minimal gains
+There must be one fund that absorbs the swings in the mean
+There must be one fund that vultures on weaker strategies
 
 ## Mean field game
 
 ## ...
 
 # Company Trading Algorithm
+Any good and thought-through trading algorithm must have some considerations on the following:
+- Predictions and conditional logic based on scenarios, a good algorithm, has some predictive properties and some conditional logic properties. Being able to discern some scenarios from others.
+- Risk measurements and statistical considerations, to be able to consider the possibilities of being wrong and what to do if such a case occurs.
+- A genuine strategical framework, so as to know when to set up derivatives, when to short, go long or when to actively push the market.
+
+A genuine trading algorithm, must also know human behaviour. To be able to consider when to be active or passive. When to switch strategies.
 
 ## Predictions
 
