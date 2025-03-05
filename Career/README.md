@@ -2,7 +2,7 @@
 # Companies
 
 | Rank | Company | Role | Compensation | Region | Link |
-| - | - | - | - | - | - | |
+| - | - | - | - | - | - | 
 | 1 | Man Group | Risk Quant Dev | 80K? | London, UK |https://www.man.com/careers | |
 | 2 | Millenium Management | Quant Dev | 100K?| London, UK | https://www.mlp.com/careers/ |
 | 3 | IMC Trading - Atlas Tech | Quant Dev | 80K? | Amsterdam, NET | https://www.imc.com/eu/search-careers |
