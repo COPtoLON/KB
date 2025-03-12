@@ -59,10 +59,8 @@ Authors: Mark Brezina, Axel Fristrup
    - [ ] Finish Bachelor degree: Thesis on option pricing in stochastic volatility.
    - [ ] Continue through with Master's Degree in Financial Mathematics - Dissertation on stochastic processes for finance?
    - [ ] Continue on with Ph.d. in Computational Finance - High speed work in calculations of option prices or something
-- [ ] Projects
-   - [ ] sdqwew
-   - [ ] sdqwewq
-   - [ ] dqwewqe
+- [ ] Project
+   - [ ] TMRW
 
 # Main Quest
 
