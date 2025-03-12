@@ -1,3 +1,18 @@
+### Interview 1 - Michael Hall, CIO - Conversational 
+Note from recruiter: Michael is very sociable\
+The interview will be a high-level, not detail-oriented or technical \
+The interview should focus on relevant background for the position. \
+Keywords from recruiter: Optimize portfolios, Trade cycles, Relevant skills in current use.\
+Nothing technical, conversational, Exposure to crypto, transferable skills, Talk about experiences
+
+### Interview 2 - Unknown, Technical lead? - Technical
+
+### Interview 3 - Unknown, unknown. - Unknown - On-site, last interview
+
+
+
+
+
 # Along the way
 
 ## Data structures
