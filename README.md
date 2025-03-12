@@ -3,24 +3,7 @@
 Authors: Mark Brezina, Axel Fristrup
 
 
-# Main Quest
-
-| PLAN A | PLAN B | PLAN C | PLAN C |
-| ------------- | ------------- | ------------- | ------------- |
-| **CURRENTLY DONE** | | | |
-| ~~1. UK VISA~~ | | | |
-| ~~2. Move to UK~~ | | | |
-| **UNFINISHED**  | | | |
-| 3. Job in UK <br> Deadline: 4 months after arrival |  |  | **POINT OF CHANGE** <br> 3. No job in UK |
-| 4. Career in UK |  |  | 4. Move back to DK <br> Apartment & job DK|
-| 5. Apartment with Julia |  |  | 5. Education DK|
-| 6. Education UK |  | **POINT OF CHANGE** <br> 6. Falling apart | 6. Transition to Jarra |
-| 7. Advance career UK |  | 7. Move by myself in UK <br> Flatshare or apartment in London | 7. Job in DK |
-| 8. Develop Prime trade algorithm | **POINT OF CHANGE** <br> 8. Family focus | 8. Advance career in UK | 8. Advance career DK|
-| 9. Develop ToE |  9. Savings build-up | 9. Education UK | 8. Develop Prime trade Algorithm & ToE |
-| 10. Game won | 10. Game won | 10. Transition to Jarra & Game won | 10. Game won |
-
-## Job & career
+# Job & career
 
 - [ ] Apply positions [Data analyst, Quant Developer, Data engineer, etc. ]
    - [ ] Improve Resumé
@@ -44,7 +27,22 @@ Authors: Mark Brezina, Axel Fristrup
 - [ ] Education
    - [ ] 
 
+# Main Quest
 
+| PLAN A | PLAN B | PLAN C | PLAN C |
+| ------------- | ------------- | ------------- | ------------- |
+| **CURRENTLY DONE** | | | |
+| ~~1. UK VISA~~ | | | |
+| ~~2. Move to UK~~ | | | |
+| **UNFINISHED**  | | | |
+| 3. Job in UK <br> Deadline: 4 months after arrival |  |  | **POINT OF CHANGE** <br> 3. No job in UK |
+| 4. Career in UK |  |  | 4. Move back to DK <br> Apartment & job DK|
+| 5. Apartment with Julia |  |  | 5. Education DK|
+| 6. Education UK |  | **POINT OF CHANGE** <br> 6. Falling apart | 6. Transition to Jarra |
+| 7. Advance career UK |  | 7. Move by myself in UK <br> Flatshare or apartment in London | 7. Job in DK |
+| 8. Develop Prime trade algorithm | **POINT OF CHANGE** <br> 8. Family focus | 8. Advance career in UK | 8. Advance career DK|
+| 9. Develop ToE |  9. Savings build-up | 9. Education UK | 8. Develop Prime trade Algorithm & ToE |
+| 10. Game won | 10. Game won | 10. Transition to Jarra & Game won | 10. Game won |
 
 | JOB | NETWORK | SKILLS MATH | SKILLS IT |
 | ------------- | ------------- | ------------- | ------------- |
