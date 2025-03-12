@@ -20,47 +20,6 @@ Authors: Mark Brezina, Axel Fristrup
 | 9. Develop ToE |  9. Savings build-up | 9. Education UK | 8. Develop Prime trade Algorithm & ToE |
 | 10. Game won | 10. Game won | 10. Transition to Jarra & Game won | 10. Game won |
 
-## ~~UK Visa~~
-   - [x] Pay 6000€ for visa
-   - [x] Biometrics and documentation.
-   - [x] Decision on failed documentation received.
-   - [x] SELT/IELTS retake - 230€ - Julia pays - repay her
-      - [x] GESE A1 Trinity college London - https://seltbooking.trinitycollege.co.uk/OEWeb/loadExamDtl.do
-   - [x] Language test result sent
-   - [x] Proper documentation sent.
-   - [x] Visa achieved.
-
-## Moving to the UK
-- [x] Savings - 6000dkk + 150 gbp + 8000dkk? + 16000dkk?
-- [x] Flybillet - 1000dkk - 3/2/2025 til gatwick med Norwegian
-- [x] Packing
-   - [x] Clothes
-   - [x] Books
-   - [x] Electronics
-- [x] UK phone number and subscription
-   - [x] Choose phone company
-      -  ~~giffgaff~~
-      -  (+44)/0 7761 917490
-      -  Mark335770
-      -  PIP_install_yf1
-- [x] UK bank account
-   - [x] Choose bank
-      - Barclays - Priority 2.
-      - ~~Lloyds - Priority 1.~~
-      - HSBC
-      - Nationwide
-      - Royal Bank of Scotland - Priority 3.
-- [x] UK Email
-- [x] Linkedin url
-- [x] Github url
-- [ ] UK documentation and setting up my move
-   - [ ] Registrer flytning i Danmark
-   - [ ] Registrer flytning med resten
-- [ ] UK drivers license
-- [ ] Finding apartment after August
-- [ ] Plan holiday with Julia, camping and driving and such
-   
-
 ## Job & career
 
 - [ ] Apply positions [Data analyst, Quant Developer, Data engineer, etc. ]
@@ -69,12 +28,13 @@ Authors: Mark Brezina, Axel Fristrup
 - [ ] Courses
    - [ ] 
 - [ ] Events
-   - [ ] 27/2/2025 - Quant Insider – Andrey Chirikhin – Introduction to Credit Derivatives
-   - [ ] 8/3/2025 - Machine Learning for Hierachical Portfolio Optimization Using Schur Complements – webinar with Peter Cotton & Bangalore Quant Club
-   - [ ] 11/3/2025 - Imperial College - Daniel Lacker -  Non asymptomatic perspectives on mean field approximations and stochastic control
-   - [ ] 12/3/2025 - CQF Institute - Portfolio Management in Quant Finance Conference
+   - [x] 13/2/2025 - Oxford Mathematical and Computational Finance - Eghbal Rahimikia - Revisiting Large Language Models in Finance
+   - [x] 27/2/2025 - Quant Insider – **Andrey Chirikhin** – Introduction to Credit Derivatives
+   - [x] 8/3/2025 - Bangalore Quant Club - **Peter Cotton** - Machine Learning for Hierachical Portfolio Optimization Using Schur Complements
+   - [x] 11/3/2025 - Imperial College - **Daniel Lacker** -  Non asymptomatic perspectives on mean field approximations and stochastic control
+   - [x] 12/3/2025 - CQF Institute - Portfolio Management in Quant Finance Conference
    - [ ] 13/3/2025 - Imperial College - Claudia Strauch - Statistical guarantees for denoising reflected diffusion models
-   - [ ] 26/3/2025 - CQF Institute - Andrey Chirikhin - Pricing the XVA and Marginal Stochastic Liabilities
+   - [ ] 26/3/2025 - CQF Institute - **Andrey Chirikhin** - Pricing the XVA and Marginal Stochastic Liabilities
    - [ ] 8/4/2025 - CQF Institute - Wim Schoutens - Omnipresent model risk
    - [ ] 7/5/2025 - CQF Institute - Laura Ballotta - The term structure of implied correlations between S&P and VIX markets
    - [ ] 4/6/2025 - CQF Institute - Volatility and Risk in Quant Finance Conference
@@ -83,10 +43,6 @@ Authors: Mark Brezina, Axel Fristrup
 
 - [ ] Education
    - [ ] 
-
-
-
-
 
 
 
@@ -100,35 +56,3 @@ Authors: Mark Brezina, Axel Fristrup
 | Advancing career <br> Sr. Quant Developer <br> Sr. Quant Researcher <br> sr. Quant strategist  | Recognition in the community| **GOAL** | **GOAL** |
 | **GOAL** | **GOAL** | Prove skills in: <br> Calculus <br> Linear Algebra <br> Probability theory <br> Statistics <br> Differential Equations <br> Advanced Statistics <br> Advanced Probability <br> Advanced Differential Equations| Prove skills in: <br> AI/ML <br> Python <br> C++ <br> Database management <br> Kubernetes <br> Docker <br> OOP  |
 | Hedgefund owner / lead researcher / lead strategist | Network of 50 to 100 relevant individuals <br> with a respectable reputation and recognition in the community | Bachelor/Master/Ph.D in Stochastic Differential Equations and Dynamic Systems | Proficiency in parallel computing tools <br> Proficiency in professional software development methodologies, version control systems, unit testing and debugging tools, and micro-services architecture |
-
-## Growing rich
-
-### Debt
-- [ ] Tilbagebetal 5.000dkk til riverty?
-- [ ] Tilbagebetal 20.000dkk til gældsstyrelsen
-- [ ] Tilbagebetal 280.000dkk til SU lån
-
-### Income streams
-- [ ] Primary income stream from employment
-- [ ] Secondary income streams
-   - [ ] Donations for projects?
-      - [ ] Patreon - https://www.patreon.com/
-      - [ ] Indiegogo - https://www.indiegogo.com/
-      - [ ] Gofundme - https://www.gofundme.com/
-      - [ ] Kickstarter - https://www.kickstarter.com/
-      - [ ] Coop crowdfunding - https://crowdfunding.coop.dk/
-   - [ ] Sell Python courses
-   - [ ] Sell Mathematics help
-   - [ ] Sell Python code
-   - [ ] Investments
-   - [ ] Teaching
-     
-### Assets
-- [ ] Coin Collection
-- [ ] Trading cards Collection
-9 Nose - slight dark sides & highlight & white middle
-- cream highlight top and tip
-10 Blush side and under eye - Higher - Liquid on top of powder - cream highlight blend into cheeks
-11 Brows - leave a gap between eyeshadow and eyebrow
-12 lips
-
