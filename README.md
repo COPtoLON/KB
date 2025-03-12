@@ -8,6 +8,10 @@ Authors: Mark Brezina, Axel Fristrup
 - [ ] Apply positions [Data analyst, Quant Developer, Data engineer, etc. ]
    - [ ] Improve Resumé
    - [ ] Improve Cover Letter
+- [ ] Activities
+   - [x] Top 2% of 47.000 in Børsens Aktiespil 2024 - September to November
+   - [ ] Top 10% of x in Børsens Aktiespil 2025 - September to November
+   - [ ] Top 10% of x in Børsens Aktiespil 2026 - September to November
 - [ ] Courses
    - [ ] 
 - [ ] Events
