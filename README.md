@@ -12,8 +12,25 @@ Authors: Mark Brezina, Axel Fristrup
    - [x] Top 2% of 47.000 in Børsens Aktiespil 2024 - September to November
    - [ ] Top 10% of x in Børsens Aktiespil 2025 - September to November
    - [ ] Top 10% of x in Børsens Aktiespil 2026 - September to November
+   - [ ] Publish paper on xyz
 - [ ] Courses
-   - [ ] 
+   - [ ] Coursera - EPFL - Interest Rate Models
+   - [ ] Akuna Capital - Options 101 Course
+   - [ ] Coursera - IBM - Data Analyst Professional Certificate
+   - [ ] Coursera - IBM - Data Science Professional Certificate
+   - [ ] Coursera - DeepLearning.AI - Deep learning specialization
+   - [ ] Coursera - DeepLearning.AI - Machine learning specialization
+   - [ ] Coursera - Caltech - Pricing Options with Mathematical Models
+   - [ ] Coursera - Columbia Uni - Financial Engineering and Risk Management Specialization
+   - [ ] Coursera - NYIF - Risk Management Specialization
+   - [ ] Coursera - RICE - Investment and Portfolio Management Specialization
+   - [ ] Coursera - Imperial College London - Mathematics for Machine Learning Specialization
+   - [ ] Coursera - John Hopkins - Statistical Methods for Computer Science Specialization
+   - [ ] Coursera - John Hopkins - Advanced Statistics for Data Science Specialization
+   - [ ] Coursera - NYIF - Machine Learning for Trading Specialization
+   - [ ] Coursera - Stanford - Probabilistic Graphical Models Specialization
+   - [ ] Coursera - DeepLearning.AI - Tensorflow Developer Professional Certificate
+   - [ ] Coursera - DeepLearning.AI - Tensorflow: Advanced Techniques Specialization
 - [ ] Events
    - [x] 13/2/2025 - Oxford Mathematical and Computational Finance - Eghbal Rahimikia - Revisiting Large Language Models in Finance
    - [x] 27/2/2025 - Quant Insider – **Andrey Chirikhin** – Introduction to Credit Derivatives
@@ -27,9 +44,14 @@ Authors: Mark Brezina, Axel Fristrup
    - [ ] 4/6/2025 - CQF Institute - Volatility and Risk in Quant Finance Conference
    - [ ] 17/9/2025- CQF Institute - AI and Machine Learning in Quant Finance Conference
    - [ ] 4-5/11/2025 - CQF - Annual Quant Insights Conference
-
 - [ ] Education
-   - [ ] 
+   - [ ] Finish Bachelor degree: Thesis on option pricing in stochastic volatility.
+   - [ ] Continue through with Master's Degree in Financial Mathematics - Dissertation on stochastic processes for finance?
+   - [ ] Continue on with Ph.d. in Computational Finance - High speed work in calculations of option prices or something
+- [ ] Projects
+   - [ ] sdqwew
+   - [ ] sdqwewq
+   - [ ] dqwewqe
 
 # Main Quest
 
