@@ -48,8 +48,8 @@ Authors: Mark Brezina, Axel Fristrup
    - [x] 8/3/2025 - Bangalore Quant Club - **Peter Cotton** - Machine Learning for Hierachical Portfolio Optimization Using Schur Complements
    - [x] 11/3/2025 - Imperial College - **Daniel Lacker** -  Non asymptomatic perspectives on mean field approximations and stochastic control
    - [x] 12/3/2025 - CQF Institute - Portfolio Management in Quant Finance Conference
-   - [ ] 13/3/2025 - Imperial College - Claudia Strauch - Statistical guarantees for denoising reflected diffusion models
-   - [ ] 26/3/2025 - CQF Institute - **Andrey Chirikhin** - Pricing the XVA and Marginal Stochastic Liabilities
+   - [ ] ~~13/3/2025 - Imperial College - Claudia Strauch - Statistical guarantees for denoising reflected diffusion models~~
+   - [ ] ~~26/3/2025 - CQF Institute - **Andrey Chirikhin** - Pricing the XVA and Marginal Stochastic Liabilities~~
    - [ ] 8/4/2025 - CQF Institute - Wim Schoutens - Omnipresent model risk
    - [ ] 7/5/2025 - CQF Institute - Laura Ballotta - The term structure of implied correlations between S&P and VIX markets
    - [ ] 4/6/2025 - CQF Institute - Volatility and Risk in Quant Finance Conference
