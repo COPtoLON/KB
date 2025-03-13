@@ -5,6 +5,10 @@ Authors: Mark Brezina, Axel Fristrup
 
 # Job & career
 
+- [ ] Hiring process
+   - [ ] ~~Man Group AHL - Risk Quant Dev~~
+   - [ ] Nickel Digital Assets - Quant Dev(?) - Analyst(?)
+
 - [ ] Apply positions [Data analyst, Quant Developer, Data engineer, etc. ]
    - [ ] Improve Resumé
    - [ ] Improve Cover Letter
