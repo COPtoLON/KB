@@ -2,8 +2,13 @@
 Note from recruiter: Michael is very sociable\
 The interview will be a high-level, not detail-oriented or technical \
 The interview should focus on relevant background for the position. \
-Keywords from recruiter: Optimize portfolios, Trade cycles, Relevant skills in current use.\
-Nothing technical, conversational, Exposure to crypto, transferable skills, Talk about experiences
+**Keywords from recruiter:**
+Optimize portfolios, - Markowitz/MPT, Risk-parity, Hierachical, looking into Stochastic
+Trade cycles - Mainly market states with the markov model and custom state triggers, nothing macroeconomic
+Exposure to crypto, - Connecting to exchanges via API or customized connection Binance, Pump.fun, Jup.ag - Long, short, options, crosses, single, leveraged positions
+Relevant skills in current use. - Python, ETL, Databases, Risk, Trading algorithms, portfolio stuff
+Relevant experiences - LD Pensions setting everything up from scratch(risk), WTECH setting everything up from scratch(Trading), Pump.fun/Raydium connection (connecting betweem exchanges)
+
 
 ### Interview 2 - Unknown, Technical lead? - Technical
 
