@@ -8,7 +8,7 @@ Trade cycles - Mainly market states with the markov model and custom state trigg
 Exposure to crypto, - Connecting to exchanges via API or customized connection Binance, Pump.fun, Jup.ag - Long, short, options, crosses, single, leveraged positions \
 Relevant skills in current use. - Python, ETL, Databases, Risk, Trading algorithms, portfolio stuff \
 Relevant experiences - LD Pensions setting everything up from scratch(risk), WTECH setting everything up from scratch(Trading), Pump.fun/Raydium connection (connecting betweem exchanges) \
-
+**Focus** - My focus has mostly been on determining market states, forecasting prices and optimal decision making.
 
 ### Interview 2 - Unknown, Technical lead? - Technical
 
