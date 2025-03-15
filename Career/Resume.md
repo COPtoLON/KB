@@ -412,8 +412,8 @@ A curated repository of finance and mathematics study materials aimed at buildin
 - **Supplementary References** – Links to external resources and additional reading to broaden learning horizons.
 By consolidating these resources in one place, the project strives to be an accessible, in-depth educational tool—supporting continuous skill development and knowledge acquisition in quantitative finance and mathematics.
 
-### 2018 - 2025 (Finished)
-[**Physics Simulations**](https://github.com/CtoL95/Galaksim)\
+### Physics simulations
+2018 - 2025 (Finished) [**Physics Simulations**](https://github.com/CtoL95/Galaksim)\
 A personal research project focused on simulating the rotational dynamics of spiral galaxies, blending core concepts from astrophysics and numerical analysis. The goal is to explore how large-scale gravitational interactions can be modeled in a multi-particle system, providing insights into galactic rotation curves and potential underlying physical phenomena. This ongoing work involves:\
 
 - Particle-based modeling of galaxy structures and orbital mechanics.
