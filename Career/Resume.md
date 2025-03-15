@@ -9,7 +9,7 @@ Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
 [HackerRank Profile](https://www.hackerrank.com/profile/mark642) | [Kaggle Profile](https://www.kaggle.com/copenhagentolondon) \
 [Medium Profile]() | [SSRN Profile]() 
 
-## Experience
+# Experience
 
 ### (GOAL) QUANTITATIVE RESEARCHER
 ABC partners inc. | London, United Kingdom | April 2027 – Present
@@ -174,7 +174,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 - Handled ad-hoc problem-solving to ensure smooth operations.
 - Emptied recycling machines, trash bins, and managed storage areas for exporting recycled bottles.
 
-## Education
+# Education
 
 ### (GOAL) Ph.D. in Computational Finance
 **Goal - Imperial College : London London, UK : 2028 - 2030**
@@ -215,9 +215,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 **Note: On this education I have had experience with Matlab, R, physics, astrophysics and mathematical physics work** 
 
-## Professional Development
-
-
+# Professional Development
 ### 2025
 
 #### Courses - Unfinished
@@ -339,7 +337,6 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
   -	Attended X, Y, Z and presented my findings at W.
   -	Participant at X, Y, Z Hackathon. Winning W hackathon.
   -	Ranked 103 at LeetCode, ranked 2055 at CodeForces and ranked 52 at HackerRank...
-
 - **Professional & Academic Engagement**
   - Active in professional networking: regularly attend conferences, workshops, and talks.
   - Reviewer and donator(2024–2025) for Anton Vorobets’s upcoming book on portfolio construction and risk management.
@@ -361,11 +358,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
   - Fitness enthusiast: committed to working out and maintaining an active lifestyle.
   - Active creative: Painting nature and drawing people is my passion.
 
-
-
 # Projects
-
-
 
 ## TMRW — A Comprehensive Algorithmic Trading & AI Initiative
 **Overview**
