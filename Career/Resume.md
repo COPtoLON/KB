@@ -8,7 +8,6 @@ Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
 [LinkedIn Profile](linkedin.com/in/coptolon) | [GitHub Profile](github.com/COPtoLon) \
 [HackerRank Profile](https://www.hackerrank.com/profile/mark642) | [Kaggle Profile](https://www.kaggle.com/copenhagentolondon) \
 [Medium Profile]() | [SSRN Profile]() 
-DataCamp: ---
 
 ## HARD SKILLS - what can I offer as an employee?
 
