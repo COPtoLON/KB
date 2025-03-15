@@ -286,6 +286,7 @@ Thomas Lystlund Studio, Copenhagen, Denmark\
 - [CME Group, Introduction to Treasuries](https://github.com/CtoL95/Test/blob/main/CME%20Introduction%20to%20Treasuries.pdf)
 -	[CME Group, Long Options: Underlying and Volatility impact](https://github.com/CtoL95/Test/blob/main/CME%20Long%20Options_%20Underlying%20and%20Volatility%20Impact.pdf)
 -	[CME Group, Understanding Futures Spreads](https://github.com/CtoL95/Test/blob/main/CME%20Understanding%20Futures%20Spreads.pdf)
+
 **Language**
 -	[Trinity College London - GESE 2 / CEFR Level A1](https://certificates.trinitycollege.com/3c9b7eda-0793-41d5-94e4-8d4f58dd8967#acc.H0LPcsja)
 -	[LanguageCert - ESOL International B2 English Communicator](https://github.com/CtoL95/Test/blob/main/LanguageCert%20-%20ESOL%20Written.pdf)
@@ -321,6 +322,7 @@ Thomas Lystlund Studio, Copenhagen, Denmark\
 - [Linkedin Learning Path - Advance Your Python Skills For Data Science](https://www.linkedin.com/learning/certificates/797299e19c57fa257790df3a6f985a4778ea1f72d68304b8162bbdc6ab9780af?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Getting Started with R for Data Science](https://www.linkedin.com/learning/certificates/db08e02f98cf05df162bea2ee2e05252d2a241a3aa05ed7ceff79e1b84c54d61?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 -	[Microsoft edX - Professional Certificate in Data analysis: Essential Skills](https://credentials.edx.org/credentials/5470fff383e1445f86fb1174a0dbab5a/?trk=public_profile_see-credential)
+
 **Investing/Quantitative finance/Trading**
 -	[University of Columbia edX - Professional Certificate in Corporate Finance](https://credentials.edx.org/credentials/c3f74af6ade049a2857e2f30ef81c4c2/?trk=public_profile_see-credential)
 -	[IMF edX - Macroeconometric Forecasting](https://courses.edx.org/certificates/8bf91f734bf7464c881c9ff61edd1d8c?_gl=1*17qmxac*_gcl_au*OTEyNjc5NDcyLjE3MzYyNjUzNjE.*_ga*ODA2MDY4NjMuMTczNjI2NTM2MQ..*_ga_D3KS4KMDT0*MTczNjI2NTM2MS4xLjEuMTczNjI2NTcxMC41OS4wLjA.)
@@ -332,6 +334,7 @@ Thomas Lystlund Studio, Copenhagen, Denmark\
 - [Linkedin Learning Path - Getting Started in Finance and Accounting](https://www.linkedin.com/learning/certificates/8d831a982becf9f943394377e6eb85abb2a4ffffe8cac39b1317106e8db398ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Getting Started in Finance & Bookkeeping](https://www.linkedin.com/learning/certificates/8d00d39513032ae2ec43bfb350fc7d6522aa23b3c7657ceffa62d104896fdf88?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Getting Started as a Business Analyst](https://www.linkedin.com/learning/certificates/41455540e531d4b8d086b9686f6c65ef60d52f3881ab38a004c2c9b1d315795a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
+
 **Other interests**
 - [WorldBank edX, The Future of Work: Preparing for Disruption](https://courses.edx.org/certificates/5c696f67576c420989d859d6a201aaf0?_gl=1*17qmxac*_gcl_au*OTEyNjc5NDcyLjE3MzYyNjUzNjE.*_ga*ODA2MDY4NjMuMTczNjI2NTM2MQ..*_ga_D3KS4KMDT0*MTczNjI2NTM2MS4xLjEuMTczNjI2NTcxMC41OS4wLjA.)
 -	[WorldBank edX, Unlocking Investment and Finance in Emerging Markets and Developing Economies](https://courses.edx.org/certificates/98f9428afa2b42aa93cf316d13935ff2?_gl=1*17qmxac*_gcl_au*OTEyNjc5NDcyLjE3MzYyNjUzNjE.*_ga*ODA2MDY4NjMuMTczNjI2NTM2MQ..*_ga_D3KS4KMDT0*MTczNjI2NTM2MS4xLjEuMTczNjI2NTcxMC41OS4wLjA.)
