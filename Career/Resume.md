@@ -363,7 +363,94 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 
 
-## Projects
+# Projects
+
+
+## TMRW – Algorithmic Trading & AI-Driven Market Solutions
+**Overview**
+TMRW (pronounced "Tomorrow") is a long-term research and development initiative focused on algorithmic trading, financial modeling, and AI-driven market strategies. The project has evolved through multiple phases, integrating rigorous mathematical research, systematic backtesting, and infrastructure development to build a scalable, efficient, and competitive trading framework.
+
+## Project Evolution & Key Components
+### TMRW Research (2019 - Present)
+A dedicated research effort to accumulate knowledge and develop methodologies in algorithmic trading and investing. Focus areas include:
+- Stochastic processes and time-series analysis
+- Machine learning models for trading signals
+- Statistical arbitrage and quantitative risk management
+[Link]
+
+### TMRW Infrastructure (2019 - Present)
+A personal Python package designed for scalable ETL processes and data analysis, forming the backbone of the trading system. Features include:
+
+- Automated data ingestion and transformation
+- API integrations with market data sources (Bloomberg, MSCI, Sustainalytics)
+- Advanced visualization and performance tracking
+[Link]
+
+### TMRW Simulations (2022 - Present)
+Monte Carlo simulation software built for scenario testing, risk analysis, and pricing strategies. This includes:
+
+- Brownian motion and Ornstein–Uhlenbeck models
+- Stress testing of trading strategies under extreme market conditions
+- Portfolio-level risk simulations
+[Link]
+
+### TMRW Strategies (2023 - Present)
+A framework for developing, testing, and deploying algorithmic trading strategies. Notable achievements:
+
+- Designed and backtested trading algorithms based on mean reversion, momentum, and trend detection
+- Achieved a 13% return over two months during live testing
+- Framework includes robust risk management and capital allocation mechanisms
+[Link]
+
+### TMRW-AI Solution (2024 - Present)
+After years of development, research, and practical deployment, a significant pivot was made towards AI-driven trading models. The latest focus is on:
+
+- Multi-layered AI agent integrating reinforcement learning and predictive analytics
+- Adaptive decision-making systems capable of adjusting trading parameters dynamically
+- Real-time market impact analysis to mitigate slippage and optimize execution
+[Link]
+
+## Supporting Research & Tools
+### Algorithmic Trading Research (2022 - Present)
+A GitHub repository dedicated to the development and evaluation of algorithmic trading strategies, exploring:
+- Mathematical models for asset price movements and stochastic processes
+- Data-driven insights through comprehensive backtesting frameworks
+[GitHub Repository]
+
+### Stochastic Simulation Package for Quantitative Finance (2022 - Present)
+A Python package implementing stochastic modeling techniques:
+- Simulation of financial instrument paths using Monte Carlo techniques
+- Market volatility modeling through Brownian motion and mean-reversion processes
+[GitHub Repository]
+### Knowledgebase - Mathematics & Finance Resource Hub (2023 - Present)
+A curated collection of mathematical and financial study materials, designed to be expanded into an educational book.
+- Conceptual overviews of advanced mathematical finance topics
+- Problem-solving guides with real-world examples
+- Supplementary references for deeper exploration
+[GitHub Repository]
+
+## Long-Term Vision
+The ultimate goal of TMRW is to develop an autonomous AI-driven trading system that can continuously learn, adapt, and execute trades in a dynamically changing market. The evolution of the project reflects the ongoing pursuit of innovation, data-driven decision-making, and robust risk management.
+
+With the foundation built on extensive research and practical experience, TMRW aims to bridge the gap between cutting-edge AI and financial markets, creating a scalable, profitable, and resilient algorithmic trading solution.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ### TMRW
 TMRW (pronounced Tomorrow), is a brainchild of mine. I’ve been working to understand, research and establish a small algorithmic trading fund for a while now. Various parts of the larger project have come along as I have proceeded towards my goal. The first one being the research.
 
