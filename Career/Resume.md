@@ -9,6 +9,58 @@ Hackerrank: https://www.hackerrank.com/profile/mark642 \
 Kaggle: https://www.kaggle.com/copenhagentolondon \
 DataCamp: ---
 
+## HARD SKILLS - what can I offer as an employee?
+- **Mathematics & Statistics**
+  - Advanced Probability Theory (stochastic processes, Monte Carlo methods)
+  - Statistical Analysis (regression, hypothesis testing, VaR, CVaR)
+  - Numerical Methods (optimization, simulation, finite-difference methods)
+- **Programming & Data Engineering**
+  - Python (packages for data science, quantitative finance, API integrations)
+  - R (statistical computing, Shiny apps, R-package development)
+  - SQL & SAS (data querying, reporting, ETL pipelines)
+  - Excel/VBA (automation, macros, add-ins)
+- **Quantitative Finance & Risk management**
+  - Portfolio Management (optimization, asset allocation)
+  - Derivatives Pricing (stochastic volatility models, Heston model, Black–Scholes)
+  - Risk Assessment (credit risk, market risk, interest rate risk)
+  - Algorithmic Trading (backtesting, forecasting, low-frequency trading systems)
+- **Data Science & Analytics**
+  - ETL Pipelines (data wrangling from multiple APIs and sources)
+  - Machine Learning (predictive modeling, feature engineering)
+  - Statistical Computing Environments (SAS, R, Python)
+  - Visualization & Reporting (Power BI, Python libraries like matplotlib/seaborn, Excel dashboards)
+- **Software Development & Architecture**
+  - Building robust software ecosystems (documentation, version control, modular design)
+  - API Integrations (Bloomberg, MSCI, Yahoo, alphaVantage, Binance)
+  - High-Performance Backtesting Frameworks (C++/Python-based)
+  - CI/CD & Deployment (potentially via GitHub, Docker—if relevant)
+- **Research & Teaching**
+  - Quantitative Research (designing and testing new models/strategies)
+  - Academic/Professional Course Instruction (VBA, Python)
+  - Technical Writing & Documentation (internal packages, risk reports)
+
+## SOFT SKILLS - who am I as a person in your company
+- **Analytical Thinking & Problem-Solving**
+  - Adept at breaking down complex quantitative challenges into actionable steps
+  - Creative in devising novel trading models and simulation approaches
+- **Adaptability & Resilience**
+  - Experienced working in fast-paced, high-pressure environments (algorithmic trading, startup settings)
+  - Flexible in shifting among multiple projects and technologies
+- **Communication & Collaboration**
+  - Teaching Experience: Excel/VBA/Python courses for various audiences
+  - Ability to explain complex financial or technical concepts to non-specialists
+  - Team Leadership: spearheading legal incorporation, funding, and strategic direction
+- **Attention to Detail**
+  - Precise in risk modeling, forecasting, and code reviews
+  - Thorough in maintaining data integrity, documentation, and reliability
+- **Self-Motivation & Initiative**
+  - Freelance software development (indicates resourcefulness and entrepreneurial spirit)
+  - Continuous learning (extensive course list, staying at the cutting edge of finance and data science)
+- **Reliability & Work Ethic**
+  - History of taking ownership of projects from inception to completion
+  - Track record of consistent performance under deadlines (e.g., delivering dynamic solutions in data analytics and quant roles)
+
+
 ## Experience
 
 ### TARGET ROLE 2 - QUANTITATIVE RESEARCHER
@@ -125,12 +177,23 @@ Thomas Lystlund Studio, Copenhagen, Denmark\
 
 
 ## Education
+
+### GOAL) Ph.D. in computational finance - Imperial College London
+Goal - London, UK
+Thesis: high speed calculations on simulations
+
+### (GOAL) MA in financial mathematics - LSE
+Goal - London, UK
+Dissertation: Stochastic modelling Relevant coursework: ---
+
 ### UNIVERSITY OF COPENHAGEN 					 
 Ongoing\
 Copenhagen, Denmark\
 Bachelor, mathematical statistics\	   				                                      
 Thesis: R-Library development for General insurance\
 Relevant Coursework: Basic non-life insurance mathematics, basic life insurance mathematics, advanced probability theory, mathematical statistics 1&2, stochastic processes 1,2 & 3.
+
+Note: I've finished a first year project in estimating best trading strategies around significant events in stock markets, the title was: Event study in the stock market. The focus was on the acquisition announcement between AuthenTec and Apple.
 
 ### UNIVERSITY OF COPENHAGEN 					 
 resigned\
@@ -139,11 +202,16 @@ Bachelor, mathematical Physics\
 Thesis: None\
 Relevant Coursework: Introductory Quantum Mechanics, Advanced Quantum Mechancis, Galactic Astrophysics, mathematical statistics, Complex analysis
 
+Note: Resigned to transfer to the bachelor degree in Mathematical Statistics.
+I finished a first year project on calculating the rotational speed of spiral galaxies, to estimate dark matter.
 
 
 ## Professional Development
 
 ### 2025
+Bangalore Quant Club - Peter Cotton - Machine Learning for Hierachical Portfolio Optimization Using Schur Complements
+Quant insider - Andrey Chirikhin - Introduction to Credit Derivatives
+Oxford Mathematical and Computational Finance, Frontiers in Quantitative Finance Seminar - Dr Eghbal Rahimikia - Revisiting Large Language Models in Finance
 
 **wishlist**
 - *2025 [Oxford AI for trading](https://www.getsmarter.com/products/oxford-ai-in-algorithmic-trading-series?_gl=1*8j8qch*_up*MQ..*_ga*MjAyMTMwODUyNy4xNzM2ODEzMDA3*_ga_D3KS4KMDT0*MTczNjgxMzAwNy4xLjAuMTczNjgxMzAwNy4wLjAuMA..*_ga_QQSC9D30C7*MTczNjgxMzAwNy4xLjAuMTczNjgxMzAwNy4wLjAuMA..)
@@ -274,57 +342,6 @@ Relevant Coursework: Introductory Quantum Mechanics, Advanced Quantum Mechancis,
 - [Linkedin Learning Path - Improve Your Organizational Skills](https://www.linkedin.com/learning/certificates/137a5099ab65aa75e21b4e03c7522bf0fc59447a5711d4d4f6f16604938365b2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Improve Your Interoffice Politics Skills](https://www.linkedin.com/learning/certificates/ec61e527b5d2a1bab29a7e2a5aa8a9c07b7a81f141f5e46a9784fa03771560f0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Advance Your Career as an Individual Contributor](https://www.linkedin.com/learning/certificates/00d00324e1197ecb6c154fb51e5179790876b1a0dbd42846c58096f20272a9d9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
-
-## HARD SKILLS - what can I offer as an employee?
-- **Mathematics & Statistics**
-  - Advanced Probability Theory (stochastic processes, Monte Carlo methods)
-  - Statistical Analysis (regression, hypothesis testing, VaR, CVaR)
-  - Numerical Methods (optimization, simulation, finite-difference methods)
-- **Programming & Data Engineering**
-  - Python (packages for data science, quantitative finance, API integrations)
-  - R (statistical computing, Shiny apps, R-package development)
-  - SQL & SAS (data querying, reporting, ETL pipelines)
-  - Excel/VBA (automation, macros, add-ins)
-- **Quantitative Finance & Risk management**
-  - Portfolio Management (optimization, asset allocation)
-  - Derivatives Pricing (stochastic volatility models, Heston model, Black–Scholes)
-  - Risk Assessment (credit risk, market risk, interest rate risk)
-  - Algorithmic Trading (backtesting, forecasting, low-frequency trading systems)
-- **Data Science & Analytics**
-  - ETL Pipelines (data wrangling from multiple APIs and sources)
-  - Machine Learning (predictive modeling, feature engineering)
-  - Statistical Computing Environments (SAS, R, Python)
-  - Visualization & Reporting (Power BI, Python libraries like matplotlib/seaborn, Excel dashboards)
-- **Software Development & Architecture**
-  - Building robust software ecosystems (documentation, version control, modular design)
-  - API Integrations (Bloomberg, MSCI, Yahoo, alphaVantage, Binance)
-  - High-Performance Backtesting Frameworks (C++/Python-based)
-  - CI/CD & Deployment (potentially via GitHub, Docker—if relevant)
-- **Research & Teaching**
-  - Quantitative Research (designing and testing new models/strategies)
-  - Academic/Professional Course Instruction (VBA, Python)
-  - Technical Writing & Documentation (internal packages, risk reports)
-
-## SOFT SKILLS - who am I as a person in your company
-- **Analytical Thinking & Problem-Solving**
-  - Adept at breaking down complex quantitative challenges into actionable steps
-  - Creative in devising novel trading models and simulation approaches
-- **Adaptability & Resilience**
-  - Experienced working in fast-paced, high-pressure environments (algorithmic trading, startup settings)
-  - Flexible in shifting among multiple projects and technologies
-- **Communication & Collaboration**
-  - Teaching Experience: Excel/VBA/Python courses for various audiences
-  - Ability to explain complex financial or technical concepts to non-specialists
-  - Team Leadership: spearheading legal incorporation, funding, and strategic direction
-- **Attention to Detail**
-  - Precise in risk modeling, forecasting, and code reviews
-  - Thorough in maintaining data integrity, documentation, and reliability
-- **Self-Motivation & Initiative**
-  - Freelance software development (indicates resourcefulness and entrepreneurial spirit)
-  - Continuous learning (extensive course list, staying at the cutting edge of finance and data science)
-- **Reliability & Work Ethic**
-  - History of taking ownership of projects from inception to completion
-  - Track record of consistent performance under deadlines (e.g., delivering dynamic solutions in data analytics and quant roles)
 
 ## Notable Activities
 - **Professional & Academic Engagement**
