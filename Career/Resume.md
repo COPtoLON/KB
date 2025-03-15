@@ -377,14 +377,10 @@ A dedicated research effort to accumulate knowledge and develop methodologies in
 - Stochastic processes and time-series analysis
 - Machine learning models for trading signals
 - Statistical arbitrage and quantitative risk management
-### Knowledgebase - Mathematics & Finance Resource Hub (2023 - Present)
 A curated collection of mathematical and financial study materials, designed to be expanded into an educational book.
 - Conceptual overviews of advanced mathematical finance topics
 - Problem-solving guides with real-world examples
 - Supplementary references for deeper exploration
-[GitHub Repository]
-### 2023 - Now (Ongoing)
-[**Accumulation of mathematics and Finance resources**](https://github.com/CtoL95/Knowledgebase)
 A curated repository of finance and mathematics study materials aimed at building a robust knowledge base for students, professionals, and enthusiasts. Designed to evolve into a book or eBook in the future, it encompasses:
 
 - **Conceptual Overviews** – Clear explanations and theoretical insights into core finance and math concepts.
@@ -405,19 +401,13 @@ A personal Python package designed for scalable ETL processes and data analysis,
 
 ### TMRW Simulations (2022 - Present)
 Monte Carlo simulation software built for scenario testing, risk analysis, and pricing strategies. This includes:
-### Stochastic Simulation Package for Quantitative Finance (2022 - Present)
 A Python package implementing stochastic modeling techniques:
 - Simulation of financial instrument paths using Monte Carlo techniques
 - Market volatility modeling through Brownian motion and mean-reversion processes
-[GitHub Repository]
 - Brownian motion and Ornstein–Uhlenbeck models
 - Stress testing of trading strategies under extreme market conditions
 - Portfolio-level risk simulations
-[Link]
-### 2022 - Now	(Ongoing)
-[**Stochastic simulation package for Quantitative Finance**](https://github.com/CopenhagenToLondon/GoldenDice) \
 A personal project featuring a suite of classes, functions, and scripts designed to showcase the implementation and application of stochastic processes in a finance and investment context. By incorporating Monte Carlo techniques alongside Brownian motion, square-root diffusion, and Ornstein–Uhlenbeck models, this package provides:\
-
 - Path generation and simulation for a variety of financial instruments, aimed at pricing and risk analysis.
 - Scenario testing and sensitivity analyses, leveraging advanced models to capture market volatility and mean-reversion behaviors.
 - Flexible codebase for easy integration into broader quantitative strategies, including portfolio optimization and derivatives pricing.
@@ -426,21 +416,15 @@ This repository underscores a hands-on approach to quantitative finance—demons
 
 ### TMRW Strategies (2023 - Present)
 A framework for developing, testing, and deploying algorithmic trading strategies. Notable achievements:
-### Algorithmic Trading Research (2022 - Present)
 A GitHub repository dedicated to the development and evaluation of algorithmic trading strategies, exploring:
 - Mathematical models for asset price movements and stochastic processes
 - Data-driven insights through comprehensive backtesting frameworks
 [GitHub Repository]
-### 2022 - Now (Ongoing)
-[**Algorithmic trading**](https://github.com/CopenhagenToLondon/WTech) \
 A research-focused project dedicated to the development and evaluation of trading algorithms that leverage rigorous mathematical methods for profitable market participation. Key areas of exploration include:
-
 - **Mathematical Models** - Investigating advanced patterns in asset price movements, incorporating stochastic processes, time series analysis, and statistical optimization to identify high-probability trading opportunities.
 - **Algorithmic Strategies** - Designing, testing, and refining algorithmic approaches—such as mean reversion, momentum, and pattern detection—aimed at capturing market inefficiencies and enhancing risk-adjusted returns.
 - **Data-Driven Insights** - Employing comprehensive data analysis to validate algorithm performance under various market conditions, emphasizing reproducibility and robust quantitative frameworks.
-
 By bridging in-depth mathematical research with practical algorithmic trading techniques, the project aspires to unlock scalable, evidence-based solutions for navigating the complexities of modern financial markets.
-
 - Designed and backtested trading algorithms based on mean reversion, momentum, and trend detection
 - Achieved a 13% return over two months during live testing
 - Framework includes robust risk management and capital allocation mechanisms
