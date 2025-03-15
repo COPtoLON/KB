@@ -371,11 +371,28 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 TMRW (pronounced "Tomorrow") is a long-term research and development initiative focused on algorithmic trading, financial modeling, and AI-driven market strategies. The project has evolved through multiple phases, integrating rigorous mathematical research, systematic backtesting, and infrastructure development to build a scalable, efficient, and competitive trading framework.
 
 ## Project Evolution & Key Components
+
 ### TMRW Research (2019 - Present)
 A dedicated research effort to accumulate knowledge and develop methodologies in algorithmic trading and investing. Focus areas include:
 - Stochastic processes and time-series analysis
 - Machine learning models for trading signals
 - Statistical arbitrage and quantitative risk management
+### Knowledgebase - Mathematics & Finance Resource Hub (2023 - Present)
+A curated collection of mathematical and financial study materials, designed to be expanded into an educational book.
+- Conceptual overviews of advanced mathematical finance topics
+- Problem-solving guides with real-world examples
+- Supplementary references for deeper exploration
+[GitHub Repository]
+### 2023 - Now (Ongoing)
+[**Accumulation of mathematics and Finance resources**](https://github.com/CtoL95/Knowledgebase)
+A curated repository of finance and mathematics study materials aimed at building a robust knowledge base for students, professionals, and enthusiasts. Designed to evolve into a book or eBook in the future, it encompasses:
+
+- **Conceptual Overviews** – Clear explanations and theoretical insights into core finance and math concepts.
+- **Practical Problem-Solving** – Step-by-step walkthroughs and examples that bring complex topics to life.
+- **Supplementary References** – Links to external resources and additional reading to broaden learning horizons.
+By consolidating these resources in one place, the project strives to be an accessible, in-depth educational tool—supporting continuous skill development and knowledge acquisition in quantitative finance and mathematics.
+
+
 [Link]
 
 ### TMRW Infrastructure (2019 - Present)
@@ -388,14 +405,41 @@ A personal Python package designed for scalable ETL processes and data analysis,
 
 ### TMRW Simulations (2022 - Present)
 Monte Carlo simulation software built for scenario testing, risk analysis, and pricing strategies. This includes:
-
+### Stochastic Simulation Package for Quantitative Finance (2022 - Present)
+A Python package implementing stochastic modeling techniques:
+- Simulation of financial instrument paths using Monte Carlo techniques
+- Market volatility modeling through Brownian motion and mean-reversion processes
+[GitHub Repository]
 - Brownian motion and Ornstein–Uhlenbeck models
 - Stress testing of trading strategies under extreme market conditions
 - Portfolio-level risk simulations
 [Link]
+### 2022 - Now	(Ongoing)
+[**Stochastic simulation package for Quantitative Finance**](https://github.com/CopenhagenToLondon/GoldenDice) \
+A personal project featuring a suite of classes, functions, and scripts designed to showcase the implementation and application of stochastic processes in a finance and investment context. By incorporating Monte Carlo techniques alongside Brownian motion, square-root diffusion, and Ornstein–Uhlenbeck models, this package provides:\
+
+- Path generation and simulation for a variety of financial instruments, aimed at pricing and risk analysis.
+- Scenario testing and sensitivity analyses, leveraging advanced models to capture market volatility and mean-reversion behaviors.
+- Flexible codebase for easy integration into broader quantitative strategies, including portfolio optimization and derivatives pricing.
+
+This repository underscores a hands-on approach to quantitative finance—demonstrating how robust stochastic methods can help model, forecast, and manage uncertainty in real-world investment environments.
 
 ### TMRW Strategies (2023 - Present)
 A framework for developing, testing, and deploying algorithmic trading strategies. Notable achievements:
+### Algorithmic Trading Research (2022 - Present)
+A GitHub repository dedicated to the development and evaluation of algorithmic trading strategies, exploring:
+- Mathematical models for asset price movements and stochastic processes
+- Data-driven insights through comprehensive backtesting frameworks
+[GitHub Repository]
+### 2022 - Now (Ongoing)
+[**Algorithmic trading**](https://github.com/CopenhagenToLondon/WTech) \
+A research-focused project dedicated to the development and evaluation of trading algorithms that leverage rigorous mathematical methods for profitable market participation. Key areas of exploration include:
+
+- **Mathematical Models** - Investigating advanced patterns in asset price movements, incorporating stochastic processes, time series analysis, and statistical optimization to identify high-probability trading opportunities.
+- **Algorithmic Strategies** - Designing, testing, and refining algorithmic approaches—such as mean reversion, momentum, and pattern detection—aimed at capturing market inefficiencies and enhancing risk-adjusted returns.
+- **Data-Driven Insights** - Employing comprehensive data analysis to validate algorithm performance under various market conditions, emphasizing reproducibility and robust quantitative frameworks.
+
+By bridging in-depth mathematical research with practical algorithmic trading techniques, the project aspires to unlock scalable, evidence-based solutions for navigating the complexities of modern financial markets.
 
 - Designed and backtested trading algorithms based on mean reversion, momentum, and trend detection
 - Achieved a 13% return over two months during live testing
@@ -410,100 +454,8 @@ After years of development, research, and practical deployment, a significant pi
 - Real-time market impact analysis to mitigate slippage and optimize execution
 [Link]
 
-## Supporting Research & Tools
-### Algorithmic Trading Research (2022 - Present)
-A GitHub repository dedicated to the development and evaluation of algorithmic trading strategies, exploring:
-- Mathematical models for asset price movements and stochastic processes
-- Data-driven insights through comprehensive backtesting frameworks
-[GitHub Repository]
 
-### Stochastic Simulation Package for Quantitative Finance (2022 - Present)
-A Python package implementing stochastic modeling techniques:
-- Simulation of financial instrument paths using Monte Carlo techniques
-- Market volatility modeling through Brownian motion and mean-reversion processes
-[GitHub Repository]
-### Knowledgebase - Mathematics & Finance Resource Hub (2023 - Present)
-A curated collection of mathematical and financial study materials, designed to be expanded into an educational book.
-- Conceptual overviews of advanced mathematical finance topics
-- Problem-solving guides with real-world examples
-- Supplementary references for deeper exploration
-[GitHub Repository]
-
-## Long-Term Vision
-The ultimate goal of TMRW is to develop an autonomous AI-driven trading system that can continuously learn, adapt, and execute trades in a dynamically changing market. The evolution of the project reflects the ongoing pursuit of innovation, data-driven decision-making, and robust risk management.
-
-With the foundation built on extensive research and practical experience, TMRW aims to bridge the gap between cutting-edge AI and financial markets, creating a scalable, profitable, and resilient algorithmic trading solution.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### TMRW
-TMRW (pronounced Tomorrow), is a brainchild of mine. I’ve been working to understand, research and establish a small algorithmic trading fund for a while now. Various parts of the larger project have come along as I have proceeded towards my goal. The first one being the research.
-
-**TMRW Research | 2019 - Now | Accumulating knowledge and research about algorithmic trading and investing. Link**
-
-Beyond having had to research and understand, I’ve also had to develop infrastructure for the project. Most of this infrastructure I’ve combined into a personal python package, which I can use in many different projects.
-
-**TMRW infrastructure | 2019 – Now | Personal python package, for use in ETL processes and with various useful data analysis functionalities Link**
-
-After having build the main infrastructure of the company I started researching what companies like TwoSigma, MAN Group or FlowTrading did in order to be the leaders in algorithmic trading. One of the ideas presented to me often, was the idea of monte carlo simulations, so I got to work on a simulation engine that I was satisfied could be useful in my venture.
-
-**TMRW Simulations | 2022 - Now | Monte Carlo simulation software Link**
-
-After having worked with a small hedge fund in Denmark as their goto guy for everything quantitative, I decided to try my hand at working with various trading algorithms on my own, developing them into a satisfactory framework and rigorously backtesting them against various different scenarios. After a few months I employed them in practice, earning 13% in the two months the algorithm was running. I have since had to put the work on hold, as I have moved to London. 
-
-**TMRW Strategies | 2023 - Now | Algorithmic trading strategies, rigorously backtested**
-
-After having worked tirelessly on this project for many years, I had a great epiphany in November 2024. Much of my research and experience running the model has led me to believe that a multi-layered AI agent, will be the defining feature of an algorithmic trading model, that can significantly outperform many participants in the market.
-
-**TMRW-AI Solution | 2024 - Now | Multi-layered AI model for trading**
-
-The work on this AI agent has been significant, it has taken much of my time to both research, decide on infrastructure reworks and develop a basic model.
-
-### 2022 - Now (Ongoing)
-[**Algorithmic trading**](https://github.com/CopenhagenToLondon/WTech) \
-A research-focused project dedicated to the development and evaluation of trading algorithms that leverage rigorous mathematical methods for profitable market participation. Key areas of exploration include:
-
-- **Mathematical Models** - Investigating advanced patterns in asset price movements, incorporating stochastic processes, time series analysis, and statistical optimization to identify high-probability trading opportunities.
-- **Algorithmic Strategies** - Designing, testing, and refining algorithmic approaches—such as mean reversion, momentum, and pattern detection—aimed at capturing market inefficiencies and enhancing risk-adjusted returns.
-- **Data-Driven Insights** - Employing comprehensive data analysis to validate algorithm performance under various market conditions, emphasizing reproducibility and robust quantitative frameworks.
-
-By bridging in-depth mathematical research with practical algorithmic trading techniques, the project aspires to unlock scalable, evidence-based solutions for navigating the complexities of modern financial markets.
-
-### 2022 - Now	(Ongoing)
-[**Stochastic simulation package for Quantitative Finance**](https://github.com/CopenhagenToLondon/GoldenDice) \
-A personal project featuring a suite of classes, functions, and scripts designed to showcase the implementation and application of stochastic processes in a finance and investment context. By incorporating Monte Carlo techniques alongside Brownian motion, square-root diffusion, and Ornstein–Uhlenbeck models, this package provides:\
-
-- Path generation and simulation for a variety of financial instruments, aimed at pricing and risk analysis.
-- Scenario testing and sensitivity analyses, leveraging advanced models to capture market volatility and mean-reversion behaviors.
-- Flexible codebase for easy integration into broader quantitative strategies, including portfolio optimization and derivatives pricing.
-
-This repository underscores a hands-on approach to quantitative finance—demonstrating how robust stochastic methods can help model, forecast, and manage uncertainty in real-world investment environments.
-
-### 2023 - Now (Ongoing)
-[**Accumulation of mathematics and Finance resources**](https://github.com/CtoL95/Knowledgebase)
-A curated repository of finance and mathematics study materials aimed at building a robust knowledge base for students, professionals, and enthusiasts. Designed to evolve into a book or eBook in the future, it encompasses:
-
-- **Conceptual Overviews** – Clear explanations and theoretical insights into core finance and math concepts.
-- **Practical Problem-Solving** – Step-by-step walkthroughs and examples that bring complex topics to life.
-- **Supplementary References** – Links to external resources and additional reading to broaden learning horizons.
-By consolidating these resources in one place, the project strives to be an accessible, in-depth educational tool—supporting continuous skill development and knowledge acquisition in quantitative finance and mathematics.
-
-### Physics simulations
+# Physics simulations
 2018 - 2025 (Finished) [**Physics Simulations**](https://github.com/CtoL95/Galaksim)\
 A personal research project focused on simulating the rotational dynamics of spiral galaxies, blending core concepts from astrophysics and numerical analysis. The goal is to explore how large-scale gravitational interactions can be modeled in a multi-particle system, providing insights into galactic rotation curves and potential underlying physical phenomena. This ongoing work involves:\
 
