@@ -22,7 +22,6 @@ WTECH, Copenhagen, Denmark\
 
 ### Quantitative Developer & Researcher
 WTECH | Copenhagen, Denmark | January 2024 – Present(paused atm.)
-*Led the development of an algorithmic trading startup focused on creating innovative trading strategies and software solutions for financial markets.*
 - Company Formation & Leadership
   - Spearheaded legal incorporation, secured funding, and established a sustainable business model.
   - Oversaw recruitment and team-building efforts, aligning talent with core mission and strategic objectives.
@@ -43,8 +42,7 @@ Python, SQL, Algorithmic trading, Cryptocurrencies, Quantitative Research, Monte
 <br>
 
 ### Freelance Software Developer
-Self-Employed | Remote | May 2024 – January 2025
-*Developing various trading, investing or finance-oriented software*		     
+Self-Employed | Remote | May 2024 – January 2025	     
 - Developed a high frequency trading system to trade emerging meme coins as soon as they hit the raydium market.
 - Developed a trading algorithm in Pinescript to indicate and initiate trades based on a few predefined trade signals
 - Developed a website in HTML for an acquaintance looking to expand his hobby photography.
