@@ -11,11 +11,29 @@ Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
 
 # Experience
 
-### (GOAL) QUANTITATIVE RESEARCHER
+### (GOAL) Quantitative Researcher
 ABC partners inc. | London, United Kingdom | April 2027 – Present
+
+
 <br>
-### TARGET ROLE - QUANTITATIVE DEVELOPER
+### Target Role: Quantitative Developer
 YourCompany ltd | London, United Kingdom | April 2025 – Present
+- End-to-End Alpha Research & Implementation
+  - Develop and refine systematic trading signals for equities or crypto markets, integrating advanced statistical models, machine learning methods, and factor-based approaches.
+  - Implement and maintain high-performance backtesting frameworks to validate alpha ideas with historical data, ensuring robustness and risk-adjusted returns.
+- Data-Intensive Pipeline Development
+  - Architect scalable ETL pipelines to ingest diverse data sources (e.g., exchange APIs, on-chain crypto feeds, fundamentals, alternative data), guaranteeing low-latency and reliable inputs for real-time strategies.
+  - Collaborate on distributed computing or cloud-based HPC solutions (Ray, Dask, AWS, etc.) to accelerate complex simulations and multi-strategy backtests.
+- Real-Time Strategy Execution
+  - Integrate alpha signals into production trading systems, managing order routing, transaction cost analysis, and PnL/risk attribution in a low-latency environment.
+  - Monitor live strategies, adjusting parameters and rebalancing logic based on performance metrics and evolving market conditions.
+- Cross-Functional Collaboration
+  - Work closely with quant researchers, traders, and data scientists to explore new alpha opportunities, refine factor models, and enhance existing strategies.
+  - Provide technical leadership in code quality, design patterns, and continuous integration best practices to ensure the stability and reliability of trading operations.
+- Software Engineering & Infrastructure
+  - Write clean, modular Python/C++ code with comprehensive unit tests and documentation, adhering to best practices in software architecture and version control.
+  - Employ DevOps techniques (Docker, Kubernetes, CI/CD) for efficient deployment and maintenance of research and live trading environments.
+
 <br>
 ### Quantitative Developer & Researcher
 WTECH | Copenhagen, Denmark | January 2024 – Present(paused atm.)
