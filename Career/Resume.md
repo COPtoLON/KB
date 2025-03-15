@@ -1,12 +1,15 @@
 [CV help](https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/)
 
-# Mark Daniel Balle Brezina
+# Mark (Daniel Balle) Brezina
 
 Francis Harvey Way 1, London SE8 4DA, UK  \
-07761917490 | CPHtoLON@gmail.com \
+UK phone - (+44)7761917490 | DK phone - (+45)93904834
+Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
 linkedin.com/in/coptolon | github.com/COPtoLon \
 Hackerrank: https://www.hackerrank.com/profile/mark642 \
 Kaggle: https://www.kaggle.com/copenhagentolondon \
+Medium: 
+SSRN: 
 DataCamp: ---
 
 ## HARD SKILLS - what can I offer as an employee?
