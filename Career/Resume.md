@@ -331,7 +331,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 - [Linkedin Learning Path - Improve Your Interoffice Politics Skills](https://www.linkedin.com/learning/certificates/ec61e527b5d2a1bab29a7e2a5aa8a9c07b7a81f141f5e46a9784fa03771560f0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Advance Your Career as an Individual Contributor](https://www.linkedin.com/learning/certificates/00d00324e1197ecb6c154fb51e5179790876b1a0dbd42846c58096f20272a9d9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 
-## Notable Activities
+# Notable Activities
 -	**goals**
   - Published research article on SSRN - ...
   -	Attended X, Y, Z and presented my findings at W.
@@ -469,7 +469,7 @@ TMRW’s mission is to push the boundaries of quantitative and AI-driven finance
 
 **“Tomorrow”** may symbolize the future, but for TMRW, the future is already in development—and it’s fueled by mathematical rigor, strategic experimentation, and cutting-edge AI.
 
-# Physics simulations
+## Physics simulations
 2018 - 2025 (Finished) [**Physics Simulations**](https://github.com/CtoL95/Galaksim)\
 A personal research project focused on simulating the rotational dynamics of spiral galaxies, blending core concepts from astrophysics and numerical analysis. The goal is to explore how large-scale gravitational interactions can be modeled in a multi-particle system, providing insights into galactic rotation curves and potential underlying physical phenomena. This ongoing work involves:\
 
