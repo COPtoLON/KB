@@ -156,31 +156,33 @@ Thomas Lystlund Studio, Copenhagen, Denmark\
 ## Education
 
 ### GOAL) Ph.D. in computational finance
-Goal - Imperial College : London London, UK : 2028 - 2030
+**Goal - Imperial College : London London, UK : 2028 - 2030**
 - Thesis(idea): “High-Performance Stochastic Simulation for Real-Time Derivatives Pricing and Systematic Trading”
 - Focus on advanced stochastic calculus, machine learning–based alpha models, and HPC for large-scale risk simulations.
 - Engaged in cross-disciplinary research with the Department of Mathematics and a leading quant firm, applying cutting-edge computational methods to real-world trading scenarios.
 
 ### (GOAL) MA in financial mathematics - LSE
-Goal - LSE : London, UK : 2026 - 2028
+**Goal - LSE : London, UK : 2026 - 2028**
 - Dissertation(idea): “Hybrid Factor Models for Multi-Asset Portfolio Optimization”
 -	Advanced Coursework: Stochastic Control, Numerical Methods in Finance, Monte Carlo Methods, PDE Solvers for Derivative Pricing, Statistical Machine Learning for Time Series.
 -	Collaborated on quantitative strategy research projects, incorporating factor modeling and robust risk measures (VaR, CVaR) to evaluate alpha performance under market volatility.
 
 ### B.Sc. in Mathematical Statistics 
-University of Copenhagen | Copenhagen, Denmark | September 2021 - July 2025
+**University of Copenhagen | Copenhagen, Denmark | September 2021 - July 2025**
 -	Thesis: “Option Pricing with Stochastic Volatility in the Heston Model” ~ R library development, estimation of coefficients, implied volatility surface graph - Software development of a range of functions in R, pricing function, characteresting function, parameter estimation, implied volatility surface display. The library is now being used by the company EnvisionRisk in Denmark.  
 -	First year project: Event study in the stock market, in the project we ran estimations on best trading strategies around significant events in the stock market, the focus was on the acquisition announcement between AuthenTec and Apple.
 -	Relevant coursework: Mathematical Statistics, Stochastic processes I & II, Basic Life insurance, Basic Non-life Insurance, Advanced probability theory
 -	Gained fundamental proficiency in probability theory, statistical inference, and time series analysis, forming a strong basis for quantitative work
 
+**Note:**
+
 ### B.Sc. in Mathematical Physics					 
-University of Copenhagen | Copenhagen, Denmark | September 2019- April 2021	
-- Thesis: None
-- First year project: "Dark matter detection in rotational spiral galaxies" - MatLab, object detection, astrophysics of rotational spiral galaxies. - First year project on calculating the rotational speed of spiral galaxies, to estimate dark matter densities. We used a machine learning algorithm to identify certain types of stars from a black-white image of a spiral galaxy, then calculated the rotational speeds, to show that the corresponding mass of the galaxy was insufficient to obtain such speeds.
+**University of Copenhagen | Copenhagen, Denmark | September 2019- April 2021**
+- *Resigned to transfer to the bachelor degree in Mathematical Statistics.*
+- First year project: "Dark matter detection in rotational spiral galaxies" ~ MatLab, object detection, astrophysics of rotational spiral galaxies. - First year project on calculating the rotational speed of spiral galaxies, to estimate dark matter densities. We used a machine learning algorithm to identify certain types of stars from a black-white image of a spiral galaxy, then calculated the rotational speeds, to show that the corresponding mass of the galaxy was insufficient to obtain such speeds.
 - Relevant Coursework: Introductory Thermodynamics, Electrodynamics, Quantum Mechanics, Advanced Quantum Mechancis, Galactic Astrophysics, Complex analysis
 
-Note: Resigned to transfer to the bachelor degree in Mathematical Statistics.
+**Note:** 
 
 ## Professional Development
 
