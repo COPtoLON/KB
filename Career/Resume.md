@@ -384,18 +384,6 @@ A research-focused project dedicated to the development and evaluation of tradin
 
 By bridging in-depth mathematical research with practical algorithmic trading techniques, the project aspires to unlock scalable, evidence-based solutions for navigating the complexities of modern financial markets.
 
-
-### 2019 - Now	(Ongoing)
-[**Personal python package**](https://github.com/CopenhagenToLondon/TMRW) \
-A multi-functional Python library designed to streamline data workflows by integrating data extraction, transformation, and analysis features into one cohesive toolkit. Organized into distinct folders for each module, this package demonstrates modular design, ensuring maintainability and clarity in complex data projects. Key highlights include:
-
-- **Data Extraction** - Automated scripts that retrieve and preprocess data from various sources, showcasing robust data-gathering techniques.
-- **Analysis & Visualization** - Functions for statistical analysis, exploratory data analysis (EDA), and visual representations, helping derive actionable insights.
-- **Reusability & Scalability** - Well-structured modules with clear documentation, making it easy to extend functionalities and adapt to new data use cases.
-
-By consolidating these features into a single package, this project provides a practical demonstration of skills essential to a Data Analyst or Data Scientist—namely, the ability to build and maintain efficient data pipelines while providing accurate and insightful analysis.
-
-
 ### 2022 - Now	(Ongoing)
 [**Stochastic simulation package for Quantitative Finance**](https://github.com/CopenhagenToLondon/GoldenDice) \
 A personal project featuring a suite of classes, functions, and scripts designed to showcase the implementation and application of stochastic processes in a finance and investment context. By incorporating Monte Carlo techniques alongside Brownian motion, square-root diffusion, and Ornstein–Uhlenbeck models, this package provides:\
@@ -424,25 +412,6 @@ A personal research project focused on simulating the rotational dynamics of spi
 - Interactive analysis and visualization of rotation curves, mass distribution, and emergent spiral patterns.
 
 By unifying ideas from both astronomy and quantum theory, Galaksim aims to offer a deeper understanding of the forces governing galactic behavior, while also serving as a sandbox for experimenting with algorithmic and physics-based simulations.
-
-### 2024 - Now (Ongoing)	
-[**AI for Trading**](https://github.com/CopenhagenToLondon/CONTROL) \
-Empty at the moment, code will arrive soon. \
-The repository will hold my code on a novel AI system, I’m intending to use for trading equity and cryptocurrency. It’ll be made up of a series of layers and a structural diagram will be published soon.
-
-### 2023 - Now (Ongoing)
-[**ETL Project**](https://github.com/CtoL95) * link is coming \
-Connect to Yahoo, alphaVantage, Binance, Jup.ag and more with only one python package?
-
-### 2022 - 2022 (Finished)
-**R package for pricing of Options with Stochastic volatility** \
-Project I did for my bachelor degree.\
-Heston model for pricing Options, the work will be unavailable as it was made in collaboration with a company, which now uses it in its products and sales to insurance comapanies and investment companies in Denmark.
-
-### 2020 - 2020 (Finished)
-[**Event study in the stock market**](https://github.com/CtoL95) * link is coming \
-Project I did on my first year as a mathematics student at UCPH.\
-Studying the effects of an announcement by apple to buy AuthenTec.
 
 
 
