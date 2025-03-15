@@ -404,12 +404,12 @@ TMRW (pronounced “Tomorrow”) is an ongoing research and development venture 
   - Extreme Event Testing – Implementation of fat-tailed assumptions (non-Gaussian distributions) to capture “black swan” events.
   - Portfolio-Level Sensitivity – Integration of multi-asset simulation for dynamic rebalancing and factor-based risk decomposition.
 
-**Example Project - “mean-reversion-strategy.ipynb”**
+**Example Project - ```mean-reversion-strategy.ipynb```**
 - Walks through a mean reversion model using 20-day Bollinger Bands & 30-day Z-score thresholds.
 - Details buy/sell signals when the market deviates x-sigma from a chosen moving average, referencing user-defined Sharpe ratio, 6m-return, 1y-return, and so forth.
 - Contains performance comparisons vs. standard buy-and-hold.
 
-**Example Project - “Strategy.ipynb”**
+**Example Project - ```Strategy.ipynb```**
 - Illustrates a pipeline for fetching live data, identifying local minima/maxima, and placing trades via the Binance API.
 - Demonstrates trailing signals and systematic stop-loss logic.
 
@@ -422,7 +422,7 @@ TMRW (pronounced “Tomorrow”) is an ongoing research and development venture 
   - Live Deployment – Achieved 13% return over two months running a Python-based strategy with real-time signals.
   - Risk Management – Incorporating dynamic position sizing, VaR-based stops, and trailing “take-profit” logic.
 
-**Example Project - “research.ipynb”**
+**Example Project - ```research.ipynb```**
 - Covers advanced topics like Markov probabilities, 0-tangent detection, and backtesting different triggers for momentum or mean reversion.
 - Explores multi-asset synergy, including broad asset classes: equities, crypto, derivatives, and more.
 
@@ -446,30 +446,30 @@ TMRW (pronounced “Tomorrow”) is an ongoing research and development venture 
 
 ## Select Research & Methodological Highlights
 1. Mean Reversion Approaches
-  - Bollinger Band & Z-Score Scripts: Identify extremes with 1.5σ, 2σ, or 2.5σ triggers.
-  - Pairs Trading: Spread-based signals on correlated assets.
-  - Markov Probability Models: Probability of a reversion event given prior states (“Up, Up, Down, Down…”).
+- Bollinger Band & Z-Score Scripts: Identify extremes with 1.5σ, 2σ, or 2.5σ triggers.
+- Pairs Trading: Spread-based signals on correlated assets.
+- Markov Probability Models: Probability of a reversion event given prior states (“Up, Up, Down, Down…”).
 
 2. Trend-Following & Momentum
-  - MA Crossovers: 5–15–30 or 5–20–40 for multi-speed detection.
-  - RSI, OBV, TTM Squeeze, MACD Crossovers: Repeated pattern detection in script-based examples (e.g., “TrippleMACD,” “EMA RSI Strategy,” “Fourier Smoothed Hybrid Volume Spread Analysis”).
+- MA Crossovers: 5–15–30 or 5–20–40 for multi-speed detection.
+- RSI, OBV, TTM Squeeze, MACD Crossovers: Repeated pattern detection in script-based examples (e.g., “TrippleMACD,” “EMA RSI Strategy,” “Fourier Smoothed Hybrid Volume Spread Analysis”).
 
 3. Risk Management Techniques
-  - Value-at-Risk & Scenario Tests: Evaluate catastrophic drawdowns, especially under tail scenarios.
-  - Stop-Loss & Trailing Exits: E.g., “Stop 1 ATR below local max” or Markov-driven partial liquidation.
-  - Portfolio-Level Hedging: Using options/futures to offset systematic or idiosyncratic risks.
+- Value-at-Risk & Scenario Tests: Evaluate catastrophic drawdowns, especially under tail scenarios.
+- Stop-Loss & Trailing Exits: E.g., “Stop 1 ATR below local max” or Markov-driven partial liquidation.
+- Portfolio-Level Hedging: Using options/futures to offset systematic or idiosyncratic risks.
 
 4. Advanced AI & ML Explorations
-   - Hidden Markov Models: Distinguish between “flat,” “bull,” and “bear” states.
-   - Neural Networks & Autoencoders: Feature engineering for intraday microstructure or cross-asset correlations.
-   - Multi-Objective Optimization: Balancing short-term return vs. drawdowns vs. transaction costs.
+- Hidden Markov Models: Distinguish between “flat,” “bull,” and “bear” states.
+- Neural Networks & Autoencoders: Feature engineering for intraday microstructure or cross-asset correlations.
+- Multi-Objective Optimization: Balancing short-term return vs. drawdowns vs. transaction costs.
 
 ## Technical Footprint
 - **Programming Languages:** Primarily Python (pandas, NumPy, scikit-learn, TensorFlow/PyTorch) and some R/C++ for specialized tasks.
 - **Notebooks:**
-  - mean-reversion-strategy.ipynb – Detailed walk-through for Bollinger Band & RSI-based trades.
-  - Strategy.ipynb – Implementation of local min/max triggers, placing real-time orders on Binance.
-  - research.ipynb – More experimental code on Markov modeling, 0-tangents, and multi-strategy blending.
+  - ```mean-reversion-strategy.ipynb``` – Detailed walk-through for Bollinger Band & RSI-based trades.
+  - ```Strategy.ipynb``` – Implementation of local min/max triggers, placing real-time orders on Binance.
+  - ```research.ipynb``` – More experimental code on Markov modeling, 0-tangents, and multi-strategy blending.
 - **Data & API:**
   - Yahoo Finance, Binance, Bloomberg, MSC, Sustainalytics, Quandl, Alpha Vantage (depending on the asset class).
 
