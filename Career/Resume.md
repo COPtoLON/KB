@@ -9,10 +9,6 @@ Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
 [HackerRank Profile](https://www.hackerrank.com/profile/mark642) | [Kaggle Profile](https://www.kaggle.com/copenhagentolondon) \
 [Medium Profile]() | [SSRN Profile]() 
 
-## HARD SKILLS - what can I offer as an employee?
-
-## SOFT SKILLS - who am I as a person in your company
-
 ## Experience
 
 ### TARGET ROLE 2 - QUANTITATIVE RESEARCHER
