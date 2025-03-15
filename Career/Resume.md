@@ -185,13 +185,6 @@ I finished a first year project on calculating the rotational speed of spiral ga
 
 ## Professional Development
 
-### 2025
-- CQF Institute - Quantitative Portfolio Management Conference
-- Imperial College London - Daniel Lacker - Mean field theory
-- Bangalore Quant Club - Peter Cotton - Machine Learning for Hierachical Portfolio Optimization Using Schur Complements
-- Quant insider - Andrey Chirikhin - Introduction to Credit Derivatives
-- Oxford Mathematical and Computational Finance, Frontiers in Quantitative Finance Seminar - Dr Eghbal Rahimikia - Revisiting Large Language Models in Finance
-
 WBS – QDC Quantitative Developer Certificate
 CQF – Certificate in Quantitative Finance
 WorldQuant MFE degree
@@ -278,7 +271,15 @@ Coursera - EPFL - Interest Rate Models
 - [DeepLearning.AI Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/data-engineering?utm_campaign=dlai-lp&utm_medium=institutions&utm_source=deeplearning-ai)
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=WebsiteCourses-MLS)
 
-**DONE**
+
+
+
+### 2025
+- CQF Institute - Quantitative Portfolio Management Conference
+- Imperial College London - Daniel Lacker - Mean field theory
+- Bangalore Quant Club - Peter Cotton - Machine Learning for Hierachical Portfolio Optimization Using Schur Complements
+- Quant insider - Andrey Chirikhin - Introduction to Credit Derivatives
+- Oxford Mathematical and Computational Finance, Frontiers in Quantitative Finance Seminar - Dr Eghbal Rahimikia - Revisiting Large Language Models in Finance
 - 2025 [Forage Citi - Markets Quantitative Analysis](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/8eNRcRqBZM9HLvwGw/fAuNBibfF4dzrgtDY_8eNRcRqBZM9HLvwGw_nCjQg8GM2BpQ9yNYB_1736301928896_completion_certificate.pdf)
 - 2025 [Forage Standard Bank - Risk Management](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/kkKXfgG5FckTX8Toc/9ud3PRZGf8w6NeHgh_kkKXfgG5FckTX8Toc_nCjQg8GM2BpQ9yNYB_1736293804035_completion_certificate.pdf)
 - 2025 [Forage Goldman Sachs - Risk](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_nCjQg8GM2BpQ9yNYB_1736298583661_completion_certificate.pdf)
@@ -295,7 +296,6 @@ Coursera - EPFL - Interest Rate Models
 
 
 ### 2024
-
 -	2024 [Forage J.P.Morgan Chase & Co - Quantitative Research Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._nCjQg8GM2BpQ9yNYB_1706747633338_completion_certificate.pdf?trk=public_profile_see-credential)
 -	2024 [Forage Standard Bank - Actuarial Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Standard%20Bank%20/wf8DwPiWqcRzs3KDF_Standard%20Bank%20_nCjQg8GM2BpQ9yNYB_1706747691149_completion_certificate.pdf)
 -	2024 [Forage PGIM - Fixed Income Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PGIM/5tB9veyHmFh4egh65_PGIM_nCjQg8GM2BpQ9yNYB_1706747334656_completion_certificate.pdf?trk=public_profile_see-credential)
@@ -318,14 +318,12 @@ Coursera - EPFL - Interest Rate Models
 -	[LanguageCert - ESOL International B2 English Communicator](https://github.com/CtoL95/Test/blob/main/LanguageCert%20-%20ESOL%20Written.pdf)
 
 ### 2021
-
 -	[GARP - Foundations of Financial Risk](https://github.com/CtoL95/Test/blob/main/Foundations_of_Financial_Risk.pdf)
 - [Copenhagen Airport, security Awareness certificate](https://github.com/CtoL95/Test/blob/main/Security%20Awareness%20K%C3%B8benhavns%20Lufthavn%2C%20DK%20version.pdf)
 -	[CFI - introduction to banking](https://credentials.corporatefinanceinstitute.com/524a2a7e-2bf8-4ae9-a0ac-2603b9e59645#acc.Nipz3Xqa)
 -	[CFI - Fundamentals of Credit](https://credentials.corporatefinanceinstitute.com/c7e5e7e2-ecec-49db-82bd-eadece36b10a#acc.pKbN1mSr)
 
 ### 2020
-
 - [Linkedin Learning Path - Become a Data Scientist](https://www.linkedin.com/learning/certificates/ec62ce4f36d64dbe064544533519c3f65ca19e95424d11f8246ea5c23d2e5ade?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Advance Your Skills in Python](https://www.linkedin.com/learning/certificates/498fc9d230524f23060c80e10b39104e1de568572852418d855a60d268472534?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Advance Your Python Skills For Data Science](https://www.linkedin.com/learning/certificates/797299e19c57fa257790df3a6f985a4778ea1f72d68304b8162bbdc6ab9780af?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
@@ -345,7 +343,6 @@ Coursera - EPFL - Interest Rate Models
 - [Linkedin Learning Path - Getting Started as a Business Analyst](https://www.linkedin.com/learning/certificates/41455540e531d4b8d086b9686f6c65ef60d52f3881ab38a004c2c9b1d315795a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 
 ### 2019
-
 - [Linkedin Learning Path - Master Microsoft Word](https://www.linkedin.com/learning/certificates/048c0b30fe9eed3001e98d79c426b5cd4f65d4bda95b29ebad50dbe5d66d451d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Master In-Demand Professional Soft skills](https://www.linkedin.com/learning/certificates/45e07396af21f07548621605ef6b1db8f3206557b6d2c3fda9526929e573f971?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Improve Your Organizational Skills](https://www.linkedin.com/learning/certificates/137a5099ab65aa75e21b4e03c7522bf0fc59447a5711d4d4f6f16604938365b2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
@@ -353,14 +350,11 @@ Coursera - EPFL - Interest Rate Models
 - [Linkedin Learning Path - Advance Your Career as an Individual Contributor](https://www.linkedin.com/learning/certificates/00d00324e1197ecb6c154fb51e5179790876b1a0dbd42846c58096f20272a9d9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 
 ## Notable Activities
-
 -	Published research article on SSRN - ...
 -	Attended X, Y, Z and presented my findings at W.
 -	Participant at X, Y, Z Hackathon. Winning W hackathon.
 -	Ranked 103 at LeetCode, ranked 2055 at CodeForces and ranked 52 at HackerRank...
 - Ranked in the top 10% (out of an average of 47,000 participants) in Børsen stock-picking challenge three years in a row
-
-
 - **Professional & Academic Engagement**
   - Active in professional networking: regularly attend conferences, workshops, and talks.
   - Reviewer (2024–present) for Anton Vorobets’s upcoming book on portfolio construction and risk management.
@@ -383,7 +377,6 @@ Coursera - EPFL - Interest Rate Models
 
 
 ## Projects
-
 TMRW
 TMRW (pronounced Tomorrow), is a brainchild of mine. I’ve been working to understand, research and establish a small algorithmic trading fund for a while now. Various parts of the larger project have come along as I have proceeded towards my goal. The first one being the research.
 
@@ -398,14 +391,6 @@ After having worked tirelessly on this project for many years, I had a great epi
 
 TMRW-AI Solution | 2024 - Now | Multi-layered AI model for trading
 The work on this AI agent has been significant, it has taken much of my time to both research, decide on infrastructure reworks and develop a basic model.
-
-
-
-
-
-
-
-
 
 ### 2022 - Now (Ongoing)
 [**Algorithmic trading**](https://github.com/CopenhagenToLondon/WTech) \
