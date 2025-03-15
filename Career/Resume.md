@@ -333,10 +333,10 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 # Notable Activities
 - **goals**
-- Published research article on SSRN
-- Attended X, Y, Z and presented my findings at W.
-- Participant at X, Y, Z Hackathon. Winning W hackathon.
-- Ranked 103 at LeetCode, ranked 2055 at CodeForces and ranked 52 at HackerRank.
+  - Published research article on SSRN
+  - Attended X, Y, Z and presented my findings at W.
+  - Participant at X, Y, Z Hackathon. Winning W hackathon.
+  - Ranked 103 at LeetCode, ranked 2055 at CodeForces and ranked 52 at HackerRank.
 - **Professional & Academic Engagement**
   - Active in professional networking: regularly attend conferences, workshops, and talks.
   - Reviewer and donator(2024–2025) for Anton Vorobets’s upcoming book on portfolio construction and risk management.
