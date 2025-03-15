@@ -153,7 +153,7 @@ Company Economics, Timesheets management, Financial statements, Corporate Financ
 ### Store Clerk
 **December 2021 - August 2022**\
 WHSmith, Copenhagen, Denmark
-- Copenhagen Airport, security Awareness certificate
+- [Copenhagen Airport, security Awareness certificate](https://github.com/CtoL95/Test/blob/main/Security%20Awareness%20K%C3%B8benhavns%20Lufthavn%2C%20DK%20version.pdf)
 - Passed courses on proper management of disabled individuals, both invisible disabilities(Autism, OCD, mental disorders, etc. ) and visible disabilities(blindness, inability to walk, etc. ) 
 - Passed a round of security checks regarding my criminal record.
 
@@ -230,8 +230,9 @@ Thomas Lystlund Studio, Copenhagen, Denmark\
 ## Professional Development
 
 
-
 ### 2025
+
+#### Courses
 - Coursera - DeepLearning.AI - Tensorflow Developer Professional Certificate
 - Coursera - DeepLearning.AI - Tensorflow: Advanced Techniques Specialization
 - Coursera - DeepLearning.AI - Deep learning specialization
@@ -249,74 +250,95 @@ Thomas Lystlund Studio, Copenhagen, Denmark\
 - Coursera - IBM - Data Science Professional Certificate
 - Akuna Capital - Options 101 Course
 - Coursera - EPFL - Interest Rate Models
-- CQF Institute - Quantitative Portfolio Management Conference
-- Imperial College London - Daniel Lacker - Mean field theory
-- Bangalore Quant Club - Peter Cotton - Machine Learning for Hierachical Portfolio Optimization Using Schur Complements
-- Quant insider - Andrey Chirikhin - Introduction to Credit Derivatives
-- Oxford Mathematical and Computational Finance, Frontiers in Quantitative Finance Seminar - Dr Eghbal Rahimikia - Revisiting Large Language Models in Finance
-- 2025 [Forage Citi - Markets Quantitative Analysis](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/8eNRcRqBZM9HLvwGw/fAuNBibfF4dzrgtDY_8eNRcRqBZM9HLvwGw_nCjQg8GM2BpQ9yNYB_1736301928896_completion_certificate.pdf)
-- 2025 [Forage Standard Bank - Risk Management](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/kkKXfgG5FckTX8Toc/9ud3PRZGf8w6NeHgh_kkKXfgG5FckTX8Toc_nCjQg8GM2BpQ9yNYB_1736293804035_completion_certificate.pdf)
-- 2025 [Forage Goldman Sachs - Risk](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_nCjQg8GM2BpQ9yNYB_1736298583661_completion_certificate.pdf)
-- 2025 [Forage Standard Chartered - Credit Analyst](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ZsgybEFo5RxyHxwXL/TwxTEuyPugfgMGm8H_ZsgybEFo5RxyHxwXL_nCjQg8GM2BpQ9yNYB_1736299213999_completion_certificate.pdf)
-- 2025 [Forage Lloyds Banking Group - Data Science](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Zbnc2o4ok6kD2NEXx/EuvC8GPjkZ6xaiP9p_Zbnc2o4ok6kD2NEXx_nCjQg8GM2BpQ9yNYB_1736293191281_completion_certificate.pdf)
-- 2025 [Forage Goldman Sachs - Excel Skills for Business](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/eLeZHcwX7CqLhhps7_MBA4MnZTNFEoJZGnk_nCjQg8GM2BpQ9yNYB_1736289958952_completion_certificate.pdf)
-- 2025 [Forage Citi - Finance](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/8eNRcRqBZM9HLvwGw/Cf35qdHjFPqLFRhgy_8eNRcRqBZM9HLvwGw_nCjQg8GM2BpQ9yNYB_1736291737128_completion_certificate.pdf)
-- 2025 [Forage J.P.Morgan Chase & Co - Software Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_nCjQg8GM2BpQ9yNYB_1736293037192_completion_certificate.pdf)
-- 2025 [Forage quantium - Software Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/32A6DqtsbF7LbKdcq/jhiG2W9K8KLZK8nXP_32A6DqtsbF7LbKdcq_nCjQg8GM2BpQ9yNYB_1736292440025_completion_certificate.pdf)
-- 2025 [Forage Goldman Sachs - Software Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/NPdeQ43o8P9HJmJzg_MBA4MnZTNFEoJZGnk_nCjQg8GM2BpQ9yNYB_1736289909624_completion_certificate.pdf)
-- 2025 [Forage Standard Bank - Software Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/kkKXfgG5FckTX8Toc/JMcJbndBmiDBvy9pj_kkKXfgG5FckTX8Toc_nCjQg8GM2BpQ9yNYB_1736293158178_completion_certificate.pdf)
-- 2025 [Forage Commonwealth Bank - Software Development](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/xv8eSGu7nksKNiCQj_2sNmYuurxgpFYawco_nCjQg8GM2BpQ9yNYB_1736292703452_completion_certificate.pdf)
-- 2025 [Forage Citi - Investment Banking](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/8eNRcRqBZM9HLvwGw/amBSJDTDDFcYiKq9Z_8eNRcRqBZM9HLvwGw_nCjQg8GM2BpQ9yNYB_1736289659348_completion_certificate.pdf)
+
+
+#### Events
+- 13/2/2025 - Oxford Mathematical and Computational Finance - Eghbal Rahimikia - Revisiting Large Language Models in Finance
+- 27/2/2025 - Quant Insider – **Andrey Chirikhin** – Introduction to Credit Derivatives
+- 8/3/2025 - Bangalore Quant Club - **Peter Cotton** - Machine Learning for Hierachical Portfolio Optimization Using Schur Complements
+- 11/3/2025 - Imperial College - **Daniel Lacker** -  Non asymptomatic perspectives on mean field approximations and stochastic control
+- 12/3/2025 - CQF Institute - Portfolio Management in Quant Finance Conference
+
+
+#### Activities
+
+**Job simulations**
+- [Forage Citi - Markets Quantitative Analysis](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/8eNRcRqBZM9HLvwGw/fAuNBibfF4dzrgtDY_8eNRcRqBZM9HLvwGw_nCjQg8GM2BpQ9yNYB_1736301928896_completion_certificate.pdf)
+- [Forage Standard Bank - Risk Management](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/kkKXfgG5FckTX8Toc/9ud3PRZGf8w6NeHgh_kkKXfgG5FckTX8Toc_nCjQg8GM2BpQ9yNYB_1736293804035_completion_certificate.pdf)
+- [Forage Goldman Sachs - Risk](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/ETGMhLB5eCrYjcH8o_MBA4MnZTNFEoJZGnk_nCjQg8GM2BpQ9yNYB_1736298583661_completion_certificate.pdf)
+- [Forage Standard Chartered - Credit Analyst](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ZsgybEFo5RxyHxwXL/TwxTEuyPugfgMGm8H_ZsgybEFo5RxyHxwXL_nCjQg8GM2BpQ9yNYB_1736299213999_completion_certificate.pdf)
+- [Forage Lloyds Banking Group - Data Science](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Zbnc2o4ok6kD2NEXx/EuvC8GPjkZ6xaiP9p_Zbnc2o4ok6kD2NEXx_nCjQg8GM2BpQ9yNYB_1736293191281_completion_certificate.pdf)
+- [Forage Goldman Sachs - Excel Skills for Business](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/eLeZHcwX7CqLhhps7_MBA4MnZTNFEoJZGnk_nCjQg8GM2BpQ9yNYB_1736289958952_completion_certificate.pdf)
+- [Forage Citi - Finance](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/8eNRcRqBZM9HLvwGw/Cf35qdHjFPqLFRhgy_8eNRcRqBZM9HLvwGw_nCjQg8GM2BpQ9yNYB_1736291737128_completion_certificate.pdf)
+- [Forage J.P.Morgan Chase & Co - Software Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Sj7temL583QAYpHXD/E6McHJDKsQYh79moz_Sj7temL583QAYpHXD_nCjQg8GM2BpQ9yNYB_1736293037192_completion_certificate.pdf)
+- [Forage quantium - Software Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/32A6DqtsbF7LbKdcq/jhiG2W9K8KLZK8nXP_32A6DqtsbF7LbKdcq_nCjQg8GM2BpQ9yNYB_1736292440025_completion_certificate.pdf)
+- [Forage Goldman Sachs - Software Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/MBA4MnZTNFEoJZGnk/NPdeQ43o8P9HJmJzg_MBA4MnZTNFEoJZGnk_nCjQg8GM2BpQ9yNYB_1736289909624_completion_certificate.pdf)
+- [Forage Standard Bank - Software Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/kkKXfgG5FckTX8Toc/JMcJbndBmiDBvy9pj_kkKXfgG5FckTX8Toc_nCjQg8GM2BpQ9yNYB_1736293158178_completion_certificate.pdf)
+- [Forage Commonwealth Bank - Software Development](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/2sNmYuurxgpFYawco/xv8eSGu7nksKNiCQj_2sNmYuurxgpFYawco_nCjQg8GM2BpQ9yNYB_1736292703452_completion_certificate.pdf)
+- [Forage Citi - Investment Banking](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/8eNRcRqBZM9HLvwGw/amBSJDTDDFcYiKq9Z_8eNRcRqBZM9HLvwGw_nCjQg8GM2BpQ9yNYB_1736289659348_completion_certificate.pdf)
 
 
 ### 2024
--	2024 [Forage J.P.Morgan Chase & Co - Quantitative Research Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._nCjQg8GM2BpQ9yNYB_1706747633338_completion_certificate.pdf?trk=public_profile_see-credential)
--	2024 [Forage Standard Bank - Actuarial Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Standard%20Bank%20/wf8DwPiWqcRzs3KDF_Standard%20Bank%20_nCjQg8GM2BpQ9yNYB_1706747691149_completion_certificate.pdf)
--	2024 [Forage PGIM - Fixed Income Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PGIM/5tB9veyHmFh4egh65_PGIM_nCjQg8GM2BpQ9yNYB_1706747334656_completion_certificate.pdf?trk=public_profile_see-credential)
--	2024 [Forage Cognizant - Artificial Intelligence Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/5N2ygyhzMWjKQmgCK_Cognizant_nCjQg8GM2BpQ9yNYB_1706744853085_completion_certificate.pdf?trk=public_profile_see-credential)
--	2024 [Fundamentals of Quantitative Modelling](https://coursera.org/share/29d2b0531431e672bbbc3716439bee9d)
--	2024 [Forage AIG - Underwriting Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/6miFEe83Y7PdzWJD6_AIG_nCjQg8GM2BpQ9yNYB_1706744611697_completion_certificate.pdf?trk=public_profile_see-credential)
-- 2024 [Forage Bank of America - Investment Banking](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Bank%20of%20America/Hi8MJQE5T3MeTRWQR_Bank%20of%20America_nCjQg8GM2BpQ9yNYB_1706743366428_completion_certificate.pdf)
-- 2024 [Forage J.P.Morgan Chase & Co - Investment Banking](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase/YD2kY95RQxQtXxFTS_JPMorgan%20Chase_nCjQg8GM2BpQ9yNYB_1706743099951_completion_certificate.pdf)
-- 2024 [Forage Commonwealth Bank - Introduction to Data Science](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Commonwealth%20Bank/smwfytX3mcLboA9bf_Commonwealth%20Bank_nCjQg8GM2BpQ9yNYB_1706744285551_completion_certificate.pdf)
-- 2024 [Forage Quantium - Data Analytics](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_nCjQg8GM2BpQ9yNYB_1706744085389_completion_certificate.pdf)
-- 2024 [Forage BCG - Data Science](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_nCjQg8GM2BpQ9yNYB_1706744880479_completion_certificate.pdf)
-- 2024 [Forage accenture - Data Analytics and Visualization](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_nCjQg8GM2BpQ9yNYB_1706742179438_completion_certificate.pdf)
-- 2024 [Forage J.P.Morgan Chase & Co - Software Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_nCjQg8GM2BpQ9yNYB_1706746848174_completion_certificate.pdf)
-- 2024 [Forage Standard Bank - Software Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Standard%20Bank%20/8Mgcdiuo2mfSRCfjc_Standard%20Bank%20_nCjQg8GM2BpQ9yNYB_1706746105628_completion_certificate.pdf)
--	2024 [CME Group, Introduction to futures](https://github.com/CtoL95/Test/blob/main/CME%20Introduction%20to%20Futures.pdf)
-- 2024 [CME Group, Introduction to Treasuries](https://github.com/CtoL95/Test/blob/main/CME%20Introduction%20to%20Treasuries.pdf)
--	2024 [CME Group, Long Options: Underlying and Volatility impact](https://github.com/CtoL95/Test/blob/main/CME%20Long%20Options_%20Underlying%20and%20Volatility%20Impact.pdf)
--	2024 [CME Group, Understanding Futures Spreads](https://github.com/CtoL95/Test/blob/main/CME%20Understanding%20Futures%20Spreads.pdf)
+#### Courses
+**Investing/Quantitative finance/Trading**
+- [Fundamentals of Quantitative Modelling](https://coursera.org/share/29d2b0531431e672bbbc3716439bee9d)
+-	[CME Group, Introduction to futures](https://github.com/CtoL95/Test/blob/main/CME%20Introduction%20to%20Futures.pdf)
+- [CME Group, Introduction to Treasuries](https://github.com/CtoL95/Test/blob/main/CME%20Introduction%20to%20Treasuries.pdf)
+-	[CME Group, Long Options: Underlying and Volatility impact](https://github.com/CtoL95/Test/blob/main/CME%20Long%20Options_%20Underlying%20and%20Volatility%20Impact.pdf)
+-	[CME Group, Understanding Futures Spreads](https://github.com/CtoL95/Test/blob/main/CME%20Understanding%20Futures%20Spreads.pdf)
+**Language**
 -	[Trinity College London - GESE 2 / CEFR Level A1](https://certificates.trinitycollege.com/3c9b7eda-0793-41d5-94e4-8d4f58dd8967#acc.H0LPcsja)
 -	[LanguageCert - ESOL International B2 English Communicator](https://github.com/CtoL95/Test/blob/main/LanguageCert%20-%20ESOL%20Written.pdf)
 
+#### Activities
+**Job simulations**
+-	[Forage J.P.Morgan Chase & Co - Quantitative Research Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/bWqaecPDbYAwSDqJy_JPMorgan%20Chase%20&%20Co._nCjQg8GM2BpQ9yNYB_1706747633338_completion_certificate.pdf?trk=public_profile_see-credential)
+-	[Forage Standard Bank - Actuarial Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Standard%20Bank%20/wf8DwPiWqcRzs3KDF_Standard%20Bank%20_nCjQg8GM2BpQ9yNYB_1706747691149_completion_certificate.pdf)
+-	[Forage PGIM - Fixed Income Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/PGIM/5tB9veyHmFh4egh65_PGIM_nCjQg8GM2BpQ9yNYB_1706747334656_completion_certificate.pdf?trk=public_profile_see-credential)
+-	[Forage Cognizant - Artificial Intelligence Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/5N2ygyhzMWjKQmgCK_Cognizant_nCjQg8GM2BpQ9yNYB_1706744853085_completion_certificate.pdf?trk=public_profile_see-credential)
+-	[Forage AIG - Underwriting Job Simulation](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/AIG/6miFEe83Y7PdzWJD6_AIG_nCjQg8GM2BpQ9yNYB_1706744611697_completion_certificate.pdf?trk=public_profile_see-credential)
+- [Forage Bank of America - Investment Banking](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Bank%20of%20America/Hi8MJQE5T3MeTRWQR_Bank%20of%20America_nCjQg8GM2BpQ9yNYB_1706743366428_completion_certificate.pdf)
+- [Forage J.P.Morgan Chase & Co - Investment Banking](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/JPMorgan%20Chase/YD2kY95RQxQtXxFTS_JPMorgan%20Chase_nCjQg8GM2BpQ9yNYB_1706743099951_completion_certificate.pdf)
+- [Forage Commonwealth Bank - Introduction to Data Science](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Commonwealth%20Bank/smwfytX3mcLboA9bf_Commonwealth%20Bank_nCjQg8GM2BpQ9yNYB_1706744285551_completion_certificate.pdf)
+- [Forage Quantium - Data Analytics](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Quantium/NkaC7knWtjSbi6aYv_Quantium_nCjQg8GM2BpQ9yNYB_1706744085389_completion_certificate.pdf)
+- [Forage BCG - Data Science](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/BCG%20/Tcz8gTtprzAS4xSoK_BCG_nCjQg8GM2BpQ9yNYB_1706744880479_completion_certificate.pdf)
+- [Forage accenture - Data Analytics and Visualization](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Accenture%20North%20America/hzmoNKtzvAzXsEqx8_Accenture%20North%20America_nCjQg8GM2BpQ9yNYB_1706742179438_completion_certificate.pdf)
+- [Forage J.P.Morgan Chase & Co - Software Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_nCjQg8GM2BpQ9yNYB_1706746848174_completion_certificate.pdf)
+- [Forage Standard Bank - Software Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Standard%20Bank%20/8Mgcdiuo2mfSRCfjc_Standard%20Bank%20_nCjQg8GM2BpQ9yNYB_1706746105628_completion_certificate.pdf)
+
 ### 2021
+
+#### Courses
+**Investing/Quantitative finance/Trading**
 -	[GARP - Foundations of Financial Risk](https://github.com/CtoL95/Test/blob/main/Foundations_of_Financial_Risk.pdf)
-- [Copenhagen Airport, security Awareness certificate](https://github.com/CtoL95/Test/blob/main/Security%20Awareness%20K%C3%B8benhavns%20Lufthavn%2C%20DK%20version.pdf)
 -	[CFI - introduction to banking](https://credentials.corporatefinanceinstitute.com/524a2a7e-2bf8-4ae9-a0ac-2603b9e59645#acc.Nipz3Xqa)
 -	[CFI - Fundamentals of Credit](https://credentials.corporatefinanceinstitute.com/c7e5e7e2-ecec-49db-82bd-eadece36b10a#acc.pKbN1mSr)
 
 ### 2020
+**Data analysis**
 - [Linkedin Learning Path - Become a Data Scientist](https://www.linkedin.com/learning/certificates/ec62ce4f36d64dbe064544533519c3f65ca19e95424d11f8246ea5c23d2e5ade?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Advance Your Skills in Python](https://www.linkedin.com/learning/certificates/498fc9d230524f23060c80e10b39104e1de568572852418d855a60d268472534?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Advance Your Python Skills For Data Science](https://www.linkedin.com/learning/certificates/797299e19c57fa257790df3a6f985a4778ea1f72d68304b8162bbdc6ab9780af?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Getting Started with R for Data Science](https://www.linkedin.com/learning/certificates/db08e02f98cf05df162bea2ee2e05252d2a241a3aa05ed7ceff79e1b84c54d61?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 -	[Microsoft edX - Professional Certificate in Data analysis: Essential Skills](https://credentials.edx.org/credentials/5470fff383e1445f86fb1174a0dbab5a/?trk=public_profile_see-credential)
+**Investing/Quantitative finance/Trading**
 -	[University of Columbia edX - Professional Certificate in Corporate Finance](https://credentials.edx.org/credentials/c3f74af6ade049a2857e2f30ef81c4c2/?trk=public_profile_see-credential)
 -	[IMF edX - Macroeconometric Forecasting](https://courses.edx.org/certificates/8bf91f734bf7464c881c9ff61edd1d8c?_gl=1*17qmxac*_gcl_au*OTEyNjc5NDcyLjE3MzYyNjUzNjE.*_ga*ODA2MDY4NjMuMTczNjI2NTM2MQ..*_ga_D3KS4KMDT0*MTczNjI2NTM2MS4xLjEuMTczNjI2NTcxMC41OS4wLjA.)
 -	[IMF edX - Macroeconometric Diagnostics](https://courses.edx.org/certificates/02e1984556594aa79033f8b14cc5c1db?_gl=1*17qmxac*_gcl_au*OTEyNjc5NDcyLjE3MzYyNjUzNjE.*_ga*ODA2MDY4NjMuMTczNjI2NTM2MQ..*_ga_D3KS4KMDT0*MTczNjI2NTM2MS4xLjEuMTczNjI2NTcxMC41OS4wLjA.)
 -	[IMF edX, Financial Market Analysis](https://courses.edx.org/certificates/f7994f95d3554a4791bff62b770f6d54?_gl=1*17qmxac*_gcl_au*OTEyNjc5NDcyLjE3MzYyNjUzNjE.*_ga*ODA2MDY4NjMuMTczNjI2NTM2MQ..*_ga_D3KS4KMDT0*MTczNjI2NTM2MS4xLjEuMTczNjI2NTcxMC41OS4wLjA.)
 -	[NYIF edX, Risk management and Credit Principles](https://courses.edx.org/certificates/f2a38a40301f46d18aeaf269a54a0878?_gl=1*g8q36d*_gcl_au*OTEyNjc5NDcyLjE3MzYyNjUzNjE.*_ga*ODA2MDY4NjMuMTczNjI2NTM2MQ..*_ga_D3KS4KMDT0*MTczNjI2NTM2MS4xLjEuMTczNjI2NTcxMC41OS4wLjA.)
 -	[NYIF edX, Ratio Analysis](https://courses.edx.org/certificates/2e9cb658318348d4a1ba75fa1acdce80?_gl=1*17qmxac*_gcl_au*OTEyNjc5NDcyLjE3MzYyNjUzNjE.*_ga*ODA2MDY4NjMuMTczNjI2NTM2MQ..*_ga_D3KS4KMDT0*MTczNjI2NTM2MS4xLjEuMTczNjI2NTcxMC41OS4wLjA.)
--	[WorldBank edX, The Future of Work: Preparing for Disruption](https://courses.edx.org/certificates/5c696f67576c420989d859d6a201aaf0?_gl=1*17qmxac*_gcl_au*OTEyNjc5NDcyLjE3MzYyNjUzNjE.*_ga*ODA2MDY4NjMuMTczNjI2NTM2MQ..*_ga_D3KS4KMDT0*MTczNjI2NTM2MS4xLjEuMTczNjI2NTcxMC41OS4wLjA.)
--	[WorldBank edX, Unlocking Investment and Finance in Emerging Markets and Developing Economies](https://courses.edx.org/certificates/98f9428afa2b42aa93cf316d13935ff2?_gl=1*17qmxac*_gcl_au*OTEyNjc5NDcyLjE3MzYyNjUzNjE.*_ga*ODA2MDY4NjMuMTczNjI2NTM2MQ..*_ga_D3KS4KMDT0*MTczNjI2NTM2MS4xLjEuMTczNjI2NTcxMC41OS4wLjA.)
-- [Linkedin Learning Path - Master Key Financial Analyst Skills](https://www.linkedin.com/learning/certificates/8312aa1bbbf8b237d63388ca7edc710f81d29bb911b31576d7a6f0f2f6e589ce?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
+-	[Linkedin Learning Path - Master Key Financial Analyst Skills](https://www.linkedin.com/learning/certificates/8312aa1bbbf8b237d63388ca7edc710f81d29bb911b31576d7a6f0f2f6e589ce?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Getting Started in Finance and Accounting](https://www.linkedin.com/learning/certificates/8d831a982becf9f943394377e6eb85abb2a4ffffe8cac39b1317106e8db398ba?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Getting Started in Finance & Bookkeeping](https://www.linkedin.com/learning/certificates/8d00d39513032ae2ec43bfb350fc7d6522aa23b3c7657ceffa62d104896fdf88?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Getting Started as a Business Analyst](https://www.linkedin.com/learning/certificates/41455540e531d4b8d086b9686f6c65ef60d52f3881ab38a004c2c9b1d315795a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
+**Other interests**
+- [WorldBank edX, The Future of Work: Preparing for Disruption](https://courses.edx.org/certificates/5c696f67576c420989d859d6a201aaf0?_gl=1*17qmxac*_gcl_au*OTEyNjc5NDcyLjE3MzYyNjUzNjE.*_ga*ODA2MDY4NjMuMTczNjI2NTM2MQ..*_ga_D3KS4KMDT0*MTczNjI2NTM2MS4xLjEuMTczNjI2NTcxMC41OS4wLjA.)
+-	[WorldBank edX, Unlocking Investment and Finance in Emerging Markets and Developing Economies](https://courses.edx.org/certificates/98f9428afa2b42aa93cf316d13935ff2?_gl=1*17qmxac*_gcl_au*OTEyNjc5NDcyLjE3MzYyNjUzNjE.*_ga*ODA2MDY4NjMuMTczNjI2NTM2MQ..*_ga_D3KS4KMDT0*MTczNjI2NTM2MS4xLjEuMTczNjI2NTcxMC41OS4wLjA.)
+
 
 ### 2019
+**Other interests**
 - [Linkedin Learning Path - Master Microsoft Word](https://www.linkedin.com/learning/certificates/048c0b30fe9eed3001e98d79c426b5cd4f65d4bda95b29ebad50dbe5d66d451d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Master In-Demand Professional Soft skills](https://www.linkedin.com/learning/certificates/45e07396af21f07548621605ef6b1db8f3206557b6d2c3fda9526929e573f971?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Improve Your Organizational Skills](https://www.linkedin.com/learning/certificates/137a5099ab65aa75e21b4e03c7522bf0fc59447a5711d4d4f6f16604938365b2?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
