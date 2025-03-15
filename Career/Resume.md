@@ -161,11 +161,15 @@ Thomas Lystlund Studio, Copenhagen, Denmark\
 - Focus on advanced stochastic calculus, machine learning–based alpha models, and HPC for large-scale risk simulations.
 - Engaged in cross-disciplinary research with the Department of Mathematics and a leading quant firm, applying cutting-edge computational methods to real-world trading scenarios.
 
+**Note: This education is a goal, I will not imply I have finished this.**
+
 ### (GOAL) MA in financial mathematics - LSE
 **Goal - LSE : London, UK : 2026 - 2028**
 - Dissertation(idea): “Hybrid Factor Models for Multi-Asset Portfolio Optimization”
 -	Advanced Coursework: Stochastic Control, Numerical Methods in Finance, Monte Carlo Methods, PDE Solvers for Derivative Pricing, Statistical Machine Learning for Time Series.
 -	Collaborated on quantitative strategy research projects, incorporating factor modeling and robust risk measures (VaR, CVaR) to evaluate alpha performance under market volatility.
+
+**Note: This education is a goal, I will not imply I have finished this.**
 
 ### B.Sc. in Mathematical Statistics 
 **University of Copenhagen | Copenhagen, Denmark | September 2021 - July 2025**
@@ -174,7 +178,9 @@ Thomas Lystlund Studio, Copenhagen, Denmark\
 -	Relevant coursework: Mathematical Statistics, Stochastic processes I & II, Basic Life insurance, Basic Non-life Insurance, Advanced probability theory
 -	Gained fundamental proficiency in probability theory, statistical inference, and time series analysis, forming a strong basis for quantitative work
 
-**Note:**
+**Note: On this education I have had experience with R, Python, probability theory, Mathematical Statistics, Stochastic processes and insurance mathematics - This implies work in time series Analysis, Statistical Inference, Monte Carlo methods, Markov models, stochastic calculus and financial mathematics**
+
+<br>
 
 ### B.Sc. in Mathematical Physics					 
 **University of Copenhagen | Copenhagen, Denmark | September 2019- April 2021**
@@ -182,7 +188,7 @@ Thomas Lystlund Studio, Copenhagen, Denmark\
 - First year project: "Dark matter detection in rotational spiral galaxies" ~ MatLab, object detection, astrophysics of rotational spiral galaxies. - First year project on calculating the rotational speed of spiral galaxies, to estimate dark matter densities. We used a machine learning algorithm to identify certain types of stars from a black-white image of a spiral galaxy, then calculated the rotational speeds, to show that the corresponding mass of the galaxy was insufficient to obtain such speeds.
 - Relevant Coursework: Introductory Thermodynamics, Electrodynamics, Quantum Mechanics, Advanced Quantum Mechancis, Galactic Astrophysics, Complex analysis
 
-**Note:** 
+**Note: On this education I have had experience with Matlab, R, physics, astrophysics and mathematical physics work** 
 
 ## Professional Development
 
@@ -271,9 +277,6 @@ Coursera - EPFL - Interest Rate Models
 - [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?utm_campaign=websitecourses-m4ml-topbutton&utm_medium=institutions&utm_source=deeplearning-ai)
 - [DeepLearning.AI Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/data-engineering?utm_campaign=dlai-lp&utm_medium=institutions&utm_source=deeplearning-ai)
 - [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=WebsiteCourses-MLS)
-
-
-
 
 ### 2025
 - CQF Institute - Quantitative Portfolio Management Conference
@@ -378,19 +381,27 @@ Coursera - EPFL - Interest Rate Models
 
 
 ## Projects
-TMRW
+### TMRW
 TMRW (pronounced Tomorrow), is a brainchild of mine. I’ve been working to understand, research and establish a small algorithmic trading fund for a while now. Various parts of the larger project have come along as I have proceeded towards my goal. The first one being the research.
 
-TMRW Research | 2019 - Now | Accumulating knowledge and research about algorithmic trading and investing. Link
+**TMRW Research | 2019 - Now | Accumulating knowledge and research about algorithmic trading and investing. Link**
+
 Beyond having had to research and understand, I’ve also had to develop infrastructure for the project. Most of this infrastructure I’ve combined into a personal python package, which I can use in many different projects.
-TMRW infrastructure | 2019 – Now | Personal python package, for use in ETL processes and with various useful data analysis functionalities Link
+
+**TMRW infrastructure | 2019 – Now | Personal python package, for use in ETL processes and with various useful data analysis functionalities Link**
+
 After having build the main infrastructure of the company I started researching what companies like TwoSigma, MAN Group or FlowTrading did in order to be the leaders in algorithmic trading. One of the ideas presented to me often, was the idea of monte carlo simulations, so I got to work on a simulation engine that I was satisfied could be useful in my venture.
-TMRW Simulations | 2022 - Now | Monte Carlo simulation software Link
+
+**TMRW Simulations | 2022 - Now | Monte Carlo simulation software Link**
+
 After having worked with a small hedge fund in Denmark as their goto guy for everything quantitative, I decided to try my hand at working with various trading algorithms on my own, developing them into a satisfactory framework and rigorously backtesting them against various different scenarios. After a few months I employed them in practice, earning 13% in the two months the algorithm was running. I have since had to put the work on hold, as I have moved to London. 
-TMRW Strategies | 2023 - Now | Algorithmic trading strategies, rigorously backtested
+
+**TMRW Strategies | 2023 - Now | Algorithmic trading strategies, rigorously backtested**
+
 After having worked tirelessly on this project for many years, I had a great epiphany in November 2024. Much of my research and experience running the model has led me to believe that a multi-layered AI agent, will be the defining feature of an algorithmic trading model, that can significantly outperform many participants in the market.
 
-TMRW-AI Solution | 2024 - Now | Multi-layered AI model for trading
+**TMRW-AI Solution | 2024 - Now | Multi-layered AI model for trading**
+
 The work on this AI agent has been significant, it has taken much of my time to both research, decide on infrastructure reworks and develop a basic model.
 
 ### 2022 - Now (Ongoing)
