@@ -10,8 +10,16 @@ Kaggle: https://www.kaggle.com/copenhagentolondon \
 DataCamp: ---
 
 ## Experience
-### QUANTITATIVE RESEARCHER & DEVELOPER
+
+### TARGET ROLE 2 - QUANTITATIVE RESEARCHER
+
+### TARGET ROLE 1 - QUANTITATIVE DEVELOPER
 **2024 – Now**\
+WTECH, Copenhagen, Denmark\
+
+
+### QUANTITATIVE RESEARCHER & DEVELOPER
+**May 2024 – January 2025(paused) - Continuing from April 2025**\
 WTECH, Copenhagen, Denmark\
 *Led the development of an algorithmic trading startup focused on creating innovative trading strategies and software solutions for financial markets.*
 - Company Formation & Leadership
@@ -29,7 +37,7 @@ WTECH, Copenhagen, Denmark\
   - Pioneered new methodologies for analyzing market patterns, enabling data-driven insights and robust strategy development.
 
 ### FREELANCE SOFTWARE DEVELOPER
-**2023 – Now**\
+**August 2023 – January 2025**\
 Self-employed, Remote\
 *Developing various trading, investing or finance-oriented software*		     
 - Developed a high frequency trading system to trade emerging meme coins as soon as they hit the raydium market.
@@ -38,12 +46,12 @@ Self-employed, Remote\
 - Developed various smaller Excel workbook projects with added VBA/VBScript features
 
 ### TRAIN STATION SERVICE EMPLOYEE
-**2024 – Now**\
+**May 2024 – January 2025**\
 DSB, Copenhagen, Denmark\
 *Danish train service company*
 - **Maintained cleanliness and a safe environment** at multiple train stations in the Copenhagen area.
 - **Assisted passengers—including those with disabilities** by helping them board and exit trains, find routes, and address other travel needs.
-- **Handled ad-hoc service tasks**, such as collaborating with police and security personnel in unique situations, escorting customers to safety during incidents, and managing specialized cleaning challenges.\
+- **Handled ad-hoc service tasks**, such as collaborating with police and security personnel in unique situations, escorting customers to safety during incidents, and managing specialized cleaning challenges.(Cleaning up 2 dead people and 1 severaly injured older lady)\
 
 - *DSB - Course in psychological first aid for trauma and shock*
 - *DSB - Course in proper use of cleaning chemicals*
@@ -51,7 +59,7 @@ DSB, Copenhagen, Denmark\
 
 
 ### DATA ANALYST						           	            	  	  
-**2023 – 2024**\
+**August 2023 – May 2024**\
 LD Pensions, Copenhagen, Denmark	     
 *A Danish pension fund that manages and invests pension assets on behalf of members.*
 - **Developed a modular Python package** (internally named “LDF”)—accessible only on LD’s local network—to support a broad range of quantitative analyses, risk modeling, and data management needs.
@@ -64,7 +72,7 @@ LD Pensions, Copenhagen, Denmark
 - **Augmented efficiency** through a suite of VBA macros and Excel add-ins, reducing manual efforts and elevating overall productivity.
 
 ### DATA QUALITY ANALYST  	            	  
-**2023 – 2023**\
+**January 2023 – August 2023**\
 Lån&Spar, Copenhagen, Denmark	        
 *A medium sized loan and savings bank in Denmark. My work was appreciated by the head of Credit and the head of analysis.*
 - **Assessed and documented** data quality indicators for the upcoming IRB system (scheduled for 2025 launch), producing in-depth analyses of PD/PC, LGD/LGC, EAD, and DoD procedures to **enhance data integrity** and **reporting accuracy**.
@@ -76,7 +84,7 @@ Lån&Spar, Copenhagen, Denmark
 - lån&spar course in basic SQL with sas institute
 
 ### VBA & PYTHON INSTRUCTOR
-**2023 – 2023**\
+**January 2023 – August 2023**\
 Danish Association of Lawyers and Economists, Copenhagen, Denmark\
 *An association for Danish law, social science and economics employees and students.*
 - **Designed and delivered** courses in Excel, VBA, and Python for both online and in-person sessions, catering to students at the beginner through advanced levels.
@@ -85,7 +93,7 @@ Danish Association of Lawyers and Economists, Copenhagen, Denmark\
 - 3-day Course on Pedagogical presentation in teaching
 
 ### DATA ANALYST           	            	  
-**2021 – 2023**\
+**August 2021 – August 2023**\
 Statistics Denmark, Copenhagen, Denmark					         
 *Denmark’s national and central statistics authority.*
 - **Developed and maintained** a robust software ecosystem—integrating Excel, VBA/VBS, SAS, and SQL—to **streamline data consolidation** and **analyze multifaceted project information.**
@@ -100,18 +108,20 @@ Statistics Denmark, Copenhagen, Denmark
 - Internal company course on "Introduction to demographical statistics"
 
 ### MATHEMATICS & PHYSICS TUTOR
-**2017 – 2021**\
+**September 2017 – September 2021**\
 MentorDenmark, Copenhagen, Denmark\
 *The largest homework tutor and subject matter tutor company in denmark*
 - Top-5 Senior Mentor with four years of experience and over 1,000 hours of tutoring. Successfully prepared more than 50 students for math exams, earning an average satisfaction rating of 4.7 out of 5. My teaching methods consistently helped students achieve above-average or significantly above-average grades.
 - 2-day course on MentorDenmark - Course on pedagogical presentation in teaching
 
 ### DATA ANALYSIS INTERN		           	            	  
-**2019 – 2019**\
+**January 2019 – April 2019**\
 Thomas Lystlund Studio, Copenhagen, Denmark\
 *Single project internship*	 						          
 - **Analyzed cash flows and projected ROI to evaluate forex bot products**, identifying potential scams and advising client on safer investment alternatives by leveraging in-depth knowledge of currency trading and expected returns.
 
+### Store Clerk -> Store Manager
+**October 2016 - December 2018**
 
 
 ## Education
