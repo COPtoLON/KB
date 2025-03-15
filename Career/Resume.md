@@ -54,7 +54,7 @@ Self-employed, Remote\
 DSB, Copenhagen, Denmark\
 *Danish train service company*
 - **Maintained cleanliness and a safe environment** at multiple train stations in the Copenhagen area.
-- **Assisted passengers—including those with disabilities** by helping them board and exit trains, find routes, and address other travel needs.
+- **Assisted passengers—including those with disabilities** by helping them board and exit trains, find routes, and address other travel needs. Took good care of and was genuinely well-reviewed by customers in my handling and empathic behaviours regarding disabled
 - **Handled ad-hoc service tasks**, such as collaborating with police and security personnel in unique situations, escorting customers to safety during incidents, and managing specialized cleaning challenges.(Cleaning up 2 dead people and 1 severaly injured older lady)\
 
 - *DSB - Course in psychological first aid for trauma and shock*
@@ -75,6 +75,8 @@ LD Pensions, Copenhagen, Denmark
 - **Enhanced business intelligence** by incorporating Python-driven data manipulation and visualization in Power BI dashboards, improving executive-level decision-making.
 - **Augmented efficiency** through a suite of VBA macros and Excel add-ins, reducing manual efforts and elevating overall productivity.
 
+Note: Quit all my other jobs to work my dream job, working as a combination data analyst, software developer, quantitative analyst etc. with LD Pensions. Official title was data analyst, as the title of quantitative developer isn't often seen in Denmark.
+
 ### DATA QUALITY ANALYST  	            	  
 **January 2023 – August 2023**\
 Lån&Spar, Copenhagen, Denmark	        
@@ -84,8 +86,10 @@ Lån&Spar, Copenhagen, Denmark
 - **Mapped and visually represented** complex database architectures, illustrating relationships among SAS tables for **credit evaluation, IRB, and transactional systems.**
 - **Engineered and maintained** macro-driven solutions for **data warehouse quality control**, ensuring reliable and precise data management.
 - **Led system documentation, code reviews, and testing** activities—presenting findings and recommendations to stakeholders—to **strengthen data governance** and **streamline the IRB model implementation**.
-- Lån&Spar course in basic sas with sas institute
-- lån&spar course in basic SQL with sas institute
+- Lån&Spar course in basic SAS with SAS institute
+- Lån&spar course in basic SQL with SAS institute
+
+Note: Passed a round of security checks regarding my criminal record. Quit after 8 months, to work my a job more closely related to my desired career path with LD Pensions.
 
 ### VBA & PYTHON INSTRUCTOR
 **January 2023 – August 2023**\
@@ -95,6 +99,7 @@ Danish Association of Lawyers and Economists, Copenhagen, Denmark\
 - **Developed advanced VBA coursework**, covering topics such as nested macros, complex function creation, and cross-application integration within the Windows environment (VBA/VBS).
 - **Facilitated interactive learning** by demonstrating real-world applications of Excel automation and Python scripting, enabling participants to apply these skills in professional settings.
 - 3-day Course on Pedagogical presentation in teaching
+Note: Quit after 8 months, to work my a job more closely related to my desired career path with LD Pensions.
 
 ### DATA ANALYST           	            	  
 **August 2021 – August 2023**\
@@ -110,6 +115,14 @@ Statistics Denmark, Copenhagen, Denmark
 - Internal company course on "Statistics with R I"
 - Internal company course on "Statistics with R II"
 - Internal company course on "Introduction to demographical statistics"
+- Passed a round of security checks regarding my criminal record.
+
+### Store Clerk
+**December 2021 - August 2022**\
+WHSmith, Copenhagen, Denmark
+- Copenhagen Airport, security Awareness certificate
+- Passed courses on proper management of disabled individuals, both invisible disabilities(Autism, OCD, mental disorders, etc. ) and visible disabilities(blindness, inability to walk, etc. ) 
+- Passed a round of security checks regarding my criminal record.
 
 ### MATHEMATICS & PHYSICS TUTOR
 **September 2017 – September 2021**\
@@ -117,6 +130,11 @@ MentorDenmark, Copenhagen, Denmark\
 *The largest homework tutor and subject matter tutor company in denmark*
 - Top-5 Senior Mentor with four years of experience and over 1,000 hours of tutoring. Successfully prepared more than 50 students for math exams, earning an average satisfaction rating of 4.7 out of 5. My teaching methods consistently helped students achieve above-average or significantly above-average grades.
 - 2-day course on MentorDenmark - Course on pedagogical presentation in teaching
+- Passed an extensive round of security checks regarding my criminal record. As I would have to do with kids for an extensive amount of time.
+
+### Store Clerk
+April 2019 - August 2020
+Lidl, Copenhagen, Denmark
 
 ### DATA ANALYSIS INTERN		           	            	  
 **January 2019 – April 2019**\
@@ -126,7 +144,14 @@ Thomas Lystlund Studio, Copenhagen, Denmark\
 
 ### Store Clerk -> Store Manager
 **October 2016 - December 2018**
-
+- Supervised store operations during night and early morning shifts.
+- Baked cakes, pastries, and prepared fresh sandwiches.
+- Organized and maintained storage areas, freezers, and shelves.
+- Restocked and arranged products efficiently.
+- Assisted customers at the cashier and addressed their needs.
+- Received and processed deliveries of goods.
+- Handled ad-hoc problem-solving to ensure smooth operations.
+- Emptied recycling machines, trash bins, and managed storage areas for exporting recycled bottles.
 
 ## Education
 
