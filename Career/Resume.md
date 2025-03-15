@@ -379,9 +379,9 @@ TMRW (pronounced “Tomorrow”) is an ongoing research and development venture 
   - Machine Learning & Statistical Arbitrage – Reinforcement learning, mean-field game approaches, and hidden Markov models for trend detection and market state classification.
   - Risk Management & Quantitative Frameworks – Value-at-Risk (VaR), stress testing, covariance estimations, and data-driven risk tools.
 <br>
-- **Knowledgebase:** - [link]()
-  - A curated repository of math/finance materials, designed to evolve into a future eBook.
-  - Contains in-depth conceptual overviews, problem-solving guides, and recommended references for deeper exploration.
+**Knowledgebase:** - [link]()
+- A curated repository of math/finance materials, designed to evolve into a future eBook.
+- Contains in-depth conceptual overviews, problem-solving guides, and recommended references for deeper exploration.
 
 ### 2. TMRW Infrastructure
 - **Goal:** Provide a personal Python ecosystem to automate ETL (Extract, Transform, Load) processes, unify data sources, and standardize analytics.
@@ -391,82 +391,86 @@ TMRW (pronounced “Tomorrow”) is an ongoing research and development venture 
   - Visualization & Reporting – Tools for plotting performance metrics, generating dashboards, and exporting daily or intraday strategy updates.
 
 **Example Tools in the Python Package:** - [link]()
-- 'TMRW.FINANCE.RSI()' – Custom RSI indicator.
-- 'TMRW.FINANCE.returns()' – Simple & log return calculations over user-defined intervals.
-- 'TMRW.FINANCE.twa()' – Time-weighted moving average for flexible smoothing.
+- ```TMRW.FINANCE.RSI()``` – Custom RSI indicator.
+- ```TMRW.FINANCE.returns()``` – Simple & log return calculations over user-defined intervals.
+- ```TMRW.FINANCE.twa()``` – Time-weighted moving average for flexible smoothing.
 
 
 ## Phase 2: Simulation & Strategy Deployment (2022 – 2023)
 ### 1. TMRW Simulations
-Goal: Develop powerful simulation environments (Monte Carlo, scenario testing) for pricing, risk analysis, and stress-testing new strategies.
-Notable Techniques:
-Monte Carlo Engines – Brownian motion, OU processes, square-root diffusion, and GARCH to simulate asset price trajectories.
-Extreme Event Testing – Implementation of fat-tailed assumptions (non-Gaussian distributions) to capture “black swan” events.
-Portfolio-Level Sensitivity – Integration of multi-asset simulation for dynamic rebalancing and factor-based risk decomposition.
-Example Project - “mean-reversion-strategy.ipynb”
+- **Goal:** Develop powerful simulation environments (Monte Carlo, scenario testing) for pricing, risk analysis, and stress-testing new strategies.
+- **Notable Techniques:**
+  - Monte Carlo Engines – Brownian motion, OU processes, square-root diffusion, and GARCH to simulate asset price trajectories.
+  - Extreme Event Testing – Implementation of fat-tailed assumptions (non-Gaussian distributions) to capture “black swan” events.
+  - Portfolio-Level Sensitivity – Integration of multi-asset simulation for dynamic rebalancing and factor-based risk decomposition.
 
-Walks through a mean reversion model using 20-day Bollinger Bands & 30-day Z-score thresholds.
-Details buy/sell signals when the market deviates x-sigma from a chosen moving average, referencing user-defined Sharpe ratio, 6m-return, 1y-return, and so forth.
-Contains performance comparisons vs. standard buy-and-hold.
-Example Project - “Strategy.ipynb”
+**Example Project - “mean-reversion-strategy.ipynb”**
+- Walks through a mean reversion model using 20-day Bollinger Bands & 30-day Z-score thresholds.
+- Details buy/sell signals when the market deviates x-sigma from a chosen moving average, referencing user-defined Sharpe ratio, 6m-return, 1y-return, and so forth.
+- Contains performance comparisons vs. standard buy-and-hold.
 
-Illustrates a pipeline for fetching live data, identifying local minima/maxima, and placing trades via the Binance API.
-Demonstrates trailing signals and systematic stop-loss logic.
+**Example Project - “Strategy.ipynb”**
+- Illustrates a pipeline for fetching live data, identifying local minima/maxima, and placing trades via the Binance API.
+- Demonstrates trailing signals and systematic stop-loss logic.
+
 ### 2. TMRW Strategies
-Goal: Translate research insights and simulation outcomes into workable, live trading strategies.
-Key Achievements:
-Mean Reversion & Momentum – E.g., strategies crossing short-term MAs with 30-day or 40-day MAs, pivoting on local maxima/minima detection.
-Trend-Following & Pattern Recognition – Implementing Markov models to detect up-trend, down-trend, or flat states.
-Pairs Trading & Arbitrage – Searching for correlated assets (A & B) whose price spread diverges from historical bounds.
-Live Deployment – Achieved 13% return over two months running a Python-based strategy with real-time signals.
-Risk Management – Incorporating dynamic position sizing, VaR-based stops, and trailing “take-profit” logic.
-Example Project - “research.ipynb”
+- **Goal:** Translate research insights and simulation outcomes into workable, live trading strategies.
+- **Key Achievements:**
+  - Mean Reversion & Momentum – E.g., strategies crossing short-term MAs with 30-day or 40-day MAs, pivoting on local maxima/minima detection.
+  - Trend-Following & Pattern Recognition – Implementing Markov models to detect up-trend, down-trend, or flat states.
+  - Pairs Trading & Arbitrage – Searching for correlated assets (A & B) whose price spread diverges from historical bounds.
+  - Live Deployment – Achieved 13% return over two months running a Python-based strategy with real-time signals.
+  - Risk Management – Incorporating dynamic position sizing, VaR-based stops, and trailing “take-profit” logic.
 
-Covers advanced topics like Markov probabilities, 0-tangent detection, and backtesting different triggers for momentum or mean reversion.
-Explores multi-asset synergy, including broad asset classes: equities, crypto, derivatives, and more.
+**Example Project - “research.ipynb”**
+- Covers advanced topics like Markov probabilities, 0-tangent detection, and backtesting different triggers for momentum or mean reversion.
+- Explores multi-asset synergy, including broad asset classes: equities, crypto, derivatives, and more.
+
 ## Phase 3: AI-Enhanced Market Adaptation & Autonomy (2024 – Present)
 ### TMRW-AI Solution
-Goal: Combine multi-layered AI architectures (reinforcement learning + predictive modeling) to create adaptive, self-optimizing trading models.
-Key Pillars:
-Adaptive Decision-Making – AI-driven reparameterization of strategies (e.g., adjusting Bollinger bandwidth or RSI thresholds based on real-time volatility).
-Market Impact Analysis – Minimizing slippage and partial fill risk via order sizing algorithms, employing advanced “flow-based” ML.
-Hidden Markov & Mean-Field Games – Ongoing research to predict intraday regime shifts and respond with minimal latency.
-AI Use Cases in Code
+- **Goal:** Combine multi-layered AI architectures (reinforcement learning + predictive modeling) to create adaptive, self-optimizing trading models.
+- Key Pillars:
+  - Adaptive Decision-Making – AI-driven reparameterization of strategies (e.g., adjusting Bollinger bandwidth or RSI thresholds based on real-time volatility).
+  - Market Impact Analysis – Minimizing slippage and partial fill risk via order sizing algorithms, employing advanced “flow-based” ML.
+  - Hidden Markov & Mean-Field Games – Ongoing research to predict intraday regime shifts and respond with minimal latency.
 
-ML-driven “spread Z-Score” strategies (MVRV Z-Score for crypto).
-Leverage-based sentiment modeling, analyzing the ratio of long vs. short positions in HPC (high-performance computing) environments.
-Neural Net–Based Predictors (PyTorch / TensorFlow) for short-horizon time-series classification.
-Potential Future Enhancements
-Quantum-Inspired Optimization – For portfolio rebalancing or high-frequency order books.
-Reinforcement Agents – Multi-timeframe RL that coordinates short and long horizon signals.
-Macro Strategies – Integrating fundamental data, news (via sentiment analysis), and macroeconomic indicators (growth, inflation) into a unified AI pipeline.
-Select Research & Methodological Highlights
-Mean Reversion Approaches
+**AI Use Cases in Code**
+- ML-driven “spread Z-Score” strategies (MVRV Z-Score for crypto).
+- Leverage-based sentiment modeling, analyzing the ratio of long vs. short positions in HPC (high-performance computing) environments.
+- Neural Net–Based Predictors (PyTorch / TensorFlow) for short-horizon time-series classification.
 
-Bollinger Band & Z-Score Scripts: Identify extremes with 1.5σ, 2σ, or 2.5σ triggers.
-Pairs Trading: Spread-based signals on correlated assets.
-Markov Probability Models: Probability of a reversion event given prior states (“Up, Up, Down, Down…”).
-Trend-Following & Momentum
+### Potential Future Enhancements
+- Quantum-Inspired Optimization – For portfolio rebalancing or high-frequency order books.
+- Reinforcement Agents – Multi-timeframe RL that coordinates short and long horizon signals.
+- Macro Strategies – Integrating fundamental data, news (via sentiment analysis), and macroeconomic indicators (growth, inflation) into a unified AI pipeline.
 
-MA Crossovers: 5–15–30 or 5–20–40 for multi-speed detection.
-RSI, OBV, TTM Squeeze, MACD Crossovers: Repeated pattern detection in script-based examples (e.g., “TrippleMACD,” “EMA RSI Strategy,” “Fourier Smoothed Hybrid Volume Spread Analysis”).
-Risk Management Techniques
+## Select Research & Methodological Highlights
+1. Mean Reversion Approaches
+  - Bollinger Band & Z-Score Scripts: Identify extremes with 1.5σ, 2σ, or 2.5σ triggers.
+  - Pairs Trading: Spread-based signals on correlated assets.
+  - Markov Probability Models: Probability of a reversion event given prior states (“Up, Up, Down, Down…”).
 
-Value-at-Risk & Scenario Tests: Evaluate catastrophic drawdowns, especially under tail scenarios.
-Stop-Loss & Trailing Exits: E.g., “Stop 1 ATR below local max” or Markov-driven partial liquidation.
-Portfolio-Level Hedging: Using options/futures to offset systematic or idiosyncratic risks.
-Advanced AI & ML Explorations
+2. Trend-Following & Momentum
+  - MA Crossovers: 5–15–30 or 5–20–40 for multi-speed detection.
+  - RSI, OBV, TTM Squeeze, MACD Crossovers: Repeated pattern detection in script-based examples (e.g., “TrippleMACD,” “EMA RSI Strategy,” “Fourier Smoothed Hybrid Volume Spread Analysis”).
 
-Hidden Markov Models: Distinguish between “flat,” “bull,” and “bear” states.
-Neural Networks & Autoencoders: Feature engineering for intraday microstructure or cross-asset correlations.
-Multi-Objective Optimization: Balancing short-term return vs. drawdowns vs. transaction costs.
-Technical Footprint
-Programming Languages: Primarily Python (pandas, NumPy, scikit-learn, TensorFlow/PyTorch) and some R/C++ for specialized tasks.
-Notebooks:
-mean-reversion-strategy.ipynb – Detailed walk-through for Bollinger Band & RSI-based trades.
-Strategy.ipynb – Implementation of local min/max triggers, placing real-time orders on Binance.
-research.ipynb – More experimental code on Markov modeling, 0-tangents, and multi-strategy blending.
-- Data & API:
+3. Risk Management Techniques
+  - Value-at-Risk & Scenario Tests: Evaluate catastrophic drawdowns, especially under tail scenarios.
+  - Stop-Loss & Trailing Exits: E.g., “Stop 1 ATR below local max” or Markov-driven partial liquidation.
+  - Portfolio-Level Hedging: Using options/futures to offset systematic or idiosyncratic risks.
+
+4. Advanced AI & ML Explorations
+   - Hidden Markov Models: Distinguish between “flat,” “bull,” and “bear” states.
+   - Neural Networks & Autoencoders: Feature engineering for intraday microstructure or cross-asset correlations.
+   - Multi-Objective Optimization: Balancing short-term return vs. drawdowns vs. transaction costs.
+
+## Technical Footprint
+- **Programming Languages:** Primarily Python (pandas, NumPy, scikit-learn, TensorFlow/PyTorch) and some R/C++ for specialized tasks.
+- **Notebooks:**
+  - mean-reversion-strategy.ipynb – Detailed walk-through for Bollinger Band & RSI-based trades.
+  - Strategy.ipynb – Implementation of local min/max triggers, placing real-time orders on Binance.
+  - research.ipynb – More experimental code on Markov modeling, 0-tangents, and multi-strategy blending.
+- **Data & API:**
   - Yahoo Finance, Binance, Bloomberg, MSC, Sustainalytics, Quandl, Alpha Vantage (depending on the asset class).
 
 
