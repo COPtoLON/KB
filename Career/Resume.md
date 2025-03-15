@@ -16,9 +16,11 @@ Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
 ## Experience
 
 ### TARGET ROLE 2 - QUANTITATIVE RESEARCHER
+**April 2025 – Now**\
+WTECH, Copenhagen, Denmark\
 
 ### TARGET ROLE 1 - QUANTITATIVE DEVELOPER
-**2024 – Now**\
+**April 2025 – Now**\
 WTECH, Copenhagen, Denmark\
 
 
@@ -39,6 +41,9 @@ WTECH, Copenhagen, Denmark\
 - Research & Development
   - Conducted extensive statistical and financial research to identify and refine profitable trading algorithms.
   - Pioneered new methodologies for analyzing market patterns, enabling data-driven insights and robust strategy development.
+ 
+**Note: In this role, I believe I can confidently say I have had experience with:**
+
 
 ### FREELANCE SOFTWARE DEVELOPER
 **August 2023 – January 2025**\
@@ -48,6 +53,9 @@ Self-employed, Remote\
 - Developed a trading algorithm in Pinescript to indicate and initiate trades based on a few predefined trade signals
 - Developed a website in HTML for an acquaintance looking to expand his hobby photography.
 - Developed various smaller Excel workbook projects with added VBA/VBScript features
+
+**Note: In this role, I believe I can confidently say I have had experience with:** \
+Excel, VBA, VBScript, HTML, CSS, JavaScriptBatch, powershell, python, webscraping and pinescript
 
 ### TRAIN STATION SERVICE EMPLOYEE
 **May 2024 – January 2025**\
