@@ -11,15 +11,12 @@ Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
 
 ## Experience
 
-### TARGET ROLE 2 - QUANTITATIVE RESEARCHER
-**April 2025 – Now**\
-WTECH, Copenhagen, Denmark\
-
-### TARGET ROLE 1 - QUANTITATIVE DEVELOPER
-**April 2025 – Now**\
-WTECH, Copenhagen, Denmark\
-
-
+### (GOAL) QUANTITATIVE RESEARCHER
+ABC partners inc. | London, United Kingdom | April 2027 – Present
+<br>
+### TARGET ROLE - QUANTITATIVE DEVELOPER
+YourCompany ltd | London, United Kingdom | April 2025 – Present
+<br>
 ### Quantitative Developer & Researcher
 WTECH | Copenhagen, Denmark | January 2024 – Present(paused atm.)
 - Company Formation & Leadership
