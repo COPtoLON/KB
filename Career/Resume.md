@@ -10,56 +10,8 @@ Kaggle: https://www.kaggle.com/copenhagentolondon \
 DataCamp: ---
 
 ## HARD SKILLS - what can I offer as an employee?
-- **Mathematics & Statistics**
-  - Advanced Probability Theory (stochastic processes, Monte Carlo methods)
-  - Statistical Analysis (regression, hypothesis testing, VaR, CVaR)
-  - Numerical Methods (optimization, simulation, finite-difference methods)
-- **Programming & Data Engineering**
-  - Python (packages for data science, quantitative finance, API integrations)
-  - R (statistical computing, Shiny apps, R-package development)
-  - SQL & SAS (data querying, reporting, ETL pipelines)
-  - Excel/VBA (automation, macros, add-ins)
-- **Quantitative Finance & Risk management**
-  - Portfolio Management (optimization, asset allocation)
-  - Derivatives Pricing (stochastic volatility models, Heston model, Black–Scholes)
-  - Risk Assessment (credit risk, market risk, interest rate risk)
-  - Algorithmic Trading (backtesting, forecasting, low-frequency trading systems)
-- **Data Science & Analytics**
-  - ETL Pipelines (data wrangling from multiple APIs and sources)
-  - Machine Learning (predictive modeling, feature engineering)
-  - Statistical Computing Environments (SAS, R, Python)
-  - Visualization & Reporting (Power BI, Python libraries like matplotlib/seaborn, Excel dashboards)
-- **Software Development & Architecture**
-  - Building robust software ecosystems (documentation, version control, modular design)
-  - API Integrations (Bloomberg, MSCI, Yahoo, alphaVantage, Binance)
-  - High-Performance Backtesting Frameworks (C++/Python-based)
-  - CI/CD & Deployment (potentially via GitHub, Docker—if relevant)
-- **Research & Teaching**
-  - Quantitative Research (designing and testing new models/strategies)
-  - Academic/Professional Course Instruction (VBA, Python)
-  - Technical Writing & Documentation (internal packages, risk reports)
 
 ## SOFT SKILLS - who am I as a person in your company
-- **Analytical Thinking & Problem-Solving**
-  - Adept at breaking down complex quantitative challenges into actionable steps
-  - Creative in devising novel trading models and simulation approaches
-- **Adaptability & Resilience**
-  - Experienced working in fast-paced, high-pressure environments (algorithmic trading, startup settings)
-  - Flexible in shifting among multiple projects and technologies
-- **Communication & Collaboration**
-  - Teaching Experience: Excel/VBA/Python courses for various audiences
-  - Ability to explain complex financial or technical concepts to non-specialists
-  - Team Leadership: spearheading legal incorporation, funding, and strategic direction
-- **Attention to Detail**
-  - Precise in risk modeling, forecasting, and code reviews
-  - Thorough in maintaining data integrity, documentation, and reliability
-- **Self-Motivation & Initiative**
-  - Freelance software development (indicates resourcefulness and entrepreneurial spirit)
-  - Continuous learning (extensive course list, staying at the cutting edge of finance and data science)
-- **Reliability & Work Ethic**
-  - History of taking ownership of projects from inception to completion
-  - Track record of consistent performance under deadlines (e.g., delivering dynamic solutions in data analytics and quant roles)
-
 
 ## Experience
 
