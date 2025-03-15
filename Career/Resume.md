@@ -229,93 +229,26 @@ Thomas Lystlund Studio, Copenhagen, Denmark\
 
 ## Professional Development
 
-WBS – QDC Quantitative Developer Certificate
-CQF – Certificate in Quantitative Finance
-WorldQuant MFE degree
-GARP – FRM
-Quantnet C++ Programming for Financial Engineering
-Quantnet Python for Finance with intro to data science
-Quantnet An intuition-based options primer for Financial Engineering
-Quantnet Advanced C++ and modern design
-CFI CMSA Capital Markets and Securities Analyst
-CFI FTIP FinTech Industry Professional
-FitchLearning – Various courses
-Coursera - DeepLearning.AI - Tensorflow Developer Professional Certificate
-Coursera - DeepLearning.AI - Tensorflow: Advanced Techniques Specialization
-Coursera - DeepLearning.AI - Deep learning specialization
-Coursera - DeepLearning.AI - Machine learning specialization
-Coursera - Caltech - Pricing Options with Mathematical Models
-Coursera - Columbia Uni - Financial Engineering and Risk Management Specialization
-Coursera - NYIF - Risk Management Specialization
-Coursera - RICE - Investment and Portfolio Management Specialization
-Coursera - Imperial College London - Mathematics for Machine Learning Specialization
-Coursera - John Hopkins - Statistical Methods for Computer Science Specialization
-Coursera - John Hopkins - Advanced Statistics for Data Science Specialization
-Coursera - NYIF - Machine Learning for Trading Specialization
-Coursera - Stanford - Probabilistic Graphical Models Specialization
-Coursera - IBM - Data Analyst Professional Certificate
-Coursera - IBM - Data Science Professional Certificate
-Akuna Capital - Options 101 Course
-Coursera - EPFL - Interest Rate Models
 
-
-**wishlist**
-- *2025 [Oxford AI for trading](https://www.getsmarter.com/products/oxford-ai-in-algorithmic-trading-series?_gl=1*8j8qch*_up*MQ..*_ga*MjAyMTMwODUyNy4xNzM2ODEzMDA3*_ga_D3KS4KMDT0*MTczNjgxMzAwNy4xLjAuMTczNjgxMzAwNy4wLjAuMA..*_ga_QQSC9D30C7*MTczNjgxMzAwNy4xLjAuMTczNjgxMzAwNy4wLjAuMA..)
-- *2025 [Oxford Algorithmic Trading](https://www.getsmarter.com/products/oxford-algorithmic-trading-programme?_gl=1*8j8qch*_up*MQ..*_ga*MjAyMTMwODUyNy4xNzM2ODEzMDA3*_ga_D3KS4KMDT0*MTczNjgxMzAwNy4xLjAuMTczNjgxMzAwNy4wLjAuMA..*_ga_QQSC9D30C7*MTczNjgxMzAwNy4xLjAuMTczNjgxMzAwNy4wLjAuMA..)
-- *2025 [IBM edX - Professional Certificate in Deep Learning](https://www.edx.org/certificates/professional-certificate/ibm-deep-learning?index=product&objectID=program-87c0bb3f-ad8c-43f4-94cd-3b9b3070b98d&webview=false&campaign=Deep+Learning&source=edX&product_category=professional-certificate&placement_url=https%3A%2F%2Fwww.edx.org%2Flearn%2Fmachine-learning)
-- *2025 [QuantNet - C++ Programming for Financial Engineering](https://quantnet.com/cpp/)
-- *2025 [QuantNet - Intuition-Based Options Primer for Financial Engineering](https://quantnet.com/options-primer-certificate/)
-- *2025 [MIT edX - MicroMasters in finance](https://www.edx.org/masters/micromasters/mitx-finance?index=product&queryId=b1bc3d06289b04ba5ba59d0047f1c0d0&position=7)
-- *2025 [MIT edX - MicroMasters in Statistics and Data Science](https://www.edx.org/masters/micromasters/mitx-statistics-and-data-science-methods-track?index=product&queryId=4381a6206527603ac11bd4121e893c54&position=2)
-- *2025 [MIT edX - MicroBachelors in Statistics Fundamentals](https://www.edx.org/bachelors/microbachelors/lse-statistics-fundamentals?index=product&queryId=1574d4f34fcc29843aaed1ee7bb04487&position=9)
-- *2025 [LSE edX - MicroBachelors in statistics](https://www.edx.org/bachelors/microbachelors/lse-mathematics-and-statistics-fundamentals?index=product&queryId=b1bc3d06289b04ba5ba59d0047f1c0d0&position=14)
-- *2025 [Georgia Tech edX - Probability/Random Variables](https://www.edx.org/certificates/professional-certificate/gtx-probability-random-variables?index=product&queryId=b1bc3d06289b04ba5ba59d0047f1c0d0&position=19)
-- *2025 [Georgia Tech edX - Statistics, Confidence Intervals and Hypothesis Tests](https://www.edx.org/certificates/professional-certificate/gtx-statistics-confidence-intervals-and-hypothesis-tests?index=product&queryId=34e03f09c674d2902ca76e0cabd9e203&position=27)
-- *2025 [University of canterbury edX - Bayesian Statistics Using R](https://www.edx.org/certificates/professional-certificate/ucx-bayesian-statistics-using-r?index=product&queryId=34e03f09c674d2902ca76e0cabd9e203&position=32)
-- *2025 [University of canterbury edX - Statistical Analysis in R](https://www.edx.org/certificates/professional-certificate/ucx-statistical-analysis-in-r?index=product&queryId=34e03f09c674d2902ca76e0cabd9e203&position=34)
-- *2025 [NYIF edX - Credit Risk and Credit Analysis](https://www.edx.org/certificates/professional-certificate/nyif-credit-risk-and-credit-analysis?index=product&queryId=1574d4f34fcc29843aaed1ee7bb04487&position=11)
-- *2025 [NYIF edX - Introduction to Investment Banking](https://www.edx.org/certificates/professional-certificate/nyif-introduction-to-investment-banking?index=product&queryId=1574d4f34fcc29843aaed1ee7bb04487&position=7)
-- *2025 [NYIF edX - Risk Management](https://www.edx.org/certificates/professional-certificate/nyif-risk-management?index=product&queryId=1574d4f34fcc29843aaed1ee7bb04487&position=17)
-- *2025 [NYIF edX - Portfolio Management](https://www.edx.org/certificates/professional-certificate/nyif-portfolio-management-professional-certificate?index=product&queryId=35095b8c7548028278949bfe14f2386f&position=21)
-- *2025 [NYIF edX - Fixed Income](https://www.edx.org/certificates/professional-certificate/nyif-fixed-income?index=product&queryId=0be89a9cc7494d91458cfba41c42e83c&position=31)
-- *2025 [Berkeley edX - DATA 88EX: Economics Models With Python](https://www.edx.org/certificates/professional-certificate/berkeleyx-data-88ex-economic-models-with-python?index=product&queryId=1574d4f34fcc29843aaed1ee7bb04487&position=8)
-- *2025 [University of Queensland edX - Macroeconomics](https://www.edx.org/certificates/professional-certificate/uqx-macroeconomics?index=product&queryId=0be89a9cc7494d91458cfba41c42e83c&position=35)
-
-**Genuinely about to finish**
-- ???? [Datacamp](https://www.datacamp.com/)
-- *2025 [Probabilistic Graphical Models](https://www.coursera.org/specializations/probabilistic-graphical-models)
-- *2025 [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning)
-- *2025 [IBM - Data Science Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-science)
-- *2025 [IBM - Data Analyst Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst)
-- *2025 [IBM - Data Science Fundamentals with Python and SQL Specialization](https://www.coursera.org/specializations/data-science-fundamentals-python-sql)
-- *2025 [IBM - Data Analytics with Excel and R Professional Certificate](https://www.coursera.org/professional-certificates/ibm-data-analyst-r-excel)
-- *2025 [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
-- *2025 [Data Science Foundations: Statistical Inference Specialization](https://www.coursera.org/specializations/statistical-inference-for-data-science-applications)
-- *2025 [Linear Regression and Modeling Course](https://www.coursera.org/learn/linear-regression-model)
-- *2025 [Advanced Probability and Statistical methods](https://www.coursera.org/learn/advanced-probability-and-statistical-methods)
-- *2025 [Advanced Statistics for Data Science Specialization](https://www.coursera.org/specializations/advanced-statistics-data-science)
-- *2025 [Introduction to Statistics Certificate](https://www.coursera.org/learn/stanford-statistics)
-- *2025 [GoogleCloud & NYIF - Machine Learning for Trading Specialization](https://www.coursera.org/specializations/machine-learning-trading)
-- *2025 [CFI - Regression Analysis - basics](https://www.coursera.org/learn/regression-analysis-fundamentals-and-practical-applications)
-- *2025 [CFI - Practical Data Science for Data Analysts Specialization](https://www.coursera.org/specializations/practical-data-science-for-data-analysts)
-- *2025 [Interest Rate Models](https://www.coursera.org/learn/interest-rate-models?)
-- *2025 [SAS - Advanced Programmer Professional Certificate](https://www.coursera.org/professional-certificates/sas-advanced-programmer)
-- *2025 [SAS - Programmer Professional Certificate](https://www.coursera.org/professional-certificates/sas-programming)
-- *2025 [SAS - Analyzing Time Series and Sequential Data Specialization](https://www.coursera.org/specializations/time-series-sequential-data)
-- *2025 [Global Financial Markets and Instruments](https://www.coursera.org/learn/global-financial-markets-instruments?)
-- *2025 [Machine learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?utm_campaign=WebsiteCourses-MLS-TopButton-mls-launch-2022&utm_medium=institutions&utm_source=deeplearning-ai)
-- *2025 [Risk management Specialization](https://www.coursera.org/specializations/risk-management)
-- *2025 [Financial Engineering and Risk Management Specialization](https://www.coursera.org/specializations/financialengineering)
-- *2025 [Advanced Topics in Derivatives Pricing](https://www.coursera.org/learn/financial-engineering-advancedtopics)
-- *2025 [Pricing Options with Mathematical Models](https://www.coursera.org/learn/pricing-options-with-mathematical-models)
-- [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesDLSTopButton)
-- [DeepLearning.AI TensorFlow Developer Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=WebsiteCoursesTFSTopButton)
-- [TensorFlow: Advanced Techniques Specialization](https://www.coursera.org/specializations/tensorflow-advanced-techniques?utm_source=deeplearningai&utm_medium=institutions&utm_campaign=DLWebTF3)
-- [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science?utm_campaign=websitecourses-m4ml-topbutton&utm_medium=institutions&utm_source=deeplearning-ai)
-- [DeepLearning.AI Data Engineering Professional Certificate](https://www.coursera.org/professional-certificates/data-engineering?utm_campaign=dlai-lp&utm_medium=institutions&utm_source=deeplearning-ai)
-- [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction?utm_source=deeplearning-ai&utm_medium=institutions&utm_campaign=WebsiteCourses-MLS)
 
 ### 2025
+- Coursera - DeepLearning.AI - Tensorflow Developer Professional Certificate
+- Coursera - DeepLearning.AI - Tensorflow: Advanced Techniques Specialization
+- Coursera - DeepLearning.AI - Deep learning specialization
+- Coursera - DeepLearning.AI - Machine learning specialization
+- Coursera - Caltech - Pricing Options with Mathematical Models
+- Coursera - Columbia Uni - Financial Engineering and Risk Management Specialization
+- Coursera - NYIF - Risk Management Specialization
+- Coursera - RICE - Investment and Portfolio Management Specialization
+- Coursera - Imperial College London - Mathematics for Machine Learning Specialization
+- Coursera - John Hopkins - Statistical Methods for Computer Science Specialization
+- Coursera - John Hopkins - Advanced Statistics for Data Science Specialization
+- Coursera - NYIF - Machine Learning for Trading Specialization
+- Coursera - Stanford - Probabilistic Graphical Models Specialization
+- Coursera - IBM - Data Analyst Professional Certificate
+- Coursera - IBM - Data Science Professional Certificate
+- Akuna Capital - Options 101 Course
+- Coursera - EPFL - Interest Rate Models
 - CQF Institute - Quantitative Portfolio Management Conference
 - Imperial College London - Daniel Lacker - Mean field theory
 - Bangalore Quant Club - Peter Cotton - Machine Learning for Hierachical Portfolio Optimization Using Schur Complements
