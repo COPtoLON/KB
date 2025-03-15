@@ -43,7 +43,9 @@ WTECH, Copenhagen, Denmark\
   - Pioneered new methodologies for analyzing market patterns, enabling data-driven insights and robust strategy development.
  
 **Note: In this role, I believe I can confidently say I have had experience with:**
+Python, SQL, Algorithmic trading, Cryptocurrencies, Quantitative Research, Monte Carlo methods, Hidden Markov Models, Market state detection, ...
 
+<br>
 
 ### FREELANCE SOFTWARE DEVELOPER
 **August 2023 – January 2025**\
@@ -55,7 +57,9 @@ Self-employed, Remote\
 - Developed various smaller Excel workbook projects with added VBA/VBScript features
 
 **Note: In this role, I believe I can confidently say I have had experience with:** \
-Excel, VBA, VBScript, HTML, CSS, JavaScriptBatch, powershell, python, webscraping and pinescript
+Excel, VBA, VBScript, HTML, CSS, JavaScriptBatch, powershell, python, Webscraping and pinescript.
+
+<br>
 
 ### TRAIN STATION SERVICE EMPLOYEE
 **May 2024 – January 2025**\
@@ -69,6 +73,10 @@ DSB, Copenhagen, Denmark\
 - *DSB - Course in proper use of cleaning chemicals*
 - *DSB - Course in safety concerns at the train tracks*
 
+**Note: In this role, I believe I can confidently say I have had experience with:** \
+Cleaning, servicemindedness, conflict management, disabilities management, resillience, ...
+
+<br>
 
 ### DATA ANALYST						           	            	  	  
 **August 2023 – May 2024**\
@@ -85,6 +93,12 @@ LD Pensions, Copenhagen, Denmark
 
 Note: Quit all my other jobs to work my dream job, working as a combination data analyst, software developer, quantitative analyst etc. with LD Pensions. Official title was data analyst, as the title of quantitative developer isn't often seen in Denmark.
 
+**Note: In this role, I believe I can confidently say I have had experience with:** \
+Python, ETL-frameworks, database management, SQL, risk measurements(VAR, CVAR, Interest Rate Risk, Currency Risk, Derivatives Risk), portfolio analytics, monte carlo simulations, Data quality analysis, KPI development, Dashboard development, Python-Excel integration, Python-PowerBI integration, Bloomberg Terminal, Bloomberg API, BQUANT, MSCI Data APIs, Sustainalytics API, ESG analytics, Automation, Nordea Analytics, CI/CD, Object oriented programming, functional-programming.
+
+<br>
+
+
 ### DATA QUALITY ANALYST  	            	  
 **January 2023 – August 2023**\
 Lån&Spar, Copenhagen, Denmark	        
@@ -99,6 +113,11 @@ Lån&Spar, Copenhagen, Denmark
 
 Note: Passed a round of security checks regarding my criminal record. Quit after 8 months, to work my a job more closely related to my desired career path with LD Pensions.
 
+**Note: In this role, I believe I can confidently say I have had experience with:** \
+SAS, SQL, Excel, Data quality metrics, Data quality reporting, IRB framework (DoD, PD/PC, LGD/LGC, EAD), Data infrastructure documentation, SCRUM, CI/CD database management.
+
+<br>
+
 ### VBA & PYTHON INSTRUCTOR
 **January 2023 – August 2023**\
 Danish Association of Lawyers and Economists, Copenhagen, Denmark\
@@ -108,6 +127,11 @@ Danish Association of Lawyers and Economists, Copenhagen, Denmark\
 - **Facilitated interactive learning** by demonstrating real-world applications of Excel automation and Python scripting, enabling participants to apply these skills in professional settings.
 - 3-day Course on Pedagogical presentation in teaching
 Note: Quit after 8 months, to work my a job more closely related to my desired career path with LD Pensions.
+
+**Note: In this role, I believe I can confidently say I have had experience with:** \
+Teaching, Python, VBA, Excel, pedagogical presentation techniques, coursework development.
+
+<br>
 
 ### DATA ANALYST           	            	  
 **August 2021 – August 2023**\
@@ -124,6 +148,11 @@ Statistics Denmark, Copenhagen, Denmark
 - Internal company course on "Statistics with R II"
 - Internal company course on "Introduction to demographical statistics"
 - Passed a round of security checks regarding my criminal record.
+
+**Note: In this role, I believe I can confidently say I have had experience with:** \
+Company Economics, Timesheets management, Financial statements, Corporate Finance, Bookkeeping, budgetting, SAS, SQL, VBA, Excel, C#, Database management, ETL, software development.
+
+<br>
 
 ### Store Clerk
 **December 2021 - August 2022**\
