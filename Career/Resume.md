@@ -155,13 +155,15 @@ Thomas Lystlund Studio, Copenhagen, Denmark\
 
 ## Education
 
-### GOAL) Ph.D. in computational finance
+### (GOAL) Ph.D. in computational finance
 **Goal - Imperial College : London London, UK : 2028 - 2030**
 - Thesis(idea): “High-Performance Stochastic Simulation for Real-Time Derivatives Pricing and Systematic Trading”
 - Focus on advanced stochastic calculus, machine learning–based alpha models, and HPC for large-scale risk simulations.
 - Engaged in cross-disciplinary research with the Department of Mathematics and a leading quant firm, applying cutting-edge computational methods to real-world trading scenarios.
 
 **Note: This education is a goal, I will not imply I have finished this.**
+
+<br>
 
 ### (GOAL) MA in financial mathematics - LSE
 **Goal - LSE : London, UK : 2026 - 2028**
@@ -170,6 +172,8 @@ Thomas Lystlund Studio, Copenhagen, Denmark\
 -	Collaborated on quantitative strategy research projects, incorporating factor modeling and robust risk measures (VaR, CVaR) to evaluate alpha performance under market volatility.
 
 **Note: This education is a goal, I will not imply I have finished this.**
+
+<br>
 
 ### B.Sc. in Mathematical Statistics 
 **University of Copenhagen | Copenhagen, Denmark | September 2021 - July 2025**
