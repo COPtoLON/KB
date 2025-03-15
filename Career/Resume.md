@@ -155,32 +155,29 @@ Thomas Lystlund Studio, Copenhagen, Denmark\
 
 ## Education
 
-### GOAL) Ph.D. in computational finance - Imperial College London
-Goal - London, UK
-Thesis: high speed calculations on simulations
+### GOAL) Ph.D. in computational finance
+Goal - Imperial College : London London, UK : 2028 - 2030
+- Thesis: high speed calculations on simulations
 
 ### (GOAL) MA in financial mathematics - LSE
-Goal - London, UK
-Dissertation: Stochastic modelling Relevant coursework: ---
+Goal - LSE : London, UK : 2026 - 2028
+- Dissertation: Stochastic modelling 
+- Relevant coursework: ---
 
 ### B.Sc. in Mathematical Statistics 
-University of Copenhagen | Copenhagen, Denmark | 2021-2025				
+University of Copenhagen | Copenhagen, Denmark | 2021-2025
 -	Thesis: “Option Pricing with Stochastic Volatility in the Heston Model” ~ R library development
+-	First year project: Event study in the stock market, in the project we ran estimations on best trading strategies around significant events in the stock market, the focus was on the acquisition announcement between AuthenTec and Apple.
 -	Relevant coursework: Mathematical Statistics, Stochastic processes I & II, Basic Life insurance, Basic Non-life Insurance, Advanced probability theory
 -	Gained fundamental proficiency in probability theory, statistical inference, and time series analysis, forming a strong basis for quantitative trading research.
 
-Note: I've finished a first year project in estimating best trading strategies around significant events in stock markets, the title was: Event study in the stock market. The focus was on the acquisition announcement between AuthenTec and Apple.
-
-### UNIVERSITY OF COPENHAGEN 					 
-resigned\
-Copenhagen, Denmark\
-Bachelor, mathematical Physics\	   				                                      	           
-Thesis: None\
-Relevant Coursework: Introductory Quantum Mechanics, Advanced Quantum Mechancis, Galactic Astrophysics, mathematical statistics, Complex analysis
+### B.Sc. in Mathematical Physics					 
+University of Copenhagen | Copenhagen, Denmark | 2019-2021	
+- Thesis: None
+- Relevant Coursework: Introductory Thermodynamics, Electrodynamics, Quantum Mechanics, Advanced Quantum Mechancis, Galactic Astrophysics, Complex analysis
+- First year project on calculating the rotational speed of spiral galaxies, to estimate dark matter densities. We used a machine learning algorithm to identify certain types of stars from a black-white image of a galaxy
 
 Note: Resigned to transfer to the bachelor degree in Mathematical Statistics.
-I finished a first year project on calculating the rotational speed of spiral galaxies, to estimate dark matter.
-
 
 ## Professional Development
 
