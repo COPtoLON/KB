@@ -5,11 +5,9 @@
 Francis Harvey Way 1, London SE8 4DA, UK  \
 UK phone - (+44)7761917490 | DK phone - (+45)93904834
 Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
-linkedin.com/in/coptolon | github.com/COPtoLon \
-Hackerrank: https://www.hackerrank.com/profile/mark642 \
-Kaggle: https://www.kaggle.com/copenhagentolondon \
-Medium: 
-SSRN: 
+[LinkedIn Profile](linkedin.com/in/coptolon) | [GitHub Profile](github.com/COPtoLon) \
+[HackerRank Profile](https://www.hackerrank.com/profile/mark642) | [Kaggle Profile](https://www.kaggle.com/copenhagentolondon) \
+[Medium Profile]() | [SSRN Profile]() 
 DataCamp: ---
 
 ## HARD SKILLS - what can I offer as an employee?
