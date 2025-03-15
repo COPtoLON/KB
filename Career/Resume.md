@@ -445,24 +445,21 @@ TMRW (pronounced “Tomorrow”) is an ongoing research and development venture 
 - Macro Strategies – Integrating fundamental data, news (via sentiment analysis), and macroeconomic indicators (growth, inflation) into a unified AI pipeline.
 
 ## Select Research & Methodological Highlights
-1. Mean Reversion Approaches
-- Bollinger Band & Z-Score Scripts: Identify extremes with 1.5σ, 2σ, or 2.5σ triggers.
-- Pairs Trading: Spread-based signals on correlated assets.
-- Markov Probability Models: Probability of a reversion event given prior states (“Up, Up, Down, Down…”).
-
-2. Trend-Following & Momentum
-- MA Crossovers: 5–15–30 or 5–20–40 for multi-speed detection.
-- RSI, OBV, TTM Squeeze, MACD Crossovers: Repeated pattern detection in script-based examples (e.g., “TrippleMACD,” “EMA RSI Strategy,” “Fourier Smoothed Hybrid Volume Spread Analysis”).
-
-3. Risk Management Techniques
-- Value-at-Risk & Scenario Tests: Evaluate catastrophic drawdowns, especially under tail scenarios.
-- Stop-Loss & Trailing Exits: E.g., “Stop 1 ATR below local max” or Markov-driven partial liquidation.
-- Portfolio-Level Hedging: Using options/futures to offset systematic or idiosyncratic risks.
-
-4. Advanced AI & ML Explorations
-- Hidden Markov Models: Distinguish between “flat,” “bull,” and “bear” states.
-- Neural Networks & Autoencoders: Feature engineering for intraday microstructure or cross-asset correlations.
-- Multi-Objective Optimization: Balancing short-term return vs. drawdowns vs. transaction costs.
+- **Mean Reversion Approaches**
+  - Bollinger Band & Z-Score Scripts: Identify extremes with 1.5σ, 2σ, or 2.5σ triggers.
+  - Pairs Trading: Spread-based signals on correlated assets.
+  - Markov Probability Models: Probability of a reversion event given prior states (“Up, Up, Down, Down…”).
+- **Trend-Following & Momentum**
+  - MA Crossovers: 5–15–30 or 5–20–40 for multi-speed detection.
+  - RSI, OBV, TTM Squeeze, MACD Crossovers: Repeated pattern detection in script-based examples (e.g., “TrippleMACD,” “EMA RSI Strategy,” “Fourier Smoothed Hybrid Volume Spread Analysis”).
+- **Risk Management Techniques**
+  - Value-at-Risk & Scenario Tests: Evaluate catastrophic drawdowns, especially under tail scenarios.
+  - Stop-Loss & Trailing Exits: E.g., “Stop 1 ATR below local max” or Markov-driven partial liquidation.
+  - Portfolio-Level Hedging: Using options/futures to offset systematic or idiosyncratic risks.
+- **Advanced AI & ML Explorations**
+  - Hidden Markov Models: Distinguish between “flat,” “bull,” and “bear” states.
+  - Neural Networks & Autoencoders: Feature engineering for intraday microstructure or cross-asset correlations.
+  - Multi-Objective Optimization: Balancing short-term return vs. drawdowns vs. transaction costs.
 
 ## Technical Footprint
 - **Programming Languages:** Primarily Python (pandas, NumPy, scikit-learn, TensorFlow/PyTorch) and some R/C++ for specialized tasks.
