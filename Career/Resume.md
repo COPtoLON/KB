@@ -157,11 +157,10 @@ Lidl | Copenhagen, Denmark | April 2019 – August 2020
 - Customer service
 
 ### DATA ANALYSIS INTERN - Single project internship           	            	  
-Thomas Lystlund Studio | Copenhagen, Denmark | January 2019 – April 2019
-*Single project internship*	 						          
+Thomas Lystlund Studio | Copenhagen, Denmark | January 2019 – April 2019					          
 - **Analyzed cash flows and projected ROI to evaluate forex bot products**, identifying potential scams and advising client on safer investment alternatives by leveraging in-depth knowledge of currency trading and expected returns.
 
-### Store Clerk -> Store Manager
+### Store Clerk → Store Manager
 MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – December 2018
 - Supervised store operations during night and early morning shifts.
 - Baked cakes, pastries, and prepared fresh sandwiches.
