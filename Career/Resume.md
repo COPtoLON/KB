@@ -57,8 +57,7 @@ Excel, VBA, VBScript, HTML, CSS, JavaScriptBatch, powershell, python, Webscrapin
 DSB | Copenhagen, Denmark | May 2024 – January 2025
 - **Maintained cleanliness and a safe environment** at multiple train stations in the Copenhagen area.
 - **Assisted passengers—including those with disabilities** by helping them board and exit trains, find routes, and address other travel needs. Took good care of and was genuinely well-reviewed by customers in my handling and empathic behaviours regarding disabled
-- **Handled ad-hoc service tasks**, such as collaborating with police and security personnel in unique situations, escorting customers to safety during incidents, and managing specialized cleaning challenges.(Cleaning up 2 dead people and 1 severaly injured older lady)\
-
+- **Handled ad-hoc service tasks**, such as collaborating with police and security personnel in unique situations, escorting customers to safety during incidents, and managing specialized cleaning challenges.(Cleaning up 2 dead people and 1 severaly injured older lady)
 - *DSB - Course in psychological first aid for trauma and shock*
 - *DSB - Course in proper use of cleaning chemicals*
 - *DSB - Course in safety concerns at the train tracks*
@@ -142,7 +141,7 @@ WHSmith | Copenhagen, Denmark | December 2021 – August 2022
 - Passed courses on proper management of disabled individuals, both invisible disabilities(Autism, OCD, mental disorders, etc. ) and visible disabilities(blindness, inability to walk, etc. ) 
 - Passed a round of security checks regarding my criminal record.
 
-### MATHEMATICS & PHYSICS TUTOR
+### Mathematics & Physics Tutor
 MentorDenmark| Copenhagen, Denmark | September 2017 – September 2021
 *The largest homework tutor and subject matter tutor company in denmark*
 - Top-5 Senior Mentor with four years of experience and over 1,000 hours of tutoring. Successfully prepared more than 50 students for math exams, earning an average satisfaction rating of 4.7 out of 5. My teaching methods consistently helped students achieve above-average or significantly above-average grades.
@@ -156,7 +155,7 @@ Lidl | Copenhagen, Denmark | April 2019 – August 2020
 - Shelfing
 - Customer service
 
-### DATA ANALYSIS INTERN - Single project internship           	            	  
+### Data analyst Intern - Single project internship           	            	  
 Thomas Lystlund Studio | Copenhagen, Denmark | January 2019 – April 2019					          
 - **Analyzed cash flows and projected ROI to evaluate forex bot products**, identifying potential scams and advising client on safer investment alternatives by leveraging in-depth knowledge of currency trading and expected returns.
 
@@ -173,7 +172,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 ## Education
 
-### (GOAL) Ph.D. in computational finance
+### (GOAL) Ph.D. in Computational Finance
 **Goal - Imperial College : London London, UK : 2028 - 2030**
 - Thesis(idea): “High-Performance Stochastic Simulation for Real-Time Derivatives Pricing and Systematic Trading”
 - Focus on advanced stochastic calculus, machine learning–based alpha models, and HPC for large-scale risk simulations.
@@ -183,7 +182,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 <br>
 
-### (GOAL) MA in financial mathematics - LSE
+### (GOAL) M.Sc. in Financial Mathematics - LSE
 **Goal - LSE : London, UK : 2026 - 2028**
 - Dissertation(idea): “Hybrid Factor Models for Multi-Asset Portfolio Optimization”
 -	Advanced Coursework: Stochastic Control, Numerical Methods in Finance, Monte Carlo Methods, PDE Solvers for Derivative Pricing, Statistical Machine Learning for Time Series.
