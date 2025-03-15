@@ -49,6 +49,20 @@ Authors: Mark Brezina, Axel Fristrup
    - [ ] Coursera - Stanford - Probabilistic Graphical Models Specialization
    - [ ] Coursera - DeepLearning.AI - Tensorflow Developer Professional Certificate
    - [ ] Coursera - DeepLearning.AI - Tensorflow: Advanced Techniques Specialization
+   - [ ] Quantnet C++ Programming for Financial Engineering
+   - [ ] Quantnet Python for Finance with intro to data science
+   - [ ] Quantnet An intuition-based options primer for Financial Engineering
+   - [ ] Quantnet Advanced C++ and modern design
+   - [ ] CFI CMSA Capital Markets and Securities Analyst
+   - [ ] CFI FTIP FinTech Industry Professional
+   - [ ] FitchLearning – Various courses
+
+I'd like to take the following certifications
+- WBS – QDC Quantitative Developer Certificate
+- CQF – Certificate in Quantitative Finance
+- WorldQuant MFE degree
+- GARP – FRM
+   
 - [ ] Events
    - [x] 13/2/2025 - Oxford Mathematical and Computational Finance - Eghbal Rahimikia - Revisiting Large Language Models in Finance
    - [x] 27/2/2025 - Quant Insider – **Andrey Chirikhin** – Introduction to Credit Derivatives
