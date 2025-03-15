@@ -17,17 +17,19 @@ Authors: Mark Brezina, Axel Fristrup
    - [x] Top 2% of 47.000 in Børsens Aktiespil 2024 - September to November
    - [ ] Top 10% of x in Børsens Aktiespil 2025 - September to November
    - [ ] Top 10% of x in Børsens Aktiespil 2026 - September to November
-   - [ ] Publish paper on xyz
-   - [ ] Hackathon winner -
-   - [ ] Active member of Quantnet, wilmott forum, quant stackexchange, ...
-   - [ ] Avid chess player, avid Starcraft player, avid ...
-   - [ ] Built open-source quant library in ...
-   - [ ] Worldquant challenge, Man ahl challenge, 2sigma challenge
-   - [ ] high rank at leetcode, codeforces, topcoders, HackerRank and kaggle
-   - [ ] award winning quant model?
-   - [ ] CFA, FRM, APRM?
-   - [ ] Attendant/speaker/presenter at PyData, QuantMinds, AI in Finance, NeurIPS, RiskMinds, ...
-   - [ ] Published Research at Arxiv, SSRN, Finance Journal, LinkedIn, Medium, etc.
+   - [ ] IMC trading competition - ?
+   - [ ] Unsure
+      - [ ] Publish paper on xyz
+      - [ ] Hackathon winner -
+      - [ ] Active member of Quantnet, wilmott forum, quant stackexchange, ...
+      - [ ] Avid chess player, avid Starcraft player, avid ...
+      - [ ] Built open-source quant library in ...
+      - [ ] Worldquant challenge, Man ahl challenge, 2sigma challenge
+      - [ ] high rank at leetcode, codeforces, topcoders, HackerRank and kaggle
+      - [ ] award winning quant model?
+      - [ ] CFA, FRM, APRM?
+      - [ ] Attendant/speaker/presenter at PyData, QuantMinds, AI in Finance, NeurIPS, RiskMinds, ...
+      - [ ] Published Research at Arxiv, SSRN, Finance Journal, LinkedIn, Medium, etc.
 
 - [ ] Courses
    - [ ] Coursera - EPFL - Interest Rate Models
