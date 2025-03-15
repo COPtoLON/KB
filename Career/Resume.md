@@ -13,10 +13,9 @@ Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
 
 ### (GOAL) Quantitative Researcher
 ABC partners inc. | London, United Kingdom | April 2027 – Present
-
-
 <br>
-### Target Role: Quantitative Developer
+
+### Target Role - Quantitative Developer
 YourCompany ltd | London, United Kingdom | April 2025 – Present
 - End-to-End Alpha Research & Implementation
   - Develop and refine systematic trading signals for equities or crypto markets, integrating advanced statistical models, machine learning methods, and factor-based approaches.
