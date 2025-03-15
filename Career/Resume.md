@@ -145,7 +145,6 @@ WHSmith | Copenhagen, Denmark | December 2021 – August 2022
 
 ### Mathematics & Physics Tutor
 MentorDenmark| Copenhagen, Denmark | September 2017 – September 2021
-*The largest homework tutor and subject matter tutor company in denmark*
 - Top-5 Senior Mentor with four years of experience and over 1,000 hours of tutoring. Successfully prepared more than 50 students for math exams, earning an average satisfaction rating of 4.7 out of 5. My teaching methods consistently helped students achieve above-average or significantly above-average grades.
 - 2-day course on MentorDenmark - Course on pedagogical presentation in teaching
 - Passed an extensive round of security checks regarding my criminal record. As I would have to do with kids for an extensive amount of time.
