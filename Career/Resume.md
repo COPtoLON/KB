@@ -220,7 +220,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 ### 2025
 
-#### Courses
+#### Courses - Unfinished
 - Coursera - DeepLearning.AI - Tensorflow Developer Professional Certificate
 - Coursera - DeepLearning.AI - Tensorflow: Advanced Techniques Specialization
 - Coursera - DeepLearning.AI - Deep learning specialization
@@ -239,7 +239,6 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 - Akuna Capital - Options 101 Course
 - Coursera - EPFL - Interest Rate Models
 
-
 #### Events
 - 13/2/2025 - Oxford Mathematical and Computational Finance - Eghbal Rahimikia - Revisiting Large Language Models in Finance
 - 27/2/2025 - Quant Insider – **Andrey Chirikhin** – Introduction to Credit Derivatives
@@ -247,9 +246,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 - 11/3/2025 - Imperial College - **Daniel Lacker** -  Non asymptomatic perspectives on mean field approximations and stochastic control
 - 12/3/2025 - CQF Institute - Portfolio Management in Quant Finance Conference
 
-
 #### Activities
-
 **Job simulations**
 - [Forage Citi - Markets Quantitative Analysis](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/8eNRcRqBZM9HLvwGw/fAuNBibfF4dzrgtDY_8eNRcRqBZM9HLvwGw_nCjQg8GM2BpQ9yNYB_1736301928896_completion_certificate.pdf)
 - [Forage Standard Bank - Risk Management](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/kkKXfgG5FckTX8Toc/9ud3PRZGf8w6NeHgh_kkKXfgG5FckTX8Toc_nCjQg8GM2BpQ9yNYB_1736293804035_completion_certificate.pdf)
@@ -337,29 +334,32 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 - [Linkedin Learning Path - Advance Your Career as an Individual Contributor](https://www.linkedin.com/learning/certificates/00d00324e1197ecb6c154fb51e5179790876b1a0dbd42846c58096f20272a9d9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 
 ## Notable Activities
--	Published research article on SSRN - ...
--	Attended X, Y, Z and presented my findings at W.
--	Participant at X, Y, Z Hackathon. Winning W hackathon.
--	Ranked 103 at LeetCode, ranked 2055 at CodeForces and ranked 52 at HackerRank...
-- Ranked in the top 10% (out of an average of 47,000 participants) in Børsen stock-picking challenge three years in a row
+-	**goals**
+  - Published research article on SSRN - ...
+  -	Attended X, Y, Z and presented my findings at W.
+  -	Participant at X, Y, Z Hackathon. Winning W hackathon.
+  -	Ranked 103 at LeetCode, ranked 2055 at CodeForces and ranked 52 at HackerRank...
+
 - **Professional & Academic Engagement**
   - Active in professional networking: regularly attend conferences, workshops, and talks.
-  - Reviewer (2024–present) for Anton Vorobets’s upcoming book on portfolio construction and risk management.
+  - Reviewer and donator(2024–2025) for Anton Vorobets’s upcoming book on portfolio construction and risk management.
   - Passed LinkedIn Skill Assessments in R, Python, VBA, Excel, and MATLAB.
 - **Competitions & Recognitions**
-  - Ranked in the top 2% (out of 47,000 participants) in a stock-picking challenge.
-  - High achiever in Chess and StarCraft II.
+  - Ranked in the top 2% (out of 47,000 participants) in Børsen stock-picking challenge.
+  - High achiever in various Strategy games, such as Chess and StarCraft.
   - Design for Change Awardee (2010) for a design competition.
     - [Newspaper article 1](https://ugeavisen.dk/digeposten/elever-fra-hoejer-design-efterskole-laver-skraldespand-paa-internettet)
     - [Newspaper article 2](https://jv.dk/toender/hoejer-unge-til-konference-i-indien)
     - [Official Video](https://dfcworld.org/VIDEO/ViewVideo/45)
 - **Memberships & Affiliations**
   - MENSA member (2018-present), Membership No. 2018170 (IQ≥158).
-  - Long-standing member of Wilmott's Forum.
+  - Long-standing member of Wilmott's Forum, CQF insitute and Quantnet.
+  - Recently opened accounts with ML-Quant, Quant Insider, Quantpedia, London Quant Group and Oxford Mathematical and computation Group
   - UNF (Danish Youth Foundation of Natural Science) member (2010–2013); Physics Camp participant (2015).
   - ATU (Danish Academy of Talented Youths) member (2014–2016).
 - **Personal Interests**
   - Fitness enthusiast: committed to working out and maintaining an active lifestyle.
+  - Active creative: Painting nature and drawing people is my passion.
 
 
 
