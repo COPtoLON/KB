@@ -366,78 +366,114 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 # Projects
 
 
-## TMRW – Algorithmic Trading & AI-Driven Market Solutions
+
+## TMRW — A Comprehensive Algorithmic Trading & AI Initiative
 **Overview**
-TMRW (pronounced "Tomorrow") is a long-term research and development initiative focused on algorithmic trading, financial modeling, and AI-driven market strategies. The project has evolved through multiple phases, integrating rigorous mathematical research, systematic backtesting, and infrastructure development to build a scalable, efficient, and competitive trading framework.
+TMRW (pronounced “Tomorrow”) is an ongoing research and development venture focused on algorithmic trading, financial modeling, and AI-driven market solutions. Since 2019, the project has undergone multiple phases of growth—building on rigorous mathematical research, advanced Python infrastructure, systematic backtesting, and real-world deployment. These efforts aim to create an integrated, scalable, and adaptive framework capable of consistently navigating the complexities of modern financial markets.
 
-## Project Evolution & Key Components
+## Phase 1: Foundational Research & Infrastructure (2019 – 2022)
+### 1. TMRW Research
+- **Goal:** Accumulate mathematical and financial knowledge to ground future algorithmic trading models in robust, well-tested theory.
+- **Focus Areas:**
+  - Stochastic Processes & Time-Series Analysis – Incorporating methods like Ornstein–Uhlenbeck (OU) processes, Brownian motion, and GARCH-style volatility modeling.
+  - Machine Learning & Statistical Arbitrage – Reinforcement learning, mean-field game approaches, and hidden Markov models for trend detection and market state classification.
+  - Risk Management & Quantitative Frameworks – Value-at-Risk (VaR), stress testing, covariance estimations, and data-driven risk tools.
+<br>
+- **Knowledgebase:** - [link]()
+  - A curated repository of math/finance materials, designed to evolve into a future eBook.
+  - Contains in-depth conceptual overviews, problem-solving guides, and recommended references for deeper exploration.
 
-### TMRW Research (2019 - Present)
-A dedicated research effort to accumulate knowledge and develop methodologies in algorithmic trading and investing. Focus areas include:
-- Stochastic processes and time-series analysis
-- Machine learning models for trading signals
-- Statistical arbitrage and quantitative risk management
-A curated collection of mathematical and financial study materials, designed to be expanded into an educational book.
-- Conceptual overviews of advanced mathematical finance topics
-- Problem-solving guides with real-world examples
-- Supplementary references for deeper exploration
-A curated repository of finance and mathematics study materials aimed at building a robust knowledge base for students, professionals, and enthusiasts. Designed to evolve into a book or eBook in the future, it encompasses:
+### 2. TMRW Infrastructure
+- **Goal:** Provide a personal Python ecosystem to automate ETL (Extract, Transform, Load) processes, unify data sources, and standardize analytics.
+- **Key Features:**
+  - Automated Data Ingestion – Support for live and historical data from Bloomberg, MSCI, Sustainalytics, crypto exchanges (via APIs), etc.
+  - Data Transformation – Integrated scripts for cleaning, resampling, labeling, and feature engineering.
+  - Visualization & Reporting – Tools for plotting performance metrics, generating dashboards, and exporting daily or intraday strategy updates.
 
-- **Conceptual Overviews** – Clear explanations and theoretical insights into core finance and math concepts.
-- **Practical Problem-Solving** – Step-by-step walkthroughs and examples that bring complex topics to life.
-- **Supplementary References** – Links to external resources and additional reading to broaden learning horizons.
-By consolidating these resources in one place, the project strives to be an accessible, in-depth educational tool—supporting continuous skill development and knowledge acquisition in quantitative finance and mathematics.
+**Example Tools in the Python Package:** - [link]()
+- 'TMRW.FINANCE.RSI()' – Custom RSI indicator.
+- 'TMRW.FINANCE.returns()' – Simple & log return calculations over user-defined intervals.
+- 'TMRW.FINANCE.twa()' – Time-weighted moving average for flexible smoothing.
 
 
-[Link]
+## Phase 2: Simulation & Strategy Deployment (2022 – 2023)
+### 1. TMRW Simulations
+Goal: Develop powerful simulation environments (Monte Carlo, scenario testing) for pricing, risk analysis, and stress-testing new strategies.
+Notable Techniques:
+Monte Carlo Engines – Brownian motion, OU processes, square-root diffusion, and GARCH to simulate asset price trajectories.
+Extreme Event Testing – Implementation of fat-tailed assumptions (non-Gaussian distributions) to capture “black swan” events.
+Portfolio-Level Sensitivity – Integration of multi-asset simulation for dynamic rebalancing and factor-based risk decomposition.
+Example Project - “mean-reversion-strategy.ipynb”
 
-### TMRW Infrastructure (2019 - Present)
-A personal Python package designed for scalable ETL processes and data analysis, forming the backbone of the trading system. Features include:
+Walks through a mean reversion model using 20-day Bollinger Bands & 30-day Z-score thresholds.
+Details buy/sell signals when the market deviates x-sigma from a chosen moving average, referencing user-defined Sharpe ratio, 6m-return, 1y-return, and so forth.
+Contains performance comparisons vs. standard buy-and-hold.
+Example Project - “Strategy.ipynb”
 
-- Automated data ingestion and transformation
-- API integrations with market data sources (Bloomberg, MSCI, Sustainalytics)
-- Advanced visualization and performance tracking
-[Link]
+Illustrates a pipeline for fetching live data, identifying local minima/maxima, and placing trades via the Binance API.
+Demonstrates trailing signals and systematic stop-loss logic.
+### 2. TMRW Strategies
+Goal: Translate research insights and simulation outcomes into workable, live trading strategies.
+Key Achievements:
+Mean Reversion & Momentum – E.g., strategies crossing short-term MAs with 30-day or 40-day MAs, pivoting on local maxima/minima detection.
+Trend-Following & Pattern Recognition – Implementing Markov models to detect up-trend, down-trend, or flat states.
+Pairs Trading & Arbitrage – Searching for correlated assets (A & B) whose price spread diverges from historical bounds.
+Live Deployment – Achieved 13% return over two months running a Python-based strategy with real-time signals.
+Risk Management – Incorporating dynamic position sizing, VaR-based stops, and trailing “take-profit” logic.
+Example Project - “research.ipynb”
 
-### TMRW Simulations (2022 - Present)
-Monte Carlo simulation software built for scenario testing, risk analysis, and pricing strategies. This includes:
-A Python package implementing stochastic modeling techniques:
-- Simulation of financial instrument paths using Monte Carlo techniques
-- Market volatility modeling through Brownian motion and mean-reversion processes
-- Brownian motion and Ornstein–Uhlenbeck models
-- Stress testing of trading strategies under extreme market conditions
-- Portfolio-level risk simulations
-A personal project featuring a suite of classes, functions, and scripts designed to showcase the implementation and application of stochastic processes in a finance and investment context. By incorporating Monte Carlo techniques alongside Brownian motion, square-root diffusion, and Ornstein–Uhlenbeck models, this package provides:\
-- Path generation and simulation for a variety of financial instruments, aimed at pricing and risk analysis.
-- Scenario testing and sensitivity analyses, leveraging advanced models to capture market volatility and mean-reversion behaviors.
-- Flexible codebase for easy integration into broader quantitative strategies, including portfolio optimization and derivatives pricing.
+Covers advanced topics like Markov probabilities, 0-tangent detection, and backtesting different triggers for momentum or mean reversion.
+Explores multi-asset synergy, including broad asset classes: equities, crypto, derivatives, and more.
+## Phase 3: AI-Enhanced Market Adaptation & Autonomy (2024 – Present)
+### TMRW-AI Solution
+Goal: Combine multi-layered AI architectures (reinforcement learning + predictive modeling) to create adaptive, self-optimizing trading models.
+Key Pillars:
+Adaptive Decision-Making – AI-driven reparameterization of strategies (e.g., adjusting Bollinger bandwidth or RSI thresholds based on real-time volatility).
+Market Impact Analysis – Minimizing slippage and partial fill risk via order sizing algorithms, employing advanced “flow-based” ML.
+Hidden Markov & Mean-Field Games – Ongoing research to predict intraday regime shifts and respond with minimal latency.
+AI Use Cases in Code
 
-This repository underscores a hands-on approach to quantitative finance—demonstrating how robust stochastic methods can help model, forecast, and manage uncertainty in real-world investment environments.
+ML-driven “spread Z-Score” strategies (MVRV Z-Score for crypto).
+Leverage-based sentiment modeling, analyzing the ratio of long vs. short positions in HPC (high-performance computing) environments.
+Neural Net–Based Predictors (PyTorch / TensorFlow) for short-horizon time-series classification.
+Potential Future Enhancements
+Quantum-Inspired Optimization – For portfolio rebalancing or high-frequency order books.
+Reinforcement Agents – Multi-timeframe RL that coordinates short and long horizon signals.
+Macro Strategies – Integrating fundamental data, news (via sentiment analysis), and macroeconomic indicators (growth, inflation) into a unified AI pipeline.
+Select Research & Methodological Highlights
+Mean Reversion Approaches
 
-### TMRW Strategies (2023 - Present)
-A framework for developing, testing, and deploying algorithmic trading strategies. Notable achievements:
-A GitHub repository dedicated to the development and evaluation of algorithmic trading strategies, exploring:
-- Mathematical models for asset price movements and stochastic processes
-- Data-driven insights through comprehensive backtesting frameworks
-[GitHub Repository]
-A research-focused project dedicated to the development and evaluation of trading algorithms that leverage rigorous mathematical methods for profitable market participation. Key areas of exploration include:
-- **Mathematical Models** - Investigating advanced patterns in asset price movements, incorporating stochastic processes, time series analysis, and statistical optimization to identify high-probability trading opportunities.
-- **Algorithmic Strategies** - Designing, testing, and refining algorithmic approaches—such as mean reversion, momentum, and pattern detection—aimed at capturing market inefficiencies and enhancing risk-adjusted returns.
-- **Data-Driven Insights** - Employing comprehensive data analysis to validate algorithm performance under various market conditions, emphasizing reproducibility and robust quantitative frameworks.
-By bridging in-depth mathematical research with practical algorithmic trading techniques, the project aspires to unlock scalable, evidence-based solutions for navigating the complexities of modern financial markets.
-- Designed and backtested trading algorithms based on mean reversion, momentum, and trend detection
-- Achieved a 13% return over two months during live testing
-- Framework includes robust risk management and capital allocation mechanisms
-[Link]
+Bollinger Band & Z-Score Scripts: Identify extremes with 1.5σ, 2σ, or 2.5σ triggers.
+Pairs Trading: Spread-based signals on correlated assets.
+Markov Probability Models: Probability of a reversion event given prior states (“Up, Up, Down, Down…”).
+Trend-Following & Momentum
 
-### TMRW-AI Solution (2024 - Present)
-After years of development, research, and practical deployment, a significant pivot was made towards AI-driven trading models. The latest focus is on:
+MA Crossovers: 5–15–30 or 5–20–40 for multi-speed detection.
+RSI, OBV, TTM Squeeze, MACD Crossovers: Repeated pattern detection in script-based examples (e.g., “TrippleMACD,” “EMA RSI Strategy,” “Fourier Smoothed Hybrid Volume Spread Analysis”).
+Risk Management Techniques
 
-- Multi-layered AI agent integrating reinforcement learning and predictive analytics
-- Adaptive decision-making systems capable of adjusting trading parameters dynamically
-- Real-time market impact analysis to mitigate slippage and optimize execution
-[Link]
+Value-at-Risk & Scenario Tests: Evaluate catastrophic drawdowns, especially under tail scenarios.
+Stop-Loss & Trailing Exits: E.g., “Stop 1 ATR below local max” or Markov-driven partial liquidation.
+Portfolio-Level Hedging: Using options/futures to offset systematic or idiosyncratic risks.
+Advanced AI & ML Explorations
 
+Hidden Markov Models: Distinguish between “flat,” “bull,” and “bear” states.
+Neural Networks & Autoencoders: Feature engineering for intraday microstructure or cross-asset correlations.
+Multi-Objective Optimization: Balancing short-term return vs. drawdowns vs. transaction costs.
+Technical Footprint
+Programming Languages: Primarily Python (pandas, NumPy, scikit-learn, TensorFlow/PyTorch) and some R/C++ for specialized tasks.
+Notebooks:
+mean-reversion-strategy.ipynb – Detailed walk-through for Bollinger Band & RSI-based trades.
+Strategy.ipynb – Implementation of local min/max triggers, placing real-time orders on Binance.
+research.ipynb – More experimental code on Markov modeling, 0-tangents, and multi-strategy blending.
+- Data & API:
+  - Yahoo Finance, Binance, Bloomberg, MSC, Sustainalytics, Quandl, Alpha Vantage (depending on the asset class).
+
+
+### Long-Term Vision & Impact
+TMRW’s mission is to push the boundaries of quantitative and AI-driven finance, from short-horizon intraday strategies to multi-year portfolio constructions. By merging sound theoretical research, robust coding practices, real-world performance metrics, and advanced AI, TMRW aspires to continuously adapt and outperform in diverse market conditions. Ongoing collaborations with data scientists, quants, and developers aim to expand the knowledge base, refine our multi-layered AI agent, and empower both institutional and individual investors.
+
+**“Tomorrow”** may symbolize the future, but for TMRW, the future is already in development—and it’s fueled by mathematical rigor, strategic experimentation, and cutting-edge AI.
 
 # Physics simulations
 2018 - 2025 (Finished) [**Physics Simulations**](https://github.com/CtoL95/Galaksim)\
