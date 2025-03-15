@@ -163,12 +163,11 @@ Thesis: high speed calculations on simulations
 Goal - London, UK
 Dissertation: Stochastic modelling Relevant coursework: ---
 
-### UNIVERSITY OF COPENHAGEN 					 
-Ongoing\
-Copenhagen, Denmark\
-Bachelor, mathematical statistics\	   				                                      
-Thesis: R-Library development for General insurance\
-Relevant Coursework: Basic non-life insurance mathematics, basic life insurance mathematics, advanced probability theory, mathematical statistics 1&2, stochastic processes 1,2 & 3.
+### B.Sc. in Mathematical Statistics 
+University of Copenhagen | Copenhagen, Denmark | 2021-2025				
+-	Thesis: “Option Pricing with Stochastic Volatility in the Heston Model” ~ R library development
+-	Relevant coursework: Mathematical Statistics, Stochastic processes I & II, Basic Life insurance, Basic Non-life Insurance, Advanced probability theory
+-	Gained fundamental proficiency in probability theory, statistical inference, and time series analysis, forming a strong basis for quantitative trading research.
 
 Note: I've finished a first year project in estimating best trading strategies around significant events in stock markets, the title was: Event study in the stock market. The focus was on the acquisition announcement between AuthenTec and Apple.
 
@@ -186,9 +185,41 @@ I finished a first year project on calculating the rotational speed of spiral ga
 ## Professional Development
 
 ### 2025
-Bangalore Quant Club - Peter Cotton - Machine Learning for Hierachical Portfolio Optimization Using Schur Complements
-Quant insider - Andrey Chirikhin - Introduction to Credit Derivatives
-Oxford Mathematical and Computational Finance, Frontiers in Quantitative Finance Seminar - Dr Eghbal Rahimikia - Revisiting Large Language Models in Finance
+- CQF Institute - Quantitative Portfolio Management Conference
+- Imperial College London - Daniel Lacker - Mean field theory
+- Bangalore Quant Club - Peter Cotton - Machine Learning for Hierachical Portfolio Optimization Using Schur Complements
+- Quant insider - Andrey Chirikhin - Introduction to Credit Derivatives
+- Oxford Mathematical and Computational Finance, Frontiers in Quantitative Finance Seminar - Dr Eghbal Rahimikia - Revisiting Large Language Models in Finance
+
+WBS – QDC Quantitative Developer Certificate
+CQF – Certificate in Quantitative Finance
+WorldQuant MFE degree
+GARP – FRM
+Quantnet C++ Programming for Financial Engineering
+Quantnet Python for Finance with intro to data science
+Quantnet An intuition-based options primer for Financial Engineering
+Quantnet Advanced C++ and modern design
+CFI CMSA Capital Markets and Securities Analyst
+CFI FTIP FinTech Industry Professional
+FitchLearning – Various courses
+Coursera - DeepLearning.AI - Tensorflow Developer Professional Certificate
+Coursera - DeepLearning.AI - Tensorflow: Advanced Techniques Specialization
+Coursera - DeepLearning.AI - Deep learning specialization
+Coursera - DeepLearning.AI - Machine learning specialization
+Coursera - Caltech - Pricing Options with Mathematical Models
+Coursera - Columbia Uni - Financial Engineering and Risk Management Specialization
+Coursera - NYIF - Risk Management Specialization
+Coursera - RICE - Investment and Portfolio Management Specialization
+Coursera - Imperial College London - Mathematics for Machine Learning Specialization
+Coursera - John Hopkins - Statistical Methods for Computer Science Specialization
+Coursera - John Hopkins - Advanced Statistics for Data Science Specialization
+Coursera - NYIF - Machine Learning for Trading Specialization
+Coursera - Stanford - Probabilistic Graphical Models Specialization
+Coursera - IBM - Data Analyst Professional Certificate
+Coursera - IBM - Data Science Professional Certificate
+Akuna Capital - Options 101 Course
+Coursera - EPFL - Interest Rate Models
+
 
 **wishlist**
 - *2025 [Oxford AI for trading](https://www.getsmarter.com/products/oxford-ai-in-algorithmic-trading-series?_gl=1*8j8qch*_up*MQ..*_ga*MjAyMTMwODUyNy4xNzM2ODEzMDA3*_ga_D3KS4KMDT0*MTczNjgxMzAwNy4xLjAuMTczNjgxMzAwNy4wLjAuMA..*_ga_QQSC9D30C7*MTczNjgxMzAwNy4xLjAuMTczNjgxMzAwNy4wLjAuMA..)
@@ -321,6 +352,14 @@ Oxford Mathematical and Computational Finance, Frontiers in Quantitative Finance
 - [Linkedin Learning Path - Advance Your Career as an Individual Contributor](https://www.linkedin.com/learning/certificates/00d00324e1197ecb6c154fb51e5179790876b1a0dbd42846c58096f20272a9d9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 
 ## Notable Activities
+
+-	Published research article on SSRN - ...
+-	Attended X, Y, Z and presented my findings at W.
+-	Participant at X, Y, Z Hackathon. Winning W hackathon.
+-	Ranked 103 at LeetCode, ranked 2055 at CodeForces and ranked 52 at HackerRank...
+- Ranked in the top 10% (out of an average of 47,000 participants) in Børsen stock-picking challenge three years in a row
+
+
 - **Professional & Academic Engagement**
   - Active in professional networking: regularly attend conferences, workshops, and talks.
   - Reviewer (2024–present) for Anton Vorobets’s upcoming book on portfolio construction and risk management.
@@ -343,6 +382,29 @@ Oxford Mathematical and Computational Finance, Frontiers in Quantitative Finance
 
 
 ## Projects
+
+TMRW
+TMRW (pronounced Tomorrow), is a brainchild of mine. I’ve been working to understand, research and establish a small algorithmic trading fund for a while now. Various parts of the larger project have come along as I have proceeded towards my goal. The first one being the research.
+
+TMRW Research | 2019 - Now | Accumulating knowledge and research about algorithmic trading and investing. Link
+Beyond having had to research and understand, I’ve also had to develop infrastructure for the project. Most of this infrastructure I’ve combined into a personal python package, which I can use in many different projects.
+TMRW infrastructure | 2019 – Now | Personal python package, for use in ETL processes and with various useful data analysis functionalities Link
+After having build the main infrastructure of the company I started researching what companies like TwoSigma, MAN Group or FlowTrading did in order to be the leaders in algorithmic trading. One of the ideas presented to me often, was the idea of monte carlo simulations, so I got to work on a simulation engine that I was satisfied could be useful in my venture.
+TMRW Simulations | 2022 - Now | Monte Carlo simulation software Link
+After having worked with a small hedge fund in Denmark as their goto guy for everything quantitative, I decided to try my hand at working with various trading algorithms on my own, developing them into a satisfactory framework and rigorously backtesting them against various different scenarios. After a few months I employed them in practice, earning 13% in the two months the algorithm was running. I have since had to put the work on hold, as I have moved to London. 
+TMRW Strategies | 2023 - Now | Algorithmic trading strategies, rigorously backtested
+After having worked tirelessly on this project for many years, I had a great epiphany in November 2024. Much of my research and experience running the model has led me to believe that a multi-layered AI agent, will be the defining feature of an algorithmic trading model, that can significantly outperform many participants in the market.
+
+TMRW-AI Solution | 2024 - Now | Multi-layered AI model for trading
+The work on this AI agent has been significant, it has taken much of my time to both research, decide on infrastructure reworks and develop a basic model.
+
+
+
+
+
+
+
+
 
 ### 2022 - Now (Ongoing)
 [**Algorithmic trading**](https://github.com/CopenhagenToLondon/WTech) \
