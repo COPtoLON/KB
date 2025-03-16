@@ -137,16 +137,16 @@ DJØF | Copenhagen, Denmark | January 2023 – August 2023
 ### Data Analyst & Developer        	            	  
 Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
 - **Maintained timesheets and budgetting system**
-  - abcd
-- **Took part in the management of the company donations system**
-  -  
--
-- **Developed and maintained** a robust software ecosystem—integrating Excel, VBA/VBS, SAS, and SQL—to **streamline data consolidation** and **analyze multifaceted project information.**
-- **Optimized workflows** for email processing, data retrieval, and dashboard creation, facilitating **efficient project management and real-time insights.**
-- **Led end-to-end management** of the Donations System—encompassing documentation, development, and maintenance—using **C#, SQL, and Excel** to ensure **reliability** and **scalability.**
-- **Created and supervised** Power BI dashboards that provided **executive-level insights** into fund allocation, project analytics, and performance metrics, **guiding strategic decision-making.**
-- **Administered the timesheets system** and conducted **in-depth analyses** to enhance resource allocation and reporting.
-- **Collaborated on data analysis and program development** initiatives for **business intelligence**, primarily leveraging **SAS, SQL, and VBA** to inform policy decisions and **drive efficiency**.
+  - Administered the timesheets system and conducted in-depth analyses to enhance resource allocation and reporting.
+- **Took part in the management and further development of the company donations system**
+  - Led end-to-end management of the Donations System—encompassing documentation, development, and maintenance—using C#, SQL, and Excel to ensure reliability and scalability.
+- **Led, developed and maintained the new project financing system**
+  - Developed and maintained a robust software ecosystem—integrating Excel, VBA/VBS, SAS, and SQL—to streamline data consolidation and analyze multifaceted project information.
+  - Optimized workflows for email processing, data retrieval, and dashboard creation, facilitating efficient project management and real-time insights.
+- **Assisted CFO in various analytical needs**
+  - Created and supervised Power BI dashboards that provided executive-level insights into fund allocation, project analytics, and performance metrics, guiding strategic decision-making.
+  - Ran ad-hoc needed SAS/SQL analysis and build reports
+  - Collaborated on data analysis and program development initiatives for business intelligence, primarily leveraging SAS, SQL, and VBA to inform policy decisions and drive efficiency.
 - **Work-related courses**
   - Statistics Denmark, SAS programmer course series, with SAS institute
   - Internal company course on "Statistics with R I"
