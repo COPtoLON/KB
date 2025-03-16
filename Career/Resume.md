@@ -11,7 +11,7 @@ Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
 
 # Experience
 
-### Further Target Role - Quantitative Researcher
+### Further Target Role - Quantitative Researcher (X)
 ABC partners inc. | London, United Kingdom | April 2027 – Present
 - **Market State Identification**
   - Develop statistical and machine learning models (e.g., hidden Markov models, Bayesian regime detection) to determine bull, bear, or neutral conditions in equity and crypto markets.
@@ -32,7 +32,7 @@ ABC partners inc. | London, United Kingdom | April 2027 – Present
   - Keep abreast of academic research on algorithmic trading, deep learning, and advanced statistical modeling.
   - Conduct pilot experiments with emerging techniques (reinforcement learning, generative models) to push the boundaries of alpha discovery.
 
-### Target Role - Quantitative Developer
+### Target Role - Quantitative Developer (X)
 YourCompany ltd | London, United Kingdom | April 2025 – Present
 - **End-to-End Alpha Research & Implementation**
   - Develop and refine systematic trading signals for equities or crypto markets, integrating advanced statistical models, machine learning methods, and factor-based approaches.
@@ -103,19 +103,26 @@ LD Pensions | Copenhagen, Denmark | August 2023 – May 2024
 
 **Key Tools & Skills:** Python, SQL, ETL frameworks, risk modeling (VaR/CVaR), scenario simulations, ESG data, Excel–Python integration, Power BI.
 
-### Data Quality Analyst 	            	  
+### Data Quality Analyst (X)            	  
 Lån&Spar Bank | Copenhagen, Denmark | January 2023 – August 2023
-- **Assessed and documented** data quality indicators for the upcoming IRB system (scheduled for 2025 launch), producing in-depth analyses of PD/PC, LGD/LGC, EAD, and DoD procedures to **enhance data integrity** and **reporting accuracy**.
-- **Conducted comprehensive reviews** of high-risk customer evaluation processes, contributing to improved **risk management** strategies.
-- **Mapped and visually represented** complex database architectures, illustrating relationships among SAS tables for **credit evaluation, IRB, and transactional systems.**
-- **Engineered and maintained** macro-driven solutions for **data warehouse quality control**, ensuring reliable and precise data management.
-- **Led system documentation, code reviews, and testing** activities—presenting findings and recommendations to stakeholders—to **strengthen data governance** and **streamline the IRB model implementation**.
-- Lån&Spar course in basic SAS with SAS institute
-- Lån&spar course in basic SQL with SAS institute
+- Assessed and documented data quality indicators for the upcoming IRB system (scheduled for 2025 launch), producing in-depth analyses of PD/PC, LGD/LGC, EAD, and DoD procedures to enhance data integrity and reporting accuracy.
+  - Running through data quality dimensions: Accuracy, completeness, consistency, validity, uniqueness, integrity
+  - convened with stakeholders, head of IRB, IRB analysts and model validators to make sure our process was taking into account the correct variables
+  - Produced data quality reports, presented them to stakeholders and developed a database mapping
+  - Mapped and visually represented complex database architectures, illustrating relationships among SAS tables for credit evaluation, IRB, and transactional systems.
+- Conducted comprehensive reviews of the "high-risk customer evaluation process"
+  - conducted codereview of the codebase and documented the database mapping related to the process
+  - Presented my findings to the head of credit, head of IT and head of internal review.
+- Engineered and maintained a SAS macro-driven solution for data warehouse quality analysis, ensuring reliable and precise data quality reporting.
+  - The macro solution had the ability to run through data quality dimensions on database tables: The dimensions testable were completeness, consistency, validity, uniqueness and integrity
+  - The macro would run through tables in forward order, the current table, the tables producing this table and the tables producing that table and so on. Checking for integrity in the data as well.
+- **Work-related courses**
+  - Lån&Spar course in basic SAS with SAS institute
+  - Lån&spar course in basic SQL with SAS institute
 
 **Key Tools & Skills:** SAS, SQL, IRB framework (PD/PC, LGD/LGC, EAD), data governance, data quality reporting, scrum methodology.
 
-### VBA & Python Instructor
+### VBA & Python Instructor (X)
 DJØF | Copenhagen, Denmark | January 2023 – August 2023
 - **Curriculum Design & Delivery:**
   - Organized Excel, VBA, and Python coursework for audiences from beginners to advanced, teaching automation, data manipulation, and best practices.
@@ -129,21 +136,27 @@ DJØF | Copenhagen, Denmark | January 2023 – August 2023
 
 ### Data Analyst & Developer        	            	  
 Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
+- **Maintained timesheets and budgetting system**
+  - abcd
+- **Took part in the management of the company donations system**
+  -  
+-
 - **Developed and maintained** a robust software ecosystem—integrating Excel, VBA/VBS, SAS, and SQL—to **streamline data consolidation** and **analyze multifaceted project information.**
 - **Optimized workflows** for email processing, data retrieval, and dashboard creation, facilitating **efficient project management and real-time insights.**
 - **Led end-to-end management** of the Donations System—encompassing documentation, development, and maintenance—using **C#, SQL, and Excel** to ensure **reliability** and **scalability.**
 - **Created and supervised** Power BI dashboards that provided **executive-level insights** into fund allocation, project analytics, and performance metrics, **guiding strategic decision-making.**
 - **Administered the timesheets system** and conducted **in-depth analyses** to enhance resource allocation and reporting.
 - **Collaborated on data analysis and program development** initiatives for **business intelligence**, primarily leveraging **SAS, SQL, and VBA** to inform policy decisions and **drive efficiency**.
-- Statistics Denmark, SAS programmer course series, with SAS institute
-- Internal company course on "Statistics with R I"
-- Internal company course on "Statistics with R II"
-- Internal company course on "Introduction to demographical statistics"
+- **Work-related courses**
+  - Statistics Denmark, SAS programmer course series, with SAS institute
+  - Internal company course on "Statistics with R I"
+  - Internal company course on "Statistics with R II"
+  - Internal company course on "Introduction to demographical statistics"
 - Passed a round of security checks regarding my criminal record.
 
 **Key Tools & Skills:** SAS, SQL, C#, Excel, data analysis, business intelligence (Power BI), cross-departmental collaboration.
 
-### Store Clerk
+### Store Clerk (X)
 WHSmith | Copenhagen, Denmark | December 2021 – August 2022
 - Provided exceptional customer service, assisting travelers with purchases, inquiries, and store navigation in a high-traffic airport environment.
 - Managed shelving, restocking, and inventory control, ensuring optimal product placement and store organization.
@@ -155,7 +168,7 @@ WHSmith | Copenhagen, Denmark | December 2021 – August 2022
 
 **Key Skills:** Customer service, inventory management, security compliance, accessibility awareness, multitasking in high-paced environments.
 
-### Mathematics & Physics Tutor
+### Mathematics & Physics Tutor (X)
 MentorDenmark| Copenhagen, Denmark | September 2017 – September 2021
 - Top-5 of 2000 Senior Mentor with 1,000+ hours of tutoring experience, successfully preparing 50+ students for mathematics and physics exams.
 - Achieved an average satisfaction rating of 4.7/5, consistently helping students improve performance and exceed grade expectations through personalized learning strategies.
@@ -165,7 +178,7 @@ MentorDenmark| Copenhagen, Denmark | September 2017 – September 2021
 
 **Key Skills:** Mathematics instruction, physics tutoring, exam preparation, personalized learning strategies, pedagogical presentation, student engagement, mentorship.
 
-### Store Clerk
+### Store Clerk (X)
 Lidl | Copenhagen, Denmark | April 2019 – August 2020
 - Operated forklifts and pallet jacks to transport and stock goods efficiently, ensuring a well-organized and safe storage environment.
 - Managed shelving and restocking, optimizing product placement and maintaining inventory accuracy to improve customer shopping experience.
@@ -174,13 +187,13 @@ Lidl | Copenhagen, Denmark | April 2019 – August 2020
 
 **Key Skills:** Inventory management, forklift operation, customer service, retail logistics, store maintenance.
 
-### Data Analyst Intern - Single project internship           	            	  
+### Data Analyst Intern - Single project internship (X)   	            	  
 Thomas Lystlund Studio | Copenhagen, Denmark | January 2019 – April 2019					          
 - **Analyzed cash flows and projected ROI to evaluate forex bot products**, identifying potential scams and advising client on safer investment alternatives by leveraging in-depth knowledge of currency trading and expected returns.
 
 **Key Skills:** Financial modeling, risk assessment, forex trading evaluation, investment strategy, Excel-based financial projections, and client advisory.
 
-### Store Clerk → Store Manager
+### Store Clerk → Store Manager (X)
 MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – December 2018
 - Managed store operations during night and early morning shifts, ensuring smooth workflow and high customer satisfaction.
 - Prepared fresh food items, including baking cakes, pastries, and making sandwiches to maintain a high-quality product offering.
@@ -195,9 +208,9 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 # Education
 
-### (GOAL) Ph.D. in Computational Finance
+### (GOAL) Ph.D. in Computational Finance (X)
 **Goal - Imperial College : London London, UK : 2028 - 2030**
-- Thesis(idea): “High-Performance Stochastic Simulation for Real-Time Derivatives Pricing and Systematic Trading”
+- **Thesis(idea):** “High-Performance Stochastic Simulation for Real-Time Derivatives Pricing and Systematic Trading”
 - Focus on advanced stochastic calculus, machine learning–based alpha models, and HPC for large-scale risk simulations.
 - Engaged in cross-disciplinary research with the Department of Mathematics and a leading quant firm, applying cutting-edge computational methods to real-world trading scenarios.
 
@@ -205,9 +218,9 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 <br>
 
-### (GOAL) M.Sc. in Financial Mathematics - LSE
+### (GOAL) M.Sc. in Financial Mathematics (X)
 **Goal - LSE : London, UK : 2026 - 2028**
-- Dissertation(idea): “Hybrid Factor Models for Multi-Asset Portfolio Optimization”
+- **Dissertation(idea):** “Hybrid Factor Models for Multi-Asset Portfolio Optimization”
 -	Advanced Coursework: Stochastic Control, Numerical Methods in Finance, Monte Carlo Methods, PDE Solvers for Derivative Pricing, Statistical Machine Learning for Time Series.
 -	Collaborated on quantitative strategy research projects, incorporating factor modeling and robust risk measures (VaR, CVaR) to evaluate alpha performance under market volatility.
 
@@ -215,9 +228,9 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 <br>
 
-### B.Sc. in Mathematical Statistics 
+### B.Sc. in Mathematical Statistics (X)
 **University of Copenhagen | Copenhagen, Denmark | September 2021 - July 2025**
--	Thesis: “Option Pricing with Stochastic Volatility in the Heston Model” ~ R library development, estimation of coefficients, implied volatility surface graph - Software development of a range of functions in R, pricing function, characteresting function, parameter estimation, implied volatility surface display. The library is now being used by the company EnvisionRisk in Denmark.  
+-	**Thesis:** “Option Pricing with Stochastic Volatility in the Heston Model” ~ R library development, estimation of coefficients, implied volatility surface graph - Software development of a range of functions in R, pricing function, characteresting function, parameter estimation, implied volatility surface display. The library is now being used by the company EnvisionRisk in Denmark.  
 -	First year project: Event study in the stock market, in the project we ran estimations on best trading strategies around significant events in the stock market, the focus was on the acquisition announcement between AuthenTec and Apple.
 -	Relevant coursework: Mathematical Statistics, Stochastic processes I & II, Basic Life insurance, Basic Non-life Insurance, Advanced probability theory
 -	Gained fundamental proficiency in probability theory, statistical inference, and time series analysis, forming a strong basis for quantitative work
@@ -226,10 +239,10 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 <br>
 
-### B.Sc. in Mathematical Physics					 
+### B.Sc. in Mathematical Physics	(X) 
 **University of Copenhagen | Copenhagen, Denmark | September 2019- April 2021**
 - *Resigned to transfer to the bachelor degree in Mathematical Statistics.*
-- First year project: "Dark matter detection in rotational spiral galaxies" ~ MatLab, object detection, astrophysics of rotational spiral galaxies. - First year project on calculating the rotational speed of spiral galaxies, to estimate dark matter densities. We used a machine learning algorithm to identify certain types of stars from a black-white image of a spiral galaxy, then calculated the rotational speeds, to show that the corresponding mass of the galaxy was insufficient to obtain such speeds.
+- **First year project:** "Dark matter detection in rotational spiral galaxies" ~ MatLab, object detection, astrophysics of rotational spiral galaxies. - First year project on calculating the rotational speed of spiral galaxies, to estimate dark matter densities. We used a machine learning algorithm to identify certain types of stars from a black-white image of a spiral galaxy, then calculated the rotational speeds, to show that the corresponding mass of the galaxy was insufficient to obtain such speeds.
 - Relevant Coursework: Introductory Thermodynamics, Electrodynamics, Quantum Mechanics, Advanced Quantum Mechancis, Galactic Astrophysics, Complex analysis
 
 **Note: On this education I have had experience with Matlab, R, physics, astrophysics and mathematical physics work** 
@@ -310,7 +323,6 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 - [Forage Standard Bank - Software Engineering](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Standard%20Bank%20/8Mgcdiuo2mfSRCfjc_Standard%20Bank%20_nCjQg8GM2BpQ9yNYB_1706746105628_completion_certificate.pdf)
 
 ### 2021
-
 #### Courses
 **Investing/Quantitative finance/Trading**
 -	[GARP - Foundations of Financial Risk](https://github.com/CtoL95/Test/blob/main/Foundations_of_Financial_Risk.pdf)
@@ -318,6 +330,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 -	[CFI - Fundamentals of Credit](https://credentials.corporatefinanceinstitute.com/c7e5e7e2-ecec-49db-82bd-eadece36b10a#acc.pKbN1mSr)
 
 ### 2020
+#### Courses
 **Data analysis**
 - [Linkedin Learning Path - Become a Data Scientist](https://www.linkedin.com/learning/certificates/ec62ce4f36d64dbe064544533519c3f65ca19e95424d11f8246ea5c23d2e5ade?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Advance Your Skills in Python](https://www.linkedin.com/learning/certificates/498fc9d230524f23060c80e10b39104e1de568572852418d855a60d268472534?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
@@ -343,6 +356,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 
 ### 2019
+#### Courses
 **Other interests**
 - [Linkedin Learning Path - Master Microsoft Word](https://www.linkedin.com/learning/certificates/048c0b30fe9eed3001e98d79c426b5cd4f65d4bda95b29ebad50dbe5d66d451d?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 - [Linkedin Learning Path - Master In-Demand Professional Soft skills](https://www.linkedin.com/learning/certificates/45e07396af21f07548621605ef6b1db8f3206557b6d2c3fda9526929e573f971?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
