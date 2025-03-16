@@ -70,7 +70,7 @@ WTECH | Copenhagen, Denmark | January 2024 – Present(paused atm.)
   - Conducted extensive statistical and financial research to identify and refine profitable trading algorithms.
   - Pioneered new methodologies for analyzing market patterns, enabling data-driven insights and robust strategy development.
  
-**Key Tools & Skills:**
+**Key Tools & Skills:** Python, SQL, algorithmic trading, cryptos, quantitative research, Monte Carlo methods, Hidden Markov Models, dynamic market state detection.
 
 <br>
 
@@ -84,7 +84,7 @@ Self-Employed | Remote | May 2024 – January 2025
 - **Data-Driven Excel Integrations:**
   - Built multiple Excel workbook enhancements with Python, C#, VBA, and VBScript, enabling dashboards, financial calculations, inter-application automation, and data visualization.
 
-**Key Tools & Skills:**
+**Key Tools & Skills:** Python, Excel, VBA, Pine Script, web technologies (HTML/CSS/JS), batch scripting, automation, solution design.
 
 <br>
 
@@ -99,7 +99,7 @@ DSB | Copenhagen, Denmark | May 2024 – January 2025
 - **Certification & Training:**
   - Completed courses in psychological first aid, chemical safety, and train track safety, reinforcing personal accountability and compliance.
  
-**Key Tools & Skills:**
+**Key Tools & Skills:** Conflict resolution, frontline customer service, security compliance, resilience.
 
 <br>
 
@@ -114,7 +114,7 @@ LD Pensions | Copenhagen, Denmark | August 2023 – May 2024
 - **Enhanced business intelligence** by incorporating Python-driven data manipulation and visualization in Power BI dashboards, improving executive-level decision-making.
 - **Augmented efficiency** through a suite of VBA macros and Excel add-ins, reducing manual efforts and elevating overall productivity.
 
-**Key Tools & Skills:**
+**Key Tools & Skills:** Python, SQL, ETL frameworks, risk modeling (VaR/CVaR), scenario simulations, ESG data, Excel–Python integration, Power BI.
 
 <br>
 
@@ -129,7 +129,7 @@ Lån&Spar Bank | Copenhagen, Denmark | January 2023 – August 2023
 - Lån&Spar course in basic SAS with SAS institute
 - Lån&spar course in basic SQL with SAS institute
 
-**Key Tools & Skills:**
+**Key Tools & Skills:** SAS, SQL, IRB framework (PD/PC, LGD/LGC, EAD), data governance, data quality reporting, scrum methodology.
 
 
 <br>
@@ -144,7 +144,7 @@ DJØF | Copenhagen, Denmark | January 2023 – August 2023
   - Utilized interactive learning (Q&A sessions, breakout workshops), and refined course material based on participant feedback.
   - Completed a 3-day training on professional teaching methodologies, emphasizing clarity and structured presentation.
 
-**Key Tools & Skills:** Python, VBA, Excel, education/mentoring, curriculum development, advanced macros. 
+**Key Tools & Skills:** Teaching, Python, VBA, Excel automation, pedagogical presentation strategies.
 
 
 <br>
@@ -163,8 +163,7 @@ Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
 - Internal company course on "Introduction to demographical statistics"
 - Passed a round of security checks regarding my criminal record.
 
-**Note: In this role, I believe I can confidently say I have had experience with:** \
-Company Economics, Timesheets management, Financial statements, Corporate Finance, Bookkeeping, budgetting, SAS, SQL, VBA, Excel, C#, Database management, ETL, software development.
+**Key Tools & Skills:** SAS, SQL, C#, Excel, data analysis, business intelligence (Power BI), cross-departmental collaboration.
 
 <br>
 
