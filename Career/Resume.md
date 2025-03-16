@@ -11,8 +11,30 @@ Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
 
 # Experience
 
-### (GOAL) Quantitative Researcher
+### Further Target Role - Quantitative Researcher
 ABC partners inc. | London, United Kingdom | April 2027 – Present
+- Market State Identification
+- Develop statistical and machine learning models (e.g., hidden Markov models, Bayesian regime detection) to determine bull, bear, or neutral conditions in equity and crypto markets.
+- Apply time series segmentation and pattern recognition to reduce noise in short- and medium-term price movements.
+- Alpha Signal Generation
+- Investigate new factor-based or technical signals—momentum, value, on-chain analytics—for alpha opportunities.
+- Conduct robust backtesting on historical and intraday data, ensuring signals remain profitable under various market regimes.
+- Noise Reduction & Data Quality
+- Implement advanced signal processing techniques (e.g., wavelets, adaptive filtering) to minimize market microstructure noise and spurious intraday fluctuations.
+- Oversee data cleansing and validation processes to guarantee high-quality data inputs for model development.
+- Strategy Optimization
+
+Use portfolio simulation and optimization frameworks to integrate multiple alpha signals, balancing risk exposure and transaction costs.
+Employ Bayesian hyperparameter tuning or other advanced optimization methods to refine model parameters and reduce overfitting.
+Interdisciplinary Collaboration
+
+Work closely with Quantitative Developers, Traders, and Data Scientists to integrate research outcomes into production trading systems.
+Communicate research findings effectively—maintaining detailed documentation, code repositories, and performance dashboards.
+Continuous Innovation
+
+Keep abreast of academic research on algorithmic trading, deep learning, and advanced statistical modeling.
+Conduct pilot experiments with emerging techniques (reinforcement learning, generative models) to push the boundaries of alpha discovery.
+
 <br>
 
 ### Target Role - Quantitative Developer
