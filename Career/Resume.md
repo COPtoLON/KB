@@ -32,27 +32,23 @@ ABC partners inc. | London, United Kingdom | April 2027 – Present
   - Keep abreast of academic research on algorithmic trading, deep learning, and advanced statistical modeling.
   - Conduct pilot experiments with emerging techniques (reinforcement learning, generative models) to push the boundaries of alpha discovery.
 
-<br>
-
 ### Target Role - Quantitative Developer
 YourCompany ltd | London, United Kingdom | April 2025 – Present
-- End-to-End Alpha Research & Implementation
+- **End-to-End Alpha Research & Implementation**
   - Develop and refine systematic trading signals for equities or crypto markets, integrating advanced statistical models, machine learning methods, and factor-based approaches.
   - Implement and maintain high-performance backtesting frameworks to validate alpha ideas with historical data, ensuring robustness and risk-adjusted returns.
-- Data-Intensive Pipeline Development
+- **Data-Intensive Pipeline Development**
   - Architect scalable ETL pipelines to ingest diverse data sources (e.g., exchange APIs, on-chain crypto feeds, fundamentals, alternative data), guaranteeing low-latency and reliable inputs for real-time strategies.
   - Collaborate on distributed computing or cloud-based HPC solutions (Ray, Dask, AWS, etc.) to accelerate complex simulations and multi-strategy backtests.
-- Real-Time Strategy Execution
+- **Real-Time Strategy Execution**
   - Integrate alpha signals into production trading systems, managing order routing, transaction cost analysis, and PnL/risk attribution in a low-latency environment.
   - Monitor live strategies, adjusting parameters and rebalancing logic based on performance metrics and evolving market conditions.
-- Cross-Functional Collaboration
+- **Cross-Functional Collaboration**
   - Work closely with quant researchers, traders, and data scientists to explore new alpha opportunities, refine factor models, and enhance existing strategies.
   - Provide technical leadership in code quality, design patterns, and continuous integration best practices to ensure the stability and reliability of trading operations.
-- Software Engineering & Infrastructure
+- **Software Engineering & Infrastructure**
   - Write clean, modular Python/C++ code with comprehensive unit tests and documentation, adhering to best practices in software architecture and version control.
   - Employ DevOps techniques (Docker, Kubernetes, CI/CD) for efficient deployment and maintenance of research and live trading environments.
-
-<br>
 
 ### Quantitative Developer & Researcher
 TMRW | Copenhagen, Denmark | January 2024 – Present(paused atm.)
@@ -69,8 +65,6 @@ TMRW | Copenhagen, Denmark | January 2024 – Present(paused atm.)
  
 **Key Tools & Skills:** Python, SQL, algorithmic trading, cryptos, quantitative research, Monte Carlo methods, Hidden Markov Models, dynamic market state detection.
 
-<br>
-
 ### Freelance Software Developer (X)
 Self-Employed | Remote | May 2024 – January 2025	     
 - **High-Frequency Trading Solutions:**
@@ -82,8 +76,6 @@ Self-Employed | Remote | May 2024 – January 2025
   - Built multiple Excel workbook enhancements with Python, C#, VBA, and VBScript, enabling dashboards, financial calculations, inter-application automation, and data visualization.
 
 **Key Tools & Skills:** Python, Excel, VBA, Pine Script, web technologies (HTML/CSS/JS), batch scripting, automation, solution design.
-
-<br>
 
 ### Train Station Service Personnel (X)
 DSB | Copenhagen, Denmark | May 2024 – January 2025
@@ -98,8 +90,6 @@ DSB | Copenhagen, Denmark | May 2024 – January 2025
  
 **Key Tools & Skills:** Conflict resolution, frontline customer service, security compliance, resilience.
 
-<br>
-
 ### Data Analyst & Developer						           	            	  	  
 LD Pensions | Copenhagen, Denmark | August 2023 – May 2024
 - **Developed a modular Python package** (internally named “LDF”)—accessible only on LD’s local network—to support a broad range of quantitative analyses, risk modeling, and data management needs.
@@ -113,9 +103,6 @@ LD Pensions | Copenhagen, Denmark | August 2023 – May 2024
 
 **Key Tools & Skills:** Python, SQL, ETL frameworks, risk modeling (VaR/CVaR), scenario simulations, ESG data, Excel–Python integration, Power BI.
 
-<br>
-
-
 ### Data Quality Analyst 	            	  
 Lån&Spar Bank | Copenhagen, Denmark | January 2023 – August 2023
 - **Assessed and documented** data quality indicators for the upcoming IRB system (scheduled for 2025 launch), producing in-depth analyses of PD/PC, LGD/LGC, EAD, and DoD procedures to **enhance data integrity** and **reporting accuracy**.
@@ -127,9 +114,6 @@ Lån&Spar Bank | Copenhagen, Denmark | January 2023 – August 2023
 - Lån&spar course in basic SQL with SAS institute
 
 **Key Tools & Skills:** SAS, SQL, IRB framework (PD/PC, LGD/LGC, EAD), data governance, data quality reporting, scrum methodology.
-
-
-<br>
 
 ### VBA & Python Instructor
 DJØF | Copenhagen, Denmark | January 2023 – August 2023
@@ -164,7 +148,7 @@ WHSmith | Copenhagen, Denmark | December 2021 – August 2022
 - Provided exceptional customer service, assisting travelers with purchases, inquiries, and store navigation in a high-traffic airport environment.
 - Managed shelving, restocking, and inventory control, ensuring optimal product placement and store organization.
 - Maintained storage areas, tracking stock levels and coordinating with suppliers to prevent shortages.
-- Security & Compliance:
+- **Security & Compliance:**
   - Successfully completed the [Copenhagen Airport, security Awareness certificate](https://github.com/CtoL95/Test/blob/main/Security%20Awareness%20K%C3%B8benhavns%20Lufthavn%2C%20DK%20version.pdf), ensuring adherence to airport safety protocols.
   - Passed comprehensive background checks, verifying a clean criminal record in accordance with airport security regulations.
   - Completed specialized training in assisting individuals with both visible (blindness, mobility impairments) and invisible disabilities (autism, OCD, anxiety disorders), ensuring inclusive and compassionate customer interactions.
@@ -173,9 +157,13 @@ WHSmith | Copenhagen, Denmark | December 2021 – August 2022
 
 ### Mathematics & Physics Tutor
 MentorDenmark| Copenhagen, Denmark | September 2017 – September 2021
-- Top-5 Senior Mentor with four years of experience and over 1,000 hours of tutoring. Successfully prepared more than 50 students for math exams, earning an average satisfaction rating of 4.7 out of 5. My teaching methods consistently helped students achieve above-average or significantly above-average grades.
-- 2-day course on MentorDenmark - Course on pedagogical presentation in teaching
-- Passed an extensive round of security checks regarding my criminal record. As I would have to do with kids for an extensive amount of time.
+- Top-5 of 2000 Senior Mentor with 1,000+ hours of tutoring experience, successfully preparing 50+ students for mathematics and physics exams.
+- Achieved an average satisfaction rating of 4.7/5, consistently helping students improve performance and exceed grade expectations through personalized learning strategies.
+- Specialized in breaking down complex mathematical and physics concepts into intuitive, digestible explanations, tailored to diverse learning styles.
+- Completed a pedagogical presentation training course to enhance teaching effectiveness and student engagement.
+- Cleared extensive security background checks, meeting strict requirements for working closely with children and young students.
+
+**Key Skills:** Mathematics instruction, physics tutoring, exam preparation, personalized learning strategies, pedagogical presentation, student engagement, mentorship.
 
 ### Store Clerk
 Lidl | Copenhagen, Denmark | April 2019 – August 2020
@@ -189,6 +177,8 @@ Lidl | Copenhagen, Denmark | April 2019 – August 2020
 ### Data Analyst Intern - Single project internship           	            	  
 Thomas Lystlund Studio | Copenhagen, Denmark | January 2019 – April 2019					          
 - **Analyzed cash flows and projected ROI to evaluate forex bot products**, identifying potential scams and advising client on safer investment alternatives by leveraging in-depth knowledge of currency trading and expected returns.
+
+**Key Skills:** Financial modeling, risk assessment, forex trading evaluation, investment strategy, Excel-based financial projections, and client advisory.
 
 ### Store Clerk → Store Manager
 MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – December 2018
