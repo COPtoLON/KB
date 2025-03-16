@@ -92,6 +92,37 @@ DSB | Copenhagen, Denmark | May 2024 – January 2025
 
 ### Data Analyst & Developer						           	            	  	  
 LD Pensions | Copenhagen, Denmark | August 2023 – May 2024
+- **Comprehensive Data Pipelines**
+  - Automated ETL processes and scheduled scripts (via Python and task scheduler) to ingest, clean, and unify data from multiple sources (Nykredit, Nordea, Bloomberg, MSCI, Sustainalytics, Morgan Stanley, Danske Bank).
+  - Ensured teams received up-to-date analytics at the start of each workday, minimizing data lag and manual overhead.
+- **Modular Python Framework**
+  - Built a robust Python package for on-prem use, providing functionalities for quantitative analysis, risk modeling, and data management.
+  - Evolved the framework from functional to object-oriented design, accelerating code reusability and maintainability.
+  - Created an Excel add-in integrating the library’s functionalities—empowering less technical users to access Python-driven analytics within Excel.
+- **Risk Analytics & Stress Testing**
+  - Developed modules for VaR, CVaR, credit risk, interest rate risk, currency risk, and derivatives risk, with special emphasis on margin call frameworks for currency futures and interest-rate-sensitive portfolios.
+  - Partnered with the Chief Investment Officer to interpret Morgan Stanley’s profit forecasting data. Reverse-engineered VaR and CVaR calculations, built scenario simulators (Geometric Brownian motion, square-root diffusion), and presented findings to C-level leadership.
+- **ESG & Portfolio Framework**
+  - **Designed a Modular Portfolio Framework**
+    - **Multi-Tier Portfolio Hierarchy:** Created a system to consolidate multiple ETFs and diverse asset classes (equities, bonds, etc.) into unified portfolios—grouped under “low risk,” “medium risk,” and “high risk” mandates. Linked numerous database tables via asset IDs, ensuring seamless cross-referencing from individual holdings up through multiple portfolio-level structures.
+    - **ROI & Risk Monitoring:** Developed a robust return-on-investment module and risk framework—tracking exposures across daily intervals. Incorporated advanced market, interest rate, and currency risk analytics that aggregate performance metrics from the individual asset level to the overarching mandate.
+    - **Key Data Visualizations:**
+      - **Asset Allocation Plots:** Displayed real-time allocations against compliance thresholds, enabling proactive limit checks.
+      - **Pie Charts:** Illustrated weighting distributions across ETFs, sectors, or asset types for at-a-glance oversight.
+      - **Net Asset Value Graph:** Compared each portfolio’s NAV trajectory against benchmarks or peer portfolios, simplifying performance evaluations.
+      - **VaR Plot:** Delivered visual risk assessments (e.g., Value at Risk) to highlight potential drawdowns under adverse market conditions.
+  - Extended the Python library to conduct ESG analytics (Weighted Average Carbon Intensity, Total Financed Emissions) via data from MSCI, Bloomberg, and Sustainalytics.
+  - Incorporated key governance and social KPIs for expanded ESG insights, aligning with industry best practices.
+- **Analytics & Productivity Tools**
+- Enhanced business intelligence by introducing Python-based data manipulation in Power BI dashboards, improving executive decision-making through clear, real-time visuals.
+- Deployed VBA macros and specialized Excel add-ins, automating budgeting tasks, email workflows, and smaller ad-hoc processes—leading to significant time savings.
+- Streamlined stress testing with advanced quantile-based returns, drawdown analysis, and log-return calculations, offering robust scenario modeling for portfolio managers.
+
+**Key Tools & Skills:** Python, SQL, ETL frameworks, risk modeling (VaR/CVaR), scenario simulations, ESG data, Excel–Python integration, Power BI, geometric Brownian motion, SSE-Simulations, Quantitative Analysis, Portfolio Construction & Optimization.
+
+
+
+
 - Data pipeline work - Data-in[Nykredit, Nordea, Bloomberg, MSCI, Sustainalytics, Morgan Stanley, Danske Bank], data-cleanup, database insertion, data extraction[Automated, on-command, ad-hoc]
   - **Automated data workflows** by creating scripts that run at scheduled times, ensuring teams have up-to-date analytics upon starting their workday. 
 - Python framework development:
