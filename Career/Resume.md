@@ -136,22 +136,23 @@ DJØF | Copenhagen, Denmark | January 2023 – August 2023
 
 ### Data Analyst & Developer        	            	  
 Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
-- **Maintained timesheets and budgetting system**
-  - Administered the timesheets system and conducted in-depth analyses to enhance resource allocation and reporting.
-  - Ran monthly scheduled updates, for salary payments, employee hour estimates, distribution of "borrowed hours" between departments, ran estimates on budgets
-  - Maintained SAS/SQL codes and ran codereviews with colleagues
-- **Took part in the management and further development of the company donations system**
-  - participated in end-to-end management of the Donations System—encompassing documentation, development, and maintenance—using C#, SQL, and Excel to ensure reliability and scalability.
-  - Developed an API solution, to extract data from the legacy donations system, to improve analytical capabilities and project management. obtaining the ability to gain insight into income streams, expense streams, employee hours spent, forecasting future budget movements
-- **Led, developed and maintained the new project financing analysis system**
-  - Developed and maintained a robust software ecosystem—integrating Excel, VBA/VBS, SAS, and SQL—to streamline data consolidation and analyze multifaceted project information.
-  - The system incorporated hours spent on projects, employee salary rates, overhead, CRM expenses, employees on projects, as well as external expenses for such as travels, hiring compute resources, buying data, developing IT systems etc.
-  - In the system a projects could be sorted by their income/expense streams, whether the project result was positive or negative, project lead, etc.
-  - The system would run a series of emails in and out, read the email responses and register them. Project leaders would automatically gain emails for finishing projects or scheduled on yearly returning projects
-- **Assisted CFO in various analytical needs**
-  - Created and supervised Power BI dashboards that provided executive-level insights into fund allocation, project analytics, and performance metrics, guiding strategic decision-making.
-  - Ran ad-hoc needed data analysis through SAS/SQL or Excel and build reports on topics such as funding surplus or lack of surplus, employee hours, project financing, return on investments from key projects.
-  - Collaborated on data analysis and program development initiatives for business intelligence, primarily leveraging SAS, SQL, and VBA to inform policy decisions and drive efficiency.
+- **Timesheet & Budgeting System**
+  - Administered a comprehensive timesheet and budgetting platform, performing in-depth analyses of hours worked, salary payment updates, and budget distribution across multiple departments.
+  - Ran monthly data extractions in SAS/SQL, providing budgetting and salary forecasts, employee hour estimates, and “borrowed hours” reallocation to ensure accurate resource planning.
+  - Performed code reviews with colleagues to maintain coding standards and validate data integrity.
+  - Integrated multiple platforms for seamless data flow and reporting: combined Microsoft Navision (bookkeeping), Microsoft Dynamics (CRM), and legacy budget solutions with SAS/SQL pipelines to enhance accuracy and visibility across finance, CRM, and project management functions.
+- **Donations Management**
+  - Assisted in the management of the end-to-end Donations System, incorporating C#, SQL, and Excel to maintain reliability and scalability of financial tracking.
+  - Developed an API solution to integrate data from the legacy donations platform, enabling real-time monitoring of income streams, expenses, and project usage.
+  - Delivered enhanced analytical capabilities that gave the finance team a clear view of donation flows and forecasted future budget movements.
+- **Project Financing & Analysis**
+  - Led the development of a robust software ecosystem—using Excel, VBA/VBS, SAS, and SQL—to consolidate and analyze multifaceted project data (employee hours, overhead, CRM costs, external expenditures).
+  - Enabled dynamic project classifications by profitability, lead ownership, or expense flows, enhancing transparency in resource allocation and ROI.
+  - Automated email notifications to project leaders, prompting regular updates or closure on completed/annual projects.
+- **Business Intelligence & Executive Reporting**
+  - Created Power BI dashboards providing executive-level insights into fund allocation, project performance metrics, and key analytics—directly influencing C-suite decision-making.
+  - Conducted ad-hoc data analysis in SAS, SQL, and Excel to investigate funding surpluses or shortfalls, employee utilization, and returns on major organizational initiatives.
+  - Collaborated with cross-departmental stakeholders to support policy decisions through data-driven evidence, streamlining internal processes and improving departmental efficiency.
 - **Work-related courses**
   - Statistics Denmark, SAS programmer course series, with SAS institute
   - Internal company course on "Statistics with R I"
@@ -159,7 +160,7 @@ Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
   - Internal company course on "Introduction to demographical statistics"
 - Passed a round of security checks regarding my criminal record.
 
-**Key Tools & Skills:** SAS, SQL, C#, Excel, data analysis, business intelligence (Power BI), cross-departmental collaboration.
+**Key Tools & Skills:** SAS, SQL, C#, Excel (VBA/VBS), data analysis, ETL pipelines, business intelligence (Power BI), budgeting systems (Navision/Dynamics), code reviews, and cross-departmental collaboration.
 
 ### Store Clerk (X)
 WHSmith | Copenhagen, Denmark | December 2021 – August 2022
