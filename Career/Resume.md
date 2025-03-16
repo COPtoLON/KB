@@ -70,34 +70,36 @@ WTECH | Copenhagen, Denmark | January 2024 – Present(paused atm.)
   - Conducted extensive statistical and financial research to identify and refine profitable trading algorithms.
   - Pioneered new methodologies for analyzing market patterns, enabling data-driven insights and robust strategy development.
  
-**Note: In this role, I believe I can confidently say I have had experience with:**
-Python, SQL, Algorithmic trading, Cryptocurrencies, Quantitative Research, Monte Carlo methods, Hidden Markov Models, Market state detection, ...
+**Key Tools & Skills:**
 
 <br>
 
 ### Freelance Software Developer
 Self-Employed | Remote | May 2024 – January 2025	     
-- **Developed a trading system** to run event-based high frequency trading, in the space when meme coins went from tiny coins, being traded as venture projects into medium sized projects on being offered on the raydium market.
-- **Developed a trading algorithm in Pinescript** for TradingView to indicate and initiate trades based on a few predefined trade signals, such as the silver bullet, exchange opening times and multi-day indicative mean reversions.
-- **Developed a website in HTML, CSS and JavaScript** for an acquaintance looking to expand his hobby photography. I was only in charge of design and writeup, not implementation
-- **Developed various smaller Excel workbook projects** with added Python, C#, VBA or VBScript features. These developments were anything from developing dashboards, financial calculations, inter-application connections to visualizations and data connections.
+- **High-Frequency Trading Solutions:**
+  - Developed a low-latency trading system to exploit meme-coin IPOs, guiding clients from sub-penny coins to mid-cap altcoins on the Raydium market.
+- **Algorithmic Scripting & Web Projects:**
+  - Created a Pine Script algorithm on TradingView to trigger trades based on custom signals (e.g., “silver bullet,” exchange opening times, and multi-day mean reversions).
+  - Designed a static HTML/CSS/JavaScript website for a hobby photographer, focusing on aesthetic layout and user-friendly navigation.
+- **Data-Driven Excel Integrations:**
+  - Built multiple Excel workbook enhancements with Python, C#, VBA, and VBScript, enabling dashboards, financial calculations, inter-application automation, and data visualization.
 
-**Note: In this role, I believe I can confidently say I have had experience with:** \
-Excel, VBA, VBScript, Python, and to a lesser extent HTML, CSS, JavaScript, Batch, Powershell, Webscraping and Pinescript.
+**Key Tools & Skills:**
 
 <br>
 
 ### Train station service personel
 DSB | Copenhagen, Denmark | May 2024 – January 2025
-- **Maintained cleanliness and a safe environment** at multiple train stations in the Copenhagen area.
-- **Assisted passengers—including those with disabilities** by helping them board and exit trains, find routes, and address other travel needs. Took good care of and was genuinely well-reviewed by customers in my handling and empathic behaviour.
-- **Handled ad-hoc service tasks**, such as collaborating with police and security personnel in unique situations, escorting customers to safety during incidents, and managing specialized cleaning challenges.(Cleaning up 2 dead people and 1 severaly injured older lady)
-- *DSB - Course in psychological first aid for trauma and shock*
-- *DSB - Course in proper use of cleaning chemicals*
-- *DSB - Course in safety concerns at the train tracks*
-
-**Note: In this role, I believe I can confidently say I have had experience with:** \
-Cleaning, servicemindedness, conflict management, disabilities management, resillience, ...
+- **Safety & Customer Assistance:**
+  - Maintained cleanliness and safety at multiple train stations, ensuring positive passenger experiences.
+  - Assisted customers with disabilities, providing empathetic support for boarding, route guidance, and special mobility needs.
+- **Ad-Hoc Emergency Response:**
+  - Collaborated with police and security in unique incidents, escorting customers to safety.
+  - Managed specialized cleaning tasks, including traumatic situations, demonstrating resilience under pressure.
+- **Certification & Training:**
+  - Completed courses in psychological first aid, chemical safety, and train track safety, reinforcing personal accountability and compliance.
+ 
+**Key Tools & Skills:**
 
 <br>
 
@@ -112,10 +114,7 @@ LD Pensions | Copenhagen, Denmark | August 2023 – May 2024
 - **Enhanced business intelligence** by incorporating Python-driven data manipulation and visualization in Power BI dashboards, improving executive-level decision-making.
 - **Augmented efficiency** through a suite of VBA macros and Excel add-ins, reducing manual efforts and elevating overall productivity.
 
-Note: Quit all my other jobs to work my dream job, working as a combination data analyst, software developer, quantitative analyst etc. with LD Pensions. Official title was data analyst, as the title of quantitative developer isn't often seen in Denmark.
-
-**Note: In this role, I believe I can confidently say I have had experience with:** \
-Python, ETL-frameworks, database management, SQL, risk measurements(VAR, CVAR, Interest Rate Risk, Currency Risk, Derivatives Risk), portfolio analytics, monte carlo simulations, Data quality analysis, KPI development, Dashboard development, Python-Excel integration, Python-PowerBI integration, Bloomberg Terminal, Bloomberg API, BQUANT, MSCI Data APIs, Sustainalytics API, ESG analytics, Automation, Nordea Analytics, CI/CD, Object oriented programming, functional-programming.
+**Key Tools & Skills:**
 
 <br>
 
@@ -130,23 +129,23 @@ Lån&Spar Bank | Copenhagen, Denmark | January 2023 – August 2023
 - Lån&Spar course in basic SAS with SAS institute
 - Lån&spar course in basic SQL with SAS institute
 
-Note: Passed a round of security checks regarding my criminal record. Quit after 8 months, to work my a job more closely related to my desired career path with LD Pensions.
+**Key Tools & Skills:**
 
-**Note: In this role, I believe I can confidently say I have had experience with:** \
-SAS, SQL, Excel, Data quality metrics, Data quality reporting, IRB framework (DoD, PD/PC, LGD/LGC, EAD), Data infrastructure documentation, SCRUM, CI/CD database management.
 
 <br>
 
 ### VBA & Python Instructor
 DJØF | Copenhagen, Denmark | January 2023 – August 2023
-- **Designed and delivered** courses in Excel, VBA, and Python for both online and in-person sessions, catering to students at the beginner through advanced levels.
-- **Developed advanced VBA coursework**, covering topics such as nested macros, complex function creation, and cross-application integration within the Windows environment (VBA/VBS).
-- **Facilitated interactive learning** by demonstrating real-world applications of Excel automation and Python scripting, enabling participants to apply these skills in professional settings.
-- 3-day Course on Pedagogical presentation in teaching
-Note: Quit after 8 months, to work my a job more closely related to my desired career path with LD Pensions.
+- **Curriculum Design & Delivery:**
+  - Organized Excel, VBA, and Python coursework for audiences from beginners to advanced, teaching automation, data manipulation, and best practices.
+- **Practical Project Focus:**
+  - Incorporated real-world tasks (e.g., automating daily processes, analyzing data sets) into the curriculum, enhancing learners’ job readiness.
+- **Pedagogical Techniques:**
+  - Utilized interactive learning (Q&A sessions, breakout workshops), and refined course material based on participant feedback.
+  - Completed a 3-day training on professional teaching methodologies, emphasizing clarity and structured presentation.
 
-**Note: In this role, I believe I can confidently say I have had experience with:** \
-Teaching, Python, VBA, Excel, pedagogical presentation techniques, coursework development.
+**Key Tools & Skills:** Python, VBA, Excel, education/mentoring, curriculum development, advanced macros. 
+
 
 <br>
 
