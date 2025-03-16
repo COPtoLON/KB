@@ -77,20 +77,20 @@ Python, SQL, Algorithmic trading, Cryptocurrencies, Quantitative Research, Monte
 
 ### Freelance Software Developer
 Self-Employed | Remote | May 2024 – January 2025	     
-- Developed a high frequency trading system to trade emerging meme coins as soon as they hit the raydium market.
-- Developed a trading algorithm in Pinescript to indicate and initiate trades based on a few predefined trade signals
-- Developed a website in HTML for an acquaintance looking to expand his hobby photography.
-- Developed various smaller Excel workbook projects with added VBA/VBScript features
+- **Developed a trading system** to run event-based high frequency trading, in the space when meme coins went from tiny coins, being traded as venture projects into medium sized projects on being offered on the raydium market.
+- **Developed a trading algorithm in Pinescript** for TradingView to indicate and initiate trades based on a few predefined trade signals, such as the silver bullet, exchange opening times and multi-day indicative mean reversions.
+- **Developed a website in HTML, CSS and JavaScript** for an acquaintance looking to expand his hobby photography. I was only in charge of design and writeup, not implementation
+- **Developed various smaller Excel workbook projects** with added Python, C#, VBA or VBScript features. These developments were anything from developing dashboards, financial calculations, inter-application connections to visualizations and data connections.
 
 **Note: In this role, I believe I can confidently say I have had experience with:** \
-Excel, VBA, VBScript, HTML, CSS, JavaScriptBatch, powershell, python, Webscraping and pinescript.
+Excel, VBA, VBScript, Python, and to a lesser extent HTML, CSS, JavaScript, Batch, Powershell, Webscraping and Pinescript.
 
 <br>
 
 ### Train station service personel
 DSB | Copenhagen, Denmark | May 2024 – January 2025
 - **Maintained cleanliness and a safe environment** at multiple train stations in the Copenhagen area.
-- **Assisted passengers—including those with disabilities** by helping them board and exit trains, find routes, and address other travel needs. Took good care of and was genuinely well-reviewed by customers in my handling and empathic behaviours regarding disabled
+- **Assisted passengers—including those with disabilities** by helping them board and exit trains, find routes, and address other travel needs. Took good care of and was genuinely well-reviewed by customers in my handling and empathic behaviour.
 - **Handled ad-hoc service tasks**, such as collaborating with police and security personnel in unique situations, escorting customers to safety during incidents, and managing specialized cleaning challenges.(Cleaning up 2 dead people and 1 severaly injured older lady)
 - *DSB - Course in psychological first aid for trauma and shock*
 - *DSB - Course in proper use of cleaning chemicals*
@@ -171,6 +171,10 @@ Company Economics, Timesheets management, Financial statements, Corporate Financ
 
 ### Store Clerk
 WHSmith | Copenhagen, Denmark | December 2021 – August 2022
+- General Store Clerk work
+- Shelfing goods
+- Managing customers
+- Took part in storage management
 - [Copenhagen Airport, security Awareness certificate](https://github.com/CtoL95/Test/blob/main/Security%20Awareness%20K%C3%B8benhavns%20Lufthavn%2C%20DK%20version.pdf)
 - Passed courses on proper management of disabled individuals, both invisible disabilities(Autism, OCD, mental disorders, etc. ) and visible disabilities(blindness, inability to walk, etc. ) 
 - Passed a round of security checks regarding my criminal record.
