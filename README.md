@@ -7,8 +7,17 @@ Authors: Mark Brezina, Axel Fristrup
 
 - [ ] Hiring process
    - [ ] ~~Man Group AHL - Risk Quant Dev~~
+      - [x] Homework
+      - [x] First interview
+      - [x] No further progress
    - [ ] Nickel Digital Assets - Quant Dev(?) - Analyst(?)
+      - [x] First interview
+      - [ ] 
    - [ ] WhiteSpace - Quant Dev(?) - Forecast analyst(?)
+      - [ ] First interview
+   - [ ] Mathnasium - Mathematics Tutor
+      - [ ] First interview
+   - [ ] Dunno yet
 
 - [ ] Apply positions [Data analyst, Quant Developer, Data engineer, etc. ]
    - [ ] Improve Resumé
