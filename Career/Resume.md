@@ -134,7 +134,7 @@ DJØF | Copenhagen, Denmark | January 2023 – August 2023
 
 **Key Tools & Skills:** Teaching, Python, VBA, Excel automation, pedagogical presentation strategies.
 
-### Data Analyst & Developer        	            	  
+### Data Analyst & Developer (X)	            	  
 Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
 - **Timesheet & Budgeting System**
   - Administered a comprehensive timesheet and budgetting platform, performing in-depth analyses of hours worked, salary payment updates, and budget distribution across multiple departments.
@@ -222,8 +222,6 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 **Note: This education is a goal, I will not imply I have finished this.**
 
-<br>
-
 ### (GOAL) M.Sc. in Financial Mathematics (X)
 **Goal - LSE : London, UK : 2026 - 2028**
 - **Dissertation(idea):** “Hybrid Factor Models for Multi-Asset Portfolio Optimization”
@@ -231,8 +229,6 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 -	Collaborated on quantitative strategy research projects, incorporating factor modeling and robust risk measures (VaR, CVaR) to evaluate alpha performance under market volatility.
 
 **Note: This education is a goal, I will not imply I have finished this.**
-
-<br>
 
 ### B.Sc. in Mathematical Statistics (X)
 **University of Copenhagen | Copenhagen, Denmark | September 2021 - July 2025**
@@ -242,8 +238,6 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 -	Gained fundamental proficiency in probability theory, statistical inference, and time series analysis, forming a strong basis for quantitative work
 
 **Note: On this education I have had experience with R, Python, probability theory, Mathematical Statistics, Stochastic processes and insurance mathematics - This implies work in time series Analysis, Statistical Inference, Monte Carlo methods, Markov models, stochastic calculus and financial mathematics**
-
-<br>
 
 ### B.Sc. in Mathematical Physics	(X) 
 **University of Copenhagen | Copenhagen, Denmark | September 2019- April 2021**
