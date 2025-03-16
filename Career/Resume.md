@@ -53,6 +53,7 @@ YourCompany ltd | London, United Kingdom | April 2025 – Present
   - Employ DevOps techniques (Docker, Kubernetes, CI/CD) for efficient deployment and maintenance of research and live trading environments.
 
 <br>
+
 ### Quantitative Developer & Researcher
 WTECH | Copenhagen, Denmark | January 2024 – Present(paused atm.)
 - Company Formation & Leadership
