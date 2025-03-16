@@ -92,14 +92,25 @@ DSB | Copenhagen, Denmark | May 2024 – January 2025
 
 ### Data Analyst & Developer						           	            	  	  
 LD Pensions | Copenhagen, Denmark | August 2023 – May 2024
-- **Developed a modular Python package** (internally named “LDF”)—accessible only on LD’s local network—to support a broad range of quantitative analyses, risk modeling, and data management needs.
-- **Automated data workflows** by creating scripts that run at scheduled times, ensuring teams have up-to-date analytics upon starting their workday.
-- **Implemented ETL pipelines** to unify disparate data sources into the company’s central database, strengthening data consistency and reliability.
-- **Integrated third-party APIs**, including legacy Bloomberg, MSCI ESG, and Sustainalytics, within the Python ecosystem to streamline market data, ESG metrics, and analytics for equity and bond portfolios.
-- **Focused on comprehensive risk management**, building functionalities for market, interest rate, and currency risk exposures—providing real-time insights for portfolio monitoring.
-- **Collaborated with the Chief Investment Officer** to interpret Morgan Stanley’s profit forecasting datasets—reverse-engineering Value at Risk (VaR), Conditional VaR (CVaR), and the “waterfall model.” Extended this work by developing a basic local simulator featuring Geometric Brownian motion and square root diffusion for scenario testing.
-- **Enhanced business intelligence** by incorporating Python-driven data manipulation and visualization in Power BI dashboards, improving executive-level decision-making.
-- **Augmented efficiency** through a suite of VBA macros and Excel add-ins, reducing manual efforts and elevating overall productivity.
+- Data pipeline work - Data-in[Nykredit, Nordea, Bloomberg, MSCI, Sustainalytics, Morgan Stanley, Danske Bank], data-cleanup, database insertion, data extraction[Automated, on-command, ad-hoc]
+  - **Automated data workflows** by creating scripts that run at scheduled times, ensuring teams have up-to-date analytics upon starting their workday. 
+- Python framework development:
+  - Developed as a functional library to begin with, than as an OOP library afterwards, to speed up certain processes. Developed an excel add-in to connect with the python library, to extract certain functionalities into excel for the less technical employees to use
+  - **Developed a modular Python package** (internally named “LDF”)—accessible only on LD’s local network—to support a broad range of quantitative analyses, risk modeling, and data management needs.
+  - data pipeline work : associated with the above notes
+  - Risk analytics work, VaR, CVaR, Credit risk, Interest rate risk, currency risk, Derivatives risk. Of special importance was the margin call framework for currency futures and the interest rate risk framework to assist in monitoring our various risks associated with bonds, CDOs and Credit default swaps.
+  - Portfolio framework - this was perhaps my most extensive work, 
+  - Special-case ESG analytics, developing an extra module to the python framework to extract data from MSCI, Bloomberg and Sustainalytics and calculating Weighted Average Carbon Intensity (WACI) and Total Financed Emissions, working to also incorporate KPIs for Governance and Social KPIs
+- Analytics solutions
+  - **Focused on comprehensive risk management**, building functionalities for market, interest rate, and currency risk exposures—providing real-time insights for portfolio monitoring.
+  - **Enhanced business intelligence** by incorporating Python-driven data manipulation and visualization in Power BI dashboards, improving executive-level decision-making.
+  - **Augmented efficiency** through a suite of VBA macros and Excel add-ins, reducing manual efforts and elevating overall productivity.
+  - Collaborated with the COO to automate some minor budgetting spreadsheets and email deliveries with VBA and task scheduler
+- Stress-testing work
+  - **Collaborated with the Chief Investment Officer** to interpret Morgan Stanley’s profit forecasting datasets and present findings to the CIO, COO and CEO.
+  - reverse-engineered Value at Risk (VaR), Conditional VaR (CVaR), and various portfolio ROI analytics, such as arithmetic, log returns, annualized returns, quantile-based returns, drawdown, volatility.
+  - Extended this work by developing a basic local simulator featuring Geometric Brownian motion and square root diffusion for scenario testing.
+
 
 **Key Tools & Skills:** Python, SQL, ETL frameworks, risk modeling (VaR/CVaR), scenario simulations, ESG data, Excel–Python integration, Power BI.
 
