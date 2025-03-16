@@ -185,8 +185,6 @@ MentorDenmark| Copenhagen, Denmark | September 2017 – September 2021
 - 2-day course on MentorDenmark - Course on pedagogical presentation in teaching
 - Passed an extensive round of security checks regarding my criminal record. As I would have to do with kids for an extensive amount of time.
 
-<br>
-
 ### Store Clerk
 Lidl | Copenhagen, Denmark | April 2019 – August 2020\
 **Basic store clerk work**
@@ -194,13 +192,9 @@ Lidl | Copenhagen, Denmark | April 2019 – August 2020\
 - Shelfing
 - Customer service
 
-<br>
-
 ### Data analyst Intern - Single project internship           	            	  
 Thomas Lystlund Studio | Copenhagen, Denmark | January 2019 – April 2019					          
 - **Analyzed cash flows and projected ROI to evaluate forex bot products**, identifying potential scams and advising client on safer investment alternatives by leveraging in-depth knowledge of currency trading and expected returns.
-
-<br>
 
 ### Store Clerk → Store Manager
 MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – December 2018
