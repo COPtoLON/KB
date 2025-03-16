@@ -55,10 +55,7 @@ YourCompany ltd | London, United Kingdom | April 2025 – Present
 <br>
 
 ### Quantitative Developer & Researcher
-WTECH | Copenhagen, Denmark | January 2024 – Present(paused atm.)
-- Company Formation & Leadership
-  - Spearheaded legal incorporation, secured funding, and established a sustainable business model.
-  - Oversaw recruitment and team-building efforts, aligning talent with core mission and strategic objectives.
+TMRW | Copenhagen, Denmark | January 2024 – Present(paused atm.)
 - IT Infrastructure & Architecture
   - Designed and implemented robust hardware setups, communication channels, and documentation workflows.
   - Built a scalable software architecture for algorithmic trading, incorporating industry-standard security and reliability measures.
@@ -74,7 +71,7 @@ WTECH | Copenhagen, Denmark | January 2024 – Present(paused atm.)
 
 <br>
 
-### Freelance Software Developer
+### Freelance Software Developer (X)
 Self-Employed | Remote | May 2024 – January 2025	     
 - **High-Frequency Trading Solutions:**
   - Developed a low-latency trading system to exploit meme-coin IPOs, guiding clients from sub-penny coins to mid-cap altcoins on the Raydium market.
@@ -88,7 +85,7 @@ Self-Employed | Remote | May 2024 – January 2025
 
 <br>
 
-### Train station service personel
+### Train Station Service Personnel (X)
 DSB | Copenhagen, Denmark | May 2024 – January 2025
 - **Safety & Customer Assistance:**
   - Maintained cleanliness and safety at multiple train stations, ensuring positive passenger experiences.
@@ -103,7 +100,7 @@ DSB | Copenhagen, Denmark | May 2024 – January 2025
 
 <br>
 
-### Data analyst & Developer						           	            	  	  
+### Data Analyst & Developer						           	            	  	  
 LD Pensions | Copenhagen, Denmark | August 2023 – May 2024
 - **Developed a modular Python package** (internally named “LDF”)—accessible only on LD’s local network—to support a broad range of quantitative analyses, risk modeling, and data management needs.
 - **Automated data workflows** by creating scripts that run at scheduled times, ensuring teams have up-to-date analytics upon starting their workday.
@@ -146,10 +143,7 @@ DJØF | Copenhagen, Denmark | January 2023 – August 2023
 
 **Key Tools & Skills:** Teaching, Python, VBA, Excel automation, pedagogical presentation strategies.
 
-
-<br>
-
-### Data analyst & Developer        	            	  
+### Data Analyst & Developer        	            	  
 Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
 - **Developed and maintained** a robust software ecosystem—integrating Excel, VBA/VBS, SAS, and SQL—to **streamline data consolidation** and **analyze multifaceted project information.**
 - **Optimized workflows** for email processing, data retrieval, and dashboard creation, facilitating **efficient project management and real-time insights.**
@@ -165,19 +159,17 @@ Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
 
 **Key Tools & Skills:** SAS, SQL, C#, Excel, data analysis, business intelligence (Power BI), cross-departmental collaboration.
 
-<br>
-
 ### Store Clerk
 WHSmith | Copenhagen, Denmark | December 2021 – August 2022
-- General Store Clerk work
-- Shelfing goods
-- Managing customers
-- Took part in storage management
-- [Copenhagen Airport, security Awareness certificate](https://github.com/CtoL95/Test/blob/main/Security%20Awareness%20K%C3%B8benhavns%20Lufthavn%2C%20DK%20version.pdf)
-- Passed courses on proper management of disabled individuals, both invisible disabilities(Autism, OCD, mental disorders, etc. ) and visible disabilities(blindness, inability to walk, etc. ) 
-- Passed a round of security checks regarding my criminal record.
+- Provided exceptional customer service, assisting travelers with purchases, inquiries, and store navigation in a high-traffic airport environment.
+- Managed shelving, restocking, and inventory control, ensuring optimal product placement and store organization.
+- Maintained storage areas, tracking stock levels and coordinating with suppliers to prevent shortages.
+- Security & Compliance:
+  - Successfully completed the [Copenhagen Airport, security Awareness certificate](https://github.com/CtoL95/Test/blob/main/Security%20Awareness%20K%C3%B8benhavns%20Lufthavn%2C%20DK%20version.pdf), ensuring adherence to airport safety protocols.
+  - Passed comprehensive background checks, verifying a clean criminal record in accordance with airport security regulations.
+  - Completed specialized training in assisting individuals with both visible (blindness, mobility impairments) and invisible disabilities (autism, OCD, anxiety disorders), ensuring inclusive and compassionate customer interactions.
 
-<br>
+**Key Skills:** Customer service, inventory management, security compliance, accessibility awareness, multitasking in high-paced environments.
 
 ### Mathematics & Physics Tutor
 MentorDenmark| Copenhagen, Denmark | September 2017 – September 2021
@@ -186,26 +178,30 @@ MentorDenmark| Copenhagen, Denmark | September 2017 – September 2021
 - Passed an extensive round of security checks regarding my criminal record. As I would have to do with kids for an extensive amount of time.
 
 ### Store Clerk
-Lidl | Copenhagen, Denmark | April 2019 – August 2020\
-**Basic store clerk work**
-- Forklift operation
-- Shelfing
-- Customer service
+Lidl | Copenhagen, Denmark | April 2019 – August 2020
+- Operated forklifts and pallet jacks to transport and stock goods efficiently, ensuring a well-organized and safe storage environment.
+- Managed shelving and restocking, optimizing product placement and maintaining inventory accuracy to improve customer shopping experience.
+- Provided customer service, assisting shoppers with inquiries, locating products, and handling transactions at checkout.
+- Maintained cleanliness and order throughout the store, ensuring compliance with safety and hygiene regulations.
 
-### Data analyst Intern - Single project internship           	            	  
+**Key Skills:** Inventory management, forklift operation, customer service, retail logistics, store maintenance.
+
+### Data Analyst Intern - Single project internship           	            	  
 Thomas Lystlund Studio | Copenhagen, Denmark | January 2019 – April 2019					          
 - **Analyzed cash flows and projected ROI to evaluate forex bot products**, identifying potential scams and advising client on safer investment alternatives by leveraging in-depth knowledge of currency trading and expected returns.
 
 ### Store Clerk → Store Manager
 MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – December 2018
-- Supervised store operations during night and early morning shifts.
-- Baked cakes, pastries, and prepared fresh sandwiches.
-- Organized and maintained storage areas, freezers, and shelves.
-- Restocked and arranged products efficiently.
-- Assisted customers at the cashier and addressed their needs.
-- Received and processed deliveries of goods.
-- Handled ad-hoc problem-solving to ensure smooth operations.
-- Emptied recycling machines, trash bins, and managed storage areas for exporting recycled bottles.
+- Managed store operations during night and early morning shifts, ensuring smooth workflow and high customer satisfaction.
+- Prepared fresh food items, including baking cakes, pastries, and making sandwiches to maintain a high-quality product offering.
+- Oversaw inventory management, organizing storage areas, freezers, and shelves while maintaining optimal stock levels.
+- Restocked and arranged products efficiently, implementing an organized layout to enhance customer convenience and sales.
+- Provided excellent customer service, handling transactions at the cashier, addressing inquiries, and resolving customer concerns.
+- Coordinated deliveries, receiving and processing shipments to ensure timely replenishment of store inventory.
+- Handled operational challenges, troubleshooting issues in real-time to maintain seamless store functionality.
+- Managed recycling and waste disposal, overseeing bottle return systems and ensuring compliance with environmental regulations.
+
+**Key Skills:** Retail management, inventory control, customer service, food preparation, logistics coordination, problem-solving.
 
 # Education
 
