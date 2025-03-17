@@ -1,5 +1,9 @@
 [CV help](https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/)
 
+- iO Associates +1
+- Selby Jennings -5
+
+
 # Companies
 
 | Rank | Company | Role | Compensation | Region | Link |
