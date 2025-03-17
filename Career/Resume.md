@@ -9,6 +9,9 @@ Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
 [HackerRank Profile](https://www.hackerrank.com/profile/mark642) | [Kaggle Profile](https://www.kaggle.com/copenhagentolondon) \
 [Medium Profile]() | [SSRN Profile]() 
 
+# Summary
+Driven quantitative developer and researcher with a strong foundation in algorithmic trading, statistical modeling, and financial data engineering. Skilled at creating high-performance backtesting systems, predictive analytics platforms (e.g., ARIMA/GARCH, Hidden Markov Models), and robust ETL pipelines for multi-asset markets—covering equities, crypto, and derivatives. Adept at optimizing risk exposures through advanced simulations (Monte Carlo, scenario testing) and portfolio frameworks, including ESG integrations and VaR/CVaR analytics. Demonstrates a blend of software engineering acumen (Python, SQL, C++) and domain-specific rigor (mean reversion, trend detection, hierarchical risk-parity). Supplements technical expertise with strong communication, code review practices, and interdisciplinary collaboration. Passionate about continuous learning—regularly attending research conferences, acquiring cutting-edge knowledge, and prototyping AI-driven strategies for dynamic market adaptation.
+
 # Experience
 
 ### Further Target Role - Quantitative Researcher (X)
