@@ -123,9 +123,9 @@ LD Pensions | Copenhagen, Denmark | August 2023 – May 2024
   - Extended the Python library to conduct ESG analytics (Weighted Average Carbon Intensity, Total Financed Emissions) via data from MSCI, Bloomberg, and Sustainalytics.
   - Incorporated key governance and social KPIs for expanded ESG insights, aligning with industry best practices.
 - **Analytics & Productivity Tools**
-- Enhanced business intelligence by introducing Python-based data manipulation in Power BI dashboards, improving executive decision-making through clear, real-time visuals.
-- Deployed VBA macros and specialized Excel add-ins, automating budgeting tasks, email workflows, and smaller ad-hoc processes—leading to significant time savings.
-- Streamlined stress testing with advanced quantile-based returns, drawdown analysis, and log-return calculations, offering robust scenario modeling for portfolio managers.
+  - Enhanced business intelligence by introducing Python-based data manipulation in Power BI dashboards, improving executive decision-making through clear, real-time visuals.
+  - Deployed VBA macros and specialized Excel add-ins, automating budgeting tasks, email workflows, and smaller ad-hoc processes—leading to significant time savings.
+  - Streamlined stress testing with advanced quantile-based returns, drawdown analysis, and log-return calculations, offering robust scenario modeling for portfolio managers.
 
 **Key Tools & Skills:** Python, SQL, ETL frameworks, risk modeling (VaR/CVaR), scenario simulations, ESG data, Excel–Python integration, Power BI, geometric Brownian motion, SSE-Simulations, Quantitative Analysis, Portfolio Construction & Optimization.
 
