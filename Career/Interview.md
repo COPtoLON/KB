@@ -25,7 +25,7 @@ Relevant experiences - LD Pensions setting everything up from scratch(risk), WTE
       - [x] No further progress
    - [ ] Nickel Digital Assets - Quant Dev(?) - Analyst(?)
       - [x] First interview
-      - [ ] 
+      - [ ] Second interview
    - [ ] WhiteSpace - Quant Dev(?) - Forecast analyst(?)
       - [ ] First interview
    - [ ] Mathnasium - Mathematics Tutor
