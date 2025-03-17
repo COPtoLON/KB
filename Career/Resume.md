@@ -52,16 +52,27 @@ YourCompany ltd | London, United Kingdom | April 2025 – Present
 
 ### Quantitative Developer & Researcher
 TMRW | Copenhagen, Denmark | January 2024 – Present(paused atm.)
-- IT Infrastructure & Architecture
-  - Designed and implemented robust hardware setups, communication channels, and documentation workflows.
-  - Built a scalable software architecture for algorithmic trading, incorporating industry-standard security and reliability measures.
-- Technical Innovations
-  - Backtesting System: Developed a high-performance platform to rigorously test and validate trading strategies against historical market data.
-  - Forecasting Engine: Engineered advanced predictive models to anticipate market movements, leveraging statistical and financial indicators.
-  - ETL Pipelines: Created a comprehensive data pipeline—integrating multiple APIs, data sources, and databases—to ensure accurate, real-time inputs for trading algorithms.
-- Research & Development
+- **Research & Development**
+  - researched methods in market state detection, such as customized market state detection methods, hidden markov models, decision tree methods, autocorrelation and stationarity methods.
+  - Research methods in trend detection, markov chain approaches, counting methods, reversion points, resistance levels and regression methods.
+  - Developed a simple strategy choice AI, which chose between trend following, mean reversion and event reversion strategies.
   - Conducted extensive statistical and financial research to identify and refine profitable trading algorithms.
   - Pioneered new methodologies for analyzing market patterns, enabling data-driven insights and robust strategy development.
+  - Looked extensively and reflected thoroughly to improve upon ideas, finding documents, buying academic books and partaking in research lectures
+    - Daniel Lackers presentation on mean fields
+    - Peter cottons presentation on hierachical risk-parity
+    - CQF Institute portfolio management conference
+    - Thorough walk-through of Wilmotts forum, Quantnet and quant finance stackexchange
+    - Bought books on mathematical risk management, mean field games, advanced linear modelling, credit risk modelling, computational finance
+- **Technical Innovations**
+  - Backtesting System: Developed a high-performance platform to rigorously test and validate trading strategies against both historical market data and simulated market data.
+  - Forecasting Engine: Engineered advanced predictive models to anticipate market movements, leveraging statistical and financial indicators. Experimented with markov chain monte carlo, monte carlo simulations and ARIMA/GARCH to find the most optimal forecasting method.
+  - ETL Pipelines: Created a comprehensive data pipeline—integrating multiple APIs, data sources, and databases—to ensure accurate, real-time inputs for trading algorithms. Datasets included price data, with market depth, options data, macroeconomic data and news data
+- **IT Infrastructure & Architecture**
+  - Designed and implemented robust hardware setups, communication channels, and documentation workflows.
+  - Built a scalable software architecture for algorithmic trading, incorporating multiple exchanges, multiple dataflows, and multiple asset types.
+  - Worked to improve first version software, into improved, faster and more generalized versions. Using Python, SQL, and C++.
+  - Incorporated webscraping, data cleanup, database management, OOP and modular design, to develop multiple independent pieces to monitor risk, profit and backtest new ideas
  
 **Key Tools & Skills:** Python, SQL, algorithmic trading, cryptos, quantitative research, Monte Carlo methods, Hidden Markov Models, dynamic market state detection.
 
