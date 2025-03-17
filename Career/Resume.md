@@ -53,28 +53,23 @@ YourCompany ltd | London, United Kingdom | April 2025 – Present
 ### Quantitative Developer & Researcher
 TMRW | Copenhagen, Denmark | January 2024 – Present(paused atm.)
 - **Research & Development**
-  - researched methods in market state detection, such as customized market state detection methods, hidden markov models, decision tree methods, autocorrelation and stationarity methods.
-  - Research methods in trend detection, markov chain approaches, counting methods, reversion points, resistance levels and regression methods.
-  - Developed a simple strategy choice AI, which chose between trend following, mean reversion and event reversion strategies.
-  - Conducted extensive statistical and financial research to identify and refine profitable trading algorithms.
-  - Pioneered new methodologies for analyzing market patterns, enabling data-driven insights and robust strategy development.
-  - Looked extensively and reflected thoroughly to improve upon ideas, finding documents, buying academic books and partaking in research lectures
-    - Daniel Lackers presentation on mean fields
-    - Peter cottons presentation on hierachical risk-parity
-    - CQF Institute portfolio management conference
-    - Thorough walk-through of Wilmotts forum, Quantnet and quant finance stackexchange
-    - Bought books on mathematical risk management, mean field games, advanced linear modelling, credit risk modelling, computational finance
+  - Market State Detection: Investigated advanced detection methods—including custom market-state classifiers, Hidden Markov Models (HMM), decision-tree frameworks, autocorrelation analyses, and stationarity tests.
+  - Trend & Reversion Analysis: Explored trend detection techniques using Markov chains, local reversion triggers, resistance-level identification, and various regression methods.
+  - Strategy Choice AI: Built a prototype engine that dynamically selects among trend-following, mean-reversion, or event-driven reversion strategies based on real-time market conditions.
+  - Algorithmic Exploration: Conducted in-depth statistical and financial research to identify and refine profitable trading algorithms; introduced novel methodologies for analyzing market patterns and enabling data-driven insights.
+  - Continuous Learning: Enriched expertise by attending research lectures (Daniel Lacker’s mean-field theory, Peter Cotton’s hierarchical risk parity, CQF Institute portfolio management conference), engaging with online communities (Wilmott’s forum, Quantnet, Quant Finance Stack Exchange), and acquiring specialized academic texts on risk management, mean-field games, advanced linear modeling, credit risk modeling, and computational finance.
 - **Technical Innovations**
-  - Backtesting System: Developed a high-performance platform to rigorously test and validate trading strategies against both historical market data and simulated market data.
-  - Forecasting Engine: Engineered advanced predictive models to anticipate market movements, leveraging statistical and financial indicators. Experimented with markov chain monte carlo, monte carlo simulations and ARIMA/GARCH to find the most optimal forecasting method.
-  - ETL Pipelines: Created a comprehensive data pipeline—integrating multiple APIs, data sources, and databases—to ensure accurate, real-time inputs for trading algorithms. Datasets included price data, with market depth, options data, macroeconomic data and news data
+  - Backtesting System: Developed a high-performance framework to test trading strategies against both historical market data and simulated environments—ensuring rigorous validation and stress testing.
+  - Forecasting Engine: Engineered predictive models leveraging Markov Chain Monte Carlo, Monte Carlo simulations, ARIMA/GARCH processes, and other statistical/financial indicators to anticipate price movements.
+  - ETL Pipelines: Created a robust data pipeline integrating multiple APIs and databases—encompassing real-time price feeds, order book depth, options chains, macroeconomic metrics, and news sentiment data.
 - **IT Infrastructure & Architecture**
-  - Designed and implemented robust hardware setups, communication channels, and documentation workflows.
-  - Built a scalable software architecture for algorithmic trading, incorporating multiple exchanges, multiple dataflows, and multiple asset types.
-  - Worked to improve first version software, into improved, faster and more generalized versions. Using Python, SQL, and C++.
-  - Incorporated webscraping, data cleanup, database management, OOP and modular design, to develop multiple independent pieces to monitor risk, profit and backtest new ideas
- 
-**Key Tools & Skills:** Python, SQL, algorithmic trading, cryptos, quantitative research, Monte Carlo methods, Hidden Markov Models, dynamic market state detection.
+  - Scalable Architecture: Designed and implemented resilient hardware setups, communication channels, and systematic documentation workflows to support algorithmic trading operations.
+  - Multi-Asset Integration: Incorporated connectivity across multiple exchanges, diverse data flows, and a variety of asset classes, enabling the platform to handle crypto, equities, and more.
+  - Software Development: Progressed from an initial prototype to faster, more generalized versions using Python, SQL, and C++. Employed web scraping, data cleaning, OOP, and modular design to build distinct modules for risk monitoring, PnL tracking, and on-demand backtesting.
+
+**Key Tools & Skills:** Python, SQL, C++, algorithmic trading, crypto markets, quantitative research, Monte Carlo methods, Hidden Markov Models, dynamic market-state detection, ARIMA/GARCH, data engineering, OOP, modular architecture, risk monitoring, backtesting.
+
+
 
 ### Freelance Software Developer (X)
 Self-Employed | Remote | May 2024 – January 2025	     
