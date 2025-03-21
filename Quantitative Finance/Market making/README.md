@@ -1,12 +1,15 @@
 | Rank  | Name | algo description | Manual description | Link | 
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| #30 Overall  | Gabriel Romon  | .  | Only did this | [link](https://github.com/gabsens/IMC-Prosperity-2-Manual) |
-| #381 Overall  | David Teather | Did this | Did this  | [link](https://dteather.com/blogs/imc-prosperity-2/#overall-results) |
-| #9 Overall IMC2, #322 Overall IMC1| Jasper von Merle | .  | . | [link](https://github.com/jmerle/imc-prosperity-2) |
+| #2 Overall IMC2 | Linear Utility  | .  | . | [link](https://github.com/ericcccsliu/imc-prosperity-2) |
 | #2 Overall IMC1 | Stanford Cardinal(?)  | .  | . | [link](https://github.com/ShubhamAnandJain/IMC-Prosperity-2023-Stanford-Cardinal) |
+| #9 Overall IMC2, #322 Overall IMC1| Jasper von Merle | .  | . | [link](https://github.com/jmerle/imc-prosperity-2) |
+| #13 Overall IMC2 | Kang, Kim, Lee | .  | . | [link](https://github.com/pe049395/IMC-Prosperity-2024) |
 | #30 Overall  | Gabriel Romon  | .  | Only did this | [link](https://github.com/gabsens/IMC-Prosperity-2-Manual) |
-| #30 Overall  | Gabriel Romon  | .  | Only did this | [link](https://github.com/gabsens/IMC-Prosperity-2-Manual) |
-| #30 Overall  | Gabriel Romon  | .  | Only did this | [link](https://github.com/gabsens/IMC-Prosperity-2-Manual) |
+| #57 Overall IMC1  | Michael Okon  | .  | . | [link](https://github.com/MichalOkon/imc_prosperity) |
+| #91 Overall  | Nicolas Sinott | .  | . | [link](https://github.com/nicolassinott/IMC_Prosperity/tree/main) |
+| #x>350 Overall IMC1 | Academiq-ai | .  | . | [link](https://github.com/academiq-ai/imc-prosperity) |
+| #381 Overall  | David Teather | . | Did this  | [link](https://dteather.com/blogs/imc-prosperity-2/#overall-results) |
+| Unknown  | - | .  | .| [link](https://github.com/benbates30/IMC-Prosperity) |
 
 
 
