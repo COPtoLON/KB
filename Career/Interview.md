@@ -10,10 +10,6 @@ Relevant skills in current use. - Python, ETL, Databases, Risk, Trading algorith
 Relevant experiences - LD Pensions setting everything up from scratch(risk), WTECH setting everything up from scratch(Trading), Pump.fun/Raydium connection (connecting betweem exchanges) \
 **Focus** - My focus has mostly been on determining market states, forecasting prices and optimal decision making.
 
-### Interview 2 - Unknown, Technical lead? - Technical
-
-### Interview 3 - Unknown, unknown. - Unknown - On-site, last interview
-
 
 
 # Job & career
