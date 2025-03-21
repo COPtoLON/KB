@@ -48,7 +48,9 @@ https://www.kaggle.com/competitions/jane-street-market-prediction/leaderboard \
 https://www.kaggle.com/competitions/g-research-crypto-forecasting/leaderboard \
 https://www.kaggle.com/competitions/ubiquant-market-prediction/leaderboard 
 
-
+### Winners - samples
+https://kkameleon.xyz/sample_work.html
+https://github.com/yberreby
 
 
 
