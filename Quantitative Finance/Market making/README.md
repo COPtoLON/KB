@@ -40,6 +40,16 @@ https://www.kaggle.com/models/guillaumecollin12/torchlstm7/PyTorch/default \
 https://www.kaggle.com/models/xuanleekaggle/jane-street-5-and-7_/Other/default \
 https://www.kaggle.com/code/yuanzhezhou/jane-street-baseline-lgb-xgb-and-catboost \
 https://www.kaggle.com/code/yuanzhezhou/baseline-lgb-xgb-and-catboost \
+https://github.com/khangluong2004/ReadyTraderGoAutotrader
+https://github.com/martin-he543/optiver-ready-trader-go-2023
+https://github.com/Haoran-Jie/ReadyTraderGo_CrazyThursday
+https://github.com/keanekwa/Optiver-Ready-Trader-Go
+https://github.com/nocrizwang/ready-trader-go
+https://github.com/mglush/ready-trader-go-2023
+https://github.com/russellstanley/optiver-trading
+https://github.com/nicolassinott/Optiver_Ready_Trader_Go
+https://github.com/gsmyridis/ReadyTraderGo
+https://github.com/Haoran-Jie/ReadyTraderGo_CrazyThursday
 ### Competition leaderboards
 https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/leaderboard \
 https://www.kaggle.com/competitions/optiver-trading-at-the-close/leaderboard \
