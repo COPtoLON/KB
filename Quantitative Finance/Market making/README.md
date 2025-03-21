@@ -85,31 +85,31 @@ It explicitly combines risk management (controlling inventory) with optimal quot
 # 2. Extensions of Avellaneda–Stoikov
 Several researchers have extended the AS model to account for more realistic market microstructure features:
 
-Order Book Depth / Queue Position
+### Order Book Depth / Queue Position
+- Extensions consider the size of the posted quotes and how far they are in the queue, because fill probability depends on how many orders are ahead of you.
+- Some queue-based models (e.g., based on Markov or fluid approximations) try to estimate the chance of execution for different quote placements.
+### Stochastic Volatility or Price Dynamics
+- Rather than assuming a simple Brownian motion for the underlying price, advanced versions incorporate stochastic volatility, jumps, or correlated factors.
+### Discrete-Time vs. Continuous-Time
+- Real systems often implement quoting logic at discrete intervals (milliseconds to seconds) rather than a purely continuous process.
 
-Extensions consider the size of the posted quotes and how far they are in the queue, because fill probability depends on how many orders are ahead of you.
-Some queue-based models (e.g., based on Markov or fluid approximations) try to estimate the chance of execution for different quote placements.
-Stochastic Volatility or Price Dynamics
-
-Rather than assuming a simple Brownian motion for the underlying price, advanced versions incorporate stochastic volatility, jumps, or correlated factors.
-Discrete-Time vs. Continuous-Time
-
-Real systems often implement quoting logic at discrete intervals (milliseconds to seconds) rather than a purely continuous process.
 # 3. Cartea & Jaimungal Framework
-Key Contributions
-Risk and Execution Cost
-Similar to AS, but puts additional focus on measuring execution costs (e.g., fees, slippage, the cost of hedging or crossing the spread).
-Market Impact Modeling
-In certain versions, the model acknowledges that large trades or persistent quoting behavior can move prices or alter arrival rates.
-Practical Uses
-Many HFT and prop-trading firms adapt Cartea & Jaimungal (and coauthors’) ideas, as they offer a flexible continuous-time approach and a robust method for deriving closed-form or semi-closed-form controls for quoting strategies.
+## Key Contributions
+### Risk and Execution Cost
+- Similar to AS, but puts additional focus on measuring execution costs (e.g., fees, slippage, the cost of hedging or crossing the spread).
+### Market Impact Modeling
+- In certain versions, the model acknowledges that large trades or persistent quoting behavior can move prices or alter arrival rates.
+## Practical Uses
+- Many HFT and prop-trading firms adapt Cartea & Jaimungal (and coauthors’) ideas, as they offer a flexible continuous-time approach and a robust method for deriving closed-form or semi-closed-form controls for quoting strategies.
+
 # 4. Queue-Based and Limit Order Book Models
-Motivation
-In real electronic markets, your fill probability depends heavily on where your order sits in the limit order queue. Being first in queue can be more valuable (higher chance of execution) than being last.
-Key Features
-Queue Dynamics: Models approximate how orders arrive and cancel in the order book.
-Priority Positioning: Some approaches treat the order book as a discrete set of “levels,” analyzing the probability of getting filled if you move your quotes in or out by one tick.
-Optimal Tick Placement: Decide whether to quote at the best bid/ask, one tick away, or deeper in the book to balance fill probability and profitability.
+## Motivation
+- In real electronic markets, your fill probability depends heavily on where your order sits in the limit order queue. Being first in queue can be more valuable (higher chance of execution) than being last.
+## Key Features
+- Queue Dynamics: Models approximate how orders arrive and cancel in the order book.
+- Priority Positioning: Some approaches treat the order book as a discrete set of “levels,” analyzing the probability of getting filled if you move your quotes in or out by one tick.
+- Optimal Tick Placement: Decide whether to quote at the best bid/ask, one tick away, or deeper in the book to balance fill probability and profitability.
+
 # 5. Reinforcement Learning and Machine Learning Approaches
 Growing Trend
 Many real-world HFT firms complement (or replace) classical stochastic control methods with machine learning (ML) or reinforcement learning (RL).
