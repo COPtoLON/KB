@@ -67,20 +67,22 @@ https://github.com/yberreby
 
 
 
-1. Avellaneda–Stoikov (AS) Model
-Key Ideas
-Risk Aversion and Inventory Control
-The model incorporates a parameter (
-𝛾
-γ) for risk aversion. As your net position (inventory) grows, the model automatically adjusts your bid and ask prices to reduce exposure and the risk of adverse moves.
-Dynamic Spread Setting
-Quotes are updated continuously based on market volatility and inventory levels. The spread widens when inventory is large or volatility is high, and narrows otherwise.
-Poisson (or Exponential) Arrival Models
-The model frequently assumes that incoming market orders arrive randomly (e.g., via Poisson processes), which helps estimate the probability of filling on either side of the spread.
-Why It’s Popular
+# 1. Avellaneda–Stoikov (AS) Model
+
+## Key Ideas
+
+### Risk Aversion and Inventory Control
+- The model incorporates a parameter (𝛾) for risk aversion. As your net position (inventory) grows, the model automatically adjusts your bid and ask prices to reduce exposure and the risk of adverse moves.
+### Dynamic Spread Setting
+- Quotes are updated continuously based on market volatility and inventory levels. The spread widens when inventory is large or volatility is high, and narrows otherwise.
+### Poisson (or Exponential) Arrival Models
+- The model frequently assumes that incoming market orders arrive randomly (e.g., via Poisson processes), which helps estimate the probability of filling on either side of the spread.
+
+## Why It’s Popular
 The Avellaneda–Stoikov framework is one of the earliest academic “optimal market making” models well-suited for limit order book markets.
 It explicitly combines risk management (controlling inventory) with optimal quoting decisions in a fairly tractable mathematical form.
-2. Extensions of Avellaneda–Stoikov
+
+# 2. Extensions of Avellaneda–Stoikov
 Several researchers have extended the AS model to account for more realistic market microstructure features:
 
 Order Book Depth / Queue Position
@@ -93,7 +95,7 @@ Rather than assuming a simple Brownian motion for the underlying price, advanced
 Discrete-Time vs. Continuous-Time
 
 Real systems often implement quoting logic at discrete intervals (milliseconds to seconds) rather than a purely continuous process.
-3. Cartea & Jaimungal Framework
+# 3. Cartea & Jaimungal Framework
 Key Contributions
 Risk and Execution Cost
 Similar to AS, but puts additional focus on measuring execution costs (e.g., fees, slippage, the cost of hedging or crossing the spread).
@@ -101,14 +103,14 @@ Market Impact Modeling
 In certain versions, the model acknowledges that large trades or persistent quoting behavior can move prices or alter arrival rates.
 Practical Uses
 Many HFT and prop-trading firms adapt Cartea & Jaimungal (and coauthors’) ideas, as they offer a flexible continuous-time approach and a robust method for deriving closed-form or semi-closed-form controls for quoting strategies.
-4. Queue-Based and Limit Order Book Models
+# 4. Queue-Based and Limit Order Book Models
 Motivation
 In real electronic markets, your fill probability depends heavily on where your order sits in the limit order queue. Being first in queue can be more valuable (higher chance of execution) than being last.
 Key Features
 Queue Dynamics: Models approximate how orders arrive and cancel in the order book.
 Priority Positioning: Some approaches treat the order book as a discrete set of “levels,” analyzing the probability of getting filled if you move your quotes in or out by one tick.
 Optimal Tick Placement: Decide whether to quote at the best bid/ask, one tick away, or deeper in the book to balance fill probability and profitability.
-5. Reinforcement Learning and Machine Learning Approaches
+# 5. Reinforcement Learning and Machine Learning Approaches
 Growing Trend
 Many real-world HFT firms complement (or replace) classical stochastic control methods with machine learning (ML) or reinforcement learning (RL).
 Why? These models can adapt to non-stationary markets and learn complex patterns not well captured by simpler assumptions.
@@ -118,7 +120,7 @@ Actions: Adjusting bid and ask quotes, or deciding not to post at all.
 Rewards: Often tied to realized PnL, inventory penalties, and fill rates.
 Challenges
 High-dimensionality, need for large datasets, risk of overfitting, and the requirement for very low-latency decisions.
-6. Other Real-World Considerations
+# 6. Other Real-World Considerations
 Regulatory & Exchange Fees
 
 Exchanges often impose fee structures or liquidity rebates. Models must incorporate these micro-costs to evaluate true profitability.
