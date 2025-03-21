@@ -11,11 +11,11 @@ https://github.com/jmerle/imc-prosperity-2 \
 https://github.com/pe049395/IMC-Prosperity-2024 \
 https://github.com/nicolassinott/IMC_Prosperity \
 https://github.com/ericcccsliu/imc-prosperity-2 \
-https://github.com/MichalOkon/imc_prosperity
-https://github.com/academiq-ai/imc-prosperity/blob/main/Trader.py
-https://github.com/aniruddha-saha/imc-prosperity-2024b
-https://github.com/benbates30/IMC-Prosperity
-https://github.com/MichalOkon/imc_prosperity
+https://github.com/MichalOkon/imc_prosperity \
+https://github.com/academiq-ai/imc-prosperity/blob/main/Trader.py \
+https://github.com/aniruddha-saha/imc-prosperity-2024b \
+https://github.com/benbates30/IMC-Prosperity \
+https://github.com/MichalOkon/imc_prosperity \
 https://github.com/Harshal73/Prosperity
 
 
