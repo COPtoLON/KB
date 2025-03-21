@@ -1,5 +1,16 @@
 Market makers in real-world trading environments typically use models that balance expected profitability (from capturing the bid-ask spread) against inventory risk, volatility, and transaction costs. While these models can get very sophisticated in practice, they often share a few common elements: (1) an internal measure of fair value, (2) a way to dynamically set or adjust bid-ask quotes, and (3) an inventory control mechanism that mitigates large directional exposures. Below is an overview of some well-known modeling approaches used by professional market makers and high-frequency trading (HFT) firms.
 
+https://dteather.com/blogs/imc-prosperity-2/#overall-results
+https://github.com/gabsens/IMC-Prosperity-2-Manual/blob/master/Round5.ipynb
+https://github.com/jmerle/imc-prosperity-2/blob/master/src/submissions/round1.py
+https://github.com/pe049395/IMC-Prosperity-2024/blob/main/submissions/round5.py
+https://github.com/nicolassinott/IMC_Prosperity/blob/main/trader.py#L21
+https://github.com/ericcccsliu/imc-prosperity-2
+
+
+
+
+
 1. Avellaneda–Stoikov (AS) Model
 Key Ideas
 Risk Aversion and Inventory Control
