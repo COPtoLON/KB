@@ -22,14 +22,14 @@ Relevant experiences - LD Pensions setting everything up from scratch(risk), WTE
    - [ ] ~~Man Group AHL - Risk Quant Dev~~
       - [x] Homework
       - [x] First interview
-      - [x] No further progress
+      - [x] Homework was insufficient and I needed deeper understanding of terminology, time spent, error-types
    - [ ] Nickel Digital Assets - Quant Dev(?) - Analyst(?)
       - [x] First interview
-      - [ ] Second interview
+      - [x] Option pricing theory and "I want to be an analyst in the future"
    - [ ] WhiteSpace - Quant Dev(?) - Forecast analyst(?)
       - [ ] First interview
    - [ ] Mathnasium - Mathematics Tutor
-      - [ ] First interview
+      - [x] First interview - hand calculations
    - [ ] Dunno yet
 
 - [ ] Apply positions [Data analyst, Quant Developer, Data engineer, etc. ]
