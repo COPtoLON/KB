@@ -2,7 +2,8 @@ Market makers in real-world trading environments typically use models that balan
 
 
 ### IMC
-https://github.com/topics/prosperity
+https://github.com/topics/prosperity \
+<br>
 https://dteather.com/blogs/imc-prosperity-2/#overall-results \
 https://github.com/gabsens/IMC-Prosperity-2-Manual/blob/master/Round5.ipynb \
 https://github.com/jmerle/imc-prosperity\
