@@ -2,12 +2,23 @@ Market makers in real-world trading environments typically use models that balan
 
 
 ### IMC
+https://github.com/topics/prosperity
 https://dteather.com/blogs/imc-prosperity-2/#overall-results \
 https://github.com/gabsens/IMC-Prosperity-2-Manual/blob/master/Round5.ipynb \
-https://github.com/jmerle/imc-prosperity-2/blob/master/src/submissions/round1.py \
-https://github.com/pe049395/IMC-Prosperity-2024/blob/main/submissions/round5.py \
-https://github.com/nicolassinott/IMC_Prosperity/blob/main/trader.py#L21 \
+https://github.com/jmerle/imc-prosperity\
+https://github.com/jmerle/imc-prosperity-2 \
+https://github.com/pe049395/IMC-Prosperity-2024 \
+https://github.com/nicolassinott/IMC_Prosperity \
 https://github.com/ericcccsliu/imc-prosperity-2 \
+https://github.com/MichalOkon/imc_prosperity
+https://github.com/academiq-ai/imc-prosperity/blob/main/Trader.py
+https://github.com/aniruddha-saha/imc-prosperity-2024b
+https://github.com/benbates30/IMC-Prosperity
+https://github.com/MichalOkon/imc_prosperity
+https://github.com/Harshal73/Prosperity
+
+
+
 
 ### Other market making
 https://github.com/sidnand/Reinforcement-Learning-for-Market-Making \
