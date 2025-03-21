@@ -1,12 +1,26 @@
+| Rank  | Name | algo description | Manual description | Link | 
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| #30 Overall  | Gabriel Romon  | .  | Only did this | [link](https://github.com/gabsens/IMC-Prosperity-2-Manual) |
+| #381 Overall  | David Teather | Did this | Did this  | [link](https://dteather.com/blogs/imc-prosperity-2/#overall-results) |
+| #9 Overall IMC2, #322 Overall IMC1| Jasper von Merle | .  | . | [link](https://github.com/jmerle/imc-prosperity-2) |
+| #2 Overall IMC1 | Stanford Cardinal(?)  | .  | . | [link](https://github.com/ShubhamAnandJain/IMC-Prosperity-2023-Stanford-Cardinal) |
+| #30 Overall  | Gabriel Romon  | .  | Only did this | [link](https://github.com/gabsens/IMC-Prosperity-2-Manual) |
+| #30 Overall  | Gabriel Romon  | .  | Only did this | [link](https://github.com/gabsens/IMC-Prosperity-2-Manual) |
+| #30 Overall  | Gabriel Romon  | .  | Only did this | [link](https://github.com/gabsens/IMC-Prosperity-2-Manual) |
+
+
+
+
+
 Market makers in real-world trading environments typically use models that balance expected profitability (from capturing the bid-ask spread) against inventory risk, volatility, and transaction costs. While these models can get very sophisticated in practice, they often share a few common elements: (1) an internal measure of fair value, (2) a way to dynamically set or adjust bid-ask quotes, and (3) an inventory control mechanism that mitigates large directional exposures. Below is an overview of some well-known modeling approaches used by professional market makers and high-frequency trading (HFT) firms.
 
 
 ### IMC
 https://github.com/topics/prosperity \
 <br>
-https://dteather.com/blogs/imc-prosperity-2/#overall-results \
+
 https://github.com/gabsens/IMC-Prosperity-2-Manual/blob/master/Round5.ipynb \
-https://github.com/jmerle/imc-prosperity\
+https://github.com/jmerle/imc-prosperity \
 https://github.com/jmerle/imc-prosperity-2 \
 https://github.com/pe049395/IMC-Prosperity-2024 \
 https://github.com/nicolassinott/IMC_Prosperity \
@@ -15,7 +29,6 @@ https://github.com/MichalOkon/imc_prosperity \
 https://github.com/academiq-ai/imc-prosperity/blob/main/Trader.py \
 https://github.com/aniruddha-saha/imc-prosperity-2024b \
 https://github.com/benbates30/IMC-Prosperity \
-https://github.com/MichalOkon/imc_prosperity \
 https://github.com/Harshal73/Prosperity
 
 
