@@ -1,4 +1,4 @@
-[CV help](https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/)
+[CV help](https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/) \
 https://portal.bloombergforeducation.com/
 
 - iO Associates +1
