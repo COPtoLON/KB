@@ -2,51 +2,51 @@ Market makers in real-world trading environments typically use models that balan
 
 
 ### IMC
-https://dteather.com/blogs/imc-prosperity-2/#overall-results
-https://github.com/gabsens/IMC-Prosperity-2-Manual/blob/master/Round5.ipynb
-https://github.com/jmerle/imc-prosperity-2/blob/master/src/submissions/round1.py
-https://github.com/pe049395/IMC-Prosperity-2024/blob/main/submissions/round5.py
-https://github.com/nicolassinott/IMC_Prosperity/blob/main/trader.py#L21
-https://github.com/ericcccsliu/imc-prosperity-2
+https://dteather.com/blogs/imc-prosperity-2/#overall-results \
+https://github.com/gabsens/IMC-Prosperity-2-Manual/blob/master/Round5.ipynb \
+https://github.com/jmerle/imc-prosperity-2/blob/master/src/submissions/round1.py \
+https://github.com/pe049395/IMC-Prosperity-2024/blob/main/submissions/round5.py \
+https://github.com/nicolassinott/IMC_Prosperity/blob/main/trader.py#L21 \
+https://github.com/ericcccsliu/imc-prosperity-2 \
 
 ### Other market making
-https://github.com/sidnand/Reinforcement-Learning-for-Market-Making
-https://github.com/nelso0/barbotine-arbitrage-bot
-https://github.com/vladkukolenko/Solana-AMM-Sniping-Bot
-https://github.com/keanekwa/Optiver-Ready-Trader-Go
-https://github.com/pe049395/Market-Making
-https://github.com/pe049395/IMC-Prosperity-2024
-https://github.com/1leolem1/Implied-PDF-from-crypto-option-prices
-https://github.com/williamdevena/RL_for_Market_making_in_Sports_Trading
-https://github.com/ats-sys/ats
-https://github.com/nirajdsouza/market-making-strategy-simulation
+https://github.com/sidnand/Reinforcement-Learning-for-Market-Making \
+https://github.com/nelso0/barbotine-arbitrage-bot \
+https://github.com/vladkukolenko/Solana-AMM-Sniping-Bot \
+https://github.com/keanekwa/Optiver-Ready-Trader-Go \
+https://github.com/pe049395/Market-Making \
+https://github.com/pe049395/IMC-Prosperity-2024 \
+https://github.com/1leolem1/Implied-PDF-from-crypto-option-prices \
+https://github.com/williamdevena/RL_for_Market_making_in_Sports_Trading \
+https://github.com/ats-sys/ats \
+https://github.com/nirajdsouza/market-making-strategy-simulation \
 
 ### Kaggle - Jane Street
-https://www.kaggle.com/code/xuchenjames/top-7-js-nnx5-xgbx5-weighted-blend-lb-0-0078
-https://www.kaggle.com/code/wanmeijianchi/js-rmf-ensemble-xgb-nn-tabm-ridge
-https://github.com/Nicholas-Ho/Jane-Street-Prediction-Kaggle
-https://github.com/TomasDavidYe/kaggle-jane-street-market-prediction
-https://github.com/evgeniavolkova/kagglejanestreet
-https://github.com/scaomath/kaggle-jane-street
-https://github.com/codefluence/jane_street
-https://github.com/MingjieWang0606/Kaggle-Jane-Street-AE-MLP-xgb-TOP1
-https://github.com/kvyuan/JaneSteetETC
-https://github.com/scaomath/kaggle-jane-street
-https://www.kaggle.com/code/wanmeijianchi/js-rmf-ensemble-xgb-nn-tabm-ridge
-https://www.kaggle.com/code/kumarandatascientist/reach-top-5-0-0083-update-lb-186th-position
-https://www.kaggle.com/code/engadamalmohammedi/0-0084-js-24-xgb-nn-ridge-tabm
-https://www.kaggle.com/code/eivolkova/public-lb-6th
-https://www.kaggle.com/models/guillaumecollin12/torchlstm7/PyTorch/default
-https://www.kaggle.com/models/xuanleekaggle/jane-street-5-and-7_/Other/default
-https://www.kaggle.com/code/yuanzhezhou/jane-street-baseline-lgb-xgb-and-catboost
-https://www.kaggle.com/code/yuanzhezhou/baseline-lgb-xgb-and-catboost
-
-https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/leaderboard
-https://www.kaggle.com/competitions/optiver-trading-at-the-close/leaderboard
-https://www.kaggle.com/competitions/halite/leaderboard
-https://www.kaggle.com/competitions/jane-street-market-prediction/leaderboard
-https://www.kaggle.com/competitions/g-research-crypto-forecasting/leaderboard
-https://www.kaggle.com/competitions/ubiquant-market-prediction/leaderboard
+https://www.kaggle.com/code/xuchenjames/top-7-js-nnx5-xgbx5-weighted-blend-lb-0-0078 \
+https://www.kaggle.com/code/wanmeijianchi/js-rmf-ensemble-xgb-nn-tabm-ridge \
+https://github.com/Nicholas-Ho/Jane-Street-Prediction-Kaggle \
+https://github.com/TomasDavidYe/kaggle-jane-street-market-prediction \
+https://github.com/evgeniavolkova/kagglejanestreet \
+https://github.com/scaomath/kaggle-jane-street \
+https://github.com/codefluence/jane_street \
+https://github.com/MingjieWang0606/Kaggle-Jane-Street-AE-MLP-xgb-TOP1 \
+https://github.com/kvyuan/JaneSteetETC \
+https://github.com/scaomath/kaggle-jane-street \
+https://www.kaggle.com/code/wanmeijianchi/js-rmf-ensemble-xgb-nn-tabm-ridge \
+https://www.kaggle.com/code/kumarandatascientist/reach-top-5-0-0083-update-lb-186th-position \
+https://www.kaggle.com/code/engadamalmohammedi/0-0084-js-24-xgb-nn-ridge-tabm \
+https://www.kaggle.com/code/eivolkova/public-lb-6th \
+https://www.kaggle.com/models/guillaumecollin12/torchlstm7/PyTorch/default \
+https://www.kaggle.com/models/xuanleekaggle/jane-street-5-and-7_/Other/default \
+https://www.kaggle.com/code/yuanzhezhou/jane-street-baseline-lgb-xgb-and-catboost \
+https://www.kaggle.com/code/yuanzhezhou/baseline-lgb-xgb-and-catboost \
+### Competition leaderboards
+https://www.kaggle.com/competitions/optiver-realized-volatility-prediction/leaderboard \
+https://www.kaggle.com/competitions/optiver-trading-at-the-close/leaderboard \
+https://www.kaggle.com/competitions/halite/leaderboard \
+https://www.kaggle.com/competitions/jane-street-market-prediction/leaderboard \
+https://www.kaggle.com/competitions/g-research-crypto-forecasting/leaderboard \
+https://www.kaggle.com/competitions/ubiquant-market-prediction/leaderboard 
 
 
 
