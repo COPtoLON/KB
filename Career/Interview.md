@@ -34,7 +34,10 @@
       - [ ] CFA, FRM, APRM?
       - [ ] Attendant/speaker/presenter at PyData, QuantMinds, AI in Finance, NeurIPS, RiskMinds, ...
       - [ ] Published Research at Arxiv, SSRN, Finance Journal, LinkedIn, Medium, etc.
-
+- Scores
+   - iO Associates Shivani Patel +1
+   - Selby Jennings - Daniel (?) -5
+ 
 - [ ] Courses
    - [ ] Coursera - EPFL - Interest Rate Models
    - [ ] Akuna Capital - Options 101 Course
