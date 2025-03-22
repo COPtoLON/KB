@@ -9,10 +9,22 @@
       - [x] First interview
       - [x] Option pricing theory and "I want to be an analyst in the future"
    - [ ] WhiteSpace - Quant Dev(?) - Forecast analyst(?)
-      - [ ] First interview
+      - [ ] First interview - date not set yet
    - [ ] Mathnasium - Mathematics Tutor
-      - [x] First interview - hand calculations
-   - [ ] Dunno yet
+      - [x] First interview - hand calculations - probably no response
+   - [ ] Santander - Quant dev risk
+      - [ ] Interview? Feedback?
+   - [ ] Opportunities hub - Junior Quant analyst
+      - [ ] Interview? Feedback?
+   - [ ] Handelsbanken - Data analyst
+   - [ ] SmartestEnergy - Quantitative analyst
+      - [ ] Interview? Feedback?
+   - [ ] White Swan Data - Junior Quantitative specialist
+      - [ ] Interview? Feedback?
+   - [ ] Qube-RT - Quantitative Strategist
+      - [ ] Interview? Feedback?
+   - [ ] Qube-RT - Quantitative researcher Crypto
+      - [ ] Interview? Feedback?
 
 - [ ] Apply positions [Data analyst, Quant Developer, Data engineer, etc. ]
    - [ ] Improve Resumé
