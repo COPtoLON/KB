@@ -1,25 +1,22 @@
 # Job & career
 
 - [ ] Hiring process
-   - [ ] ~~Man Group AHL - Risk Quant Dev~~
+   - [x] ~~Man Group AHL - Risk Quant Dev~~
       - [x] Homework
       - [x] First interview
       - [x] Homework was insufficient and I needed deeper understanding of terminology, time spent, error-types
-   - [ ] Nickel Digital Assets - Quant Dev(?) - Analyst(?)
+   - [x] ~~Nickel Digital Assets - Quant Dev(?) - Analyst(?)~~
       - [x] First interview
       - [x] Option pricing theory and "I want to be an analyst in the future"
    - [ ] WhiteSpace - Quant Dev(?) - Forecast analyst(?)
       - [ ] First interview - date not set yet
-   - [ ] Mathnasium - Mathematics Tutor
+   - [x] Mathnasium - Mathematics Tutor
       - [x] First interview - hand calculations - probably no response
    - [ ] Santander - Quant dev risk
       - [ ] Interview? Feedback?
-   - [ ] Opportunities hub - Junior Quant analyst
-      - [ ] Interview? Feedback?
-   - [ ] Handelsbanken - Data analyst
+   - [x] ~~Handelsbanken - Data analyst~~
+      - [x] Automatic reply
    - [ ] SmartestEnergy - Quantitative analyst
-      - [ ] Interview? Feedback?
-   - [ ] White Swan Data - Junior Quantitative specialist
       - [ ] Interview? Feedback?
    - [ ] Qube-RT - Quantitative Strategist
       - [ ] Interview? Feedback?
