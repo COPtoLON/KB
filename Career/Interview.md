@@ -19,7 +19,7 @@
    - [ ] Santander - Quant dev risk
       - [ ] Interview? Feedback?
    - [ ] SmartestEnergy - Quantitative analyst
-      - [ ] Interview? Feedback?
+      - [ ] Online Interview 31/3
    - [ ] Qube-RT - Quantitative Strategist
       - [ ] Interview? Feedback?
    - [ ] Qube-RT - Quantitative researcher Crypto
