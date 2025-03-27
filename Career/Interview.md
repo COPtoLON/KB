@@ -15,7 +15,7 @@
    - [ ] WhiteSpace - Quant Dev / Forecast analyst / Software Engineer
       - [ ] First interview - 1st of April
    - [ ] Squarepoint - Software Developer - Python
-      - [ ] HackerRank test
+      - [x] HackerRank test - 1 passed all checks, 1 passed 5/9 checks
    - [ ] Santander - Quant dev risk
       - [ ] Interview? Feedback?
    - [ ] SmartestEnergy - Quantitative analyst
@@ -27,7 +27,7 @@
    - [ ] Qube-RT - Quantitative researcher Crypto
       - [ ] Interview? Feedback?
    - [ ] LSEG - ???
-      - [ ] Draft email for Saj
+      - [x] Draft email for Saj
 
 - [ ] Apply positions [Data analyst, Quant Developer, Data engineer, etc. ]
    - [ ] Improve Resumé
