@@ -22,6 +22,8 @@
       - [ ] Interview? Feedback?
    - [ ] Qube-RT - Quantitative researcher Crypto
       - [ ] Interview? Feedback?
+   - [ ] LSEG - ???
+      - [ ] 
 
 - [ ] Apply positions [Data analyst, Quant Developer, Data engineer, etc. ]
    - [ ] Improve Resumé
