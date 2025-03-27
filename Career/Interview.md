@@ -46,8 +46,11 @@
       - [ ] Attendant/speaker/presenter at PyData, QuantMinds, AI in Finance, NeurIPS, RiskMinds, ...
       - [ ] Published Research at Arxiv, SSRN, Finance Journal, LinkedIn, Medium, etc.
 - Scores
-   - iO Associates Shivani Patel +1
+   - Eames - Ewelina Bobrek + mio.
+   - iO Associates - Shivani Patel +5
    - Selby Jennings - Daniel (?) -5
+   - Selby Jennings - Cate (?) - 1
+   - ??? - Maryam Ahmed - 1
  
 - [ ] Courses
    - [ ] Coursera - EPFL - Interest Rate Models
