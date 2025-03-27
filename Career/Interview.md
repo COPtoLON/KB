@@ -12,14 +12,12 @@
       - [x] Automatic reply
    - [x] ~~Mathnasium - Mathematics Tutor~~
       - [x] First interview - hand calculations - probably no response
-   - [ ] WhiteSpace - Quant Dev(?) - Forecast analyst(?)
-      - [ ] First interview - date not set yet
+   - [ ] WhiteSpace - Quant Dev / Forecast analyst / Software Engineer
+      - [ ] First interview - 1st of April
    - [ ] Santander - Quant dev risk
       - [ ] Interview? Feedback?
    - [ ] SmartestEnergy - Quantitative analyst
       - [ ] Interview? Feedback?
-   - [ ] TotalEnergies - pricing analyst
-      - [ ] Interview?
    - [ ] Qube-RT - Quantitative Strategist
       - [ ] Interview? Feedback?
    - [ ] Qube-RT - Quantitative researcher Crypto
