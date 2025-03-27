@@ -8,16 +8,18 @@
    - [x] ~~Nickel Digital Assets - Quant Dev(?) - Analyst(?)~~
       - [x] First interview
       - [x] Option pricing theory and "I want to be an analyst in the future"
-   - [ ] WhiteSpace - Quant Dev(?) - Forecast analyst(?)
-      - [ ] First interview - date not set yet
-   - [x] ~~Mathnasium - Mathematics Tutor~~
-      - [x] First interview - hand calculations - probably no response
-   - [ ] Santander - Quant dev risk
-      - [ ] Interview? Feedback?
    - [x] ~~Handelsbanken - Data analyst~~
       - [x] Automatic reply
+   - [x] ~~Mathnasium - Mathematics Tutor~~
+      - [x] First interview - hand calculations - probably no response
+   - [ ] WhiteSpace - Quant Dev(?) - Forecast analyst(?)
+      - [ ] First interview - date not set yet
+   - [ ] Santander - Quant dev risk
+      - [ ] Interview? Feedback?
    - [ ] SmartestEnergy - Quantitative analyst
       - [ ] Interview? Feedback?
+   - [ ] TotalEnergies - pricing analyst
+      - [ ] Interview?
    - [ ] Qube-RT - Quantitative Strategist
       - [ ] Interview? Feedback?
    - [ ] Qube-RT - Quantitative researcher Crypto
