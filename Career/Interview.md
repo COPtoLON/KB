@@ -14,6 +14,8 @@
       - [x] First interview - hand calculations - probably no response
    - [ ] WhiteSpace - Quant Dev / Forecast analyst / Software Engineer
       - [ ] First interview - 1st of April
+   - [ ] Squarepoint - Software Developer - Python
+      - [ ] HackerRank test
    - [ ] Santander - Quant dev risk
       - [ ] Interview? Feedback?
    - [ ] SmartestEnergy - Quantitative analyst
