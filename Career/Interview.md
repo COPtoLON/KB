@@ -27,7 +27,7 @@
    - [ ] Qube-RT - Quantitative researcher Crypto
       - [ ] Interview? Feedback?
    - [ ] LSEG - ???
-      - [ ] 
+      - [ ] Draft email for Saj
 
 - [ ] Apply positions [Data analyst, Quant Developer, Data engineer, etc. ]
    - [ ] Improve Resumé
