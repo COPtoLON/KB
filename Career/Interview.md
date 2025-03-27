@@ -10,7 +10,7 @@
       - [x] Option pricing theory and "I want to be an analyst in the future"
    - [ ] WhiteSpace - Quant Dev(?) - Forecast analyst(?)
       - [ ] First interview - date not set yet
-   - [x] Mathnasium - Mathematics Tutor
+   - [x] ~~Mathnasium - Mathematics Tutor~~
       - [x] First interview - hand calculations - probably no response
    - [ ] Santander - Quant dev risk
       - [ ] Interview? Feedback?
