@@ -50,7 +50,7 @@
    - iO Associates - Shivani Patel +5
    - Selby Jennings - Daniel (?) -5
    - Selby Jennings - Cate (?) - 1
-   - ??? - Maryam Ahmed - 1
+   - Impellam Group - Maryam Ahmed - 1
  
 - [ ] Courses
    - [ ] Coursera - EPFL - Interest Rate Models
