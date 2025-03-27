@@ -1,7 +1,18 @@
 [CV help](https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/) \
 https://portal.bloombergforeducation.com/
 
-
+https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Careers \
+https://jobs.iwgplc.com/jobs/commercial-data-analyst-london-united-kingdom \
+https://www.crugroup.com/en/about-us/Careers/opportunities/sustainability-analyst-london/ \
+https://quadreal.wd3.myworkdayjobs.com/en-US/QuadReal \
+https://hdow.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/244027 \
+https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/3578 \
+https://8x8inc.wd5.myworkdayjobs.com/en-US/8x8_External_Careers/job/UK-London-Office/Finance-Business-Analyst_R1242?lever-source=Indeed \
+https://mtb.wd5.myworkdayjobs.com/en-US/MTB/job/London-United-Kingdom/GCM-Quantitative-Risk-Analyst-Expert_R67071?source=Indeed&locationCountry=29247e57dbaf46fb855b224e03170bc7 \
+https://jobs.janushenderson.com/job/London-Fixed-Income-Quantitative-Analyst-EC2M-3AE/1276261200/ \
+https://www.jobtrain.co.uk/transact/Job/JobDetail?JobId=821&source=JobtrainIndeed \
+https://www.eamesconsulting.com/jobs/27443-Python-Developer-Insurance/ \
+https://www.eamesconsulting.com/jobs/27453-Pricing-Analyst---Motor-Python-and-2-days-in-the-office/ \
 
 # Companies
 
