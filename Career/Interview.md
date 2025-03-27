@@ -20,6 +20,8 @@
       - [ ] Interview? Feedback?
    - [ ] SmartestEnergy - Quantitative analyst
       - [ ] Online Interview 31/3
+   - [ ] Opportunities hub - Junior Quant analyst
+      - [ ] Video introduction
    - [ ] Qube-RT - Quantitative Strategist
       - [ ] Interview? Feedback?
    - [ ] Qube-RT - Quantitative researcher Crypto
