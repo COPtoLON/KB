@@ -17,8 +17,8 @@
    - [ ] Squarepoint - Software Developer - Python
       - [x] HackerRank test - 1 passed all checks, 1 passed 5/9 checks
       - [ ] Perhaps First interview
-   - [ ] Santander - Quant dev risk
-      - [ ] Interview? Feedback?
+   - [x] ~~Santander - Quant dev risk~~
+      - [x] Ghosted
    - [ ] SmartestEnergy - Quantitative analyst
       - [ ] Online Interview 31/3
    - [ ] Opportunities hub - Junior Quant analyst
