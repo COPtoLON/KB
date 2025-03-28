@@ -51,10 +51,10 @@
       - [ ] Published Research at Arxiv, SSRN, Finance Journal, LinkedIn, Medium, etc.
 - Scores
    - Eames - Ewelina Bobrek + mio.
-   - iO Associates - Shivani Patel +5
-   - Selby Jennings - Daniel (?) -5
-   - Selby Jennings - Cate (?) - 1
-   - Impellam Group - Maryam Ahmed - 1
+   - iO Associates - Shivani Patel + 5
+   - Selby Jennings - Daniel (?) - 5
+   - Selby Jennings - Cate (?) - 5
+   - Impellam Group - Maryam Ahmed - 5
  
 - [ ] Courses
    - [ ] Coursera - EPFL - Interest Rate Models
