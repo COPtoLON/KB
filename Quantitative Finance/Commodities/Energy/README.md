@@ -8,7 +8,7 @@ I have a strong background in quantitative finance and technology, with hands-on
 One of my key strengths is translating complex quantitative analysis into practical insights for stakeholders. For example, I created interactive Power BI dashboards to provide executives with clear, real-time views of risk and performance metrics, directly informing C-suite decision-making. I’ve also taken on freelance and entrepreneurial projects developing trading engines and analytics solutions, which taught me to adapt quickly and innovate across different financial domains. While my background is primarily in finance, I’m excited to bring these skills into the energy sector, and I’m confident that my quick learning ability and curiosity will allow me to rapidly get up to speed on the specifics of energy trading and risk management. I thrive on tackling complex problems, and I’m confident that my quantitative expertise—coupled with strong communication—will enable me to make a meaningful impact at SmartestEnergy and help drive data-driven solutions in the evolving energy market.
 
 **Questions**
-- 
+- I notice you already have quite a significant number of quantitative analyst and a head of quantitative research. Why do you need more?
 -
 -
 
