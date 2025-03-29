@@ -22,24 +22,23 @@
 - Experience of working with large data sets.
 - Experience of working in a fast-paced environment with tight deadlines. 
 ## KNOWLEDGE
-What the person knows	•	Substantial expertise in Python programming language plus third-party libraries including numpy, scipy, pandas and scikit-learn is essential.
-~ this is too low level, recruiter needs to explain in detail
-•	Good understanding of mathematical finance including stochastic calculus and probability theory, plus associated numerical methods for their practical implementation.
-•	Proven strong technical skills in manipulation, extraction and analysis of large data sets.
-~ this is too low level, recruiter needs to explain in detail
-•	Fundamental understanding of statistics, optimisation and machine learning models
-•	Practical knowledge of software development practices
+- Substantial expertise in Python programming language plus third-party libraries including numpy, scipy, pandas and scikit-learn is essential.
+  - this is too low level, recruiter needs to explain in detail
+- Good understanding of mathematical finance including stochastic calculus and probability theory, plus associated numerical methods for their practical implementation.
+- Proven strong technical skills in manipulation, extraction and analysis of large data sets.
+  - this is too low level, recruiter needs to explain in detail
+- Fundamental understanding of statistics, optimisation and machine learning models
+- Practical knowledge of software development practices
 ## PERSONAL ATTRIBUTES
-Who the person is
-	•	Interpersonal skills
-o	Strong communication skills are essential as this role involves direct communication with senior stakeholders from across the business
-o	Ability to translate technical complexities to non-technical community 
-o	Strong interpersonal skills and the ability to build strong and lasting business relationships
-o	Have the confidence and capability to manage stakeholders and to liaise with any level of internal staff members.
-•	Personal skills
-o	Work well both individually and in a team
-o	Self-motivated, with the ability to motivate and support others.
-o	Strong analytical and problem-solving abilities
-•	Able to prioritize and reprioritize quickly and efficiently, whilst working to tight deadlines
-•	Mentor/train others inside and outside the department to improve the department’s skills set.
+- Interpersonal skills
+  - Strong communication skills are essential as this role involves direct communication with senior stakeholders from across the business
+  - Ability to translate technical complexities to non-technical community 
+  - Strong interpersonal skills and the ability to build strong and lasting business relationships
+  - Have the confidence and capability to manage stakeholders and to liaise with any level of internal staff members.
+- Personal skills
+  - Work well both individually and in a team
+  - Self-motivated, with the ability to motivate and support others.
+  - Strong analytical and problem-solving abilities
+- Able to prioritize and reprioritize quickly and efficiently, whilst working to tight deadlines
+- Mentor/train others inside and outside the department to improve the department’s skills set.
 
