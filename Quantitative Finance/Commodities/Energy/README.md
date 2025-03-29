@@ -1,3 +1,20 @@
+**Interviewer: rant about company**
+**Interviewer: rant about position**
+
+**Tell me about yourself?**
+I have a strong background in quantitative finance and technology, with hands-on experience in risk analytics, algorithmic trading, data pipeline development, and statistical modeling. In my previous roles, I’ve developed robust risk management frameworks such as Value at Risk (VaR) and Conditional VaR to quantify and control portfolio risk, and I’ve implemented complex derivatives pricing models to support strategic trading decisions. I’ve also built algorithmic trading systems and end-to-end data pipelines, ensuring that our analyses are powered by reliable, high-quality data. Along the way, I’ve become proficient in Python, SQL, and even Excel/VBA, and I’ve applied advanced techniques like Monte Carlo simulations, GARCH/ARIMA time-series models, Hidden Markov Models, and various machine learning methods to solve challenging problems and uncover market insights. 
+<br>
+
+One of my key strengths is translating complex quantitative analysis into practical insights for stakeholders. For example, I created interactive Power BI dashboards to provide executives with clear, real-time views of risk and performance metrics, directly informing C-suite decision-making. I’ve also taken on freelance and entrepreneurial projects developing trading engines and analytics solutions, which taught me to adapt quickly and innovate across different financial domains. While my background is primarily in finance, I’m excited to bring these skills into the energy sector, and I’m confident that my quick learning ability and curiosity will allow me to rapidly get up to speed on the specifics of energy trading and risk management. I thrive on tackling complex problems, and I’m confident that my quantitative expertise—coupled with strong communication—will enable me to make a meaningful impact at SmartestEnergy and help drive data-driven solutions in the evolving energy market.
+
+**Questions**
+- 
+-
+-
+
+
+
+
 ## ROLE PURPOSE 
 - Reporting to the HQR, you will be responsible for developing and maintaining quantitative models required to value the key risks associated with the supply and PPA business, as well as assessing and valuing the tools and mechanisms to manage these risks (hedging strategies, derivatives, physical tolls etc.).
 - The role holder is expected to deliver modelling and analysis as required to support wider Portfolio Optimisation & Pricing team, as well as providing guidance on best practice modelling and analysis.
