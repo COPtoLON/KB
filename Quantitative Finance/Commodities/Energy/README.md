@@ -1,5 +1,24 @@
 **Interviewer: rant about company**\
-**Interviewer: rant about position**
+**Interviewer: rant about position**\
+
+- Developing and maintaining quantitative models for energy trading
+  - Valuing key risks associated with energy trading environment
+  - Short-term power markets
+  - shape risk?
+  - volume risk
+  - Contribute to implementation and maintenance of models to price and manage risk associated with SELs PPA and I&C contracts, over the short, medium and long term, in particular shape cost and risk;
+  - Contribute to implementation and maintenance of models to price and optimise flexible assets (batteries, gas plants etc);
+- assessing and valuing the tools and mechanisms to manage these risks - risk management tools such as hedging strategies, derivatives, and physical tolls, shaping the future of risk management. hedging strategies, derivatives, physical tolls etc
+  - Good understanding of mathematical finance including stochastic calculus and probability theory, plus associated numerical methods for their practical implementation;
+- Software development
+  - Substantial expertise in Python programming language plus third-party libraries including numpy, scipy, pandas and scikit-learn is essential;
+  - Proven track record of software development in a commercial environment;
+  - Deliver quantitative analysis to support the development, implementation, and continual review of hedging strategies to manage volume and shape risk;
+  - Contribute to deployment and maintenance of models in a quantitative library, adhering to existing framework and coding standards;
+- You’ll collaborate with the Portfolio Optimisation & Pricing team, delivering impactful modelling and analysis, while also providing expert guidance on best practices.
+  - Proven strong technical skills in manipulation, extraction and analysis of large data sets.
+  - Ad-hoc analysis for teams supporting Portfolio Optimisation & Pricing;
+  - Ensure availability and regular calibration of operational models, which are used by the wider Portfolio Optimisation team.
 
 **Tell me about yourself?**\
 I have a strong background in quantitative finance and technology, with hands-on experience in risk analytics, algorithmic trading, data pipeline development, and statistical modeling. In my previous roles, I’ve developed robust risk management frameworks such as Value at Risk (VaR) and Conditional VaR to quantify and control portfolio risk, and I’ve implemented complex derivatives pricing models to support strategic trading decisions. I’ve also built algorithmic trading systems and end-to-end data pipelines, ensuring that our analyses are powered by reliable, high-quality data. Along the way, I’ve become proficient in Python, SQL, and even Excel/VBA, and I’ve applied advanced techniques like Monte Carlo simulations, GARCH/ARIMA time-series models, Hidden Markov Models, and various machine learning methods to solve challenging problems and uncover market insights. 
@@ -14,25 +33,7 @@ One of my key strengths is translating complex quantitative analysis into practi
 
 
 
-You’ll play a pivotal role in developing and maintaining quantitative models required to value the key risks associated with the supply and PPA business, as well as assessing and valuing the tools and mechanisms to manage these risks (hedging strategies, derivatives, physical tolls etc.).
 
-You'll assess and value risk management tools such as hedging strategies, derivatives, and physical tolls, shaping the future of risk management. You’ll collaborate with the Portfolio Optimisation & Pricing team, delivering impactful modelling and analysis, while also providing expert guidance on best practices. This is an opportunity to make a significant impact on the business through innovative risk solutions.
-
-What skills/experience do I need to be successful?
-
-Substantial experience of quantitative modelling in an energy trading environment, ideally with experience in short-term power markets;
-Proven track record of software development in a commercial environment;
-Substantial expertise in Python programming language plus third-party libraries including numpy, scipy, pandas and scikit-learn is essential;
-Good understanding of mathematical finance including stochastic calculus and probability theory, plus associated numerical methods for their practical implementation;
-Proven strong technical skills in manipulation, extraction and analysis of large data sets. 
-How will I spend my time in this role?
-
-Contribute to implementation and maintenance of models to price and manage risk associated with SELs PPA and I&C contracts, over the short, medium and long term, in particular shape cost and risk;
-Contribute to implementation and maintenance of models to price and optimise flexible assets (batteries, gas plants etc);
-Deliver quantitative analysis to support the development, implementation, and continual review of hedging strategies to manage volume and shape risk;
-Ad-hoc analysis for teams supporting Portfolio Optimisation & Pricing;
-Contribute to deployment and maintenance of models in a quantitative library, adhering to existing framework and coding standards;
-Ensure availability and regular calibration of operational models, which are used by the wider Portfolio Optimisation team.
 
 ## ROLE PURPOSE 
 - Reporting to the HQR, you will be responsible for developing and maintaining quantitative models required to value the key risks associated with the supply and PPA business, as well as assessing and valuing the tools and mechanisms to manage these risks (hedging strategies, derivatives, physical tolls etc.).
