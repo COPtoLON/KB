@@ -6,20 +6,33 @@
     - Short term
     - Medium term
     - Long term
-  - shape cost and risk
-  - volume risk
+  - Shape cost and risk
+  - Volume risk
   - To price and optimise flexible assets (batteries, gas plants etc);
-- assessing and valuing the tools and mechanisms to manage these risks - risk management tools such as hedging strategies, derivatives, and physical tolls, shaping the future of risk management. hedging strategies, derivatives, physical tolls etc
-  - Good understanding of mathematical finance including stochastic calculus and probability theory, plus associated numerical methods for their practical implementation;
+- Assessing and valuing the tools and mechanisms to manage risks
+  - Hedging strategies
+  - Derivatives
+  - Physical tolls
 - Software development
-  - Substantial expertise in Python programming language plus third-party libraries including numpy, scipy, pandas and scikit-learn is essential;
+  - Expertise in Python
+    - Numpy,
+    - Scipy,
+    - Pandas
+    - Scikit-learn
   - Proven track record of software development in a commercial environment;
-  - Deliver quantitative analysis to support the development, implementation, and continual review of hedging strategies to manage volume and shape risk;
+    - LD Pensions
+    - DJØF
+    - Statistics Denmark
+  - Development, implementation, and continual review of hedging strategies to manage volume and shape risk;
   - Contribute to deployment and maintenance of models in a quantitative library, adhering to existing framework and coding standards;
-- You’ll collaborate with the Portfolio Optimisation & Pricing team, delivering impactful modelling and analysis, while also providing expert guidance on best practices.
+- You’ll collaborate with the Portfolio Optimisation & Pricing team
+  -  delivering impactful modelling and analysis, while also providing expert guidance on best practices.
   - Proven strong technical skills in manipulation, extraction and analysis of large data sets.
   - Ad-hoc analysis for teams supporting Portfolio Optimisation & Pricing;
   - Ensure availability and regular calibration of operational models, which are used by the wider Portfolio Optimisation team.
+- Good understanding of mathematical finance including stochastic calculus and probability theory, plus associated numerical methods for their practical implementation;
+
+Deliver quantitative analysis to support...
 
 **Tell me about yourself?**\
 I have a strong background in quantitative finance and technology, with hands-on experience in risk analytics, algorithmic trading, data pipeline development, and statistical modeling. In my previous roles, I’ve developed robust risk management frameworks such as Value at Risk (VaR) and Conditional VaR to quantify and control portfolio risk, and I’ve implemented complex derivatives pricing models to support strategic trading decisions. I’ve also built algorithmic trading systems and end-to-end data pipelines, ensuring that our analyses are powered by reliable, high-quality data. Along the way, I’ve become proficient in Python, SQL, and even Excel/VBA, and I’ve applied advanced techniques like Monte Carlo simulations, GARCH/ARIMA time-series models, Hidden Markov Models, and various machine learning methods to solve challenging problems and uncover market insights. 
