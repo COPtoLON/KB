@@ -1,13 +1,14 @@
 **Interviewer: rant about company**\
-**Interviewer: rant about position**\
+**Interviewer: rant about position**
 
-- Developing and maintaining quantitative models for energy trading
-  - Valuing key risks associated with energy trading environment
-  - Short-term power markets
-  - shape risk?
+- Developing, implementing and maintaining quantitative models for energy trading
+  - Valuing/pricing key risks associated with energy trading environment(SELs, PPA and I&C contracts)
+    - Short term
+    - Medium term
+    - Long term
+  - shape cost and risk
   - volume risk
-  - Contribute to implementation and maintenance of models to price and manage risk associated with SELs PPA and I&C contracts, over the short, medium and long term, in particular shape cost and risk;
-  - Contribute to implementation and maintenance of models to price and optimise flexible assets (batteries, gas plants etc);
+  - To price and optimise flexible assets (batteries, gas plants etc);
 - assessing and valuing the tools and mechanisms to manage these risks - risk management tools such as hedging strategies, derivatives, and physical tolls, shaping the future of risk management. hedging strategies, derivatives, physical tolls etc
   - Good understanding of mathematical finance including stochastic calculus and probability theory, plus associated numerical methods for their practical implementation;
 - Software development
