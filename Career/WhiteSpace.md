@@ -19,21 +19,24 @@ How did this position become available?
 - Brief summary of what you want to achieve in the future.
 
 
-Software Engineer 
-Time Series Forecasting & Financial Modelling 
+# Position
+
+## Software Engineer - Time Series Forecasting & Financial Modelling 
 About the Role  
+
 We are seeking an experienced Software Engineer with a strong background in time series 
 forecasting and financial modeling. The ideal candidate has worked in banking, hedge funds, 
 or similar environments, applying techniques such as Monte Carlo simulations to predict 
-future stock market prices. In this role, you will leverage similar expertise to work with private 
+future stock market prices. 
+
+In this role, you will leverage similar expertise to work with private 
 company data, developing scalable and efficient models that drive strategic decision-making. 
 This position is ideal for a technically skilled problem solver with a deep understanding of 
 financial markets, accounting principles, and model sensitivities. The role requires 
 proficiency in financial simulations, machine learning, and advanced computing techniques 
 to develop high-performance predictive systems.   
-Location  
-London, Belfast (Remote First)   
-Key Responsibilities  
+  
+## Key Responsibilities  
 Financial Modeling & Algorithm Development - Design and implement predictive financial models using C, Rust, Python, and AI/ML 
 frameworks.   - Develop and optimize Monte Carlo simulations and other stochastic modeling techniques 
 for financial forecasting.   - Implement sensitivity analysis and scenario testing on private company financial data.   - Utilize genetic algorithms, graph neural networks, and directed acyclic graphs (DAGs) for 
