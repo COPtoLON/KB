@@ -20,9 +20,10 @@
    - [x] ~~Santander - Quant dev risk~~
       - [x] Ghosted
    - [ ] SmartestEnergy - Quantitative analyst
-      - [ ] Online Interview 31/3
-   - [ ] Opportunities hub - Junior Quant analyst
-      - [ ] Video introduction
+      - [ ] Online Interview 31/3 - went alright?
+      - [ ] Second interview?
+   - [x] Opportunities hub - Junior Quant analyst
+      - [x] Video introduction - forgot
    - [ ] Qube-RT - Quantitative Strategist
       - [ ] Interview? Feedback?
    - [ ] Qube-RT - Quantitative researcher Crypto
