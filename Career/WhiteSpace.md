@@ -9,8 +9,8 @@ My initial and current interest in the position come from the possibility on dev
 I believe I am the best candidate for the position based on my past experience and my enthusiasm + continued development in the area.
 <br>
 <br>
-**Question: The title for the position is "Software Developer", but it was pitched as "Quantitative developer" to me, is there any reason why those two differ?**\
 **Question: What's the plan for this position and the company in the future?**\
+**Question: The title for the position is "Software Developer", but it was pitched as "Quantitative developer" to me, is there any reason why those two differ?**\
 **Question: How did this position become available?**
 
 # Tell me about yourself.
