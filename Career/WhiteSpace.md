@@ -1,10 +1,10 @@
 # Basic questions
-What do I know about WhiteSpace and Why do you want to work at WhiteSpace?\
+**What do I know about WhiteSpace and Why do you want to work at WhiteSpace?**\
 I know it is: Company delivering IT-solutions with integrated AI-capabilities.
 Interested: Keen to join WhiteSpace, because of belief in its future prosperity. Similarily been trying to join Capacit, before moving here.
 <br>
 <br>
-Why are you interested in this position and Why are you the best candidate for this role? \
+**Why are you interested in this position and Why are you the best candidate for this role?** \
 My initial and current interest in the position come from the possibility on developing forecasting engines for financial instruments.\
 I believe I am the best candidate for the position based on my past experience and my enthusiasm + continued development in the area.
 <br>
