@@ -41,7 +41,11 @@ to develop high-performance predictive systems.
 ### Data and speed? 
 - Data Engineering & Infrastructure, Develop scalable systems for large-scale financial data processing and forecasting. 
 - Build and manage high-performance computing (HPC) infrastructure to support compute-intensive applications. Work with distributed computing frameworks to accelerate model training and inference.
-- Leverage cloud-based and on-premises infrastructure to optimize storage and compute resource utilization.   
+- Leverage cloud-based and on-premises infrastructure to optimize storage and compute resource utilization.
+- Familiarity with cloud platforms (AWS, GCP, Azure) for scalable model deployment.
+- Strong background in high-performance computing, optimizing models for parallel execution.
+- Experience optimizing algorithms for low-latency, high-volume computations.
+- Experience working with large compute clusters and distributed systems for intensive calculations.
 
 **Question: Why will speed be important? Is it to train in reliable time or to decision-make fast?**
 
@@ -49,31 +53,24 @@ to develop high-performance predictive systems.
 - Develop and maintain feature engineering pipelines tailored for time series data. -> Implement AI/ML techniques for anomaly detection, pattern discovery, and predictive modeling. -> Apply advanced statistical techniques and data-driven insights to support decision-making. -> Validate and backtest models against historical financial data.   
 - Design and implement predictive financial models using C, Rust, Python, and AI/ML frameworks. -> Develop and optimize Monte Carlo simulations and other stochastic modeling techniques for financial forecasting. -> Implement sensitivity analysis and scenario testing on private company financial data. -> ???? Utilize genetic algorithms, graph neural networks, and directed acyclic graphs (DAGs) for complex modeling and data structuring.
 - Experience handling time series data and structuring it for ML applications.
-
-
-### Collaboration & Knowledge Sharing 
-- Work closely with other technical experts to refine models and methodologies.
-- Engage in team-wide discussions, knowledge sharing, and problem-solving initiatives.
-- Contribute to strategic projects that go beyond immediate task scope, driving long-term value.
-- Understanding of financial regulations and compliance frameworks where applicable.
-- Knowledge of secure data handling and access control mechanisms, given the sensitivity of financial data.    
-
-### Essential Skills & Experience 
-Technical Expertise 
 - Strong programming skills in C/Rust and Python.
 - Expertise in numerical computing and data processing with NumPy, Pandas, and SciPy.....???
 - Experience with large-scale simulations, Monte Carlo methods, and sensitivity analysis.
 - Familiarity with financial modeling and accounting principles.
 - Proficiency in ML/AI frameworks such as TensorFlow, PyTorch, Scikit-Learn.
 - Knowledge of graph neural networks, DAGs, and genetic algorithms for advanced forecasting.
-- Experience working with large compute clusters and distributed systems for intensive calculations.
-- Prior experience working at a bank, hedge fund, or investment firm.
 - Exposure to private company financial data analysis, including M&A modeling and corporate finance analytics.
-- Experience optimizing algorithms for low-latency, high-volume computations.   
 
-### Data & Cloud Infrastructure 
-- Familiarity with cloud platforms (AWS, GCP, Azure) for scalable model deployment.
-- Strong background in high-performance computing, optimizing models for parallel execution.   
+### Personal & Social
+- Work closely with other technical experts to refine models and methodologies.
+- Engage in team-wide discussions, knowledge sharing, and problem-solving initiatives.
+- Contribute to strategic projects that go beyond immediate task scope, driving long-term value.
+- Understanding of financial regulations and compliance frameworks where applicable.
+- Knowledge of secure data handling and access control mechanisms, given the sensitivity of financial data.
+- Prior experience working at a bank, hedge fund, or investment firm.
+- 
+ 
+
 
 
 Time Series Forecasting
@@ -103,8 +100,7 @@ Cloud & Distributed Computing
 •	Have you deployed machine learning models on AWS, GCP, or Azure? What challenges did you face?
 •	How would you design a scalable system for large-scale financial data processing?
 
-
-   Financial Planning
+Financial Planning
 •	How would you model retirement savings and withdrawals using quantitative methods within an AI-driven platform?
 •	Explain Modern Portfolio Theory (MPT) and how it can be integrated into AI-powered financial planning tools.
 •	How do you optimise an investment portfolio for a client with a specific risk tolerance using AI technologies?
