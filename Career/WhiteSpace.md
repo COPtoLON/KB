@@ -14,9 +14,30 @@ How did this position become available?
 
 
 # Tell me about yourself.
+# Basic questions
+Why do you want to work at WhiteSpace?\
+What do I know about WhiteSpace?
+<br>
+<br>
+Why are you the best candidate for this role?\
+Why are you interested in this position?
+<br>
+<br>
+Question: The title for the position is "Software Developer", but it was pitched as "Quantitative developer" to me, is there any reason why those two differ?\
+Question: What's the plan for this position and the company in the future?\
+Question: How did this position become available?
+
+# Tell me about yourself.
 - Brief explanation of relevant past experience.
+  - Math-stats bachelor
+  - Algorithmic fund - data, patterns, market regimes, adapting strategies.
+  - LD Pensions - data, structure, portfolio management, risk analytics, simulations for risk+roi forecasts.
+  - StatDK - accounting, bookkeeping, budgetting, project financing software.
 - Brief explanation of current position (could include: job title, responsibilities, tech, interesting projects, your achievements.)
+  - Unemployed, IMC, slow reboot of fund.
+    - 1 second reaction speed, market-making, regime switching, regression modelling, trying to implement optimal strategies based on mean field games
 - Brief summary of what you want to achieve in the future.
+  - Quantitative developer role and perhaps later on quantitative research/strategy, working somewhere between optimizing code for speed, research for pattern recognition and decision making for optimal risk adjusted ROI.
 
 
 # Position
