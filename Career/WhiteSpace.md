@@ -1,6 +1,7 @@
 # Basic questions
-Why do you want to work at WhiteSpace?\
-What do I know about WhiteSpace?
+What do I know about WhiteSpace and Why do you want to work at WhiteSpace?\
+I know it is: Company delivering IT-solutions with integrated AI-capabilities.
+Interested: Keen to join WhiteSpace, because of belief in its future prosperity. Similarily been trying to join Capacit, before moving here.
 <br>
 <br>
 Why are you the best candidate for this role?\
