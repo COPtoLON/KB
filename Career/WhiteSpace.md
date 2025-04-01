@@ -7,22 +7,6 @@ Why are you the best candidate for this role?\
 Why are you interested in this position?
 <br>
 <br>
-The title for the position is "Software Developer", but it was pitched as "Quantitative developer" to me, is there any reason why those two differ?\
-What's the plan for this position and the company in the future?\
-How did this position become available?
-
-
-
-# Tell me about yourself.
-# Basic questions
-Why do you want to work at WhiteSpace?\
-What do I know about WhiteSpace?
-<br>
-<br>
-Why are you the best candidate for this role?\
-Why are you interested in this position?
-<br>
-<br>
 Question: The title for the position is "Software Developer", but it was pitched as "Quantitative developer" to me, is there any reason why those two differ?\
 Question: What's the plan for this position and the company in the future?\
 Question: How did this position become available?
