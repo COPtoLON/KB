@@ -4,8 +4,6 @@
 **Exp Posit:** We need a guy to take charge and develop solutions, we believe x, y, z are good ideas.\
 **Note:** Never heard of a, b, c, which are the correct solutions.
 
-
-
 # Basic questions
 **What do I know about WhiteSpace and Why do you want to work at WhiteSpace?**\
 I know it is: Company delivering IT-solutions with integrated AI-capabilities.
