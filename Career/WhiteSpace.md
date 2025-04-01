@@ -23,19 +23,18 @@ How did this position become available?
 
 ## Software Engineer - Time Series Forecasting & Financial Modelling 
 About the Role  
-
-We are seeking an experienced Software Engineer with a strong background in time series 
-forecasting and financial modeling. The ideal candidate has worked in banking, hedge funds, 
-or similar environments, applying techniques such as Monte Carlo simulations to predict 
-future stock market prices. 
-
-In this role, you will leverage similar expertise to work with private 
-company data, developing scalable and efficient models that drive strategic decision-making. 
-This position is ideal for a technically skilled problem solver with a deep understanding of 
-financial markets, accounting principles, and model sensitivities. The role requires 
-proficiency in financial simulations, machine learning, and advanced computing techniques 
-to develop high-performance predictive systems.   
-  
+<br>
+~~We are seeking an experienced Software Engineer with a strong background in time series forecasting and financial modeling.~~\
+~~The ideal candidate has worked in banking, hedge funds, or similar~~\
+~~Applying techniques such as Monte Carlo simulations to predict future stock market prices.~~ **Question: For pricing, risk, E(ROI) or Trading?**\
+<br>
+**proposal:** take data in varying (increasing) sizes. Interpret. Propose decision.\
+~~In this role, you will leverage similar expertise to work with private company data, developing scalable and efficient models that drive strategic decision-making.~~ \
+~~This position is ideal for a technically skilled problem solver with a deep understanding of financial markets, accounting principles, and model sensitivities.~~\
+**Questions: Private company data? decision-making on what? Accounting? Model sensitivities?**\
+~~The role requires proficiency in financial simulations, machine learning, and advanced computing techniques to develop high-performance predictive systems.~~\
+**Question: Why will speed be important? Is it to train in reliable time or to decision-make fast?**
+<br>
 ## Key Responsibilities  
 
 ### Data and speed? 
@@ -47,7 +46,7 @@ to develop high-performance predictive systems.
 - Experience optimizing algorithms for low-latency, high-volume computations.
 - Experience working with large compute clusters and distributed systems for intensive calculations.
 
-**Question: Why will speed be important? Is it to train in reliable time or to decision-make fast?**
+
 
 ### Models...
 - Develop and maintain feature engineering pipelines tailored for time series data. -> Implement AI/ML techniques for anomaly detection, pattern discovery, and predictive modeling. -> Apply advanced statistical techniques and data-driven insights to support decision-making. -> Validate and backtest models against historical financial data.   
