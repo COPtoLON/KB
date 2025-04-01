@@ -7,9 +7,9 @@ Why are you the best candidate for this role?\
 Why are you interested in this position?
 <br>
 <br>
-Question: The title for the position is "Software Developer", but it was pitched as "Quantitative developer" to me, is there any reason why those two differ?\
-Question: What's the plan for this position and the company in the future?\
-Question: How did this position become available?
+**Question: The title for the position is "Software Developer", but it was pitched as "Quantitative developer" to me, is there any reason why those two differ?**\
+**Question: What's the plan for this position and the company in the future?**\
+**Question: How did this position become available?**
 
 # Tell me about yourself.
 - Brief explanation of relevant past experience.
