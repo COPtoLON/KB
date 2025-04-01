@@ -13,7 +13,10 @@ I believe I am the best candidate for the position based on my past experience a
 **Question: The title for the position is "Software Developer", but it was pitched as "Quantitative developer" to me, is there any reason why those two differ?**\
 **Question: How did this position become available?**
 
-# Tell me about yourself.
+# Tell me about yourself. - why are you the best candidate?
+I believe I am the best candidate for the position based on my past experience and my enthusiasm + continued development in the area.
+
+**Based on my past experience**
 - Brief explanation of relevant past experience.
   - Math-stats bachelor
   - Algorithmic fund - data, patterns, market regimes, adapting strategies.
