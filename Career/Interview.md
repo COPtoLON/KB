@@ -12,7 +12,7 @@
       - [x] Automatic reply
    - [x] ~~Mathnasium - Mathematics Tutor~~
       - [x] First interview - hand calculations - probably no response
-   - [ ] WhiteSpace - Quant Dev / Forecast analyst / Software Engineer
+   - [ ] ~~WhiteSpace - Quant Dev / Forecast analyst / Software Engineer~~
       - [x] First interview - 1st of April
       - [ ] Lack of finance knowledge?
    - [ ] Squarepoint - Software Developer - Python
@@ -58,7 +58,7 @@
       - [ ] Published Research at Arxiv, SSRN, Finance Journal, LinkedIn, Medium, etc.
 - Scores
    - Eames - Ewelina Bobrek + mio.
-   - iO Associates - Shivani Patel + 5
+   - iO Associates - Shivani Patel + 1
    - Selby Jennings - Daniel (?) - 5
    - Selby Jennings - Cate (?) - 5
    - Impellam Group - Maryam Ahmed - 5
