@@ -15,18 +15,21 @@
    - [ ] ~~WhiteSpace - Quant Dev / Forecast analyst / Software Engineer~~
       - [x] First interview - 1st of April
       - [ ] Lack of finance knowledge?
+   - [x] ~~IWG - Pricing analyst~~
+      - [x] First interview
+      - [ ] Automatic reply - dunno
    - [ ] Squarepoint - Software Developer - Python
       - [x] HackerRank test - 1 passed all checks, 1 passed 5/9 checks
       - [ ] Perhaps First interview
    - [x] ~~Santander - Quant dev risk~~
       - [x] Ghosted
    - [ ] SmartestEnergy - Quantitative analyst
-      - [ ] Online Interview 31/3 - went alright?
+      - [x] Online Interview 31/3 - went alright?
       - [ ] Second interview?
    - [x] Opportunities hub - Junior Quant analyst
-      - [x] Video introduction - forgot
+      - [x] Video introduction
    - [ ] Opportunities hub - Junior Quant analyst
-      - [x] Video introduction - forgot
+      - [x] Video introduction
    - [ ] Qube-RT - Quantitative Strategist
       - [ ] Interview? Feedback?
    - [ ] Qube-RT - Quantitative researcher Crypto
