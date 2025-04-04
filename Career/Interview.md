@@ -13,7 +13,8 @@
    - [x] ~~Mathnasium - Mathematics Tutor~~
       - [x] First interview - hand calculations - probably no response
    - [ ] WhiteSpace - Quant Dev / Forecast analyst / Software Engineer
-      - [ ] First interview - 1st of April
+      - [x] First interview - 1st of April
+      - [ ] Lack of finance knowledge?
    - [ ] Squarepoint - Software Developer - Python
       - [x] HackerRank test - 1 passed all checks, 1 passed 5/9 checks
       - [ ] Perhaps First interview
@@ -24,12 +25,16 @@
       - [ ] Second interview?
    - [x] Opportunities hub - Junior Quant analyst
       - [x] Video introduction - forgot
+   - [ ] Opportunities hub - Junior Quant analyst
+      - [x] Video introduction - forgot
    - [ ] Qube-RT - Quantitative Strategist
       - [ ] Interview? Feedback?
    - [ ] Qube-RT - Quantitative researcher Crypto
       - [ ] Interview? Feedback?
    - [ ] LSEG - ???
       - [x] Draft email for Saj
+      - [ ] Call 04/04 - ???
+   - [ ] quant analyst/strategist - quantum xyz
 
 - [ ] Apply positions [Data analyst, Quant Developer, Data engineer, etc. ]
    - [ ] Improve Resumé
