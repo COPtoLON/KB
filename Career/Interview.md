@@ -38,6 +38,7 @@
       - [x] Draft email for Saj
       - [ ] Call 04/04 - ???
    - [ ] quant analyst/strategist - quantum xyz
+   - [ ] Danish speaker...
 
 - [ ] Apply positions [Data analyst, Quant Developer, Data engineer, etc. ]
    - [ ] Improve Resumé
