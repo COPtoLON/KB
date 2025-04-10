@@ -203,7 +203,12 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 ### B.Sc. in Mathematical Statistics
 **University of Copenhagen | Copenhagen, Denmark | September 2021 - July 2025**
 -	**Thesis:** “Option Pricing with Stochastic Volatility in the Heston Model” ~ R library development, estimation of coefficients, implied volatility surface graph - Software development of a range of functions in R, pricing function, characteresting function, parameter estimation, implied volatility surface display. The library is now being used by the company EnvisionRisk in Denmark.  
--	First year project: Event study in the stock market, in the project we ran estimations on best trading strategies around significant events in the stock market, the focus was on the acquisition announcement between AuthenTec and Apple.
+-	First year project: Event study in the stock market, in the project we ran estimations on best trading strategies around significant events in the stock market, the focus was on the acquisition announcement between AuthenTec and Apple. The goal of this project was to estimate the effect of new information, such as a Merger announcement, on the prices of certain stocks, this is usually called an event study. In our event study we had to calculate and consider the effect that a merger announcement between Apple and AuthenTec had on AuthenTec’s stock price. We were given datasets from the 30-day period around the time of the announcement. For the project we used the following
+• Programming and dataanalysis in R
+• Linear regression with linear algebra
+• Hypothesistest with linear modelling
+• Construction of information-based trading strategies
+• Performance evaluation of said trading strategies
 -	Relevant coursework: Mathematical Statistics, Stochastic processes I & II, Basic Life insurance, Basic Non-life Insurance, Advanced probability theory
 -	Gained fundamental proficiency in probability theory, statistical inference, and time series analysis, forming a strong basis for quantitative work
 
@@ -212,7 +217,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 ### B.Sc. in Mathematical Physics
 **University of Copenhagen | Copenhagen, Denmark | September 2019- April 2021**
 - *Resigned to transfer to the bachelor degree in Mathematical Statistics.*
-- **First year project:** "Dark matter detection in rotational spiral galaxies" ~ MatLab, object detection, astrophysics of rotational spiral galaxies. - First year project on calculating the rotational speed of spiral galaxies, to estimate dark matter densities. We used a machine learning algorithm to identify certain types of stars from a black-white image of a spiral galaxy, then calculated the rotational speeds, to show that the corresponding mass of the galaxy was insufficient to obtain such speeds.
+- **First year project:** "Dark matter detection in rotational spiral galaxies" ~ MatLab, object detection, astrophysics of rotational spiral galaxies. - First year project on calculating the rotational speed of spiral galaxies, to estimate dark matter densities. We used a machine learning algorithm to identify certain types of stars from a black-white image of a spiral galaxy, then calculated the rotational speeds, to show that the corresponding mass of the galaxy was insufficient to obtain such speeds. As a first year student at the bachelor degree of physics. I had the chance to participate in a project focused on the rotational speed of galaxies as could be calculated with image scanning processes in MATLAB. Our conclusion was simply that the rotation speed of galaxies did not match the expected rotational speed and that the galaxy therefore had to have dark matter as well.
 - Relevant Coursework: Introductory Thermodynamics, Electrodynamics, Quantum Mechanics, Advanced Quantum Mechancis, Galactic Astrophysics, Complex analysis
 
 **Note: On this education I have had experience with Matlab, R, physics, astrophysics and mathematical physics work** 
@@ -324,7 +329,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
   - My team was ranked in the top 10% of participants in the IMC Prosperity 3 challenge for algorithmic trading.
   - Ranked in the top 2% (out of 47,000 participants) in Børsen stock-picking challenge.
   - High achiever in various Strategy games, such as Chess and StarCraft.
-  - Design for Change Awardee (2010) for a design competition.
+  - Design for Change Awardee (2010) for a design competition. - Crowdbins was a project for the Design For change competition in Denmark, my group was awarded and won the danish competition with Crowdbins. An app and trashbin interconnected system to inform and relieve sanitation workers.
     - [Newspaper article 1](https://ugeavisen.dk/digeposten/elever-fra-hoejer-design-efterskole-laver-skraldespand-paa-internettet)
     - [Newspaper article 2](https://jv.dk/toender/hoejer-unge-til-konference-i-indien)
     - [Official Video](https://dfcworld.org/VIDEO/ViewVideo/45)
