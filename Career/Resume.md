@@ -12,7 +12,7 @@ Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
 # Experience
 
 
-### Quantitative Developer & Researcher
+### ?
 TMRW | Copenhagen, Denmark | January 2024 – Present(paused atm.)
 - **Further developments**
   - I am taking part in the IMC Prosperity 3 challenge, putting this on pause for the moment and adapting solutions from the IMC challenge to this project.
@@ -154,7 +154,7 @@ WHSmith | Copenhagen, Denmark | December 2021 – August 2022
 - Managed shelving, restocking, and inventory control, ensuring optimal product placement and store organization.
 - Maintained storage areas, tracking stock levels and coordinating with suppliers to prevent shortages.
 - **Security & Compliance:**
-  - Successfully completed the [Copenhagen Airport, security Awareness certificate](https://github.com/CtoL95/Test/blob/main/Security%20Awareness%20K%C3%B8benhavns%20Lufthavn%2C%20DK%20version.pdf), ensuring adherence to airport safety protocols.
+  - Successfully completed the [ - Copenhagen Airport, security Awareness certificate](), ensuring adherence to airport safety protocols.
   - Passed comprehensive background checks, verifying a clean criminal record in accordance with airport security regulations.
   - Completed specialized training in assisting individuals with both visible (blindness, mobility impairments) and invisible disabilities (autism, OCD, anxiety disorders), ensuring inclusive and compassionate customer interactions.
 
@@ -249,14 +249,14 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 #### Courses
 **Investing/Quantitative finance/Trading**
 - [Fundamentals of Quantitative Modelling](https://coursera.org/share/29d2b0531431e672bbbc3716439bee9d)
--	[CME Group, Introduction to futures](https://github.com/CtoL95/Test/blob/main/CME%20Introduction%20to%20Futures.pdf)
-- [CME Group, Introduction to Treasuries](https://github.com/CtoL95/Test/blob/main/CME%20Introduction%20to%20Treasuries.pdf)
--	[CME Group, Long Options: Underlying and Volatility impact](https://github.com/CtoL95/Test/blob/main/CME%20Long%20Options_%20Underlying%20and%20Volatility%20Impact.pdf)
--	[CME Group, Understanding Futures Spreads](https://github.com/CtoL95/Test/blob/main/CME%20Understanding%20Futures%20Spreads.pdf)
+-	[ - CME Group, Introduction to futures]()
+- [ - CME Group, Introduction to Treasuries]()
+-	[ - CME Group, Long Options: Underlying and Volatility impact]()
+-	[ - CME Group, Understanding Futures Spreads]()
 
 **Language**
 -	[Trinity College London - GESE 2 / CEFR Level A1](https://certificates.trinitycollege.com/3c9b7eda-0793-41d5-94e4-8d4f58dd8967#acc.H0LPcsja)
--	[LanguageCert - ESOL International B2 English Communicator](https://github.com/CtoL95/Test/blob/main/LanguageCert%20-%20ESOL%20Written.pdf)
+-	[ - LanguageCert - ESOL International B2 English Communicator]()
 
 #### Activities
 **Job simulations**
@@ -277,7 +277,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 ### 2021
 #### Courses
 **Investing/Quantitative finance/Trading**
--	[GARP - Foundations of Financial Risk](https://github.com/CtoL95/Test/blob/main/Foundations_of_Financial_Risk.pdf)
+-	[ - GARP - Foundations of Financial Risk]()
 -	[CFI - introduction to banking](https://credentials.corporatefinanceinstitute.com/524a2a7e-2bf8-4ae9-a0ac-2603b9e59645#acc.Nipz3Xqa)
 -	[CFI - Fundamentals of Credit](https://credentials.corporatefinanceinstitute.com/c7e5e7e2-ecec-49db-82bd-eadece36b10a#acc.pKbN1mSr)
 
