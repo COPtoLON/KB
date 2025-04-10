@@ -11,44 +11,6 @@ Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
 -
 # Experience
 
-### Further Target Role - Quantitative Strategist
-ABC partners inc. | London, United Kingdom | April 2027 – Present
-- **Market State Identification**
-  - Develop statistical and machine learning models (e.g., hidden Markov models, Bayesian regime detection) to determine bull, bear, or neutral conditions in equity and crypto markets.
-  - Apply time series segmentation and pattern recognition to reduce noise in short- and medium-term price movements.
-- **Alpha Signal Generation**
-  - Investigate new factor-based or technical signals—momentum, value, on-chain analytics—for alpha opportunities.
-  - Conduct robust backtesting on historical and intraday data, ensuring signals remain profitable under various market regimes.
-- **Noise Reduction & Data Quality**
-  - Implement advanced signal processing techniques (e.g., wavelets, adaptive filtering) to minimize market microstructure noise and spurious intraday fluctuations.
-  - Oversee data cleansing and validation processes to guarantee high-quality data inputs for model development.
-- **Strategy Optimization**
-  - Use portfolio simulation and optimization frameworks to integrate multiple alpha signals, balancing risk exposure and transaction costs.
-  - Employ Bayesian hyperparameter tuning or other advanced optimization methods to refine model parameters and reduce overfitting.
-- **Interdisciplinary Collaboration**
-  - Work closely with Quantitative Developers, Traders, and Data Scientists to integrate research outcomes into production trading systems.
-  - Communicate research findings effectively—maintaining detailed documentation, code repositories, and performance dashboards.
-- **Continuous Innovation**
-  - Keep abreast of academic research on algorithmic trading, deep learning, and advanced statistical modeling.
-  - Conduct pilot experiments with emerging techniques (reinforcement learning, generative models) to push the boundaries of alpha discovery.
-
-### Target Role - Quantitative Developer
-YourCompany ltd | London, United Kingdom | April 2025 – Present
-- **End-to-End Alpha Research & Implementation**
-  - Develop and refine systematic trading signals for equities or crypto markets, integrating advanced statistical models, machine learning methods, and factor-based approaches.
-  - Implement and maintain high-performance backtesting frameworks to validate alpha ideas with historical data, ensuring robustness and risk-adjusted returns.
-- **Data-Intensive Pipeline Development**
-  - Architect scalable ETL pipelines to ingest diverse data sources (e.g., exchange APIs, on-chain crypto feeds, fundamentals, alternative data), guaranteeing low-latency and reliable inputs for real-time strategies.
-  - Collaborate on distributed computing or cloud-based HPC solutions (Ray, Dask, AWS, etc.) to accelerate complex simulations and multi-strategy backtests.
-- **Real-Time Strategy Execution**
-  - Integrate alpha signals into production trading systems, managing order routing, transaction cost analysis, and PnL/risk attribution in a low-latency environment.
-  - Monitor live strategies, adjusting parameters and rebalancing logic based on performance metrics and evolving market conditions.
-- **Cross-Functional Collaboration**
-  - Work closely with quant researchers, traders, and data scientists to explore new alpha opportunities, refine factor models, and enhance existing strategies.
-  - Provide technical leadership in code quality, design patterns, and continuous integration best practices to ensure the stability and reliability of trading operations.
-- **Software Engineering & Infrastructure**
-  - Write clean, modular Python/C++ code with comprehensive unit tests and documentation, adhering to best practices in software architecture and version control.
-  - Employ DevOps techniques (Docker, Kubernetes, CI/CD) for efficient deployment and maintenance of research and live trading environments.
 
 ### Quantitative Developer & Researcher
 TMRW | Copenhagen, Denmark | January 2024 – Present(paused atm.)
@@ -238,22 +200,6 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 # Education
 
-### (GOAL) Ph.D. in Computational Finance
-**Goal - Imperial College : London London, UK : 2028 - 2030**
-- **Thesis(idea):** “High-Performance Stochastic Simulation for Real-Time Derivatives Pricing and Systematic Trading”
-- Focus on advanced stochastic calculus, machine learning–based alpha models, and HPC for large-scale risk simulations.
-- Engaged in cross-disciplinary research with the Department of Mathematics and a leading quant firm, applying cutting-edge computational methods to real-world trading scenarios.
-
-**Note: This education is a goal, I will not imply I have finished this.**
-
-### (GOAL) M.Sc. in Financial Mathematics
-**Goal - LSE : London, UK : 2026 - 2028**
-- **Dissertation(idea):** “Hybrid Factor Models for Multi-Asset Portfolio Optimization”
--	Advanced Coursework: Stochastic Control, Numerical Methods in Finance, Monte Carlo Methods, PDE Solvers for Derivative Pricing, Statistical Machine Learning for Time Series.
--	Collaborated on quantitative strategy research projects, incorporating factor modeling and robust risk measures (VaR, CVaR) to evaluate alpha performance under market volatility.
-
-**Note: This education is a goal, I will not imply I have finished this.**
-
 ### B.Sc. in Mathematical Statistics
 **University of Copenhagen | Copenhagen, Denmark | September 2021 - July 2025**
 -	**Thesis:** “Option Pricing with Stochastic Volatility in the Heston Model” ~ R library development, estimation of coefficients, implied volatility surface graph - Software development of a range of functions in R, pricing function, characteresting function, parameter estimation, implied volatility surface display. The library is now being used by the company EnvisionRisk in Denmark.  
@@ -274,31 +220,13 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 # Professional Development
 ### 2025
 
-#### Courses - Unfinished
-- Coursera - DeepLearning.AI - Tensorflow Developer Professional Certificate
-- Coursera - DeepLearning.AI - Tensorflow: Advanced Techniques Specialization
-- Coursera - DeepLearning.AI - Deep learning specialization
-- Coursera - DeepLearning.AI - Machine learning specialization
-- Coursera - Caltech - Pricing Options with Mathematical Models
-- Coursera - Columbia Uni - Financial Engineering and Risk Management Specialization
-- Coursera - NYIF - Risk Management Specialization
-- Coursera - RICE - Investment and Portfolio Management Specialization
-- Coursera - Imperial College London - Mathematics for Machine Learning Specialization
-- Coursera - John Hopkins - Statistical Methods for Computer Science Specialization
-- Coursera - John Hopkins - Advanced Statistics for Data Science Specialization
-- Coursera - NYIF - Machine Learning for Trading Specialization
-- Coursera - Stanford - Probabilistic Graphical Models Specialization
-- Coursera - IBM - Data Analyst Professional Certificate
-- Coursera - IBM - Data Science Professional Certificate
-- Akuna Capital - Options 101 Course
-- Coursera - EPFL - Interest Rate Models
-
 #### Events
 - 13/2/2025 - Oxford Mathematical and Computational Finance - Eghbal Rahimikia - Revisiting Large Language Models in Finance
 - 27/2/2025 - Quant Insider – **Andrey Chirikhin** – Introduction to Credit Derivatives
 - 8/3/2025 - Bangalore Quant Club - **Peter Cotton** - Machine Learning for Hierachical Portfolio Optimization Using Schur Complements
 - 11/3/2025 - Imperial College - **Daniel Lacker** -  Non asymptomatic perspectives on mean field approximations and stochastic control
 - 12/3/2025 - CQF Institute - Portfolio Management in Quant Finance Conference
+- 8/4/2025 - London Quant Group - Smart Money, Digital Currencies and the Emerging New World Order
 
 #### Activities
 **Job simulations**
@@ -378,7 +306,6 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 - [WorldBank edX, The Future of Work: Preparing for Disruption](https://courses.edx.org/certificates/5c696f67576c420989d859d6a201aaf0?_gl=1*17qmxac*_gcl_au*OTEyNjc5NDcyLjE3MzYyNjUzNjE.*_ga*ODA2MDY4NjMuMTczNjI2NTM2MQ..*_ga_D3KS4KMDT0*MTczNjI2NTM2MS4xLjEuMTczNjI2NTcxMC41OS4wLjA.)
 -	[WorldBank edX, Unlocking Investment and Finance in Emerging Markets and Developing Economies](https://courses.edx.org/certificates/98f9428afa2b42aa93cf316d13935ff2?_gl=1*17qmxac*_gcl_au*OTEyNjc5NDcyLjE3MzYyNjUzNjE.*_ga*ODA2MDY4NjMuMTczNjI2NTM2MQ..*_ga_D3KS4KMDT0*MTczNjI2NTM2MS4xLjEuMTczNjI2NTcxMC41OS4wLjA.)
 
-
 ### 2019
 #### Courses
 **Other interests**
@@ -389,16 +316,12 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 - [Linkedin Learning Path - Advance Your Career as an Individual Contributor](https://www.linkedin.com/learning/certificates/00d00324e1197ecb6c154fb51e5179790876b1a0dbd42846c58096f20272a9d9?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_certifications_details%3BE9b3Vn7vTYaxQD6EhCthHA%3D%3D)
 
 # Notable Activities
-- **goals**
-  - Published research article on SSRN
-  - Attended X, Y, Z and presented my findings at W.
-  - Participant at X, Y, Z Hackathon. Winning W hackathon.
-  - Ranked 103 at LeetCode, ranked 2055 at CodeForces and ranked 52 at HackerRank.
 - **Professional & Academic Engagement**
   - Active in professional networking: regularly attend conferences, workshops, and talks.
   - Reviewer and donator(2024–2025) for Anton Vorobets’s upcoming book on portfolio construction and risk management.
   - Passed LinkedIn Skill Assessments in R, Python, VBA, Excel, and MATLAB.
 - **Competitions & Recognitions**
+  - My team was ranked in the top 10% of participants in the IMC Prosperity 3 challenge for algorithmic trading.
   - Ranked in the top 2% (out of 47,000 participants) in Børsen stock-picking challenge.
   - High achiever in various Strategy games, such as Chess and StarCraft.
   - Design for Change Awardee (2010) for a design competition.
@@ -406,14 +329,14 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
     - [Newspaper article 2](https://jv.dk/toender/hoejer-unge-til-konference-i-indien)
     - [Official Video](https://dfcworld.org/VIDEO/ViewVideo/45)
 - **Memberships & Affiliations**
-  - MENSA member (2018-present), Membership No. 2018170 (IQ≥158).
+  - MENSA member (2018-present)
   - Long-standing member of Wilmott's Forum, CQF insitute and Quantnet.
   - Recently opened accounts with ML-Quant, Quant Insider, Quantpedia, London Quant Group and Oxford Mathematical and computation Group
   - UNF (Danish Youth Foundation of Natural Science) member (2010–2013); Physics Camp participant (2015).
   - ATU (Danish Academy of Talented Youths) member (2014–2016).
 - **Personal Interests**
   - Fitness enthusiast: committed to working out and maintaining an active lifestyle.
-  - Active creative: Painting nature and drawing people is my passion.
+  - Active creative: I enjoy painting nature and drawing people in my pastime.
 
 # Projects
 
