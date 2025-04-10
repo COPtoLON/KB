@@ -1,3 +1,88 @@
+### Further Target Role - Quantitative Strategist
+ABC partners inc. | London, United Kingdom | April 2027 – Present
+- **Market State Identification**
+  - Develop statistical and machine learning models (e.g., hidden Markov models, Bayesian regime detection) to determine bull, bear, or neutral conditions in equity and crypto markets.
+  - Apply time series segmentation and pattern recognition to reduce noise in short- and medium-term price movements.
+- **Alpha Signal Generation**
+  - Investigate new factor-based or technical signals—momentum, value, on-chain analytics—for alpha opportunities.
+  - Conduct robust backtesting on historical and intraday data, ensuring signals remain profitable under various market regimes.
+- **Noise Reduction & Data Quality**
+  - Implement advanced signal processing techniques (e.g., wavelets, adaptive filtering) to minimize market microstructure noise and spurious intraday fluctuations.
+  - Oversee data cleansing and validation processes to guarantee high-quality data inputs for model development.
+- **Strategy Optimization**
+  - Use portfolio simulation and optimization frameworks to integrate multiple alpha signals, balancing risk exposure and transaction costs.
+  - Employ Bayesian hyperparameter tuning or other advanced optimization methods to refine model parameters and reduce overfitting.
+- **Interdisciplinary Collaboration**
+  - Work closely with Quantitative Developers, Traders, and Data Scientists to integrate research outcomes into production trading systems.
+  - Communicate research findings effectively—maintaining detailed documentation, code repositories, and performance dashboards.
+- **Continuous Innovation**
+  - Keep abreast of academic research on algorithmic trading, deep learning, and advanced statistical modeling.
+  - Conduct pilot experiments with emerging techniques (reinforcement learning, generative models) to push the boundaries of alpha discovery.
+
+### Target Role - Quantitative Developer
+YourCompany ltd | London, United Kingdom | April 2025 – Present
+- **End-to-End Alpha Research & Implementation**
+  - Develop and refine systematic trading signals for equities or crypto markets, integrating advanced statistical models, machine learning methods, and factor-based approaches.
+  - Implement and maintain high-performance backtesting frameworks to validate alpha ideas with historical data, ensuring robustness and risk-adjusted returns.
+- **Data-Intensive Pipeline Development**
+  - Architect scalable ETL pipelines to ingest diverse data sources (e.g., exchange APIs, on-chain crypto feeds, fundamentals, alternative data), guaranteeing low-latency and reliable inputs for real-time strategies.
+  - Collaborate on distributed computing or cloud-based HPC solutions (Ray, Dask, AWS, etc.) to accelerate complex simulations and multi-strategy backtests.
+- **Real-Time Strategy Execution**
+  - Integrate alpha signals into production trading systems, managing order routing, transaction cost analysis, and PnL/risk attribution in a low-latency environment.
+  - Monitor live strategies, adjusting parameters and rebalancing logic based on performance metrics and evolving market conditions.
+- **Cross-Functional Collaboration**
+  - Work closely with quant researchers, traders, and data scientists to explore new alpha opportunities, refine factor models, and enhance existing strategies.
+  - Provide technical leadership in code quality, design patterns, and continuous integration best practices to ensure the stability and reliability of trading operations.
+- **Software Engineering & Infrastructure**
+  - Write clean, modular Python/C++ code with comprehensive unit tests and documentation, adhering to best practices in software architecture and version control.
+  - Employ DevOps techniques (Docker, Kubernetes, CI/CD) for efficient deployment and maintenance of research and live trading environments.
+
+
+
+### (GOAL) Ph.D. in Computational Finance
+**Goal - Imperial College : London London, UK : 2028 - 2030**
+- **Thesis(idea):** “High-Performance Stochastic Simulation for Real-Time Derivatives Pricing and Systematic Trading”
+- Focus on advanced stochastic calculus, machine learning–based alpha models, and HPC for large-scale risk simulations.
+- Engaged in cross-disciplinary research with the Department of Mathematics and a leading quant firm, applying cutting-edge computational methods to real-world trading scenarios.
+
+**Note: This education is a goal, I will not imply I have finished this.**
+
+### (GOAL) M.Sc. in Financial Mathematics
+**Goal - LSE : London, UK : 2026 - 2028**
+- **Dissertation(idea):** “Hybrid Factor Models for Multi-Asset Portfolio Optimization”
+-	Advanced Coursework: Stochastic Control, Numerical Methods in Finance, Monte Carlo Methods, PDE Solvers for Derivative Pricing, Statistical Machine Learning for Time Series.
+-	Collaborated on quantitative strategy research projects, incorporating factor modeling and robust risk measures (VaR, CVaR) to evaluate alpha performance under market volatility.
+
+**Note: This education is a goal, I will not imply I have finished this.**
+
+
+
+- **goals**
+  - Published research article on SSRN
+  - Attended X, Y, Z and presented my findings at W.
+  - Participant at X, Y, Z Hackathon. Winning W hackathon.
+  - Ranked 103 at LeetCode, ranked 2055 at CodeForces and ranked 52 at HackerRank.
+
+#### Courses - Unfinished
+- Coursera - DeepLearning.AI - Tensorflow Developer Professional Certificate
+- Coursera - DeepLearning.AI - Tensorflow: Advanced Techniques Specialization
+- Coursera - DeepLearning.AI - Deep learning specialization
+- Coursera - DeepLearning.AI - Machine learning specialization
+- Coursera - Caltech - Pricing Options with Mathematical Models
+- Coursera - Columbia Uni - Financial Engineering and Risk Management Specialization
+- Coursera - NYIF - Risk Management Specialization
+- Coursera - RICE - Investment and Portfolio Management Specialization
+- Coursera - Imperial College London - Mathematics for Machine Learning Specialization
+- Coursera - John Hopkins - Statistical Methods for Computer Science Specialization
+- Coursera - John Hopkins - Advanced Statistics for Data Science Specialization
+- Coursera - NYIF - Machine Learning for Trading Specialization
+- Coursera - Stanford - Probabilistic Graphical Models Specialization
+- Coursera - IBM - Data Analyst Professional Certificate
+- Coursera - IBM - Data Science Professional Certificate
+- Akuna Capital - Options 101 Course
+- Coursera - EPFL - Interest Rate Models
+
+
 [CV help](https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/) \
 https://portal.bloombergforeducation.com/
 
