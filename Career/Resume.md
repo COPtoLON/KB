@@ -10,11 +10,11 @@ Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
 [Medium Profile]() | [SSRN Profile]() 
 
 # Summary
-Driven quantitative developer and researcher with a strong foundation in algorithmic trading, statistical modeling, and financial data engineering. Skilled at creating high-performance backtesting systems, predictive analytics platforms (e.g., ARIMA/GARCH, Hidden Markov Models), and robust ETL pipelines for multi-asset markets—covering equities, crypto, and derivatives. Adept at optimizing risk exposures through advanced simulations (Monte Carlo, scenario testing) and portfolio frameworks, including ESG integrations and VaR/CVaR analytics. Demonstrates a blend of software engineering acumen (Python, SQL, C++) and domain-specific rigor (mean reversion, trend detection, hierarchical risk-parity). Supplements technical expertise with strong communication, code review practices, and interdisciplinary collaboration. Passionate about continuous learning—regularly attending research conferences, acquiring cutting-edge knowledge, and prototyping AI-driven strategies for dynamic market adaptation.
+-
 
 # Experience
 
-### Further Target Role - Quantitative Researcher (X)
+### Further Target Role - Quantitative Strategist
 ABC partners inc. | London, United Kingdom | April 2027 – Present
 - **Market State Identification**
   - Develop statistical and machine learning models (e.g., hidden Markov models, Bayesian regime detection) to determine bull, bear, or neutral conditions in equity and crypto markets.
@@ -35,7 +35,7 @@ ABC partners inc. | London, United Kingdom | April 2027 – Present
   - Keep abreast of academic research on algorithmic trading, deep learning, and advanced statistical modeling.
   - Conduct pilot experiments with emerging techniques (reinforcement learning, generative models) to push the boundaries of alpha discovery.
 
-### Target Role - Quantitative Developer (X)
+### Target Role - Quantitative Developer
 YourCompany ltd | London, United Kingdom | April 2025 – Present
 - **End-to-End Alpha Research & Implementation**
   - Develop and refine systematic trading signals for equities or crypto markets, integrating advanced statistical models, machine learning methods, and factor-based approaches.
@@ -55,6 +55,9 @@ YourCompany ltd | London, United Kingdom | April 2025 – Present
 
 ### Quantitative Developer & Researcher
 TMRW | Copenhagen, Denmark | January 2024 – Present(paused atm.)
+- **Further developments**
+  - I am taking part in the IMC Prosperity 3 challenge, putting this on pause for the moment and adapting solutions from the IMC challenge to this project.
+  - Adding work on market making with the Avelanda-stoikov model, momentum trading, pairs trading and index arbitrage.
 - **Research & Development**
   - Market State Detection: Investigated advanced detection methods—including custom market-state classifiers, Hidden Markov Models (HMM), decision-tree frameworks, autocorrelation analyses, and stationarity tests.
   - Trend & Reversion Analysis: Explored trend detection techniques using Markov chains, local reversion triggers, resistance-level identification, and various regression methods.
@@ -72,9 +75,7 @@ TMRW | Copenhagen, Denmark | January 2024 – Present(paused atm.)
 
 **Key Tools & Skills:** Python, SQL, C++, algorithmic trading, crypto markets, quantitative research, Monte Carlo methods, Hidden Markov Models, dynamic market-state detection, ARIMA/GARCH, data engineering, OOP, modular architecture, risk monitoring, backtesting.
 
-
-
-### Freelance Software Developer (X)
+### Freelance Software Developer
 Self-Employed | Remote | May 2024 – January 2025	     
 - **High-Frequency Trading Solutions:**
   - Developed a low-latency trading system to exploit meme-coin IPOs, guiding clients from sub-penny coins to mid-cap altcoins on the Raydium market.
@@ -86,7 +87,7 @@ Self-Employed | Remote | May 2024 – January 2025
 
 **Key Tools & Skills:** Python, Excel, VBA, Pine Script, web technologies (HTML/CSS/JS), batch scripting, automation, solution design.
 
-### Train Station Service Personnel (X)
+### Train Station Service Personnel
 DSB | Copenhagen, Denmark | May 2024 – January 2025
 - **Safety & Customer Assistance:**
   - Maintained cleanliness and safety at multiple train stations, ensuring positive passenger experiences.
@@ -129,7 +130,7 @@ LD Pensions | Copenhagen, Denmark | August 2023 – May 2024
 
 **Key Tools & Skills:** Python, SQL, ETL frameworks, risk modeling (VaR/CVaR), scenario simulations, ESG data, Excel–Python integration, Power BI, geometric Brownian motion, SSE-Simulations, Quantitative Analysis, Portfolio Construction & Optimization.
 
-### Data Quality Analyst (X)            	  
+### Data Quality Analyst       	  
 Lån&Spar Bank | Copenhagen, Denmark | January 2023 – August 2023
 - Assessed and documented data quality indicators for the upcoming IRB system (scheduled for 2025 launch), producing in-depth analyses of PD/PC, LGD/LGC, EAD, and DoD procedures to enhance data integrity and reporting accuracy.
   - Running through data quality dimensions: Accuracy, completeness, consistency, validity, uniqueness, integrity
@@ -148,7 +149,7 @@ Lån&Spar Bank | Copenhagen, Denmark | January 2023 – August 2023
 
 **Key Tools & Skills:** SAS, SQL, IRB framework (PD/PC, LGD/LGC, EAD), data governance, data quality reporting, scrum methodology.
 
-### VBA & Python Instructor (X)
+### VBA & Python Instructor
 DJØF | Copenhagen, Denmark | January 2023 – August 2023
 - **Curriculum Design & Delivery:**
   - Organized Excel, VBA, and Python coursework for audiences from beginners to advanced, teaching automation, data manipulation, and best practices.
@@ -160,7 +161,7 @@ DJØF | Copenhagen, Denmark | January 2023 – August 2023
 
 **Key Tools & Skills:** Teaching, Python, VBA, Excel automation, pedagogical presentation strategies.
 
-### Data Analyst & Developer (X)	            	  
+### Data Analyst & Developer	            	  
 Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
 - **Timesheet & Budgeting System**
   - Administered a comprehensive timesheet and budgetting platform, performing in-depth analyses of hours worked, salary payment updates, and budget distribution across multiple departments.
@@ -188,7 +189,7 @@ Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
 
 **Key Tools & Skills:** SAS, SQL, C#, Excel (VBA/VBS), data analysis, ETL pipelines, business intelligence (Power BI), budgeting systems (Navision/Dynamics), code reviews, and cross-departmental collaboration.
 
-### Store Clerk (X)
+### Store Clerk
 WHSmith | Copenhagen, Denmark | December 2021 – August 2022
 - Provided exceptional customer service, assisting travelers with purchases, inquiries, and store navigation in a high-traffic airport environment.
 - Managed shelving, restocking, and inventory control, ensuring optimal product placement and store organization.
@@ -200,7 +201,7 @@ WHSmith | Copenhagen, Denmark | December 2021 – August 2022
 
 **Key Skills:** Customer service, inventory management, security compliance, accessibility awareness, multitasking in high-paced environments.
 
-### Mathematics & Physics Tutor (X)
+### Mathematics & Physics Tutor
 MentorDenmark| Copenhagen, Denmark | September 2017 – September 2021
 - Top-5 of 2000 Senior Mentor with 1,000+ hours of tutoring experience, successfully preparing 50+ students for mathematics and physics exams.
 - Achieved an average satisfaction rating of 4.7/5, consistently helping students improve performance and exceed grade expectations through personalized learning strategies.
@@ -210,7 +211,7 @@ MentorDenmark| Copenhagen, Denmark | September 2017 – September 2021
 
 **Key Skills:** Mathematics instruction, physics tutoring, exam preparation, personalized learning strategies, pedagogical presentation, student engagement, mentorship.
 
-### Store Clerk (X)
+### Store Clerk
 Lidl | Copenhagen, Denmark | April 2019 – August 2020
 - Operated forklifts and pallet jacks to transport and stock goods efficiently, ensuring a well-organized and safe storage environment.
 - Managed shelving and restocking, optimizing product placement and maintaining inventory accuracy to improve customer shopping experience.
@@ -219,13 +220,13 @@ Lidl | Copenhagen, Denmark | April 2019 – August 2020
 
 **Key Skills:** Inventory management, forklift operation, customer service, retail logistics, store maintenance.
 
-### Data Analyst Intern - Single project internship (X)   	            	  
+### Data Analyst Intern - Single project internship 	            	  
 Thomas Lystlund Studio | Copenhagen, Denmark | January 2019 – April 2019					          
 - **Analyzed cash flows and projected ROI to evaluate forex bot products**, identifying potential scams and advising client on safer investment alternatives by leveraging in-depth knowledge of currency trading and expected returns.
 
 **Key Skills:** Financial modeling, risk assessment, forex trading evaluation, investment strategy, Excel-based financial projections, and client advisory.
 
-### Store Clerk → Store Manager (X)
+### Store Clerk → Store Manager
 MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – December 2018
 - Managed store operations during night and early morning shifts, ensuring smooth workflow and high customer satisfaction.
 - Prepared fresh food items, including baking cakes, pastries, and making sandwiches to maintain a high-quality product offering.
@@ -240,7 +241,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 # Education
 
-### (GOAL) Ph.D. in Computational Finance (X)
+### (GOAL) Ph.D. in Computational Finance
 **Goal - Imperial College : London London, UK : 2028 - 2030**
 - **Thesis(idea):** “High-Performance Stochastic Simulation for Real-Time Derivatives Pricing and Systematic Trading”
 - Focus on advanced stochastic calculus, machine learning–based alpha models, and HPC for large-scale risk simulations.
@@ -248,7 +249,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 **Note: This education is a goal, I will not imply I have finished this.**
 
-### (GOAL) M.Sc. in Financial Mathematics (X)
+### (GOAL) M.Sc. in Financial Mathematics
 **Goal - LSE : London, UK : 2026 - 2028**
 - **Dissertation(idea):** “Hybrid Factor Models for Multi-Asset Portfolio Optimization”
 -	Advanced Coursework: Stochastic Control, Numerical Methods in Finance, Monte Carlo Methods, PDE Solvers for Derivative Pricing, Statistical Machine Learning for Time Series.
@@ -256,7 +257,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 **Note: This education is a goal, I will not imply I have finished this.**
 
-### B.Sc. in Mathematical Statistics (X)
+### B.Sc. in Mathematical Statistics
 **University of Copenhagen | Copenhagen, Denmark | September 2021 - July 2025**
 -	**Thesis:** “Option Pricing with Stochastic Volatility in the Heston Model” ~ R library development, estimation of coefficients, implied volatility surface graph - Software development of a range of functions in R, pricing function, characteresting function, parameter estimation, implied volatility surface display. The library is now being used by the company EnvisionRisk in Denmark.  
 -	First year project: Event study in the stock market, in the project we ran estimations on best trading strategies around significant events in the stock market, the focus was on the acquisition announcement between AuthenTec and Apple.
@@ -265,7 +266,7 @@ MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – De
 
 **Note: On this education I have had experience with R, Python, probability theory, Mathematical Statistics, Stochastic processes and insurance mathematics - This implies work in time series Analysis, Statistical Inference, Monte Carlo methods, Markov models, stochastic calculus and financial mathematics**
 
-### B.Sc. in Mathematical Physics	(X) 
+### B.Sc. in Mathematical Physics
 **University of Copenhagen | Copenhagen, Denmark | September 2019- April 2021**
 - *Resigned to transfer to the bachelor degree in Mathematical Statistics.*
 - **First year project:** "Dark matter detection in rotational spiral galaxies" ~ MatLab, object detection, astrophysics of rotational spiral galaxies. - First year project on calculating the rotational speed of spiral galaxies, to estimate dark matter densities. We used a machine learning algorithm to identify certain types of stars from a black-white image of a spiral galaxy, then calculated the rotational speeds, to show that the corresponding mass of the galaxy was insufficient to obtain such speeds.
