@@ -1,5 +1,3 @@
-
-
 # Mark (Daniel Balle) Brezina
 
 Francis Harvey Way 1, London SE8 4DA, UK  \
@@ -11,7 +9,6 @@ Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
 
 # Summary
 -
-
 # Experience
 
 ### Further Target Role - Quantitative Strategist
