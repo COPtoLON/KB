@@ -1,6 +1,6 @@
 # Mark (Daniel Balle) Brezina
 
-Francis Harvey Way 1, London SE8 4DA, UK  \
+London SE8 4DA, UK  \
 UK phone - (+44)7761917490 | DK phone - (+45)93904834 \
 Work email - CPHtoLON@gmail.com | Personal email - Mark@Brezina.dk \
 [LinkedIn Profile](linkedin.com/in/coptolon) | [GitHub Profile](github.com/COPtoLon) \
