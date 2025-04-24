@@ -1,3 +1,11 @@
+
+
+
+
+
+
+
+
 ### Further Target Role - Quantitative Strategist
 ABC partners inc. | London, United Kingdom | April 2027 – Present
 - **Market State Identification**
