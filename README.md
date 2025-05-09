@@ -28,14 +28,22 @@ Quantnet-forum-username: MarkBrezina
 Blending **statistical rigor, low-latency engineering, and AI-driven trading logic**, designing and deploying **systematic strategies for equity and crypto markets**. Mark's work includes spearheading an **end-to-end algorithmic trading initiative**, unifying modeling, AI market analysis, and live deployment, and achieving a **~13% return in a short live deployment**. Mark has developed **ultra-low-latency crypto trading bots** for new token listings and customized **algorithmic solutions for clients**. At financial institutions, Mark has built **automated data pipelines**, developed **risk models (VaR/CVaR)**, and created **portfolio tools**. Mark's projects include comprehensive trading systems, stochastic process modeling, a knowledge base of quantitative finance concepts, and components for a startup's platform. Mark has **dedicated over 10,000 hours to intensive study and research**, actively engaging in **professional communities and advanced seminars**, and exploring **unifying mathematical frameworks** across finance, physics, and optimization.
 
 # soft skills
-- 
+-	Resilient & Even-Tempered: Maintain calm composure in demanding or unconventional environments, sustaining productivity and morale under pressure.
+-	Creative Problem-Solver: Generate original ideas—spanning design, trading strategies, and theoretical frameworks—by blending intuition with rigorous analysis.
+-	Analytical Depth & Detail-Orientation: Drill into complex problems methodically; trusted for precision, consistency, and thoroughness in data-driven work.
+-	Tenacious Work Ethic: Willingly commit long hours and accept challenging tasks to achieve ambitious goals and deliver high-quality outcomes.
+-	Continuous Self-Improver: Invest heavily in up-skilling and personal development, embracing feedback and seeking growth opportunities.
+-	Global & Cross-Cultural Agility: Lived and worked across Europe, Asia, and the Middle East; adapt quickly to diverse teams, markets, and cultural norms.
+-	Collaborative & Consensus-Seeking: Balance strong opinions with an ability to listen, negotiate, and align stakeholders toward shared objectives.
+-	Empathetic Relationship-Builder: Quiet and private at first, yet develop lasting, trust-based partnerships that foster team cohesion and loyalty.
+-	Strategic Bias for Action: Decide swiftly when stakes are high, pairing pragmatism with long-term vision to move projects forward.
+-	Positive & Steady Disposition: Humour-stable and level-headed, contributing to a constructive atmosphere even in high-stakes settings.
 
 
 # Work Experience
 
-## Founder, etc - ...
-
-TMRW | Copenhagen, Denmark | January 2024 – Present(paused atm.)
+## Founder, Quantitative Developer, Quantitative Strategist/Researcher
+TMRW | Copenhagen, Denmark | January 2023 – Present
 - **Further developments**
   - I am taking part in the IMC Prosperity 3 challenge, putting this on pause for the moment and adapting solutions from the IMC challenge to this project.
   - Adding work on market making with the Avelanda-stoikov model, momentum trading, pairs trading and index arbitrage.
@@ -58,7 +66,7 @@ TMRW | Copenhagen, Denmark | January 2024 – Present(paused atm.)
 
 **Related Github repos**:
 
-### Freelance Software Developer
+### Freelance Software Developer - X
 Self-Employed | Remote | May 2024 – January 2025	     
 - **High-Frequency Trading Solutions:**
   - Developed a low-latency trading system to exploit meme-coin IPOs, guiding clients from sub-penny coins to mid-cap altcoins on the Raydium market.
@@ -70,7 +78,7 @@ Self-Employed | Remote | May 2024 – January 2025
 
 **Key Tools & Skills:** Python, Excel, VBA, Pine Script, web technologies (HTML/CSS/JS), batch scripting, automation, solution design.
 
-### Train Station Service Personnel
+### Train Station Service Personnel - X
 DSB | Copenhagen, Denmark | May 2024 – January 2025
 - **Safety & Customer Assistance:**
   - Maintained cleanliness and safety at multiple train stations, ensuring positive passenger experiences.
@@ -83,17 +91,17 @@ DSB | Copenhagen, Denmark | May 2024 – January 2025
  
 **Key Tools & Skills:** Conflict resolution, frontline customer service, security compliance, resilience.
 
-### Junior Quantitative Developer						           	            	  	  
+### Junior Quantitative Developer - X				           	            	  	  
 LD Pensions | Copenhagen, Denmark | August 2023 – May 2024
 - **Comprehensive Data Pipelines**
-  - Automated ETL processes and scheduled scripts (via Python and task scheduler) to ingest, clean, and unify data from multiple sources (Nykredit, Nordea, Bloomberg, MSCI, Sustainalytics, Morgan Stanley, Danske Bank).
+  - Automated ETL processes and scheduled scripts (via Python and task scheduler) to ingest, clean, and unify data from multiple sources (Nykredit, Nordea, Bloomberg, MSCI, Sustainalytics, Morgan Stanley, Danske Bank). A novel approach for the organization, causing data streams and the ability to analyse data to go from weeks or days down to minutes or hours.
   - Ensured teams received up-to-date analytics at the start of each workday, minimizing data lag and manual overhead.
 - **Modular Python Framework**
   - Built a robust Python package for on-prem use, providing functionalities for quantitative analysis, risk modeling, and data management.
-  - Evolved the framework from functional to object-oriented design, accelerating code reusability and maintainability.
+  - Evolved the framework from functional to object-oriented design, accelerating code reusability and maintainability. 
   - Created an Excel add-in integrating the library’s functionalities—empowering less technical users to access Python-driven analytics within Excel.
 - **Risk Analytics & Stress Testing**
-  - Developed modules for VaR, CVaR, credit risk, interest rate risk, currency risk, and derivatives risk, with special emphasis on margin call frameworks for currency futures and interest-rate-sensitive portfolios.
+  - Developed modules for VaR, CVaR, credit risk, interest rate risk, currency risk, and derivatives risk, with special functions for on margin call frameworks for currency futures and interest-rate-sensitive portfolios.
   - Partnered with the Chief Investment Officer to interpret Morgan Stanley’s profit forecasting data. Reverse-engineered VaR and CVaR calculations, built scenario simulators (Geometric Brownian motion, square-root diffusion), and presented findings to C-level leadership.
 - **ESG & Portfolio Framework**
   - **Designed a Modular Portfolio Framework**
@@ -113,17 +121,17 @@ LD Pensions | Copenhagen, Denmark | August 2023 – May 2024
 
 **Key Tools & Skills:** Python, SQL, ETL frameworks, risk modeling (VaR/CVaR), scenario simulations, ESG data, Excel–Python integration, Power BI, geometric Brownian motion, SSE-Simulations, Quantitative Analysis, Portfolio Construction & Optimization.
 
-### Data Quality Analyst       	  
+### Data Quality Analyst - X 	  
 Lån&Spar Bank | Copenhagen, Denmark | January 2023 – August 2023
-- Assessed and documented data quality indicators for the upcoming IRB system (scheduled for 2025 launch), producing in-depth analyses of PD/PC, LGD/LGC, EAD, and DoD procedures to enhance data integrity and reporting accuracy.
+- **Assessed and documented data quality indicators for the upcoming IRB system (scheduled for 2025 launch), producing in-depth analyses of PD/PC, LGD/LGC, EAD, and DoD procedures to enhance data integrity and reporting accuracy.**
   - Running through data quality dimensions: Accuracy, completeness, consistency, validity, uniqueness, integrity
   - convened with stakeholders, head of IRB, IRB analysts and model validators to make sure our process was taking into account the correct variables
-  - Produced data quality reports, presented them to stakeholders and developed a database mapping
+  - Produced data quality reports, presented them to stakeholders and reevaluated key data quality indicators
   - Mapped and visually represented complex database architectures, illustrating relationships among SAS tables for credit evaluation, IRB, and transactional systems.
-- Conducted comprehensive reviews of the "high-risk customer evaluation process"
+- **Conducted comprehensive reviews of the "high-risk customer evaluation process"**
   - conducted codereview of the codebase and documented the database mapping related to the process
   - Presented my findings to the head of credit, head of IT and head of internal review.
-- Engineered and maintained a SAS macro-driven solution for data warehouse quality analysis, ensuring reliable and precise data quality reporting.
+- **Engineered and maintained a SAS macro-driven solution for data warehouse quality analysis, ensuring reliable and precise data quality reporting.**
   - The macro solution had the ability to run through data quality dimensions on database tables: The dimensions testable were completeness, consistency, validity, uniqueness and integrity
   - The macro would run through tables in forward order, the current table, the tables producing this table and the tables producing that table and so on. Checking for integrity in the data as well.
 - **Work-related courses**
@@ -132,7 +140,7 @@ Lån&Spar Bank | Copenhagen, Denmark | January 2023 – August 2023
 
 **Key Tools & Skills:** SAS, SQL, IRB framework (PD/PC, LGD/LGC, EAD), data governance, data quality reporting, scrum methodology.
 
-### Python & VBA Course Instructor
+### Python & VBA Course Instructor - X
 DJØF | Copenhagen, Denmark | January 2023 – August 2023
 - **Curriculum Design & Delivery:**
   - Organized Excel, VBA, and Python coursework for audiences from beginners to advanced, teaching automation, data manipulation, and best practices.
@@ -144,7 +152,7 @@ DJØF | Copenhagen, Denmark | January 2023 – August 2023
 
 **Key Tools & Skills:** Teaching, Python, VBA, Excel automation, pedagogical presentation strategies.
 
-### Financial Data Analyst	            	  
+### Financial Data Analyst - X	            	  
 Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
 - **Timesheet & Budgeting System**
   - Administered a comprehensive timesheet and budgetting platform, performing in-depth analyses of hours worked, salary payment updates, and budget distribution across multiple departments.
