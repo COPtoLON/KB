@@ -14,7 +14,7 @@ Private-email: mark@brezina.dk \
 Work-email: cphtolon@gmail.com \
 Linkedin: https://www.linkedin.com/in/coptolon/ \
 GitHub: https://github.com/COPtoLON \
-Wilmott-forum-username:CopenhagentoLondon, MarkBrezina \
+Wilmott-forum-username: CopenhagentoLondon, MarkBrezina \
 Quantnet-forum-username: MarkBrezina
 
 ## Availability
