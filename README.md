@@ -240,10 +240,10 @@ GPA: Unknown
 **Relevant coursework:** Mathematical Statistics, Stochastic processes I & II, Life insurance, General Insurance, Advanced probability theory, Differential Geometry \
 **GPA:** approximately 4/12
 
-## B.Sc. in Mathematical physics, University of Copenhagen, 2021-2025  
-**Result:** Dropped-out \
-**First year project:** “Rotational speed analysis of spiral galaxies with Dark Matter”\  
-**Relevant coursework:** Mechanics I & II, Thermodynamics, Electrodynamics, Quantum Mechanics I & II, Galactic astrophysics, Complex Analysis I & II. \  
+## B.Sc. in Mathematical physics, University of Copenhagen, 2017-2019  
+**Result:** Dropped-out 
+**First year project:** “Rotational speed analysis of spiral galaxies with Dark Matter” 
+**Relevant coursework:** Mechanics I & II, Thermodynamics, Electrodynamics, Quantum Mechanics I & II, Galactic astrophysics, Complex Analysis I & II. 
 **GPA:** approximately 4/12
 
 ## Ordinary student exam - KNord Lyngby STX, Denmark Kongens Lyngby
