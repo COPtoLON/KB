@@ -169,12 +169,12 @@ I have been tested by Mensa Denmark to have a score in the upper 1% of the danis
 Workstyle - above average correctness , below average speed\
 Realistisk, Konsistens, Udholdende, Udviklingsmotiveret, Humørstabil, Forholdsvis pragmatisk, Relativt privat, Svær at tilfredsstille, Konsenssussøgende, Sans for detaljen, Vælger relativt hurtigt side, Relativt eftertænksom
 
-**I'm the investment advisor and custodian for my aunt Jeannette Brezina, since 2024**
-**Member: Mensa (IQ ≥158), Wilmott Forum, CQF institue, London quant group, Oxford-man, ML-quant, Quantpedia**
-**Reviewer and donator(2024–2025) for Anton Vorobets’s upcoming book on portfolio construction and risk management.**
-**Fitness enthusiast: committed to working out and maintaining an active lifestyle.**
-**Active creative: I enjoy painting nature and drawing people in my pastime.**
-**UNF (Danish Youth Foundation of Natural Science) member (2010–2013); Physics Camp participant (2015).**
+**I'm the investment advisor and custodian for my aunt Jeannette Brezina, since 2024** \
+**Member: Mensa (IQ ≥158), Wilmott Forum, CQF institue, London quant group, Oxford-man, ML-quant, Quantpedia** \
+**Reviewer and donator(2024–2025) for Anton Vorobets’s upcoming book on portfolio construction and risk management.** \
+**Fitness enthusiast: committed to working out and maintaining an active lifestyle.** \
+**Active creative: I enjoy painting nature and drawing people in my pastime.** \
+**UNF (Danish Youth Foundation of Natural Science) member (2010–2013); Physics Camp participant (2015).** \
 **ATU (Danish Academy of Talented Youths) member (2014–2016).**
 
 # Awards
