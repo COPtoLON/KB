@@ -27,16 +27,11 @@ Quantnet-forum-username: MarkBrezina
 # Personal Statement:
 
 
-
-# Core technical competences
-
-# Core personal competences
-
+# soft skills
+- 
 
 
 # Work Experience
-
-
 
 ## Founder, etc - ...
 
@@ -61,6 +56,7 @@ TMRW | Copenhagen, Denmark | January 2024 – Present(paused atm.)
 
 **Key Tools & Skills:** Python, SQL, C++, algorithmic trading, crypto markets, quantitative research, Monte Carlo methods, Hidden Markov Models, dynamic market-state detection, ARIMA/GARCH, data engineering, OOP, modular architecture, risk monitoring, backtesting.
 
+**Related Github repos**:
 
 ### Freelance Software Developer
 Self-Employed | Remote | May 2024 – January 2025	     
