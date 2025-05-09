@@ -61,17 +61,17 @@ GPA: Unknown
 **Thesis:** “Option Pricing with Stochastic Volatility in the Heston Model” - developed as a library in R and used by the company EnvisionRisk \
 **First year project:** "Event study in the stock market" - Event study on the acquisition announcement of Apple and AuthenTec \
 **Relevant coursework:** Mathematical Statistics, Stochastic processes I & II, Life insurance, General Insurance, Advanced probability theory, Differential Geometry \
-GPA: approximately 4/12
+**GPA:** approximately 4/12
 
 ## B.Sc. in Mathematical physics, University of Copenhagen, 2021-2025  
 **Result:** Dropped-out \
-First year project: “Rotational speed analysis of spiral galaxies with Dark Matter”\  
-Relevant coursework: Mechanics I & II, Thermodynamics, Electrodynamics, Quantum Mechanics I & II, Galactic astrophysics, Complex Analysis I & II.
-GPA: approximately 4/12
+**First year project:** “Rotational speed analysis of spiral galaxies with Dark Matter”\  
+**Relevant coursework:** Mechanics I & II, Thermodynamics, Electrodynamics, Quantum Mechanics I & II, Galactic astrophysics, Complex Analysis I & II. \  
+**GPA:** approximately 4/12
 
 ## Ordinary student exam - KNord Lyngby STX, Denmark Kongens Lyngby
-Danish A, English A, History A, Mathematics A, Physics A, Chemistry B, German B, Biology C, Design C, Innovation C, Philosophy C, Religion C, Social Science C, Natural science introduction C, General language C\
-GPA: approximately 8.5/12.
+Subjects: Danish A, English A, History A, Mathematics A, Physics A, Chemistry B, German B, Biology C, Design C, Innovation C, Philosophy C, Religion C, Social Science C, Natural science introduction C, General language C\
+**GPA:** approximately 8.5/12.
 
 # Courses, Certifications and continuous learning
 
