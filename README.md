@@ -38,14 +38,191 @@ Quantnet-forum-username: MarkBrezina
 
 ## Founder, etc - ...
 
-## Free-lance software developer ...
+TMRW | Copenhagen, Denmark | January 2024 – Present(paused atm.)
+- **Further developments**
+  - I am taking part in the IMC Prosperity 3 challenge, putting this on pause for the moment and adapting solutions from the IMC challenge to this project.
+  - Adding work on market making with the Avelanda-stoikov model, momentum trading, pairs trading and index arbitrage.
+- **Research & Development**
+  - Market State Detection: Investigated advanced detection methods—including custom market-state classifiers, Hidden Markov Models (HMM), decision-tree frameworks, autocorrelation analyses, and stationarity tests.
+  - Trend & Reversion Analysis: Explored trend detection techniques using Markov chains, local reversion triggers, resistance-level identification, and various regression methods.
+  - Strategy Choice AI: Built a prototype engine that dynamically selects among trend-following, mean-reversion, or event-driven reversion strategies based on real-time market conditions.
+  - Algorithmic Exploration: Conducted in-depth statistical and financial research to identify and refine profitable trading algorithms; introduced novel methodologies for analyzing market patterns and enabling data-driven insights.
+  - Continuous Learning: Enriched expertise by attending research lectures (Daniel Lacker’s mean-field theory, Peter Cotton’s hierarchical risk parity, CQF Institute portfolio management conference), engaging with online communities (Wilmott’s forum, Quantnet, Quant Finance Stack Exchange), and acquiring specialized academic texts on risk management, mean-field games, advanced linear modeling, credit risk modeling, and computational finance.
+- **Technical Innovations**
+  - Backtesting System: Developed a high-performance framework to test trading strategies against both historical market data and simulated environments—ensuring rigorous validation and stress testing.
+  - Forecasting Engine: Engineered predictive models leveraging Markov Chain Monte Carlo, Monte Carlo simulations, ARIMA/GARCH processes, and other statistical/financial indicators to anticipate price movements.
+  - ETL Pipelines: Created a robust data pipeline integrating multiple APIs and databases—encompassing real-time price feeds, order book depth, options chains, macroeconomic metrics, and news sentiment data.
+- **IT Infrastructure & Architecture**
+  - Scalable Architecture: Designed and implemented resilient hardware setups, communication channels, and systematic documentation workflows to support algorithmic trading operations.
+  - Multi-Asset Integration: Incorporated connectivity across multiple exchanges, diverse data flows, and a variety of asset classes, enabling the platform to handle crypto, equities, and more.
+  - Software Development: Progressed from an initial prototype to faster, more generalized versions using Python, SQL, and C++. Employed web scraping, data cleaning, OOP, and modular design to build distinct modules for risk monitoring, PnL tracking, and on-demand backtesting.
 
-## Junior Quantitative Developer ...
+**Key Tools & Skills:** Python, SQL, C++, algorithmic trading, crypto markets, quantitative research, Monte Carlo methods, Hidden Markov Models, dynamic market-state detection, ARIMA/GARCH, data engineering, OOP, modular architecture, risk monitoring, backtesting.
 
 
-## WHSmith - Copenhagen Airport - 2021 - 2022
-Security Awareness Copenhagen Airport certificate
-Visitorkursus certificate
+### Freelance Software Developer
+Self-Employed | Remote | May 2024 – January 2025	     
+- **High-Frequency Trading Solutions:**
+  - Developed a low-latency trading system to exploit meme-coin IPOs, guiding clients from sub-penny coins to mid-cap altcoins on the Raydium market.
+- **Algorithmic Scripting & Web Projects:**
+  - Created a Pine Script algorithm on TradingView to trigger trades based on custom signals (e.g., “silver bullet,” exchange opening times, and multi-day mean reversions).
+  - Designed a static HTML/CSS/JavaScript website for a hobby photographer, focusing on aesthetic layout and user-friendly navigation.
+- **Data-Driven Excel Integrations:**
+  - Built multiple Excel workbook enhancements with Python, C#, VBA, and VBScript, enabling dashboards, financial calculations, inter-application automation, and data visualization.
+
+**Key Tools & Skills:** Python, Excel, VBA, Pine Script, web technologies (HTML/CSS/JS), batch scripting, automation, solution design.
+
+### Train Station Service Personnel
+DSB | Copenhagen, Denmark | May 2024 – January 2025
+- **Safety & Customer Assistance:**
+  - Maintained cleanliness and safety at multiple train stations, ensuring positive passenger experiences.
+  - Assisted customers with disabilities, providing empathetic support for boarding, route guidance, and special mobility needs.
+- **Ad-Hoc Emergency Response:**
+  - Collaborated with police and security in unique incidents, escorting customers to safety.
+  - Managed specialized cleaning tasks, including traumatic situations, demonstrating resilience under pressure.
+- **Certification & Training:**
+  - Completed courses in psychological first aid, chemical safety, and train track safety, reinforcing personal accountability and compliance.
+ 
+**Key Tools & Skills:** Conflict resolution, frontline customer service, security compliance, resilience.
+
+### Data Analyst & Developer						           	            	  	  
+LD Pensions | Copenhagen, Denmark | August 2023 – May 2024
+- **Comprehensive Data Pipelines**
+  - Automated ETL processes and scheduled scripts (via Python and task scheduler) to ingest, clean, and unify data from multiple sources (Nykredit, Nordea, Bloomberg, MSCI, Sustainalytics, Morgan Stanley, Danske Bank).
+  - Ensured teams received up-to-date analytics at the start of each workday, minimizing data lag and manual overhead.
+- **Modular Python Framework**
+  - Built a robust Python package for on-prem use, providing functionalities for quantitative analysis, risk modeling, and data management.
+  - Evolved the framework from functional to object-oriented design, accelerating code reusability and maintainability.
+  - Created an Excel add-in integrating the library’s functionalities—empowering less technical users to access Python-driven analytics within Excel.
+- **Risk Analytics & Stress Testing**
+  - Developed modules for VaR, CVaR, credit risk, interest rate risk, currency risk, and derivatives risk, with special emphasis on margin call frameworks for currency futures and interest-rate-sensitive portfolios.
+  - Partnered with the Chief Investment Officer to interpret Morgan Stanley’s profit forecasting data. Reverse-engineered VaR and CVaR calculations, built scenario simulators (Geometric Brownian motion, square-root diffusion), and presented findings to C-level leadership.
+- **ESG & Portfolio Framework**
+  - **Designed a Modular Portfolio Framework**
+    - **Multi-Tier Portfolio Hierarchy:** Created a system to consolidate multiple ETFs and diverse asset classes (equities, bonds, etc.) into unified portfolios—grouped under “low risk,” “medium risk,” and “high risk” mandates. Linked numerous database tables via asset IDs, ensuring seamless cross-referencing from individual holdings up through multiple portfolio-level structures.
+    - **ROI & Risk Monitoring:** Developed a robust return-on-investment module and risk framework—tracking exposures across daily intervals. Incorporated advanced market, interest rate, and currency risk analytics that aggregate performance metrics from the individual asset level to the overarching mandate.
+    - **Key Data Visualizations:**
+      - **Asset Allocation Plots:** Displayed real-time allocations against compliance thresholds, enabling proactive limit checks.
+      - **Pie Charts:** Illustrated weighting distributions across ETFs, sectors, or asset types for at-a-glance oversight.
+      - **Net Asset Value Graph:** Compared each portfolio’s NAV trajectory against benchmarks or peer portfolios, simplifying performance evaluations.
+      - **VaR Plot:** Delivered visual risk assessments (e.g., Value at Risk) to highlight potential drawdowns under adverse market conditions.
+  - Extended the Python library to conduct ESG analytics (Weighted Average Carbon Intensity, Total Financed Emissions) via data from MSCI, Bloomberg, and Sustainalytics.
+  - Incorporated key governance and social KPIs for expanded ESG insights, aligning with industry best practices.
+- **Analytics & Productivity Tools**
+  - Enhanced business intelligence by introducing Python-based data manipulation in Power BI dashboards, improving executive decision-making through clear, real-time visuals.
+  - Deployed VBA macros and specialized Excel add-ins, automating budgeting tasks, email workflows, and smaller ad-hoc processes—leading to significant time savings.
+  - Streamlined stress testing with advanced quantile-based returns, drawdown analysis, and log-return calculations, offering robust scenario modeling for portfolio managers.
+
+**Key Tools & Skills:** Python, SQL, ETL frameworks, risk modeling (VaR/CVaR), scenario simulations, ESG data, Excel–Python integration, Power BI, geometric Brownian motion, SSE-Simulations, Quantitative Analysis, Portfolio Construction & Optimization.
+
+### Data Quality Analyst       	  
+Lån&Spar Bank | Copenhagen, Denmark | January 2023 – August 2023
+- Assessed and documented data quality indicators for the upcoming IRB system (scheduled for 2025 launch), producing in-depth analyses of PD/PC, LGD/LGC, EAD, and DoD procedures to enhance data integrity and reporting accuracy.
+  - Running through data quality dimensions: Accuracy, completeness, consistency, validity, uniqueness, integrity
+  - convened with stakeholders, head of IRB, IRB analysts and model validators to make sure our process was taking into account the correct variables
+  - Produced data quality reports, presented them to stakeholders and developed a database mapping
+  - Mapped and visually represented complex database architectures, illustrating relationships among SAS tables for credit evaluation, IRB, and transactional systems.
+- Conducted comprehensive reviews of the "high-risk customer evaluation process"
+  - conducted codereview of the codebase and documented the database mapping related to the process
+  - Presented my findings to the head of credit, head of IT and head of internal review.
+- Engineered and maintained a SAS macro-driven solution for data warehouse quality analysis, ensuring reliable and precise data quality reporting.
+  - The macro solution had the ability to run through data quality dimensions on database tables: The dimensions testable were completeness, consistency, validity, uniqueness and integrity
+  - The macro would run through tables in forward order, the current table, the tables producing this table and the tables producing that table and so on. Checking for integrity in the data as well.
+- **Work-related courses**
+  - Lån&Spar course in basic SAS with SAS institute
+  - Lån&spar course in basic SQL with SAS institute
+
+**Key Tools & Skills:** SAS, SQL, IRB framework (PD/PC, LGD/LGC, EAD), data governance, data quality reporting, scrum methodology.
+
+### VBA & Python Instructor
+DJØF | Copenhagen, Denmark | January 2023 – August 2023
+- **Curriculum Design & Delivery:**
+  - Organized Excel, VBA, and Python coursework for audiences from beginners to advanced, teaching automation, data manipulation, and best practices.
+- **Practical Project Focus:**
+  - Incorporated real-world tasks (e.g., automating daily processes, analyzing data sets) into the curriculum, enhancing learners’ job readiness.
+- **Pedagogical Techniques:**
+  - Utilized interactive learning (Q&A sessions, breakout workshops), and refined course material based on participant feedback.
+  - Completed a 3-day training on professional teaching methodologies, emphasizing clarity and structured presentation.
+
+**Key Tools & Skills:** Teaching, Python, VBA, Excel automation, pedagogical presentation strategies.
+
+### Data Analyst & Developer	            	  
+Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
+- **Timesheet & Budgeting System**
+  - Administered a comprehensive timesheet and budgetting platform, performing in-depth analyses of hours worked, salary payment updates, and budget distribution across multiple departments.
+  - Ran monthly data extractions in SAS/SQL, providing budgetting and salary forecasts, employee hour estimates, and “borrowed hours” reallocation to ensure accurate resource planning.
+  - Performed code reviews with colleagues to maintain coding standards and validate data integrity.
+  - Integrated multiple platforms for seamless data flow and reporting: combined Microsoft Navision (bookkeeping), Microsoft Dynamics (CRM), and legacy budget solutions with SAS/SQL pipelines to enhance accuracy and visibility across finance, CRM, and project management functions.
+- **Donations Management**
+  - Assisted in the management of the end-to-end Donations System, incorporating C#, SQL, and Excel to maintain reliability and scalability of financial tracking.
+  - Developed an API solution to integrate data from the legacy donations platform, enabling real-time monitoring of income streams, expenses, and project usage.
+  - Delivered enhanced analytical capabilities that gave the finance team a clear view of donation flows and forecasted future budget movements.
+- **Project Financing & Analysis**
+  - Led the development of a robust software ecosystem—using Excel, VBA/VBS, SAS, and SQL—to consolidate and analyze multifaceted project data (employee hours, overhead, CRM costs, external expenditures).
+  - Enabled dynamic project classifications by profitability, lead ownership, or expense flows, enhancing transparency in resource allocation and ROI.
+  - Automated email notifications to project leaders, prompting regular updates or closure on completed/annual projects.
+- **Business Intelligence & Executive Reporting**
+  - Created Power BI dashboards providing executive-level insights into fund allocation, project performance metrics, and key analytics—directly influencing C-suite decision-making.
+  - Conducted ad-hoc data analysis in SAS, SQL, and Excel to investigate funding surpluses or shortfalls, employee utilization, and returns on major organizational initiatives.
+  - Collaborated with cross-departmental stakeholders to support policy decisions through data-driven evidence, streamlining internal processes and improving departmental efficiency.
+- **Work-related courses**
+  - Statistics Denmark, SAS programmer course series, with SAS institute
+  - Internal company course on "Statistics with R I"
+  - Internal company course on "Statistics with R II"
+  - Internal company course on "Introduction to demographical statistics"
+- Passed a round of security checks regarding my criminal record.
+
+**Key Tools & Skills:** SAS, SQL, C#, Excel (VBA/VBS), data analysis, ETL pipelines, business intelligence (Power BI), budgeting systems (Navision/Dynamics), code reviews, and cross-departmental collaboration.
+
+### Store Clerk
+WHSmith | Copenhagen, Denmark | December 2021 – August 2022
+- Provided exceptional customer service, assisting travelers with purchases, inquiries, and store navigation in a high-traffic airport environment.
+- Managed shelving, restocking, and inventory control, ensuring optimal product placement and store organization.
+- Maintained storage areas, tracking stock levels and coordinating with suppliers to prevent shortages.
+- **Security & Compliance:**
+  - Successfully completed the [Copenhagen Airport, security Awareness certificate](), ensuring adherence to airport safety protocols.
+  - Passed comprehensive background checks, verifying a clean criminal record in accordance with airport security regulations.
+  - Completed specialized training in assisting individuals with both visible (blindness, mobility impairments) and invisible disabilities (autism, OCD, anxiety disorders), ensuring inclusive and compassionate customer interactions.
+
+**Key Skills:** Customer service, inventory management, security compliance, accessibility awareness, multitasking in high-paced environments.
+
+### Mathematics & Physics Tutor
+MentorDenmark| Copenhagen, Denmark | September 2017 – September 2021
+- Top-5 of 2000 Senior Mentor with 1,000+ hours of tutoring experience, successfully preparing 50+ students for mathematics and physics exams.
+- Achieved an average satisfaction rating of 4.7/5, consistently helping students improve performance and exceed grade expectations through personalized learning strategies.
+- Specialized in breaking down complex mathematical and physics concepts into intuitive, digestible explanations, tailored to diverse learning styles.
+- Completed a pedagogical presentation training course to enhance teaching effectiveness and student engagement.
+- Cleared extensive security background checks, meeting strict requirements for working closely with children and young students.
+
+**Key Skills:** Mathematics instruction, physics tutoring, exam preparation, personalized learning strategies, pedagogical presentation, student engagement, mentorship.
+
+### Store Clerk
+Lidl | Copenhagen, Denmark | April 2019 – August 2020
+- Operated forklifts and pallet jacks to transport and stock goods efficiently, ensuring a well-organized and safe storage environment.
+- Managed shelving and restocking, optimizing product placement and maintaining inventory accuracy to improve customer shopping experience.
+- Provided customer service, assisting shoppers with inquiries, locating products, and handling transactions at checkout.
+- Maintained cleanliness and order throughout the store, ensuring compliance with safety and hygiene regulations.
+
+**Key Skills:** Inventory management, forklift operation, customer service, retail logistics, store maintenance.
+
+### Data Analyst Intern - Single project internship 	            	  
+Thomas Lystlund Studio | Copenhagen, Denmark | January 2019 – April 2019					          
+- **Analyzed cash flows and projected ROI to evaluate forex bot products**, identifying potential scams and advising client on safer investment alternatives by leveraging in-depth knowledge of currency trading and expected returns.
+
+**Key Skills:** Financial modeling, risk assessment, forex trading evaluation, investment strategy, Excel-based financial projections, and client advisory.
+
+### Store Clerk → Store Manager
+MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – December 2018
+- Managed store operations during night and early morning shifts, ensuring smooth workflow and high customer satisfaction.
+- Prepared fresh food items, including baking cakes, pastries, and making sandwiches to maintain a high-quality product offering.
+- Oversaw inventory management, organizing storage areas, freezers, and shelves while maintaining optimal stock levels.
+- Restocked and arranged products efficiently, implementing an organized layout to enhance customer convenience and sales.
+- Provided excellent customer service, handling transactions at the cashier, addressing inquiries, and resolving customer concerns.
+- Coordinated deliveries, receiving and processing shipments to ensure timely replenishment of store inventory.
+- Handled operational challenges, troubleshooting issues in real-time to maintain seamless store functionality.
+- Managed recycling and waste disposal, overseeing bottle return systems and ensuring compliance with environmental regulations.
+
+**Key Skills:** Retail management, inventory control, customer service, food preparation, logistics coordination, problem-solving.
 
 
 # Education
@@ -162,30 +339,30 @@ Subjects: Danish A, English A, History A, Mathematics A, Physics A, Chemistry B,
 - Writing 30/50
 - Speaking 50/50
 
-**Mensa Denmark Certificate - since 2018** \
-I have been tested by Mensa Denmark to have a score in the upper 1% of the danish population, with 42/45 correct on the test.
-
 **PwC - PTL test 2021** \
 Workstyle - above average correctness , below average speed\
 Realistisk, Konsistens, Udholdende, Udviklingsmotiveret, Humørstabil, Forholdsvis pragmatisk, Relativt privat, Svær at tilfredsstille, Konsenssussøgende, Sans for detaljen, Vælger relativt hurtigt side, Relativt eftertænksom
 
+**Mensa Denmark Certificate - since 2018** \
+I have been tested by Mensa Denmark to have a score in the upper 1% of the danish population, with 42/45 correct on the test.
+Online tested to have IQ ≥158
+
 **I'm the investment advisor and custodian for my aunt Jeannette Brezina, since 2024** \
-**Member: Mensa (IQ ≥158), Wilmott Forum, CQF institue, London quant group, Oxford-man, ML-quant, Quantpedia** \
+**Member:** Mensa, Wilmott Forum, CQF institue, London quant group, Oxford-man, ML-quant, Quantpedia \
 **Reviewer and donator(2024–2025) for Anton Vorobets’s upcoming book on portfolio construction and risk management.** \
-**Fitness enthusiast: committed to working out and maintaining an active lifestyle.** \
-**Active creative: I enjoy painting nature and drawing people in my pastime.** \
-**UNF (Danish Youth Foundation of Natural Science) member (2010–2013); Physics Camp participant (2015).** \
+**Fitness enthusiast:** committed to working out and maintaining an active lifestyle. \
+**Active creative:** I enjoy painting nature and drawing people in my pastime. It has come to good use in graphics design for resumes and websites \
+**UNF (Danish Youth Foundation of Natural Science) member (2010–2013)** \
 **ATU (Danish Academy of Talented Youths) member (2014–2016).**
 
 # Awards
-- I was a participant at the 2015 UNF Fysik Camp. I was one of 50 participants out of everyone (expected more than 1000) who sought to participate.
-- I won the danish "design for change" challenge,
-- Participant and north zealand runner-up for European business games 2014
-- Top 0.5% (#107 of 12.5K team) ranking in IMC Prosperity 3 Algorithmic-Trading challenge.
+- Top 0.5% (#107 of 12.5K team) ranking in IMC Prosperity 3 Algorithmic-Trading challenge. 2025
 - Top 2% (#456 of 47K individuals) ranking in Børsen stock trading challenge 2024.
 - Top 10% (#4000 of 42K individuals) ranking in Børsen stock trading challenge 2023.
 - StarCraft II: Ranked Masters League player
 - Passed LinkedIn Skill Assessments in R, Python, VBA, Excel, and MATLAB.
+- I was a participant at the 2015 UNF Fysik Camp. I was one of 50 participants out of everyone (expected more than 1000) who sought to participate.
+- Participant and north zealand runner-up for European business games 2014
 - Design for Change Awardee (2010) for a design competition. Crowdbins was a project for the Design For change competition in Denmark, my group was awarded and won the danish competition with Crowdbins. An app and trashbin interconnected system to inform and relieve sanitation workers.
   - Newspaper article 1 - link unattached at the moment
   - Newspaper article 2 - link unattached at the moment
@@ -194,12 +371,123 @@ Realistisk, Konsistens, Udholdende, Udviklingsmotiveret, Humørstabil, Forholdsv
 
 # Selected projects
 
-## TMRW
+## TMRW — A Comprehensive Algorithmic Trading & AI Initiative
+**Overview**
+TMRW (pronounced “Tomorrow”) is an ongoing research and development venture focused on algorithmic trading, financial modeling, and AI-driven market solutions. Since 2019, the project has undergone multiple phases of growth—building on rigorous mathematical research, advanced Python infrastructure, systematic backtesting, and real-world deployment. These efforts aim to create an integrated, scalable, and adaptive framework capable of consistently navigating the complexities of modern financial markets.
 
-## Galaxy sim
+## Phase 1: Foundational Research & Infrastructure (2019 – 2022)
+### 1. TMRW Research
+- **Goal:** Accumulate mathematical and financial knowledge to ground future algorithmic trading models in robust, well-tested theory.
+- **Focus Areas:**
+  - Stochastic Processes & Time-Series Analysis – Incorporating methods like Ornstein–Uhlenbeck (OU) processes, Brownian motion, and GARCH-style volatility modeling.
+  - Machine Learning & Statistical Arbitrage – Reinforcement learning, mean-field game approaches, and hidden Markov models for trend detection and market state classification.
+  - Risk Management & Quantitative Frameworks – Value-at-Risk (VaR), stress testing, covariance estimations, and data-driven risk tools.
+<br>
+**Knowledgebase:** - [link]()
+- A curated repository of math/finance materials, designed to evolve into a future eBook.
+- Contains in-depth conceptual overviews, problem-solving guides, and recommended references for deeper exploration.
 
-## Stochastic volatility
+### 2. TMRW Infrastructure
+- **Goal:** Provide a personal Python ecosystem to automate ETL (Extract, Transform, Load) processes, unify data sources, and standardize analytics.
+- **Key Features:**
+  - Automated Data Ingestion – Support for live and historical data from Bloomberg, MSCI, Sustainalytics, crypto exchanges (via APIs), etc.
+  - Data Transformation – Integrated scripts for cleaning, resampling, labeling, and feature engineering.
+  - Visualization & Reporting – Tools for plotting performance metrics, generating dashboards, and exporting daily or intraday strategy updates.
 
-## Quantitative portfolio management
+**Example Tools in the Python Package:** - [link]()
+- ```TMRW.FINANCE.RSI()``` – Custom RSI indicator.
+- ```TMRW.FINANCE.returns()``` – Simple & log return calculations over user-defined intervals.
+- ```TMRW.FINANCE.twa()``` – Time-weighted moving average for flexible smoothing.
+
+
+## Phase 2: Simulation & Strategy Deployment (2022 – 2023)
+### 1. TMRW Simulations
+- **Goal:** Develop powerful simulation environments (Monte Carlo, scenario testing) for pricing, risk analysis, and stress-testing new strategies.
+- **Notable Techniques:**
+  - Monte Carlo Engines – Brownian motion, OU processes, square-root diffusion, and GARCH to simulate asset price trajectories.
+  - Extreme Event Testing – Implementation of fat-tailed assumptions (non-Gaussian distributions) to capture “black swan” events.
+  - Portfolio-Level Sensitivity – Integration of multi-asset simulation for dynamic rebalancing and factor-based risk decomposition.
+
+**Example Project - ```mean-reversion-strategy.ipynb```**
+- Walks through a mean reversion model using 20-day Bollinger Bands & 30-day Z-score thresholds.
+- Details buy/sell signals when the market deviates x-sigma from a chosen moving average, referencing user-defined Sharpe ratio, 6m-return, 1y-return, and so forth.
+- Contains performance comparisons vs. standard buy-and-hold.
+
+**Example Project - ```Strategy.ipynb```**
+- Illustrates a pipeline for fetching live data, identifying local minima/maxima, and placing trades via the Binance API.
+- Demonstrates trailing signals and systematic stop-loss logic.
+
+### 2. TMRW Strategies
+- **Goal:** Translate research insights and simulation outcomes into workable, live trading strategies.
+- **Key Achievements:**
+  - Mean Reversion & Momentum – E.g., strategies crossing short-term MAs with 30-day or 40-day MAs, pivoting on local maxima/minima detection.
+  - Trend-Following & Pattern Recognition – Implementing Markov models to detect up-trend, down-trend, or flat states.
+  - Pairs Trading & Arbitrage – Searching for correlated assets (A & B) whose price spread diverges from historical bounds.
+  - Live Deployment – Achieved 13% return over two months running a Python-based strategy with real-time signals.
+  - Risk Management – Incorporating dynamic position sizing, VaR-based stops, and trailing “take-profit” logic.
+
+**Example Project - ```research.ipynb```**
+- Covers advanced topics like Markov probabilities, 0-tangent detection, and backtesting different triggers for momentum or mean reversion.
+- Explores multi-asset synergy, including broad asset classes: equities, crypto, derivatives, and more.
+
+## Phase 3: AI-Enhanced Market Adaptation & Autonomy (2024 – Present)
+### TMRW-AI Solution
+- **Goal:** Combine multi-layered AI architectures (reinforcement learning + predictive modeling) to create adaptive, self-optimizing trading models.
+- Key Pillars:
+  - Adaptive Decision-Making – AI-driven reparameterization of strategies (e.g., adjusting Bollinger bandwidth or RSI thresholds based on real-time volatility).
+  - Market Impact Analysis – Minimizing slippage and partial fill risk via order sizing algorithms, employing advanced “flow-based” ML.
+  - Hidden Markov & Mean-Field Games – Ongoing research to predict intraday regime shifts and respond with minimal latency.
+
+**AI Use Cases in Code**
+- ML-driven “spread Z-Score” strategies (MVRV Z-Score for crypto).
+- Leverage-based sentiment modeling, analyzing the ratio of long vs. short positions in HPC (high-performance computing) environments.
+- Neural Net–Based Predictors (PyTorch / TensorFlow) for short-horizon time-series classification.
+
+### Potential Future Enhancements
+- Quantum-Inspired Optimization – For portfolio rebalancing or high-frequency order books.
+- Reinforcement Agents – Multi-timeframe RL that coordinates short and long horizon signals.
+- Macro Strategies – Integrating fundamental data, news (via sentiment analysis), and macroeconomic indicators (growth, inflation) into a unified AI pipeline.
+
+## Select Research & Methodological Highlights
+- **Mean Reversion Approaches**
+  - Bollinger Band & Z-Score Scripts: Identify extremes with 1.5σ, 2σ, or 2.5σ triggers.
+  - Pairs Trading: Spread-based signals on correlated assets.
+  - Markov Probability Models: Probability of a reversion event given prior states (“Up, Up, Down, Down…”).
+- **Trend-Following & Momentum**
+  - MA Crossovers: 5–15–30 or 5–20–40 for multi-speed detection.
+  - RSI, OBV, TTM Squeeze, MACD Crossovers: Repeated pattern detection in script-based examples (e.g., “TrippleMACD,” “EMA RSI Strategy,” “Fourier Smoothed Hybrid Volume Spread Analysis”).
+- **Risk Management Techniques**
+  - Value-at-Risk & Scenario Tests: Evaluate catastrophic drawdowns, especially under tail scenarios.
+  - Stop-Loss & Trailing Exits: E.g., “Stop 1 ATR below local max” or Markov-driven partial liquidation.
+  - Portfolio-Level Hedging: Using options/futures to offset systematic or idiosyncratic risks.
+- **Advanced AI & ML Explorations**
+  - Hidden Markov Models: Distinguish between “flat,” “bull,” and “bear” states.
+  - Neural Networks & Autoencoders: Feature engineering for intraday microstructure or cross-asset correlations.
+  - Multi-Objective Optimization: Balancing short-term return vs. drawdowns vs. transaction costs.
+
+## Technical Footprint
+- **Programming Languages:** Primarily Python (pandas, NumPy, scikit-learn, TensorFlow/PyTorch) and some R/C++ for specialized tasks.
+- **Notebooks:**
+  - ```mean-reversion-strategy.ipynb``` – Detailed walk-through for Bollinger Band & RSI-based trades.
+  - ```Strategy.ipynb``` – Implementation of local min/max triggers, placing real-time orders on Binance.
+  - ```research.ipynb``` – More experimental code on Markov modeling, 0-tangents, and multi-strategy blending.
+- **Data & API:**
+  - Yahoo Finance, Binance, Bloomberg, MSC, Sustainalytics, Quandl, Alpha Vantage (depending on the asset class).
+
+
+### Long-Term Vision & Impact
+TMRW’s mission is to push the boundaries of quantitative and AI-driven finance, from short-horizon intraday strategies to multi-year portfolio constructions. By merging sound theoretical research, robust coding practices, real-world performance metrics, and advanced AI, TMRW aspires to continuously adapt and outperform in diverse market conditions. Ongoing collaborations with data scientists, quants, and developers aim to expand the knowledge base, refine our multi-layered AI agent, and empower both institutional and individual investors.
+
+**“Tomorrow”** may symbolize the future, but for TMRW, the future is already in development—and it’s fueled by mathematical rigor, strategic experimentation, and cutting-edge AI.
+
+## Physics simulations
+2018 - 2025 (Finished) [**Physics Simulations**](https://github.com/CtoL95/Galaksim)\
+A personal research project focused on simulating the rotational dynamics of spiral galaxies, blending core concepts from astrophysics and numerical analysis. The goal is to explore how large-scale gravitational interactions can be modeled in a multi-particle system, providing insights into galactic rotation curves and potential underlying physical phenomena. This ongoing work involves:\
+
+- Particle-based modeling of galaxy structures and orbital mechanics.
+- Numerical methods adapted from quantum mechanics principles to refine simulation accuracy.
+- Interactive analysis and visualization of rotation curves, mass distribution, and emergent spiral patterns.
+
+By unifying ideas from both astronomy and quantum theory, Galaksim aims to offer a deeper understanding of the forces governing galactic behavior, while also serving as a sandbox for experimenting with algorithmic and physics-based simulations.
 
 
