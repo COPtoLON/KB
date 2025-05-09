@@ -26,6 +26,8 @@ Quantnet-forum-username: MarkBrezina
 
 # Personal Statement:
 
+
+
 # Core technical competences
 
 # Core personal competences
@@ -174,19 +176,19 @@ Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
 
 **Key Tools & Skills:** SAS, SQL, C#, Excel (VBA/VBS), data analysis, ETL pipelines, business intelligence (Power BI), budgeting systems (Navision/Dynamics), code reviews, and cross-departmental collaboration.
 
-### Store Clerk
+### Store Clerk - X
 WHSmith | Copenhagen, Denmark | August 2021 – August 2022
 - Provided exceptional customer service, assisting travelers with purchases, inquiries, and store navigation in a high-traffic airport environment.
 - Managed shelving, restocking, and inventory control, ensuring optimal product placement and store organization.
 - Maintained storage areas, tracking stock levels and coordinating with suppliers to prevent shortages.
 - **Security & Compliance:**
-  - Successfully completed the [Copenhagen Airport, security Awareness certificate](), ensuring adherence to airport safety protocols.
+  - Successfully completed the *Copenhagen Airport, security Awareness certificate*, ensuring adherence to airport safety protocols.
   - Passed comprehensive background checks, verifying a clean criminal record in accordance with airport security regulations.
-  - Completed specialized training in assisting individuals with both visible (blindness, mobility impairments) and invisible disabilities (autism, OCD, anxiety disorders), ensuring inclusive and compassionate customer interactions.
+  - Completed specialized training in assisting individuals with both visible (blindness, mobility impairments) and invisible disabilities (autism, OCD, anxiety disorders), ensuring inclusive and compassionate customer interactions. *Visitor course*
 
 **Key Skills:** Customer service, inventory management, security compliance, accessibility awareness, multitasking in high-paced environments.
 
-### Mathematics & Physics Tutor
+### Mathematics & Physics Tutor - X
 MentorDenmark| Copenhagen, Denmark | September 2017 – September 2021
 - Top-5 of 2000 Senior Mentor with 1,000+ hours of tutoring experience, successfully preparing 50+ students for mathematics and physics exams.
 - Achieved an average satisfaction rating of 4.7/5, consistently helping students improve performance and exceed grade expectations through personalized learning strategies.
@@ -196,7 +198,7 @@ MentorDenmark| Copenhagen, Denmark | September 2017 – September 2021
 
 **Key Skills:** Mathematics instruction, physics tutoring, exam preparation, personalized learning strategies, pedagogical presentation, student engagement, mentorship.
 
-### Store Clerk
+### Store Clerk - X
 Lidl | Copenhagen, Denmark | April 2019 – August 2020
 - Operated forklifts and pallet jacks to transport and stock goods efficiently, ensuring a well-organized and safe storage environment.
 - Managed shelving and restocking, optimizing product placement and maintaining inventory accuracy to improve customer shopping experience.
@@ -205,13 +207,13 @@ Lidl | Copenhagen, Denmark | April 2019 – August 2020
 
 **Key Skills:** Inventory management, forklift operation, customer service, retail logistics, store maintenance.
 
-### Data Analyst Intern - Single project internship 	            	  
+### Data Analyst Intern - Single project internship - X           	  
 Thomas Lystlund Studio | Copenhagen, Denmark | January 2019 – April 2019					          
 - **Analyzed cash flows and projected ROI to evaluate forex bot products**, identifying potential scams and advising client on safer investment alternatives by leveraging in-depth knowledge of currency trading and expected returns.
 
 **Key Skills:** Financial modeling, risk assessment, forex trading evaluation, investment strategy, Excel-based financial projections, and client advisory.
 
-### Night shift Store Manager
+### Night shift Store Manager - X
 MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – December 2018
 - Managed store operations during night and early morning shifts, ensuring smooth workflow and high customer satisfaction.
 - Prepared fresh food items, including baking cakes, pastries, and making sandwiches to maintain a high-quality product offering.
@@ -371,19 +373,18 @@ Online tested to have IQ ≥158
 
 # Selected projects
 
-## TMRW
+## The final problem
+**Overaching idea**: \
+**Mathematical formulation**: \
+**The optimization algorithm**:
 
+## TMRW
 **Overarching idea** \
 **Data-loadin** \
 **Features** \
 **Signals** \
 **Strategy** \
 **Results**
-
-## The final problem
-**Overaching idea** \
-**Mathematical formulation** \
-**The optimization algorithm**
 
 
 ## 1. Knowledgebase (KB)
@@ -419,11 +420,11 @@ These repos house reusable modules and scripts you built for:
 - **QPM:** Quick-prototype market analytics (returns, autocorrelation, Markov chains).
 - **AutoSTAT:** Automated statistical testing pipelines (regression diagnostics, outlier detection).
 
-## 7. Event-Study: AuthenTec → Apple Acquisition Resume - Mark BrezinaResume - Mark Brezina
+## 7. Event-Study: AuthenTec → Apple Acquisition
 **Description:** Conducted an event-study analyzing abnormal stock returns around the February 2012 AuthenTec acquisition by Apple. Calculated cumulative abnormal returns (CARs) using market model and Fama–French benchmarks, highlighting significant positive drift post-announcement. \
 **Tech & Tools:** R (eventstudy, zoo), Excel for tabulation, Bloomberg for historical price data.
 
-## 8. Option-Pricing Library in R for EnvisionRisk Resume - Mark BrezinaResume - Mark Brezina
+## 8. Option-Pricing Library in R for EnvisionRisk
 **Description:** Developed a reusable R package implementing the Heston stochastic-volatility model for option pricing. Features calibration routines (Levenberg–Marquardt), analytical characteristic-function solvers, and Monte Carlo simulators. Integrated into EnvisionRisk’s risk-management platform. \
 **Tech & Tools:** R (Rcpp for C++ speedups), testthat for unit tests, GitHub Actions CI/CD.
 
