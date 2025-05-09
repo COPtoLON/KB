@@ -85,7 +85,7 @@ DSB | Copenhagen, Denmark | May 2024 – January 2025
  
 **Key Tools & Skills:** Conflict resolution, frontline customer service, security compliance, resilience.
 
-### Data Analyst & Developer						           	            	  	  
+### Junior Quantitative Developer						           	            	  	  
 LD Pensions | Copenhagen, Denmark | August 2023 – May 2024
 - **Comprehensive Data Pipelines**
   - Automated ETL processes and scheduled scripts (via Python and task scheduler) to ingest, clean, and unify data from multiple sources (Nykredit, Nordea, Bloomberg, MSCI, Sustainalytics, Morgan Stanley, Danske Bank).
@@ -134,7 +134,7 @@ Lån&Spar Bank | Copenhagen, Denmark | January 2023 – August 2023
 
 **Key Tools & Skills:** SAS, SQL, IRB framework (PD/PC, LGD/LGC, EAD), data governance, data quality reporting, scrum methodology.
 
-### VBA & Python Instructor
+### Python & VBA Course Instructor
 DJØF | Copenhagen, Denmark | January 2023 – August 2023
 - **Curriculum Design & Delivery:**
   - Organized Excel, VBA, and Python coursework for audiences from beginners to advanced, teaching automation, data manipulation, and best practices.
@@ -146,7 +146,7 @@ DJØF | Copenhagen, Denmark | January 2023 – August 2023
 
 **Key Tools & Skills:** Teaching, Python, VBA, Excel automation, pedagogical presentation strategies.
 
-### Data Analyst & Developer	            	  
+### Financial Data Analyst	            	  
 Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
 - **Timesheet & Budgeting System**
   - Administered a comprehensive timesheet and budgetting platform, performing in-depth analyses of hours worked, salary payment updates, and budget distribution across multiple departments.
@@ -175,7 +175,7 @@ Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
 **Key Tools & Skills:** SAS, SQL, C#, Excel (VBA/VBS), data analysis, ETL pipelines, business intelligence (Power BI), budgeting systems (Navision/Dynamics), code reviews, and cross-departmental collaboration.
 
 ### Store Clerk
-WHSmith | Copenhagen, Denmark | December 2021 – August 2022
+WHSmith | Copenhagen, Denmark | August 2021 – August 2022
 - Provided exceptional customer service, assisting travelers with purchases, inquiries, and store navigation in a high-traffic airport environment.
 - Managed shelving, restocking, and inventory control, ensuring optimal product placement and store organization.
 - Maintained storage areas, tracking stock levels and coordinating with suppliers to prevent shortages.
@@ -211,7 +211,7 @@ Thomas Lystlund Studio | Copenhagen, Denmark | January 2019 – April 2019
 
 **Key Skills:** Financial modeling, risk assessment, forex trading evaluation, investment strategy, Excel-based financial projections, and client advisory.
 
-### Store Clerk → Store Manager
+### Night shift Store Manager
 MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – December 2018
 - Managed store operations during night and early morning shifts, ensuring smooth workflow and high customer satisfaction.
 - Prepared fresh food items, including baking cakes, pastries, and making sandwiches to maintain a high-quality product offering.
