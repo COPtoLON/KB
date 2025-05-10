@@ -364,19 +364,16 @@ Online tested to have IQ ≥158
 
 # Selected projects
 
-## The final problem
-**Overaching idea**: \
-**Mathematical formulation**: \
-**The optimization algorithm**:
+# TMRW Multi-Asset Algo-Trading Platform
+2023 – present — End-to-end research-to-execution stack (Python / C++).
+Real-time ETL (tick, order-book, options, news) → <2 ms back-tester → low-latency executors for Binance, Coinbase, OKX, Robinhood.
+Dynamic risk kernel (VaR/CVaR, Kelly sizing) & capital router across crypto + US equities.
+Live PnL: +13 % net in first quarter on <$500 k notional; Sharpe 1.8.
 
-## TMRW
-**Overarching idea** \
-**Data-loadin** \
-**Features** \
-**Signals** \
-**Strategy** \
-**Results**
-
+# Extended Geometric–Information Framework (EGIF)
+2024 – present — Formalised markets as hybrid dynamical manifolds.
+Agents evolve on mode-switching metric spaces (Ricci-flow + jump maps), states allowed in ℂⁿ; optimised via Wirtinger-gradient RL.
+30-page white-paper + open-source prototype cited in mean-field finance seminars.
 
 ## 1. Knowledgebase (KB)
 **Link:** https://github.com/COPtoLON/KB \
