@@ -42,29 +42,6 @@ Blending **statistical rigor, low-latency engineering, and AI-driven trading log
 
 # Work Experience
 
-## Founder, Quantitative Developer, Quantitative Strategist/Researcher
-TMRW | Copenhagen, Denmark | January 2023 – Present
-- **Further developments**
-  - I am taking part in the IMC Prosperity 3 challenge, putting this on pause for the moment and adapting solutions from the IMC challenge to this project.
-  - Adding work on market making with the Avelanda-stoikov model, momentum trading, pairs trading and index arbitrage.
-- **Research & Development**
-  - Market State Detection: Investigated advanced detection methods—including custom market-state classifiers, Hidden Markov Models (HMM), decision-tree frameworks, autocorrelation analyses, and stationarity tests.
-  - Trend & Reversion Analysis: Explored trend detection techniques using Markov chains, local reversion triggers, resistance-level identification, and various regression methods.
-  - Strategy Choice AI: Built a prototype engine that dynamically selects among trend-following, mean-reversion, or event-driven reversion strategies based on real-time market conditions.
-  - Algorithmic Exploration: Conducted in-depth statistical and financial research to identify and refine profitable trading algorithms; introduced novel methodologies for analyzing market patterns and enabling data-driven insights.
-  - Continuous Learning: Enriched expertise by attending research lectures (Daniel Lacker’s mean-field theory, Peter Cotton’s hierarchical risk parity, CQF Institute portfolio management conference), engaging with online communities (Wilmott’s forum, Quantnet, Quant Finance Stack Exchange), and acquiring specialized academic texts on risk management, mean-field games, advanced linear modeling, credit risk modeling, and computational finance.
-- **Technical Innovations**
-  - Backtesting System: Developed a high-performance framework to test trading strategies against both historical market data and simulated environments—ensuring rigorous validation and stress testing.
-  - Forecasting Engine: Engineered predictive models leveraging Markov Chain Monte Carlo, Monte Carlo simulations, ARIMA/GARCH processes, and other statistical/financial indicators to anticipate price movements.
-  - ETL Pipelines: Created a robust data pipeline integrating multiple APIs and databases—encompassing real-time price feeds, order book depth, options chains, macroeconomic metrics, and news sentiment data.
-- **IT Infrastructure & Architecture**
-  - Scalable Architecture: Designed and implemented resilient hardware setups, communication channels, and systematic documentation workflows to support algorithmic trading operations.
-  - Multi-Asset Integration: Incorporated connectivity across multiple exchanges, diverse data flows, and a variety of asset classes, enabling the platform to handle crypto, equities, and more.
-  - Software Development: Progressed from an initial prototype to faster, more generalized versions using Python, SQL, and C++. Employed web scraping, data cleaning, OOP, and modular design to build distinct modules for risk monitoring, PnL tracking, and on-demand backtesting.
-
-**Key Tools & Skills:** Python, SQL, C++, algorithmic trading, crypto markets, quantitative research, Monte Carlo methods, Hidden Markov Models, dynamic market-state detection, ARIMA/GARCH, data engineering, OOP, modular architecture, risk monitoring, backtesting.
-
-**Related Github repos**:
 
 ### Freelance Software Developer - X
 Self-Employed | Remote | May 2024 – January 2025	     
