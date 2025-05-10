@@ -42,12 +42,16 @@ Blending **statistical rigor, low-latency engineering, and AI-driven trading log
 
 # Work Experience
 
-### Founder, Quantitative researcher and developer
-TMRW | Remote | January 2021 – January 2025	
-- **test**
-  - abcd
-- **test2**
-  - abdc  
+### Founder, Quantitative Researcher and Developer
+TMRW | Remote | January 2021 – Present \
+Founded and led development of a comprehensive algorithmic trading platform (“TMRW”) integrating advanced quantitative modeling, AI-driven market analysis, and live trading execution. Incorporated theoretical innovations such as an extended geometric-information framework for multi-agent market dynamics into practical machine learning and reinforcement learning strategies, deploying both ultra-low-latency and mid-frequency trading systems. Achieved notable results including a \~13% return in a short-term live trading deployment and a top 0.5% ranking (#107/12,000) in the IMC Prosperity 3 global quantitative trading challenge.
+
+- **Theoretical Research:** Developed an extended geometric-information framework for market modeling, blending physics (differential geometry) with game theory to treat the market as a dynamic geometric field of interacting agents. This novel approach formalized trading strategies as hybrid geometric-information flows, providing a rigorous foundation for adaptive, multi-scale trading systems.
+- **Regime Detection & Strategy Allocation:** Designed advanced market-state detection algorithms using multi-model classifiers – including physics-informed turbulence metrics, Hidden Markov Models, decision trees, and stationarity tests – to identify regime shifts in real time. Built an AI-driven strategy engine that dynamically switches between trend-following, mean-reversion, and event-driven strategies based on detected market regimes and volatility forecasts, enabling the portfolio to continuously adapt to changing market conditions.
+- **Machine Learning & RL Strategies:** Developed and deployed trading algorithms across multiple time horizons – from ultra-low latency market-making and arbitrage bots (microsecond-to-millisecond reaction times) to mid-frequency momentum and statistical arbitrage models using stochastic control and actor–critic reinforcement learning, and even macro-scale portfolio optimizations via mean-field game theory. This multi-scale approach ensured strategy robustness from high-frequency settings up to longer-term market regimes.
+- **Infrastructure & Execution:** Engineered a scalable research-to-execution infrastructure with high-performance backtesting and real-time data pipelines (streaming multi-asset order books, options, and news feeds). Integrated trading execution across major exchanges – **Binance**, **Coinbase**, **OKX**, **Robinhood**, etc. – via low-latency APIs, achieving sub-second order execution and embedding automated risk management (dynamic position sizing, VaR/CVaR limits) for live trading.
+- **Performance & Achievements:** Achieved a **\~13%** return in an initial live trading deployment of TMRW’s strategies. Earned a **top 0.5%** global rank (107th out of \~12,000 participants) in the IMC Prosperity 3 algorithmic trading challenge, validating the strategies against international competition. Incorporated the winning market-making (Avellaneda-Stoikov with drift) and statistical arbitrage techniques from this competition back into TMRW’s live trading framework to further enhance performance.
+
 
 ### Freelance Software Developer
 Self-Employed | Remote | May 2024 – January 2025	     
