@@ -43,7 +43,7 @@ Blending **statistical rigor, low-latency engineering, and AI-driven trading log
 # Work Experience
 
 
-### Freelance Software Developer - X
+### Freelance Software Developer
 Self-Employed | Remote | May 2024 – January 2025	     
 - **High-Frequency Trading Solutions:**
   - Developed a low-latency trading system to exploit meme-coin IPOs, guiding clients from sub-penny coins to mid-cap altcoins on the Raydium market.
@@ -55,7 +55,7 @@ Self-Employed | Remote | May 2024 – January 2025
 
 **Key Tools & Skills:** Python, Excel, VBA, Pine Script, web technologies (HTML/CSS/JS), batch scripting, automation, solution design.
 
-### Train Station Service Personnel - X
+### Train Station Service Personnel
 DSB | Copenhagen, Denmark | May 2024 – January 2025
 - **Safety & Customer Assistance:**
   - Maintained cleanliness and safety at multiple train stations, ensuring positive passenger experiences.
@@ -68,7 +68,7 @@ DSB | Copenhagen, Denmark | May 2024 – January 2025
  
 **Key Tools & Skills:** Conflict resolution, frontline customer service, security compliance, resilience.
 
-### Junior Quantitative Developer - X				           	            	  	  
+### Junior Quantitative Developer			           	            	  	  
 LD Pensions | Copenhagen, Denmark | August 2023 – May 2024
 - **Comprehensive Data Pipelines**
   - Automated ETL processes and scheduled scripts (via Python and task scheduler) to ingest, clean, and unify data from multiple sources (Nykredit, Nordea, Bloomberg, MSCI, Sustainalytics, Morgan Stanley, Danske Bank). A novel approach for the organization, causing data streams and the ability to analyse data to go from weeks or days down to minutes or hours.
@@ -98,7 +98,7 @@ LD Pensions | Copenhagen, Denmark | August 2023 – May 2024
 
 **Key Tools & Skills:** Python, SQL, ETL frameworks, risk modeling (VaR/CVaR), scenario simulations, ESG data, Excel–Python integration, Power BI, geometric Brownian motion, SSE-Simulations, Quantitative Analysis, Portfolio Construction & Optimization.
 
-### Data Quality Analyst - X 	  
+### Data Quality Analyst
 Lån&Spar Bank | Copenhagen, Denmark | January 2023 – August 2023
 - **Assessed and documented data quality indicators for the upcoming IRB system (scheduled for 2025 launch), producing in-depth analyses of PD/PC, LGD/LGC, EAD, and DoD procedures to enhance data integrity and reporting accuracy.**
   - Running through data quality dimensions: Accuracy, completeness, consistency, validity, uniqueness, integrity
@@ -117,7 +117,7 @@ Lån&Spar Bank | Copenhagen, Denmark | January 2023 – August 2023
 
 **Key Tools & Skills:** SAS, SQL, IRB framework (PD/PC, LGD/LGC, EAD), data governance, data quality reporting, scrum methodology.
 
-### Python & VBA Course Instructor - X
+### Python & VBA Course Instructor
 DJØF | Copenhagen, Denmark | January 2023 – August 2023
 - **Curriculum Design & Delivery:**
   - Organized Excel, VBA, and Python coursework for audiences from beginners to advanced, teaching automation, data manipulation, and best practices.
@@ -129,7 +129,7 @@ DJØF | Copenhagen, Denmark | January 2023 – August 2023
 
 **Key Tools & Skills:** Teaching, Python, VBA, Excel automation, pedagogical presentation strategies.
 
-### Financial Data Analyst - X	            	  
+### Financial Data Analyst           	  
 Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
 - **Timesheet & Budgeting System**
   - Administered a comprehensive timesheet and budgetting platform, performing in-depth analyses of hours worked, salary payment updates, and budget distribution across multiple departments.
@@ -157,7 +157,7 @@ Statistics Denmark | Copenhagen, Denmark | August 2021 – August 2023
 
 **Key Tools & Skills:** SAS, SQL, C#, Excel (VBA/VBS), data analysis, ETL pipelines, business intelligence (Power BI), budgeting systems (Navision/Dynamics), code reviews, and cross-departmental collaboration.
 
-### Store Clerk - X
+### Store Clerk
 WHSmith | Copenhagen, Denmark | August 2021 – August 2022
 - Provided exceptional customer service, assisting travelers with purchases, inquiries, and store navigation in a high-traffic airport environment.
 - Managed shelving, restocking, and inventory control, ensuring optimal product placement and store organization.
@@ -169,7 +169,7 @@ WHSmith | Copenhagen, Denmark | August 2021 – August 2022
 
 **Key Skills:** Customer service, inventory management, security compliance, accessibility awareness, multitasking in high-paced environments.
 
-### Mathematics & Physics Tutor - X
+### Mathematics & Physics Tutor
 MentorDenmark| Copenhagen, Denmark | September 2017 – September 2021
 - Top-5 of 2000 Senior Mentor with 1,000+ hours of tutoring experience, successfully preparing 50+ students for mathematics and physics exams.
 - Achieved an average satisfaction rating of 4.7/5, consistently helping students improve performance and exceed grade expectations through personalized learning strategies.
@@ -179,7 +179,7 @@ MentorDenmark| Copenhagen, Denmark | September 2017 – September 2021
 
 **Key Skills:** Mathematics instruction, physics tutoring, exam preparation, personalized learning strategies, pedagogical presentation, student engagement, mentorship.
 
-### Store Clerk - X
+### Store Clerk
 Lidl | Copenhagen, Denmark | April 2019 – August 2020
 - Operated forklifts and pallet jacks to transport and stock goods efficiently, ensuring a well-organized and safe storage environment.
 - Managed shelving and restocking, optimizing product placement and maintaining inventory accuracy to improve customer shopping experience.
@@ -188,13 +188,13 @@ Lidl | Copenhagen, Denmark | April 2019 – August 2020
 
 **Key Skills:** Inventory management, forklift operation, customer service, retail logistics, store maintenance.
 
-### Data Analyst Intern - Single project internship - X           	  
+### Data Analyst Intern - Single project internship      	  
 Thomas Lystlund Studio | Copenhagen, Denmark | January 2019 – April 2019					          
 - **Analyzed cash flows and projected ROI to evaluate forex bot products**, identifying potential scams and advising client on safer investment alternatives by leveraging in-depth knowledge of currency trading and expected returns.
 
 **Key Skills:** Financial modeling, risk assessment, forex trading evaluation, investment strategy, Excel-based financial projections, and client advisory.
 
-### Night shift Store Manager - X
+### Night shift Store Manager
 MinKøbmand (Wenzzel Family business)| Copenhagen, Denmark | October 2016 – December 2018
 - Managed store operations during night and early morning shifts, ensuring smooth workflow and high customer satisfaction.
 - Prepared fresh food items, including baking cakes, pastries, and making sandwiches to maintain a high-quality product offering.
