@@ -42,6 +42,12 @@ Blending **statistical rigor, low-latency engineering, and AI-driven trading log
 
 # Work Experience
 
+### Founder, Quantitative researcher and developer
+TMRW | Remote | January 2021 – January 2025	
+- **test**
+  - abcd
+- **test2**
+  - abdc  
 
 ### Freelance Software Developer
 Self-Employed | Remote | May 2024 – January 2025	     
