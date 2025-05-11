@@ -360,23 +360,23 @@ Online tested to have IQ ≥158
 
 # Selected projects
 
-- Knowledgebase / TMRW – Quantitative Research Framework – Developed the Extended Geometric-Information Framework as a flagship research platform formalizing financial markets as dynamical geometric systems (foundation for algorithmic strategy design).
+- **Knowledgebase / TMRW – Quantitative Research Framework** – Developed the Extended Geometric-Information Framework as a flagship research platform formalizing financial markets as dynamical geometric systems (foundation for algorithmic strategy design).
   - Pioneered regime-switching market state models with curvature-driven metrics to capture evolving market regimes and transitions.
   - Designed reinforcement learning agents using complex state spaces and Wirtinger gradient optimization for adaptive trading strategies.
   - Consolidated theoretical insights into a comprehensive strategy playbook guiding proprietary trading systems, resulting in improved risk-adjusted returns in simulations.
-- Galaksim – Astrophysics Simulation – Created an N-body simulation (in C++) to model galaxy formation dynamics, solving gravitational interactions with optimized numerical methods.
+- **Galaksim – Astrophysics Simulation** – Created an N-body simulation (in C++) to model galaxy formation dynamics, solving gravitational interactions with optimized numerical methods.
   - Demonstrated expertise in high-performance scientific computing and differential equation modeling, skills applicable to large-scale quantitative simulations.
-- GoldenDice – Probability Simulation – Built a Monte Carlo simulation engine to analyze complex probabilistic outcomes and risk scenarios.
+- **GoldenDice – Probability Simulation** – Built a Monte Carlo simulation engine to analyze complex probabilistic outcomes and risk scenarios.
   - Modeled thousands of random trials to estimate outcome distributions and validate probability theory predictions, showcasing deep understanding of stochastic processes.
-- CONTROL – Dynamic Control Systems – Developed a control-system simulator applying classical control theory (PID controllers, state-space models) to stabilize complex processes.
+- **CONTROL – Dynamic Control Systems** – Developed a control-system simulator applying classical control theory (PID controllers, state-space models) to stabilize complex processes.
   - Analyzed system stability and feedback performance, illustrating proficiency in advanced mathematical modeling and robust algorithm design.
-- Quantitative Portfolio Management Suite (BasicIT, Fin, QPM, AutoSTAT) – Developed an integrated set of R/Python tools for portfolio construction, risk management, and performance analysis.
+- **Quantitative Portfolio Management Suite** (BasicIT, Fin, QPM, AutoSTAT) – Developed an integrated set of R/Python tools for portfolio construction, risk management, and performance analysis.
   - BasicIT & Fin: Modules for financial data ingestion, portfolio tracking, and performance metrics calculation.
   - QPM: Simulation-based portfolio optimizer evaluating strategies under various risk/return metrics (e.g., VaR, Sharpe ratio, drawdowns).
   - AutoSTAT: Automated statistical reporting engine generating portfolio risk analytics and performance visualizations.
-- EnvisionRisk – Heston Model Implementation – Implemented the Heston stochastic volatility model in R for derivative pricing and risk analysis.
+- **EnvisionRisk – Heston Model Implementation** – Implemented the Heston stochastic volatility model in R for derivative pricing and risk analysis.
   - Calibrated the model to market data for option valuation and simulated price dynamics, demonstrating expertise in stochastic calculus and quantitative finance.
-- AuthenTec–Apple Event Study – Conducted an event study on Apple’s acquisition of AuthenTec to assess its market impact.
+- **AuthenTec–Apple Event Study** – Conducted an event study on Apple’s acquisition of AuthenTec to assess its market impact.
   - Collected and analyzed stock price data to compute abnormal returns around the announcement, using statistical tests to determine the significance of the event’s effect on shareholder value.
 
 
