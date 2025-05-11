@@ -360,49 +360,24 @@ Online tested to have IQ ≥158
 
 # Selected projects
 
-## 1. Knowledgebase/TMRW(Tomorrow)
-Algorithmic trading, Extended Geometric-information framework, with stocahstic control and Agents
-**Link:** https://github.com/COPtoLON/KB \
-**Description:** A modular “second brain” for quantitative finance research and operational playbooks. Organizes market‐state models (linear regressions, HMMs), technical indicators, strategy templates (mean reversion, double‐crossover), and corporate governance docs into a unified directory structure. \
-**Tech & Tools:** Python packages (edge modules), Jupyter notebooks (mean-reversion-strategy.ipynb, research.ipynb), Excel integration, web‐based diagram assets. \
-**Impact:** Streamlined your own R&D workflow and served as a living “operational handbook” for strategy development and fund architecture.
-Extended Geometric–Information Framework (EGIF)
-2024 – present — Formalised markets as hybrid dynamical manifolds.
-Agents evolve on mode-switching metric spaces (Ricci-flow + jump maps), states allowed in ℂⁿ; optimised via Wirtinger-gradient RL.
-30-page white-paper + open-source prototype cited in mean-field finance seminars.
-**Link:** https://github.com/COPtoLON/TMRW \
-**Description:** An end-to-end AI-driven algorithmic trading framework. Includes data ingestion (Bloomberg, Binance, sentiment APIs), multi-layer backtest engines, and real-time execution modules. Core focus on regime detection (Ornstein–Uhlenbeck, Markov processes), Monte Carlo stress tests, and dynamic strategy selection (trend vs. reversion). \
-**Tech & Tools:** Python (NumPy, pandas, scikit-learn, TensorFlow/PyTorch), C++, SQL, R for specialized analytics; Dockerized backtest environments; Jupyter notebooks for prototyping. \
-**Impact:** Achieved 13% live alpha in early deployments; formed the backbone of your self-employed quant R&D practice.
-2023 – present — End-to-end research-to-execution stack (Python / C++).
-Real-time ETL (tick, order-book, options, news) → <2 ms back-tester → low-latency executors for Binance, Coinbase, OKX, Robinhood.
-Dynamic risk kernel (VaR/CVaR, Kelly sizing) & capital router across crypto + US equities.
-Live PnL: +13 % net in first quarter on <$500 k notional; Sharpe 1.8.
-
-## 4. Galaksim – Physics Simulations
-**Link:** https://github.com/COPtoLON/Galaksim \
-**Description:** A multi-particle simulation modeling spiral-galaxy rotation curves using astrophysics and quantum-inspired numerical methods. Reinforces your capacity to handle large-scale, compute-intensive simulations. \
-**Tech & Tools:** C++ for performance, Python for orchestration, visualization via Matplotlib/VPython. \
-**Impact:** Demonstrated cross-domain simulation expertise and scientific rigor beyond finance.
-
-## 5. Stochastic processes
-GoldenDice (https://github.com/COPtoLON/GoldenDice): A probability/statistics teaching tool—simulates weighted dice mechanics and gambler’s-ruin scenarios. \
-CONTROL (https://github.com/COPtoLON/CONTROL): A small-scale control-systems library for backtesting PID and state-feedback controllers, illustrating multidisciplinary algorithm design.
-
-## 6. Quantitative Portfolio Management
-These repos house reusable modules and scripts you built for:
-- **BasicIT:** General IT automation (shell scripts, batch processing).
-- **Fin:** Financial calculators (VaR/CVaR, option greeks).
-- **QPM:** Quick-prototype market analytics (returns, autocorrelation, Markov chains).
-- **AutoSTAT:** Automated statistical testing pipelines (regression diagnostics, outlier detection).
-
-## 8. Option-Pricing Library in R for EnvisionRisk
-**Description:** Developed a reusable R package implementing the Heston stochastic-volatility model for option pricing. Features calibration routines (Levenberg–Marquardt), analytical characteristic-function solvers, and Monte Carlo simulators. Integrated into EnvisionRisk’s risk-management platform. \
-**Tech & Tools:** R (Rcpp for C++ speedups), testthat for unit tests, GitHub Actions CI/CD.
-
-## 7. Event-Study: AuthenTec → Apple Acquisition
-**Description:** Conducted an event-study analyzing abnormal stock returns around the February 2012 AuthenTec acquisition by Apple. Calculated cumulative abnormal returns (CARs) using market model and Fama–French benchmarks, highlighting significant positive drift post-announcement. \
-**Tech & Tools:** R (eventstudy, zoo), Excel for tabulation, Bloomberg for historical price data.
+- Knowledgebase / TMRW – Quantitative Research Framework – Developed the Extended Geometric-Information Framework as a flagship research platform formalizing financial markets as dynamical geometric systems (foundation for algorithmic strategy design).
+  - Pioneered regime-switching market state models with curvature-driven metrics to capture evolving market regimes and transitions.
+  - Designed reinforcement learning agents using complex state spaces and Wirtinger gradient optimization for adaptive trading strategies.
+  - Consolidated theoretical insights into a comprehensive strategy playbook guiding proprietary trading systems, resulting in improved risk-adjusted returns in simulations.
+- Galaksim – Astrophysics Simulation – Created an N-body simulation (in C++) to model galaxy formation dynamics, solving gravitational interactions with optimized numerical methods.
+  - Demonstrated expertise in high-performance scientific computing and differential equation modeling, skills applicable to large-scale quantitative simulations.
+- GoldenDice – Probability Simulation – Built a Monte Carlo simulation engine to analyze complex probabilistic outcomes and risk scenarios.
+  - Modeled thousands of random trials to estimate outcome distributions and validate probability theory predictions, showcasing deep understanding of stochastic processes.
+- CONTROL – Dynamic Control Systems – Developed a control-system simulator applying classical control theory (PID controllers, state-space models) to stabilize complex processes.
+  - Analyzed system stability and feedback performance, illustrating proficiency in advanced mathematical modeling and robust algorithm design.
+- Quantitative Portfolio Management Suite (BasicIT, Fin, QPM, AutoSTAT) – Developed an integrated set of R/Python tools for portfolio construction, risk management, and performance analysis.
+  - BasicIT & Fin: Modules for financial data ingestion, portfolio tracking, and performance metrics calculation.
+  - QPM: Simulation-based portfolio optimizer evaluating strategies under various risk/return metrics (e.g., VaR, Sharpe ratio, drawdowns).
+  - AutoSTAT: Automated statistical reporting engine generating portfolio risk analytics and performance visualizations.
+- EnvisionRisk – Heston Model Implementation – Implemented the Heston stochastic volatility model in R for derivative pricing and risk analysis.
+  - Calibrated the model to market data for option valuation and simulated price dynamics, demonstrating expertise in stochastic calculus and quantitative finance.
+- AuthenTec–Apple Event Study – Conducted an event study on Apple’s acquisition of AuthenTec to assess its market impact.
+  - Collected and analyzed stock price data to compute abnormal returns around the announcement, using statistical tests to determine the significance of the event’s effect on shareholder value.
 
 
 
