@@ -332,10 +332,6 @@ Subjects: Danish A, English A, History A, Mathematics A, Physics A, Chemistry B,
 - Writing 30/50
 - Speaking 50/50
 
-**PwC - PTL test 2021** \
-Workstyle - above average correctness , below average speed\
-Realistisk, Konsistens, Udholdende, Udviklingsmotiveret, Humørstabil, Forholdsvis pragmatisk, Relativt privat, Svær at tilfredsstille, Konsenssussøgende, Sans for detaljen, Vælger relativt hurtigt side, Relativt eftertænksom
-
 **Mensa Denmark Certificate - since 2018** \
 I have been tested by Mensa Denmark to have a score in the upper 1% of the danish population, with 42/45 correct on the test.
 Online tested to have IQ ≥158
