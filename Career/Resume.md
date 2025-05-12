@@ -243,6 +243,22 @@ GPA: Unknown
 Subjects: Danish A, English A, History A, Mathematics A, Physics A, Chemistry B, German B, Biology C, Design C, Innovation C, Philosophy C, Religion C, Social Science C, Natural science introduction C, General language C\
 **GPA:** approximately 8.5/12.
 
+
+Thesis: “Option Pricing with Stochastic Volatility in the Heston Model” ~ R library development, estimation of coefficients, implied volatility surface graph - Software development of a range of functions in R, pricing function, characteresting function, parameter estimation, implied volatility surface display. The library is now being used by the company EnvisionRisk in Denmark.
+First year project: Event study in the stock market, in the project we ran estimations on best trading strategies around significant events in the stock market, the focus was on the acquisition announcement between AuthenTec and Apple. The goal of this project was to estimate the effect of new information, such as a Merger announcement, on the prices of certain stocks, this is usually called an event study. In our event study we had to calculate and consider the effect that a merger announcement between Apple and AuthenTec had on AuthenTec’s stock price. We were given datasets from the 30-day period around the time of the announcement. For the project we used the following • Programming and dataanalysis in R • Linear regression with linear algebra • Hypothesistest with linear modelling • Construction of information-based trading strategies • Performance evaluation of said trading strategies
+Relevant coursework: Mathematical Statistics, Stochastic processes I & II, Basic Life insurance, Basic Non-life Insurance, Advanced probability theory
+Gained fundamental proficiency in probability theory, statistical inference, and time series analysis, forming a strong basis for quantitative work
+Note: On this education I have had experience with R, Python, probability theory, Mathematical Statistics, Stochastic processes and insurance mathematics - This implies work in time series Analysis, Statistical Inference, Monte Carlo methods, Markov models, stochastic calculus and financial mathematics
+
+B.Sc. in Mathematical Physics
+University of Copenhagen | Copenhagen, Denmark | September 2019- April 2021
+
+Resigned to transfer to the bachelor degree in Mathematical Statistics.
+First year project: "Dark matter detection in rotational spiral galaxies" ~ MatLab, object detection, astrophysics of rotational spiral galaxies. - First year project on calculating the rotational speed of spiral galaxies, to estimate dark matter densities. We used a machine learning algorithm to identify certain types of stars from a black-white image of a spiral galaxy, then calculated the rotational speeds, to show that the corresponding mass of the galaxy was insufficient to obtain such speeds. As a first year student at the bachelor degree of physics. I had the chance to participate in a project focused on the rotational speed of galaxies as could be calculated with image scanning processes in MATLAB. Our conclusion was simply that the rotation speed of galaxies did not match the expected rotational speed and that the galaxy therefore had to have dark matter as well.
+Relevant Coursework: Introductory Thermodynamics, Electrodynamics, Quantum Mechanics, Advanced Quantum Mechancis, Galactic Astrophysics, Complex analysis
+Note: On this education I have had experience with Matlab, R, physics, astrophysics and mathematical physics work
+
+
 # Courses, Certifications and continuous learning
 
 ## 2025
@@ -380,5 +396,107 @@ Online tested to have IQ ≥158
   - Collected and analyzed stock price data to compute abnormal returns around the announcement, using statistical tests to determine the significance of the event’s effect on shareholder value.
 
 
+TMRW — A Comprehensive Algorithmic Trading & AI Initiative
+Overview TMRW (pronounced “Tomorrow”) is an ongoing research and development venture focused on algorithmic trading, financial modeling, and AI-driven market solutions. Since 2019, the project has undergone multiple phases of growth—building on rigorous mathematical research, advanced Python infrastructure, systematic backtesting, and real-world deployment. These efforts aim to create an integrated, scalable, and adaptive framework capable of consistently navigating the complexities of modern financial markets.
 
+Phase 1: Foundational Research & Infrastructure (2019 – 2022)
+1. TMRW Research
+Goal: Accumulate mathematical and financial knowledge to ground future algorithmic trading models in robust, well-tested theory.
+Focus Areas:
+Stochastic Processes & Time-Series Analysis – Incorporating methods like Ornstein–Uhlenbeck (OU) processes, Brownian motion, and GARCH-style volatility modeling.
+Machine Learning & Statistical Arbitrage – Reinforcement learning, mean-field game approaches, and hidden Markov models for trend detection and market state classification.
+Risk Management & Quantitative Frameworks – Value-at-Risk (VaR), stress testing, covariance estimations, and data-driven risk tools.
 
+**Knowledgebase:** - [link]() - A curated repository of math/finance materials, designed to evolve into a future eBook. - Contains in-depth conceptual overviews, problem-solving guides, and recommended references for deeper exploration.
+2. TMRW Infrastructure
+Goal: Provide a personal Python ecosystem to automate ETL (Extract, Transform, Load) processes, unify data sources, and standardize analytics.
+Key Features:
+Automated Data Ingestion – Support for live and historical data from Bloomberg, MSCI, Sustainalytics, crypto exchanges (via APIs), etc.
+Data Transformation – Integrated scripts for cleaning, resampling, labeling, and feature engineering.
+Visualization & Reporting – Tools for plotting performance metrics, generating dashboards, and exporting daily or intraday strategy updates.
+Example Tools in the Python Package: - link
+
+TMRW.FINANCE.RSI() – Custom RSI indicator.
+TMRW.FINANCE.returns() – Simple & log return calculations over user-defined intervals.
+TMRW.FINANCE.twa() – Time-weighted moving average for flexible smoothing.
+Phase 2: Simulation & Strategy Deployment (2022 – 2023)
+1. TMRW Simulations
+Goal: Develop powerful simulation environments (Monte Carlo, scenario testing) for pricing, risk analysis, and stress-testing new strategies.
+Notable Techniques:
+Monte Carlo Engines – Brownian motion, OU processes, square-root diffusion, and GARCH to simulate asset price trajectories.
+Extreme Event Testing – Implementation of fat-tailed assumptions (non-Gaussian distributions) to capture “black swan” events.
+Portfolio-Level Sensitivity – Integration of multi-asset simulation for dynamic rebalancing and factor-based risk decomposition.
+Example Project - mean-reversion-strategy.ipynb
+
+Walks through a mean reversion model using 20-day Bollinger Bands & 30-day Z-score thresholds.
+Details buy/sell signals when the market deviates x-sigma from a chosen moving average, referencing user-defined Sharpe ratio, 6m-return, 1y-return, and so forth.
+Contains performance comparisons vs. standard buy-and-hold.
+Example Project - Strategy.ipynb
+
+Illustrates a pipeline for fetching live data, identifying local minima/maxima, and placing trades via the Binance API.
+Demonstrates trailing signals and systematic stop-loss logic.
+2. TMRW Strategies
+Goal: Translate research insights and simulation outcomes into workable, live trading strategies.
+Key Achievements:
+Mean Reversion & Momentum – E.g., strategies crossing short-term MAs with 30-day or 40-day MAs, pivoting on local maxima/minima detection.
+Trend-Following & Pattern Recognition – Implementing Markov models to detect up-trend, down-trend, or flat states.
+Pairs Trading & Arbitrage – Searching for correlated assets (A & B) whose price spread diverges from historical bounds.
+Live Deployment – Achieved 13% return over two months running a Python-based strategy with real-time signals.
+Risk Management – Incorporating dynamic position sizing, VaR-based stops, and trailing “take-profit” logic.
+Example Project - research.ipynb
+
+Covers advanced topics like Markov probabilities, 0-tangent detection, and backtesting different triggers for momentum or mean reversion.
+Explores multi-asset synergy, including broad asset classes: equities, crypto, derivatives, and more.
+Phase 3: AI-Enhanced Market Adaptation & Autonomy (2024 – Present)
+TMRW-AI Solution
+Goal: Combine multi-layered AI architectures (reinforcement learning + predictive modeling) to create adaptive, self-optimizing trading models.
+Key Pillars:
+Adaptive Decision-Making – AI-driven reparameterization of strategies (e.g., adjusting Bollinger bandwidth or RSI thresholds based on real-time volatility).
+Market Impact Analysis – Minimizing slippage and partial fill risk via order sizing algorithms, employing advanced “flow-based” ML.
+Hidden Markov & Mean-Field Games – Ongoing research to predict intraday regime shifts and respond with minimal latency.
+AI Use Cases in Code
+
+ML-driven “spread Z-Score” strategies (MVRV Z-Score for crypto).
+Leverage-based sentiment modeling, analyzing the ratio of long vs. short positions in HPC (high-performance computing) environments.
+Neural Net–Based Predictors (PyTorch / TensorFlow) for short-horizon time-series classification.
+Potential Future Enhancements
+Quantum-Inspired Optimization – For portfolio rebalancing or high-frequency order books.
+Reinforcement Agents – Multi-timeframe RL that coordinates short and long horizon signals.
+Macro Strategies – Integrating fundamental data, news (via sentiment analysis), and macroeconomic indicators (growth, inflation) into a unified AI pipeline.
+Select Research & Methodological Highlights
+Mean Reversion Approaches
+Bollinger Band & Z-Score Scripts: Identify extremes with 1.5σ, 2σ, or 2.5σ triggers.
+Pairs Trading: Spread-based signals on correlated assets.
+Markov Probability Models: Probability of a reversion event given prior states (“Up, Up, Down, Down…”).
+Trend-Following & Momentum
+MA Crossovers: 5–15–30 or 5–20–40 for multi-speed detection.
+RSI, OBV, TTM Squeeze, MACD Crossovers: Repeated pattern detection in script-based examples (e.g., “TrippleMACD,” “EMA RSI Strategy,” “Fourier Smoothed Hybrid Volume Spread Analysis”).
+Risk Management Techniques
+Value-at-Risk & Scenario Tests: Evaluate catastrophic drawdowns, especially under tail scenarios.
+Stop-Loss & Trailing Exits: E.g., “Stop 1 ATR below local max” or Markov-driven partial liquidation.
+Portfolio-Level Hedging: Using options/futures to offset systematic or idiosyncratic risks.
+Advanced AI & ML Explorations
+Hidden Markov Models: Distinguish between “flat,” “bull,” and “bear” states.
+Neural Networks & Autoencoders: Feature engineering for intraday microstructure or cross-asset correlations.
+Multi-Objective Optimization: Balancing short-term return vs. drawdowns vs. transaction costs.
+Technical Footprint
+Programming Languages: Primarily Python (pandas, NumPy, scikit-learn, TensorFlow/PyTorch) and some R/C++ for specialized tasks.
+Notebooks:
+mean-reversion-strategy.ipynb – Detailed walk-through for Bollinger Band & RSI-based trades.
+Strategy.ipynb – Implementation of local min/max triggers, placing real-time orders on Binance.
+research.ipynb – More experimental code on Markov modeling, 0-tangents, and multi-strategy blending.
+Data & API:
+Yahoo Finance, Binance, Bloomberg, MSC, Sustainalytics, Quandl, Alpha Vantage (depending on the asset class).
+Long-Term Vision & Impact
+TMRW’s mission is to push the boundaries of quantitative and AI-driven finance, from short-horizon intraday strategies to multi-year portfolio constructions. By merging sound theoretical research, robust coding practices, real-world performance metrics, and advanced AI, TMRW aspires to continuously adapt and outperform in diverse market conditions. Ongoing collaborations with data scientists, quants, and developers aim to expand the knowledge base, refine our multi-layered AI agent, and empower both institutional and individual investors.
+
+“Tomorrow” may symbolize the future, but for TMRW, the future is already in development—and it’s fueled by mathematical rigor, strategic experimentation, and cutting-edge AI.
+
+Physics simulations
+2018 - 2025 (Finished) Physics Simulations
+A personal research project focused on simulating the rotational dynamics of spiral galaxies, blending core concepts from astrophysics and numerical analysis. The goal is to explore how large-scale gravitational interactions can be modeled in a multi-particle system, providing insights into galactic rotation curves and potential underlying physical phenomena. This ongoing work involves:\
+
+Particle-based modeling of galaxy structures and orbital mechanics.
+Numerical methods adapted from quantum mechanics principles to refine simulation accuracy.
+Interactive analysis and visualization of rotation curves, mass distribution, and emergent spiral patterns.
+By unifying ideas from both astronomy and quantum theory, Galaksim aims to offer a deeper understanding of the forces governing galactic behavior, while also serving as a sandbox for experimenting with algorithmic and physics-based simulations.""
