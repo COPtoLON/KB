@@ -1,5 +1,9 @@
 
+“Hi, I’m <Name>, a quantitative researcher-developer who lives at the intersection of cutting-edge theory and live P&L. I co-founded TMRW, an end-to-end multi-asset trading platform where I designed everything from a sub-2 ms back-tester to a reinforcement-learning market-making engine that’s delivered +13 % net alpha (Sharpe 1.8) in live crypto and US-equity trading.
 
+Academically I work on quantum-inspired price dynamics and variational-control execution; practically, I’ve placed top 0.5 % (107/12 000) in IMC’s HFT challenge, and I’m comfortable optimising C++ for nanosecond latency, writing Python/PyTorch for deep-RL, or deriving PDE solutions for option Greeks.
+
+What I bring to your desk is a rare blend of first-principles modelling, production-grade engineering and a proven nose for alpha. Give me data and a mandate—I’ll turn it into resilient strategies, clean code and measurable P&L.”
 
 
 
